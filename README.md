@@ -14,6 +14,7 @@
 3. Install the required packages:
    ```
    pip install -r requirements.txt
+   pip install pandas tqdm
    ```
 
 ## 🗃️ Zip Student Files
