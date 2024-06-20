@@ -39,7 +39,8 @@ if os.path.exists(src_info_file):
             if row['src目錄'] and src_path.is_dir():
                 student_src_info[row['學號']] = row['src目錄']
             else:
-                print(f"Skipping {row['學號']} (src directory not found)")
+                # print(f"Skipping {row['學號']} (src directory not found)")
+                pass
 
 # Get student directory from command-line argument
 if len(sys.argv) != 2:
@@ -55,10 +56,9 @@ if os.path.exists(results_file):
     with open(results_file, 'r') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            student_dir = row['student_dir']
-            if student_dir not in existing_results:
-                existing_results[student_dir] = {}
-            existing_results[student_dir][row['opponent']] = {
+            if row['student_dir'] not in existing_results:
+                existing_results[row['student_dir']] = {}
+            existing_results[row['student_dir']][row['opponent']] = {
                 'games_won': int(row['games_won']),
                 'points_earned': float(row['points_earned'])
             }

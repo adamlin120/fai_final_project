@@ -10,4 +10,4 @@ run_test() {
 export -f run_test
 
 # Read student directories from student_src_info.csv and run tests in parallel
-tail -n +2 student_src_info.csv | cut -d, -f1 | xargs -I {} -P 32 bash -c 'run_test "$@"' _ {}
+tail -n +2 student_src_info.csv | cut -d, -f1 | parallel -j 32 run_test
