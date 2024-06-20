@@ -22,6 +22,7 @@ Run the following command to process and zip student files:
 
 ```
 python parse_student_info.py
+python find_src_directories.py
 ```
 
 
