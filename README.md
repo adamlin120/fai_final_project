@@ -26,4 +26,13 @@ python parse_student_info.py
 python find_src_directories.py
 ```
 
+## 🚀 Run All Students Baseline
+
+To run tests for all students in parallel, use the provided `run_all_students.sh` script. This script reads student directories from `student_src_info.csv` and runs tests for each student in parallel.
+
+Run the following command to execute the script:
+
+```
+./run_all_students.sh
+```
 
