@@ -1,0 +1,7249 @@
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.512, ['CQ', 'D5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.355, ['CQ', 'D5'] 
+
+
+enemy = CALL, 0
+
+
+ 0.419, ['C8', 'H6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.636, ['SK', 'DJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.864, ['SK', 'DJ'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.853, ['SK', 'DJ'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 90
+
+
+ 0.835, ['SK', 'DJ'] 
+
+
+enemy = CALL, 0
+
+
+ 0.574, ['H7', 'DA'] 
+
+
+
+
+ 0.434, ['H2', 'DJ'] 
+
+
+
+
+ 0.381, ['S2', 'S7'] 
+
+
+
+
+ 0.475, ['D8', 'D6'] 
+
+
+
+
+ 0.46, ['S5', 'HT'] 
+
+
+
+
+ 0.561, ['D8', 'SK'] 
+
+
+
+
+ 0.503, ['H7', 'CJ'] 
+
+
+
+
+ 0.501, ['DT', 'C7'] 
+
+
+
+
+ 0.482, ['HJ', 'C4'] 
+
+
+
+
+ 0.598, ['DT', 'HQ'] 
+
+
+
+
+ 0.584, ['D6', 'CA'] 
+
+
+
+
+ 0.549, ['H8', 'HJ'] 
+
+
+
+
+ 0.483, ['H9', 'D7'] 
+
+
+
+
+ 0.435, ['S9', 'D6'] 
+
+
+
+
+ 0.529, ['D8', 'ST'] 
+
+
+
+
+ 0.464, ['D6', 'D8'] 
+
+
+b10902078 vs baseline0 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline0', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 980, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1020, 'state': 'participating'}]}
+
+
+ 0.623, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.532, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.464, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.721, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 110
+
+
+ 0.521, ['HT', 'D8'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.709, ['HT', 'D8'] 
+
+
+enemy = , 0
+
+
+ 0.808, ['HT', 'D8'] 
+
+
+enemy = , 0
+
+
+ 0.831, ['HT', 'D8'] 
+
+
+enemy = , 0
+
+
+ 0.664, ['HA', 'CT'] 
+
+
+
+
+ 0.568, ['DK', 'C8'] 
+
+
+
+
+ 0.851, ['HK', 'DK'] 
+
+
+
+
+ 0.55, ['H7', 'SK'] 
+
+
+
+
+ 0.588, ['CQ', 'CT'] 
+
+
+
+
+ 0.67, ['CJ', 'CA'] 
+
+
+
+
+ 0.332, ['D3', 'C4'] 
+
+
+
+
+ 0.577, ['DT', 'SJ'] 
+
+
+
+
+ 0.458, ['D6', 'ST'] 
+
+
+
+
+ 0.435, ['H2', 'HT'] 
+
+
+
+
+ 0.568, ['HQ', 'S8'] 
+
+
+
+
+ 0.368, ['H4', 'S5'] 
+
+
+
+
+ 0.545, ['CQ', 'C7'] 
+
+
+
+
+ 0.45, ['C9', 'S7'] 
+
+
+
+
+ 0.431, ['S9', 'C5'] 
+
+
+
+
+ 0.498, ['SQ', 'C4'] 
+
+
+
+
+ 0.506, ['H8', 'ST'] 
+
+
+
+
+ 0.552, ['H2', 'HK'] 
+
+
+b10902078 vs baseline0 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1015, 'state': 'participating'}, {'name': 'baseline0', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 985, 'state': 'participating'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.347, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.536, ['D9', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.795, ['D9', 'CT'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.835, ['D9', 'CT'] 
+
+
+enemy = , 0
+raise3, raise_amount = 90
+
+
+ 0.799, ['D9', 'CT'] 
+
+
+enemy = , 0
+
+
+ 0.362, ['H3', 'C5'] 
+
+
+
+
+ 0.428, ['C5', 'ST'] 
+
+
+
+
+ 0.554, ['S4', 'D4'] 
+
+
+
+
+ 0.494, ['C6', 'DJ'] 
+
+
+
+
+ 0.694, ['H8', 'C8'] 
+
+
+
+
+ 0.676, ['DJ', 'HA'] 
+
+
+
+
+ 0.47, ['HQ', 'D2'] 
+
+
+
+
+ 0.547, ['SJ', 'D8'] 
+
+
+
+
+ 0.51, ['CJ', 'H7'] 
+
+
+
+
+ 0.623, ['D9', 'CA'] 
+
+
+
+
+ 0.388, ['D9', 'S2'] 
+
+
+
+
+ 0.504, ['S9', 'HT'] 
+
+
+
+
+ 0.467, ['H3', 'CQ'] 
+
+
+
+
+ 0.521, ['DQ', 'S5'] 
+
+
+
+
+ 0.643, ['HK', 'SQ'] 
+
+
+
+
+ 0.485, ['HJ', 'C5'] 
+
+
+
+
+ 0.486, ['DJ', 'C4'] 
+
+
+b10902078 vs baseline0 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline0', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 965, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1035, 'state': 'participating'}]}
+
+
+ 0.538, ['CJ', 'C9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.835, ['CJ', 'C9'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.779, ['CJ', 'C9'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 90
+
+
+ 0.775, ['CJ', 'C9'] 
+
+
+enemy = CALL, 0
+
+
+ 0.613, ['H7', 'CA'] 
+
+
+
+
+ 0.349, ['D5', 'S4'] 
+
+
+
+
+ 0.532, ['D7', 'D9'] 
+
+
+
+
+ 0.381, ['S7', 'S3'] 
+
+
+
+
+ 0.516, ['D7', 'SK'] 
+
+
+
+
+ 0.593, ['HA', 'S6'] 
+
+
+
+
+ 0.392, ['D8', 'S4'] 
+
+
+
+
+ 0.69, ['HK', 'HA'] 
+
+
+
+
+ 0.451, ['DQ', 'S2'] 
+
+
+
+
+ 0.555, ['HQ', 'D7'] 
+
+
+
+
+ 0.479, ['H4', 'DQ'] 
+
+
+
+
+ 0.588, ['DA', 'C7'] 
+
+
+
+
+ 0.361, ['D5', 'C4'] 
+
+
+
+
+ 0.374, ['D8', 'H2'] 
+
+
+
+
+ 0.687, ['HK', 'HA'] 
+
+
+
+
+ 0.393, ['C4', 'D6'] 
+
+
+
+
+ 0.489, ['C9', 'C7'] 
+
+
+
+
+ 0.338, ['C5', 'D3'] 
+
+
+
+
+ 0.544, ['H7', 'HQ'] 
+
+
+b10902078 vs baseline0 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1040, 'state': 'participating'}, {'name': 'baseline0', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 960, 'state': 'participating'}]}
+
+
+ 0.825, ['SK', 'CK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.797, ['SK', 'CK'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.755, ['SK', 'CK'] 
+
+
+enemy = , 0
+raise3, raise_amount = 90
+
+
+ 0.975, ['SK', 'CK'] 
+
+
+enemy = , 0
+
+
+ 0.348, ['H3', 'D6'] 
+
+
+
+
+ 0.507, ['D4', 'SQ'] 
+
+
+
+
+ 0.403, ['C3', 'C7'] 
+
+
+
+
+ 0.382, ['D2', 'S9'] 
+
+
+
+
+ 0.339, ['C7', 'S2'] 
+
+
+
+
+ 0.405, ['S6', 'D5'] 
+
+
+
+
+ 0.306, ['H3', 'C4'] 
+
+
+
+
+ 0.528, ['H2', 'SA'] 
+
+
+
+
+ 0.451, ['HT', 'D5'] 
+
+
+
+
+ 0.855, ['CA', 'SA'] 
+
+
+
+
+ 0.475, ['C4', 'CJ'] 
+
+
+
+
+ 0.556, ['HK', 'S8'] 
+
+
+
+
+ 0.535, ['D3', 'H3'] 
+
+
+
+
+ 0.551, ['CQ', 'D8'] 
+
+
+
+
+ 0.581, ['C4', 'DA'] 
+
+
+
+
+ 0.6, ['ST', 'CK'] 
+
+
+
+
+ 0.654, ['HQ', 'HA'] 
+
+
+
+
+ 0.622, ['HT', 'DK'] 
+
+
+
+
+ 0.566, ['HK', 'D8'] 
+
+
+b10902078 vs baseline0 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline0', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 965, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1035, 'state': 'participating'}]}
+b10902078 vs baseline0 - Match Result: b10902078 2 games won, 3.0 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.519, ['CQ', 'D5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.356, ['CQ', 'D5'] 
+
+
+enemy = CALL, 0
+
+
+ 0.402, ['H8', 'H2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.519, ['CK', 'H2'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.395, ['CK', 'H2'] 
+
+
+enemy = CALL, 0
+
+
+ 0.624, ['SQ', 'HK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.494, ['SQ', 'HK'] 
+
+
+enemy = , 0
+
+
+ 0.529, ['SQ', 'HK'] 
+
+
+enemy = RAISE, 265.0
+
+
+ 0.45, ['SQ', 'HK'] 
+
+
+enemy = , 0
+enemy is going to win
+
+raise2, raise_amount = 322.0
+
+
+ 0.33, ['D5', 'H3'] 
+
+
+
+
+ 0.508, ['C7', 'DT'] 
+
+
+
+
+ 0.5, ['HJ', 'S8'] 
+
+
+
+
+ 0.444, ['D5', 'CJ'] 
+
+
+
+
+ 0.578, ['H9', 'HT'] 
+
+
+
+
+ 0.363, ['D6', 'D2'] 
+
+
+
+
+ 0.509, ['D7', 'SJ'] 
+
+
+
+
+ 0.406, ['D8', 'H4'] 
+
+
+
+
+ 0.362, ['H7', 'C3'] 
+
+
+
+
+ 0.433, ['C3', 'SJ'] 
+
+
+
+
+ 0.55, ['C2', 'CA'] 
+
+
+
+
+ 0.319, ['C3', 'C2'] 
+
+
+
+
+ 0.386, ['DT', 'S2'] 
+
+
+
+
+ 0.525, ['S9', 'S7'] 
+
+
+
+
+ 0.395, ['H4', 'S8'] 
+
+
+b10902078 vs baseline1 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline1', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 890.0, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1110.0, 'state': 'participating'}]}
+
+
+ 0.636, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.521, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.432, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.594, ['D6', 'SA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.421, ['D6', 'SA'] 
+
+
+enemy = , 0
+
+
+ 0.348, ['S3', 'H6'] 
+
+
+enemy = CALL, 5
+
+
+ 0.508, ['S8', 'HT'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.342, ['S8', 'HT'] 
+
+
+enemy = , 0
+
+
+ 0.447, ['D8', 'D4'] 
+
+
+enemy = CALL, 5
+
+
+ 0.629, ['D8', 'D4'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.635, ['D8', 'D4'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 90
+
+
+ 0.619, ['D8', 'D4'] 
+
+
+enemy = CALL, 0
+
+
+ 0.371, ['D2', 'D6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.55, ['S6', 'SQ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.683, ['S6', 'SQ'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.622, ['S6', 'SQ'] 
+
+
+enemy = CALL, 0
+
+
+ 0.589, ['S6', 'SQ'] 
+
+
+enemy = CALL, 0
+
+
+ 0.511, ['SK', 'S2'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.391, ['SK', 'S2'] 
+
+
+enemy = , 0
+
+
+ 0.486, ['C2', 'CK'] 
+
+
+enemy = CALL, 5
+
+
+ 0.79, ['C2', 'CK'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.813, ['C2', 'CK'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 90
+
+
+ 0.751, ['C2', 'CK'] 
+
+
+enemy = CALL, 0
+
+
+ 0.551, ['SK', 'D6'] 
+
+
+
+
+ 0.444, ['CT', 'C3'] 
+
+
+
+
+ 0.459, ['D9', 'D5'] 
+
+
+
+
+ 0.529, ['D9', 'CJ'] 
+
+
+
+
+ 0.267, ['H2', 'D3'] 
+
+
+
+
+ 0.339, ['C3', 'D5'] 
+
+
+
+
+ 0.66, ['SQ', 'SA'] 
+
+
+
+
+ 0.627, ['H6', 'C6'] 
+
+
+
+
+ 0.416, ['H8', 'H4'] 
+
+
+
+
+ 0.299, ['S2', 'C3'] 
+
+
+
+
+ 0.547, ['D5', 'CK'] 
+
+
+b10902078 vs baseline1 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1015, 'state': 'participating'}, {'name': 'baseline1', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 985, 'state': 'participating'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.341, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.588, ['DA', 'H8'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.513, ['DA', 'H8'] 
+
+
+enemy = , 0
+
+
+ 0.519, ['DA', 'H8'] 
+
+
+enemy = , 0
+
+
+ 0.649, ['SJ', 'SA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.8, ['SJ', 'SA'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.953, ['SJ', 'SA'] 
+
+
+enemy = CALL, 0
+raise4, raise_amount = 925
+b10902078 vs baseline1 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline1', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 2000, 'state': 'participating'}]}
+
+
+ 0.572, ['CJ', 'C9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.822, ['CJ', 'C9'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.762, ['CJ', 'C9'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 90
+
+
+ 0.762, ['CJ', 'C9'] 
+
+
+enemy = CALL, 0
+
+
+ 0.38, ['S6', 'S2'] 
+
+
+
+
+ 0.52, ['DQ', 'D7'] 
+
+
+
+
+ 0.559, ['CQ', 'C7'] 
+
+
+
+
+ 0.488, ['SJ', 'D6'] 
+
+
+
+
+ 0.308, ['C4', 'H2'] 
+
+
+
+
+ 0.306, ['H4', 'D2'] 
+
+
+
+
+ 0.576, ['HK', 'C6'] 
+
+
+
+
+ 0.36, ['S8', 'H2'] 
+
+
+
+
+ 0.628, ['HQ', 'HJ'] 
+
+
+
+
+ 0.474, ['HJ', 'H5'] 
+
+
+
+
+ 0.553, ['DK', 'H5'] 
+
+
+
+
+ 0.562, ['D7', 'DK'] 
+
+
+
+
+ 0.672, ['SA', 'ST'] 
+
+
+
+
+ 0.297, ['C2', 'S7'] 
+
+
+
+
+ 0.584, ['SQ', 'HT'] 
+
+
+
+
+ 0.47, ['H9', 'C6'] 
+
+
+
+
+ 0.382, ['H3', 'S7'] 
+
+
+
+
+ 0.297, ['H2', 'D4'] 
+
+
+
+
+ 0.619, ['HK', 'H9'] 
+
+
+b10902078 vs baseline1 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1040, 'state': 'participating'}, {'name': 'baseline1', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 960, 'state': 'participating'}]}
+
+
+ 0.825, ['SK', 'CK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.785, ['SK', 'CK'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.799, ['SK', 'CK'] 
+
+
+enemy = , 0
+raise3, raise_amount = 90
+
+
+ 0.521, ['HT', 'D8'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.369, ['C4', 'D7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.8, ['HQ', 'DQ'] 
+
+
+enemy = CALL, 5
+
+
+ 0.769, ['HQ', 'DQ'] 
+
+
+enemy = CALL, 0
+
+
+ 0.736, ['HQ', 'DQ'] 
+
+
+enemy = CALL, 0
+
+
+ 0.621, ['HQ', 'DQ'] 
+
+
+enemy = RAISE, 220.0
+
+
+ 0.511, ['DT', 'H9'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.499, ['DT', 'H9'] 
+
+
+enemy = , 0
+
+
+ 0.728, ['DT', 'H9'] 
+
+
+enemy = , 0
+raise3, raise_amount = 90
+
+
+ 0.574, ['DT', 'H9'] 
+
+
+enemy = , 0
+
+
+ 0.736, ['S9', 'H9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.649, ['S9', 'H9'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.628, ['S9', 'H9'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 90
+
+
+ 0.649, ['S9', 'H9'] 
+
+
+enemy = RAISE, 247.5
+enemy is going to win
+
+raise1, raise_amount = 825.0
+
+
+ 0.489, ['DT', 'C6'] 
+
+
+
+
+ 0.541, ['DQ', 'C7'] 
+
+
+
+
+ 0.405, ['S8', 'D5'] 
+
+
+
+
+ 0.429, ['H3', 'CT'] 
+
+
+
+
+ 0.681, ['CK', 'CA'] 
+
+
+
+
+ 0.46, ['C6', 'D8'] 
+
+
+
+
+ 0.568, ['DA', 'H5'] 
+
+
+
+
+ 0.552, ['H3', 'S3'] 
+
+
+
+
+ 0.43, ['H5', 'D8'] 
+
+
+
+
+ 0.535, ['DK', 'D4'] 
+
+
+
+
+ 0.458, ['D2', 'HQ'] 
+
+
+
+
+ 0.517, ['H8', 'SQ'] 
+
+
+
+
+ 0.517, ['HQ', 'S3'] 
+
+
+
+
+ 0.49, ['SQ', 'S3'] 
+
+
+b10902078 vs baseline1 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline1', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 672.5, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1327.0, 'state': 'participating'}]}
+b10902078 vs baseline1 - Match Result: b10902078 2 games won, 3.0 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.556, ['CQ', 'D5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.347, ['CQ', 'D5'] 
+
+
+enemy = CALL, 0
+
+
+ 0.475, ['DQ', 'C3'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.393, ['DQ', 'C3'] 
+
+
+enemy = , 0
+
+
+ 0.4, ['S3', 'S6'] 
+
+
+enemy = CALL, 5
+
+
+ 0.517, ['DA', 'H2'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.394, ['DA', 'H2'] 
+
+
+enemy = , 0
+
+
+ 0.528, ['CA', 'S3'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.415, ['CA', 'S3'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.398, ['CA', 'S3'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 90
+
+
+ 0.388, ['CA', 'S3'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 10
+
+
+ 0.558, ['C9', 'HQ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.643, ['C9', 'HQ'] 
+
+
+enemy = , 0
+
+
+ 0.612, ['C9', 'HQ'] 
+
+
+enemy = , 0
+
+
+ 0.493, ['C9', 'HQ'] 
+
+
+enemy = , 0
+
+
+ 0.594, ['S3', 'HA'] 
+
+
+
+
+ 0.655, ['DA', 'DJ'] 
+
+
+
+
+ 0.318, ['H4', 'D3'] 
+
+
+
+
+ 0.557, ['C8', 'DK'] 
+
+
+
+
+ 0.563, ['HK', 'D7'] 
+
+
+
+
+ 0.412, ['S9', 'D3'] 
+
+
+
+
+ 0.626, ['CT', 'SA'] 
+
+
+
+
+ 0.371, ['S4', 'D7'] 
+
+
+
+
+ 0.389, ['C8', 'S4'] 
+
+
+
+
+ 0.51, ['H5', 'CQ'] 
+
+
+
+
+ 0.4, ['D5', 'H7'] 
+
+
+
+
+ 0.623, ['H9', 'CA'] 
+
+
+
+
+ 0.649, ['DA', 'HQ'] 
+
+
+b10902078 vs baseline2 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline2', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 985.0, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1015, 'state': 'participating'}]}
+
+
+ 0.649, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.533, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.426, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.511, ['D5', 'DJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.793, ['D5', 'DJ'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.96, ['D5', 'DJ'] 
+
+
+enemy = , 0
+raise4, raise_amount = 880
+
+
+ 0.521, ['S3', 'CK'] 
+
+
+
+
+ 0.443, ['S2', 'HQ'] 
+
+
+
+
+ 0.644, ['ST', 'SA'] 
+
+
+
+
+ 0.469, ['SJ', 'C3'] 
+
+
+
+
+ 0.461, ['S7', 'D8'] 
+
+
+
+
+ 0.401, ['C3', 'S9'] 
+
+
+
+
+ 0.51, ['CT', 'C7'] 
+
+
+
+
+ 0.651, ['S7', 'D7'] 
+
+
+
+
+ 0.568, ['DA', 'D3'] 
+
+
+
+
+ 0.442, ['DJ', 'H2'] 
+
+
+
+
+ 0.488, ['D9', 'D7'] 
+
+
+
+
+ 0.371, ['S7', 'H2'] 
+
+
+
+
+ 0.572, ['CQ', 'S9'] 
+
+
+
+
+ 0.549, ['H9', 'H8'] 
+
+
+
+
+ 0.421, ['D2', 'HT'] 
+
+
+
+
+ 0.425, ['S7', 'C5'] 
+
+
+
+
+ 0.44, ['C7', 'D6'] 
+
+
+
+
+ 0.55, ['DA', 'S4'] 
+
+
+b10902078 vs baseline2 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1805, 'state': 'participating'}, {'name': 'baseline2', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 195, 'state': 'participating'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.326, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.497, ['CQ', 'H3'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.465, ['CQ', 'H3'] 
+
+
+enemy = , 0
+
+
+ 0.512, ['CQ', 'H3'] 
+
+
+enemy = RAISE, 251.25
+
+
+ 0.383, ['CQ', 'H3'] 
+
+
+enemy = , 0
+enemy is going to win
+
+raise2, raise_amount = 366.0
+
+
+ 0.392, ['D3', 'D8'] 
+
+
+
+
+ 0.482, ['HQ', 'D2'] 
+
+
+
+
+ 0.42, ['S3', 'DT'] 
+
+
+
+
+ 0.493, ['S9', 'S7'] 
+
+
+
+
+ 0.543, ['CT', 'C8'] 
+
+
+
+
+ 0.476, ['D8', 'D7'] 
+
+
+
+
+ 0.479, ['D5', 'HJ'] 
+
+
+
+
+ 0.632, ['DJ', 'CQ'] 
+
+
+
+
+ 0.546, ['HK', 'D5'] 
+
+
+
+
+ 0.397, ['D8', 'C5'] 
+
+
+
+
+ 0.488, ['D8', 'D7'] 
+
+
+
+
+ 0.53, ['CK', 'C2'] 
+
+
+
+
+ 0.609, ['HA', 'S5'] 
+
+
+
+
+ 0.479, ['H5', 'DJ'] 
+
+
+
+
+ 0.344, ['S6', 'H3'] 
+
+
+
+
+ 0.569, ['CT', 'SJ'] 
+
+
+
+
+ 0.499, ['DQ', 'D4'] 
+
+
+b10902078 vs baseline2 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline2', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 883.75, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1115.75, 'state': 'participating'}]}
+
+
+ 0.574, ['CJ', 'C9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.813, ['CJ', 'C9'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.782, ['CJ', 'C9'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 90
+
+
+ 0.776, ['CJ', 'C9'] 
+
+
+enemy = CALL, 0
+
+
+ 0.374, ['S2', 'C9'] 
+
+
+
+
+ 0.528, ['S3', 'CK'] 
+
+
+
+
+ 0.344, ['C3', 'H4'] 
+
+
+
+
+ 0.549, ['D7', 'DT'] 
+
+
+
+
+ 0.364, ['C4', 'S7'] 
+
+
+
+
+ 0.416, ['H9', 'D4'] 
+
+
+
+
+ 0.458, ['H6', 'ST'] 
+
+
+
+
+ 0.594, ['SJ', 'CQ'] 
+
+
+
+
+ 0.474, ['H5', 'HT'] 
+
+
+
+
+ 0.395, ['D5', 'D3'] 
+
+
+
+
+ 0.581, ['C4', 'CA'] 
+
+
+
+
+ 0.614, ['SK', 'DT'] 
+
+
+
+
+ 0.503, ['C9', 'C8'] 
+
+
+
+
+ 0.52, ['CK', 'C2'] 
+
+
+
+
+ 0.536, ['SQ', 'H8'] 
+
+
+
+
+ 0.528, ['SJ', 'H8'] 
+
+
+
+
+ 0.412, ['H2', 'C9'] 
+
+
+
+
+ 0.58, ['SK', 'H7'] 
+
+
+
+
+ 0.436, ['S9', 'D4'] 
+
+
+b10902078 vs baseline2 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1040, 'state': 'participating'}, {'name': 'baseline2', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 960, 'state': 'participating'}]}
+
+
+ 0.825, ['SK', 'CK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.79, ['SK', 'CK'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.793, ['SK', 'CK'] 
+
+
+enemy = , 0
+raise3, raise_amount = 90
+
+
+ 0.495, ['S6', 'ST'] 
+
+
+enemy = CALL, 5
+
+
+ 0.691, ['S6', 'ST'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.798, ['S6', 'ST'] 
+
+
+enemy = RAISE, 226.25
+
+
+ 0.807, ['S6', 'ST'] 
+
+
+enemy = RAISE, 226.25
+enemy is going to win
+
+raise1, raise_amount = 793.75
+
+
+ 0.383, ['D7', 'C3'] 
+
+
+
+
+ 0.402, ['D7', 'H5'] 
+
+
+
+
+ 0.557, ['S8', 'DQ'] 
+
+
+
+
+ 0.588, ['HK', 'D8'] 
+
+
+
+
+ 0.665, ['SA', 'ST'] 
+
+
+
+
+ 0.38, ['C8', 'H4'] 
+
+
+
+
+ 0.322, ['S6', 'C2'] 
+
+
+
+
+ 0.559, ['HA', 'C4'] 
+
+
+
+
+ 0.596, ['S5', 'H5'] 
+
+
+
+
+ 0.472, ['SJ', 'H5'] 
+
+
+
+
+ 0.695, ['H8', 'S8'] 
+
+
+
+
+ 0.402, ['C2', 'S9'] 
+
+
+
+
+ 0.42, ['H3', 'H8'] 
+
+
+
+
+ 0.519, ['HJ', 'S9'] 
+
+
+
+
+ 0.445, ['D9', 'H5'] 
+
+
+
+
+ 0.59, ['S9', 'CK'] 
+
+
+
+
+ 0.436, ['H7', 'C6'] 
+
+
+
+
+ 0.394, ['C3', 'ST'] 
+
+
+b10902078 vs baseline2 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline2', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 522.5, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1477.0, 'state': 'participating'}]}
+b10902078 vs baseline2 - Match Result: b10902078 2 games won, 3.0 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.515, ['CQ', 'D5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.387, ['CQ', 'D5'] 
+
+
+enemy = CALL, 0
+
+
+ 0.485, ['HJ', 'D6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.706, ['HJ', 'D6'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.721, ['HJ', 'D6'] 
+
+
+enemy = RAISE, 256.25
+
+
+ 0.764, ['HJ', 'D6'] 
+
+
+enemy = , 0
+enemy is going to win
+
+raise1, raise_amount = 698.75
+
+
+ 0.48, ['C8', 'C7'] 
+
+
+
+
+ 0.786, ['CQ', 'DQ'] 
+
+
+
+
+ 0.375, ['D4', 'H5'] 
+
+
+
+
+ 0.595, ['DK', 'C9'] 
+
+
+
+
+ 0.476, ['DJ', 'D2'] 
+
+
+
+
+ 0.409, ['D5', 'S7'] 
+
+
+
+
+ 0.419, ['S6', 'D5'] 
+
+
+
+
+ 0.351, ['S5', 'D4'] 
+
+
+
+
+ 0.417, ['H7', 'D5'] 
+
+
+
+
+ 0.48, ['CJ', 'D4'] 
+
+
+
+
+ 0.528, ['HK', 'S5'] 
+
+
+
+
+ 0.315, ['H4', 'S2'] 
+
+
+
+
+ 0.36, ['H3', 'S7'] 
+
+
+
+
+ 0.531, ['H8', 'SJ'] 
+
+
+
+
+ 0.533, ['HT', 'C9'] 
+
+
+b10902078 vs baseline3 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline3', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 868.0625, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1131.0, 'state': 'participating'}]}
+
+
+ 0.632, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.358, ['H6', 'C4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.393, ['S9', 'H2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.388, ['C4', 'H8'] 
+
+
+enemy = CALL, 5
+
+
+ 0.376, ['D2', 'H8'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.454, ['S5', 'S9'] 
+
+
+enemy = CALL, 5
+
+
+ 0.875, ['S5', 'S9'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.431, ['D7', 'D5'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.529, ['H4', 'HK'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.619, ['SK', 'DQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.525, ['S7', 'S9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.365, ['S7', 'S9'] 
+
+
+enemy = RAISE, 245.0
+
+
+ 0.819, ['SK', 'HK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.531, ['D8', 'SJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.64, ['SA', 'H9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.497, ['S3', 'SQ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.92, ['S3', 'SQ'] 
+
+
+enemy = , 0
+
+
+ 0.827, ['S3', 'SQ'] 
+
+
+enemy = , 0
+
+
+ 0.872, ['S3', 'SQ'] 
+
+
+enemy = , 0
+
+
+ 0.398, ['H4', 'H5'] 
+
+
+enemy = CALL, 5
+
+
+ 0.601, ['DT', 'SK'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.696, ['DT', 'SK'] 
+
+
+enemy = , 0
+
+
+ 0.727, ['DT', 'SK'] 
+
+
+enemy = RAISE, 242.5
+
+
+ 0.62, ['DT', 'SK'] 
+
+
+enemy = , 0
+enemy is going to win
+
+raise1, raise_amount = 767.5
+
+
+ 0.578, ['C8', 'CK'] 
+
+
+
+
+ 0.609, ['S9', 'DK'] 
+
+
+b10902078 vs baseline3 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1257.0, 'state': 'participating'}, {'name': 'baseline3', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 742.5, 'state': 'participating'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.336, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.566, ['S5', 'CA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.548, ['D7', 'DJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.461, ['D7', 'DJ'] 
+
+
+enemy = RAISE, 250.0
+
+
+ 0.346, ['D7', 'DJ'] 
+
+
+enemy = RAISE, 250.0
+enemy is going to win
+
+raise2, raise_amount = 607.0
+
+
+ 0.641, ['SA', 'C8'] 
+
+
+
+
+ 0.648, ['CQ', 'DA'] 
+
+
+
+
+ 0.828, ['HK', 'DK'] 
+
+
+
+
+ 0.591, ['CJ', 'C9'] 
+
+
+
+
+ 0.662, ['CA', 'DQ'] 
+
+
+
+
+ 0.661, ['HQ', 'CA'] 
+
+
+
+
+ 0.445, ['DT', 'S6'] 
+
+
+
+
+ 0.433, ['S7', 'D6'] 
+
+
+
+
+ 0.543, ['CT', 'H9'] 
+
+
+
+
+ 0.63, ['CK', 'CT'] 
+
+
+
+
+ 0.494, ['S6', 'HJ'] 
+
+
+
+
+ 0.389, ['D7', 'D4'] 
+
+
+
+
+ 0.542, ['CK', 'S5'] 
+
+
+
+
+ 0.404, ['C9', 'C2'] 
+
+
+
+
+ 0.639, ['H9', 'DA'] 
+
+
+
+
+ 0.511, ['SJ', 'D7'] 
+
+
+b10902078 vs baseline3 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline3', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 595.0, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1405.0, 'state': 'participating'}]}
+
+
+ 0.441, ['H9', 'S7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.317, ['H9', 'S7'] 
+
+
+enemy = , 0
+
+
+ 0.386, ['H3', 'H7'] 
+
+
+enemy = CALL, 5
+
+
+ 0.439, ['C5', 'HT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.409, ['D5', 'S8'] 
+
+
+enemy = CALL, 5
+
+
+ 0.436, ['D9', 'S4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.56, ['ST', 'DJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.48, ['C2', 'HK'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.607, ['C2', 'HK'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.503, ['D7', 'CJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.408, ['C9', 'C4'] 
+
+
+enemy = CALL, 5
+
+
+ 0.48, ['HQ', 'C2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.727, ['HQ', 'C2'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.758, ['HQ', 'C2'] 
+
+
+enemy = RAISE, 250.0
+enemy is going to win
+
+raise1, raise_amount = 980
+
+
+ 0.334, ['D2', 'C7'] 
+
+
+
+
+ 0.54, ['CJ', 'H8'] 
+
+
+
+
+ 0.603, ['SK', 'HJ'] 
+
+
+
+
+ 0.398, ['H4', 'H5'] 
+
+
+
+
+ 0.368, ['S2', 'D8'] 
+
+
+
+
+ 0.548, ['DK', 'C5'] 
+
+
+
+
+ 0.608, ['S9', 'HK'] 
+
+
+b10902078 vs baseline3 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1205, 'state': 'participating'}, {'name': 'baseline3', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 795.0, 'state': 'participating'}]}
+
+
+ 0.825, ['SK', 'CK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.576, ['C6', 'SA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.614, ['C8', 'CK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.596, ['C8', 'CK'] 
+
+
+enemy = RAISE, 232.5
+
+
+ 0.513, ['C8', 'CK'] 
+
+
+enemy = , 0
+enemy is going to win
+
+raise2, raise_amount = 393.0
+
+
+ 0.482, ['H9', 'H6'] 
+
+
+
+
+ 0.401, ['C3', 'D9'] 
+
+
+
+
+ 0.508, ['S3', 'CK'] 
+
+
+
+
+ 0.607, ['CA', 'D8'] 
+
+
+
+
+ 0.536, ['CK', 'D4'] 
+
+
+
+
+ 0.472, ['S4', 'ST'] 
+
+
+
+
+ 0.494, ['S9', 'S7'] 
+
+
+
+
+ 0.578, ['SQ', 'S6'] 
+
+
+
+
+ 0.38, ['H7', 'D4'] 
+
+
+
+
+ 0.396, ['S2', 'S6'] 
+
+
+
+
+ 0.401, ['H7', 'S5'] 
+
+
+
+
+ 0.375, ['D6', 'H4'] 
+
+
+
+
+ 0.581, ['DT', 'HJ'] 
+
+
+
+
+ 0.714, ['H9', 'C9'] 
+
+
+
+
+ 0.286, ['H3', 'D2'] 
+
+
+
+
+ 0.309, ['H2', 'D4'] 
+
+
+
+
+ 0.531, ['CT', 'D8'] 
+
+
+b10902078 vs baseline3 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline3', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 867.5, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1132.5, 'state': 'participating'}]}
+b10902078 vs baseline3 - Match Result: b10902078 2 games won, 3.0 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.512, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 83.1
+raise3, raise_amount = 166.2
+
+
+ 0.517, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 156.2
+enemy is going to win
+
+raise2, raise_amount = 658.0
+
+
+ 0.346, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 109.40598006644518
+enemy is going to win
+
+raise2, raise_amount = 277.0
+
+
+ 0.359, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 70.0
+enemy is going to win
+
+raise2, raise_amount = -1
+
+
+ 0.623, ['CT', 'DK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.606, ['CT', 'DK'] 
+
+
+enemy = RAISE, 83.37999999999998
+raise3, raise_amount = -1
+
+
+ 0.399, ['S9', 'C2'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 29.999999999999943
+
+
+ 0.49, ['C7', 'HJ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.516, ['C7', 'HJ'] 
+
+
+enemy = RAISE, 51.55
+raise3, raise_amount = -1
+
+
+ 0.517, ['S4', 'SJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 29.0
+
+
+ 0.557, ['CQ', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.405, ['CQ', 'C7'] 
+
+
+enemy = , 0
+raise3, raise_amount = -1
+b10902078 vs baseline4 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline4', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1989.0700000000002, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+
+
+ 0.623, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.532, ['CT', 'DA'] 
+
+
+enemy = RAISE, 72.87306762014934
+
+
+ 0.464, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.721, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 37.126932379850615
+
+
+ 0.521, ['HT', 'D8'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.526, ['HT', 'D8'] 
+
+
+enemy = RAISE, 54.19
+in here
+
+
+
+ 0.618, ['CQ', 'DT'] 
+
+
+enemy = RAISE, 126.45000000000002
+
+
+ 0.907, ['CQ', 'DT'] 
+
+
+enemy = RAISE, 124.67035967855192
+
+
+ 0.951, ['CQ', 'DT'] 
+
+
+enemy = RAISE, 122.3320158102767
+
+
+ 0.885, ['CQ', 'DT'] 
+
+
+enemy = RAISE, 130.6060606060606
+enemy is going to win
+
+raise1, raise_amount = 750.5476245111713
+b10902078 vs baseline4 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1998.0, 'state': 'participating'}, {'name': 'baseline4', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.347, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.536, ['D9', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.507, ['D9', 'CT'] 
+
+
+enemy = RAISE, 80.5
+raise3, raise_amount = 151.0
+
+
+ 0.485, ['D9', 'CT'] 
+
+
+enemy = RAISE, 121.0
+enemy is going to win
+
+raise2, raise_amount = 628.0
+
+
+ 0.769, ['D9', 'CT'] 
+
+
+enemy = , 0
+enemy is going to win
+
+raise1, raise_amount = 357.0
+
+
+ 0.293, ['D2', 'C4'] 
+
+
+
+
+ 0.381, ['S7', 'S2'] 
+
+
+
+
+ 0.668, ['S7', 'H7'] 
+
+
+
+
+ 0.416, ['D5', 'S6'] 
+
+
+
+
+ 0.429, ['C4', 'HT'] 
+
+
+
+
+ 0.356, ['S3', 'S4'] 
+
+
+
+
+ 0.644, ['SA', 'H8'] 
+
+
+
+
+ 0.48, ['D5', 'CJ'] 
+
+
+
+
+ 0.485, ['C5', 'DJ'] 
+
+
+
+
+ 0.451, ['DT', 'S5'] 
+
+
+
+
+ 0.435, ['DJ', 'H2'] 
+
+
+
+
+ 0.493, ['C8', 'S9'] 
+
+
+
+
+ 0.588, ['D9', 'DQ'] 
+
+
+
+
+ 0.368, ['D8', 'H2'] 
+
+
+
+
+ 0.469, ['DQ', 'S2'] 
+
+
+
+
+ 0.679, ['CK', 'SA'] 
+
+
+
+
+ 0.581, ['ST', 'DJ'] 
+
+
+b10902078 vs baseline4 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline4', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 159.32000000000002, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1840.0, 'state': 'participating'}]}
+
+
+ 0.538, ['CJ', 'C9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.359, ['H8', 'C4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.631, ['CQ', 'HA'] 
+
+
+enemy = RAISE, 44.430000000000014
+raise3, raise_amount = 88.86000000000003
+
+
+ 0.649, ['CQ', 'HA'] 
+
+
+enemy = RAISE, 78.86000000000004
+
+
+ 0.531, ['CQ', 'HA'] 
+
+
+enemy = RAISE, 137.05422969799574
+
+
+ 0.471, ['CQ', 'HA'] 
+
+
+enemy = RAISE, 144.1106719367589
+enemy is going to win
+
+raise2, raise_amount = 513.0
+
+
+ 0.333, ['CQ', 'HA'] 
+
+
+enemy = RAISE, 140.30303030303034
+enemy is going to win
+
+raise2, raise_amount = -1
+
+
+ 0.545, ['ST', 'CJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.521, ['ST', 'CJ'] 
+
+
+enemy = RAISE, 96.12999999999997
+enemy is going to win
+
+raise2, raise_amount = 204.0
+
+
+ 0.58, ['ST', 'CJ'] 
+
+
+enemy = RAISE, 195.74000000000004
+enemy is going to win
+
+raise2, raise_amount = -1
+
+
+ 0.405, ['H3', 'H8'] 
+
+
+enemy = RAISE, 83.1
+raise3, raise_amount = -1
+
+
+ 0.372, ['S4', 'H7'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = -1
+b10902078 vs baseline4 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'baseline4', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1990.382739998974, 'state': 'participating'}]}
+
+
+ 0.825, ['SK', 'CK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.797, ['SK', 'CK'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.755, ['SK', 'CK'] 
+
+
+enemy = , 0
+raise3, raise_amount = 90
+
+
+ 0.456, ['DJ', 'S3'] 
+
+
+enemy = CALL, 5
+
+
+ 0.679, ['DJ', 'S3'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.349, ['D2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.557, ['HA', 'C3'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.62, ['SK', 'HT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.863, ['SK', 'HT'] 
+
+
+enemy = , 0
+
+
+ 0.866, ['SK', 'HT'] 
+
+
+enemy = , 0
+
+
+ 0.863, ['SK', 'HT'] 
+
+
+enemy = RAISE, 88.00395256916997
+
+
+ 0.845, ['SK', 'HT'] 
+
+
+enemy = , 0
+
+
+ 0.882, ['SK', 'HT'] 
+
+
+enemy = RAISE, 87.27272727272728
+
+
+ 0.574, ['C7', 'HA'] 
+
+
+
+
+ 0.463, ['H8', 'H5'] 
+
+
+
+
+ 0.402, ['H2', 'ST'] 
+
+
+
+
+ 0.427, ['D5', 'H9'] 
+
+
+
+
+ 0.505, ['S9', 'S8'] 
+
+
+
+
+ 0.363, ['H6', 'S4'] 
+
+
+
+
+ 0.591, ['D8', 'HA'] 
+
+
+
+
+ 0.752, ['DT', 'ST'] 
+
+
+
+
+ 0.407, ['H9', 'D2'] 
+
+
+
+
+ 0.548, ['SA', 'S2'] 
+
+
+
+
+ 0.733, ['H9', 'S9'] 
+
+
+
+
+ 0.427, ['D8', 'S6'] 
+
+
+
+
+ 0.464, ['C7', 'D8'] 
+
+
+
+
+ 0.649, ['HQ', 'SA'] 
+
+
+
+
+ 0.621, ['DA', 'S8'] 
+
+
+b10902078 vs baseline4 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline4', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 821.1033201581026, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1174.7233201581028, 'state': 'participating'}]}
+b10902078 vs baseline4 - Match Result: b10902078 2 games won, 3.0 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.512, ['CQ', 'D5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.355, ['CQ', 'D5'] 
+
+
+enemy = CALL, 0
+
+
+ 0.419, ['C8', 'H6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.636, ['SK', 'DJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.484, ['HQ', 'H2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.303, ['HQ', 'H2'] 
+
+
+enemy = , 0
+
+
+ 0.657, ['CT', 'SA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.583, ['S6', 'CA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.532, ['DA', 'H3'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.38, ['D8', 'C2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.468, ['SQ', 'C3'] 
+
+
+enemy = CALL, 5
+
+
+ 0.393, ['SQ', 'C3'] 
+
+
+enemy = CALL, 0
+
+
+ 0.311, ['H2', 'S4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.559, ['HK', 'D8'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.427, ['H9', 'H3'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.41, ['S7', 'S3'] 
+
+
+enemy = CALL, 5
+
+
+ 0.524, ['S7', 'SQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.547, ['CK', 'H7'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.479, ['D6', 'HJ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.69, ['D6', 'HJ'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.469, ['CJ', 'D6'] 
+
+
+enemy = CALL, 5
+
+
+ 0.707, ['CJ', 'D6'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.518, ['DA', 'S3'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.435, ['DA', 'S3'] 
+
+
+enemy = , 0
+
+
+ 0.588, ['H4', 'S4'] 
+
+
+enemy = CALL, 5
+
+
+ 0.477, ['H4', 'S4'] 
+
+
+enemy = CALL, 0
+
+
+ 0.413, ['H4', 'S4'] 
+
+
+enemy = CALL, 0
+
+
+ 0.042, ['H4', 'S4'] 
+
+
+enemy = CALL, 0
+b10902078 vs baseline5 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline5', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1015, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 985, 'state': 'participating'}]}
+
+
+ 0.623, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.644, ['S6', 'D6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.494, ['S7', 'HT'] 
+
+
+enemy = CALL, 5
+
+
+ 0.463, ['S7', 'HT'] 
+
+
+enemy = CALL, 0
+
+
+ 0.341, ['S7', 'HT'] 
+
+
+enemy = RAISE, 33.11515703231606
+
+
+ 0.529, ['SJ', 'H9'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.612, ['D8', 'SA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.46, ['H3', 'CQ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.324, ['H3', 'CQ'] 
+
+
+enemy = , 0
+
+
+ 0.639, ['D7', 'S7'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.414, ['C5', 'D8'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.556, ['D2', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.803, ['D2', 'DA'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.606, ['D8', 'DK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.316, ['H3', 'S4'] 
+
+
+enemy = CALL, 5
+
+
+ 0.471, ['H9', 'D7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.612, ['H9', 'D7'] 
+
+
+enemy = , 0
+
+
+ 0.59, ['H9', 'D7'] 
+
+
+enemy = , 0
+
+
+ 0.935, ['H9', 'D7'] 
+
+
+enemy = , 0
+
+
+ 0.541, ['S6', 'SQ'] 
+
+
+
+
+ 0.618, ['H6', 'S6'] 
+
+
+
+
+ 0.491, ['DJ', 'S7'] 
+
+
+
+
+ 0.464, ['S5', 'C9'] 
+
+
+
+
+ 0.371, ['D2', 'D8'] 
+
+
+
+
+ 0.52, ['HT', 'C9'] 
+
+
+
+
+ 0.371, ['H4', 'D7'] 
+
+
+
+
+ 0.508, ['H6', 'H9'] 
+
+
+b10902078 vs baseline5 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1005, 'state': 'participating'}, {'name': 'baseline5', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 994.8848429676839, 'state': 'participating'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.347, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.536, ['D9', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.795, ['D9', 'CT'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.546, ['CA', 'D5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.36, ['D2', 'D6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.669, ['DA', 'DJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.44, ['D2', 'SQ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.321, ['D2', 'SQ'] 
+
+
+enemy = , 0
+
+
+ 0.298, ['S4', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.483, ['D9', 'S7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.346, ['D9', 'S7'] 
+
+
+enemy = , 0
+
+
+ 0.319, ['H2', 'D4'] 
+
+
+enemy = CALL, 5
+
+
+ 0.578, ['ST', 'S8'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.456, ['C7', 'C9'] 
+
+
+enemy = CALL, 5
+
+
+ 0.326, ['C7', 'C9'] 
+
+
+enemy = CALL, 0
+
+
+ 0.529, ['HJ', 'C9'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.446, ['SJ', 'D3'] 
+
+
+enemy = CALL, 5
+
+
+ 0.614, ['SJ', 'D3'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.413, ['S2', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.515, ['SQ', 'S5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.346, ['D6', 'C4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.519, ['H3', 'HK'] 
+
+
+enemy = CALL, 5
+
+
+ 0.401, ['H3', 'HK'] 
+
+
+enemy = CALL, 0
+
+
+ 0.498, ['S6', 'ST'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.542, ['S6', 'ST'] 
+
+
+enemy = , 0
+
+
+ 0.372, ['S6', 'ST'] 
+
+
+enemy = , 0
+
+
+ 0.187, ['S6', 'ST'] 
+
+
+enemy = , 0
+b10902078 vs baseline5 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline5', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1005, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 995, 'state': 'participating'}]}
+b10902078 vs baseline5 - Match Result: b10902078 3 games won, 5 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.512, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 34.0
+raise3, raise_amount = 68.0
+
+
+ 0.355, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 22.4
+
+
+ 0.419, ['C8', 'H6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.636, ['SK', 'DJ'] 
+
+
+enemy = RAISE, 10
+raise3, raise_amount = 30
+
+
+ 0.864, ['SK', 'DJ'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.853, ['SK', 'DJ'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 90
+
+
+ 0.835, ['SK', 'DJ'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 18.0
+
+
+ 0.574, ['H7', 'DA'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.423, ['H7', 'DA'] 
+
+
+enemy = , 0
+
+
+ 0.408, ['H2', 'ST'] 
+
+
+enemy = RAISE, 10
+
+
+ 0.763, ['SJ', 'DJ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.798, ['SJ', 'DJ'] 
+
+
+enemy = , 0
+
+
+ 0.788, ['SJ', 'DJ'] 
+
+
+enemy = , 0
+
+
+ 0.796, ['SJ', 'DJ'] 
+
+
+enemy = , 0
+
+
+ 0.46, ['C3', 'HT'] 
+
+
+
+
+ 0.394, ['C7', 'S5'] 
+
+
+
+
+ 0.574, ['D3', 'CA'] 
+
+
+
+
+ 0.434, ['C4', 'C7'] 
+
+
+
+
+ 0.504, ['HK', 'C2'] 
+
+
+
+
+ 0.401, ['D7', 'D4'] 
+
+
+
+
+ 0.815, ['CJ', 'DJ'] 
+
+
+
+
+ 0.509, ['HK', 'D2'] 
+
+
+
+
+ 0.684, ['SA', 'ST'] 
+
+
+
+
+ 0.628, ['CJ', 'SK'] 
+
+
+
+
+ 0.503, ['D8', 'CT'] 
+
+
+
+
+ 0.597, ['SA', 'H6'] 
+
+
+
+
+ 0.4, ['D4', 'S9'] 
+
+
+b10902078 vs baseline6 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline6', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 989.5999999999999, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1010.0, 'state': 'participating'}]}
+
+
+ 0.623, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.644, ['S6', 'D6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.684, ['S6', 'D6'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.397, ['D6', 'C4'] 
+
+
+enemy = CALL, 5
+
+
+ 0.613, ['SA', 'H8'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.499, ['SA', 'H8'] 
+
+
+enemy = , 0
+
+
+ 0.481, ['SA', 'H8'] 
+
+
+enemy = RAISE, 26.666666666666668
+
+
+ 0.405, ['SA', 'H8'] 
+
+
+enemy = , 0
+
+
+ 0.468, ['C6', 'HT'] 
+
+
+enemy = CALL, 5
+
+
+ 0.319, ['C6', 'HT'] 
+
+
+enemy = RAISE, 33.33333333333333
+
+
+ 0.674, ['CA', 'DQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.855, ['CA', 'DQ'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.854, ['CA', 'DQ'] 
+
+
+enemy = RAISE, 120.0
+enemy is going to win
+
+raise1, raise_amount = 933.3333333333334
+
+
+ 0.463, ['CJ', 'H2'] 
+
+
+
+
+ 0.435, ['D3', 'D9'] 
+
+
+
+
+ 0.573, ['D9', 'HQ'] 
+
+
+
+
+ 0.527, ['HJ', 'H5'] 
+
+
+
+
+ 0.471, ['D5', 'HT'] 
+
+
+
+
+ 0.593, ['SK', 'H8'] 
+
+
+
+
+ 0.569, ['ST', 'CQ'] 
+
+
+
+
+ 0.463, ['H3', 'SJ'] 
+
+
+
+
+ 0.549, ['D8', 'CJ'] 
+
+
+
+
+ 0.452, ['D9', 'D6'] 
+
+
+
+
+ 0.567, ['HT', 'DJ'] 
+
+
+
+
+ 0.445, ['S7', 'H6'] 
+
+
+
+
+ 0.449, ['D8', 'D5'] 
+
+
+
+
+ 0.518, ['SK', 'C4'] 
+
+
+b10902078 vs baseline6 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1821.0, 'state': 'participating'}, {'name': 'baseline6', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 177.66666666666663, 'state': 'participating'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.347, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.536, ['D9', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.795, ['D9', 'CT'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.835, ['D9', 'CT'] 
+
+
+enemy = , 0
+raise3, raise_amount = 90
+
+
+ 0.799, ['D9', 'CT'] 
+
+
+enemy = , 0
+
+
+ 0.362, ['H3', 'C5'] 
+
+
+
+
+ 0.428, ['C5', 'ST'] 
+
+
+
+
+ 0.554, ['S4', 'D4'] 
+
+
+
+
+ 0.494, ['C6', 'DJ'] 
+
+
+
+
+ 0.694, ['H8', 'C8'] 
+
+
+
+
+ 0.676, ['DJ', 'HA'] 
+
+
+
+
+ 0.47, ['HQ', 'D2'] 
+
+
+
+
+ 0.547, ['SJ', 'D8'] 
+
+
+
+
+ 0.51, ['CJ', 'H7'] 
+
+
+
+
+ 0.623, ['D9', 'CA'] 
+
+
+
+
+ 0.388, ['D9', 'S2'] 
+
+
+
+
+ 0.504, ['S9', 'HT'] 
+
+
+
+
+ 0.467, ['H3', 'CQ'] 
+
+
+
+
+ 0.521, ['DQ', 'S5'] 
+
+
+
+
+ 0.643, ['HK', 'SQ'] 
+
+
+
+
+ 0.485, ['HJ', 'C5'] 
+
+
+
+
+ 0.486, ['DJ', 'C4'] 
+
+
+b10902078 vs baseline6 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline6', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 965.0, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1035, 'state': 'participating'}]}
+
+
+ 0.538, ['CJ', 'C9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.359, ['H8', 'C4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.631, ['CQ', 'HA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.546, ['CQ', 'HA'] 
+
+
+enemy = RAISE, 38.333333333333336
+
+
+ 0.451, ['CQ', 'HA'] 
+
+
+enemy = RAISE, 25.55555555555556
+
+
+ 0.346, ['CQ', 'HA'] 
+
+
+enemy = RAISE, 17.037037037037038
+
+
+ 0.494, ['DJ', 'D3'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.346, ['DJ', 'D3'] 
+
+
+enemy = , 0
+
+
+ 0.371, ['D4', 'S7'] 
+
+
+enemy = CALL, 5
+
+
+ 0.319, ['C2', 'D4'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.175, ['C2', 'D4'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.482, ['C2', 'D4'] 
+
+
+enemy = , 0
+
+
+ 0.301, ['C2', 'D4'] 
+
+
+enemy = , 0
+raise3, raise_amount = 123.88888888888891
+
+
+ 0.55, ['HQ', 'D7'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.421, ['S5', 'S6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.531, ['C6', 'DQ'] 
+
+
+enemy = RAISE, 36.59259259259261
+raise3, raise_amount = 73.18518518518522
+
+
+ 0.435, ['C6', 'DQ'] 
+
+
+enemy = RAISE, 15.53086419753087
+raise3, raise_amount = 60
+
+
+ 0.364, ['C6', 'DQ'] 
+
+
+enemy = RAISE, 10.0
+
+
+ 0.238, ['C6', 'DQ'] 
+
+
+enemy = RAISE, 10.0
+
+
+ 0.64, ['CK', 'HA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.559, ['ST', 'DQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.548, ['HA', 'D3'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.556, ['C7', 'SK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.568, ['DQ', 'C9'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.612, ['CJ', 'SA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+b10902078 vs baseline6 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 917.037037037037, 'state': 'participating'}, {'name': 'baseline6', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1080.8888888888887, 'state': 'participating'}]}
+b10902078 vs baseline6 - Match Result: b10902078 1 games won, 1.5 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.512, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 20
+raise3, raise_amount = 40
+
+
+ 0.36, ['CQ', 'D5'] 
+
+
+enemy = CALL, 0
+
+
+ 0.555, ['H9', 'HT'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.862, ['HA', 'CA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.521, ['DQ', 'S7'] 
+
+
+enemy = RAISE, 20
+raise3, raise_amount = 40
+
+
+ 0.551, ['DQ', 'S7'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.423, ['D5', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.458, ['D4', 'CJ'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.472, ['D4', 'CJ'] 
+
+
+enemy = RAISE, 33
+
+
+ 0.724, ['D4', 'CJ'] 
+
+
+enemy = RAISE, 77
+
+
+ 0.792, ['D4', 'CJ'] 
+
+
+enemy = RAISE, 850
+enemy is going to win
+
+raise1, raise_amount = -1
+
+
+ 0.33, ['C2', 'C4'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.344, ['D4', 'S6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.639, ['HA', 'HT'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.425, ['CT', 'D3'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.598, ['H6', 'CA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.556, ['H7', 'DK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+b10902078 vs baseline7 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline7', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1030, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 970, 'state': 'participating'}]}
+
+
+ 0.623, ['CT', 'DA'] 
+
+
+enemy = RAISE, 20
+raise3, raise_amount = 40
+
+
+ 0.644, ['S6', 'D6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.684, ['S6', 'D6'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.904, ['S6', 'D6'] 
+
+
+enemy = , 0
+raise4, raise_amount = 935
+
+
+ 0.643, ['DT', 'SA'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.533, ['DT', 'SA'] 
+
+
+enemy = RAISE, 860
+in here
+
+
+
+ 0.28, ['C2', 'D3'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.531, ['D9', 'HT'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.341, ['D9', 'HT'] 
+
+
+enemy = RAISE, 890
+in here
+
+
+
+ 0.586, ['DT', 'CQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.424, ['D7', 'S6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.614, ['D8', 'CA'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.464, ['D8', 'CA'] 
+
+
+enemy = RAISE, 905
+
+
+ 0.398, ['D6', 'D4'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.385, ['D3', 'D6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.363, ['D4', 'C5'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.604, ['HA', 'H7'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.56, ['S8', 'HQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.457, ['HJ', 'S3'] 
+
+
+enemy = BIGBLIND, 5
+b10902078 vs baseline7 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 225, 'state': 'participating'}, {'name': 'baseline7', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1775, 'state': 'participating'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.44, ['D6', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.479, ['D6', 'CT'] 
+
+
+enemy = RAISE, 10
+
+
+ 0.296, ['D6', 'CT'] 
+
+
+enemy = , 0
+
+
+ 0.547, ['D9', 'SJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.545, ['D9', 'SJ'] 
+
+
+enemy = RAISE, 40
+raise3, raise_amount = 70
+
+
+ 0.553, ['D9', 'SJ'] 
+
+
+enemy = RAISE, 965
+b10902078 vs baseline7 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline7', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+
+
+ 0.44, ['H4', 'ST'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.445, ['H4', 'ST'] 
+
+
+enemy = RAISE, 10
+
+
+ 0.319, ['H4', 'ST'] 
+
+
+enemy = , 0
+
+
+ 0.51, ['SQ', 'S4'] 
+
+
+enemy = RAISE, 20
+raise3, raise_amount = 40
+
+
+ 0.527, ['D9', 'CJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.798, ['D9', 'CJ'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.327, ['S4', 'D3'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.428, ['D9', 'C5'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.4, ['S6', 'C4'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.428, ['C9', 'S5'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.586, ['CK', 'C6'] 
+
+
+enemy = RAISE, 20
+raise3, raise_amount = 40
+
+
+ 0.574, ['CK', 'C6'] 
+
+
+enemy = RAISE, 75
+
+
+ 0.823, ['CK', 'C6'] 
+
+
+enemy = RAISE, 890
+enemy is going to win
+
+raise1, raise_amount = -1
+
+
+ 0.366, ['S3', 'H6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.339, ['D2', 'C6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.406, ['H4', 'S6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.438, ['CT', 'D4'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.462, ['CJ', 'H3'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.567, ['HA', 'D3'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+b10902078 vs baseline7 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 995, 'state': 'participating'}, {'name': 'baseline7', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1005, 'state': 'participating'}]}
+
+
+ 0.825, ['SK', 'CK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.797, ['SK', 'CK'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.464, ['D6', 'D5'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.235, ['D6', 'D5'] 
+
+
+enemy = RAISE, 25
+
+
+ 0.452, ['HJ', 'S4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.482, ['HJ', 'S4'] 
+
+
+enemy = RAISE, 10
+
+
+ 0.29, ['HJ', 'S4'] 
+
+
+enemy = , 0
+
+
+ 0.501, ['D6', 'D9'] 
+
+
+enemy = RAISE, 20
+raise3, raise_amount = 40
+
+
+ 0.534, ['DQ', 'S6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.634, ['H8', 'SA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.591, ['H6', 'HA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.521, ['H6', 'HA'] 
+
+
+enemy = , 0
+
+
+ 0.394, ['H6', 'HA'] 
+
+
+enemy = , 0
+
+
+ 0.459, ['C6', 'H8'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.26, ['C6', 'H8'] 
+
+
+enemy = RAISE, 33
+
+
+ 0.408, ['H5', 'D8'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.521, ['S6', 'HQ'] 
+
+
+enemy = RAISE, 20
+raise3, raise_amount = 40
+
+
+ 0.492, ['S6', 'HQ'] 
+
+
+enemy = RAISE, 75
+
+
+ 0.491, ['S6', 'HQ'] 
+
+
+enemy = RAISE, 920
+enemy is going to win
+
+raise2, raise_amount = -1
+
+
+ 0.377, ['H5', 'H3'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.446, ['C9', 'H5'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.462, ['S7', 'C9'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.611, ['S7', 'HA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+b10902078 vs baseline7 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline7', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 1060, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 940, 'state': 'participating'}]}
+b10902078 vs baseline7 - Match Result: b10902078 3 games won, 5 points earned
+
+
+ 0.443, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.574, ['CJ', 'D2'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.498, ['SJ', 'C7'] 
+
+
+enemy = CALL, 5
+
+
+ 0.513, ['H9', 'DJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.367, ['D4', 'S6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.584, ['DT', 'SQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.53, ['C6', 'DQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.343, ['H2', 'S8'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.617, ['ST', 'DA'] 
+
+
+
+
+ 0.37, ['H3', 'D8'] 
+
+
+
+
+ 0.555, ['C4', 'DA'] 
+
+
+
+
+ 0.53, ['DK', 'S2'] 
+
+
+
+
+ 0.395, ['C5', 'C4'] 
+
+
+
+
+ 0.606, ['S7', 'CA'] 
+
+
+
+
+ 0.468, ['D8', 'C7'] 
+
+
+
+
+ 0.636, ['DA', 'HT'] 
+
+
+b10902078 vs strong1 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong1', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 995, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1005, 'state': 'participating'}]}
+
+
+ 0.642, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.582, ['DA', 'H6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.332, ['C4', 'S3'] 
+
+
+enemy = RAISE, 23
+
+
+ 0.432, ['C9', 'S5'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.407, ['D5', 'C8'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.441, ['S7', 'S5'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.613, ['S7', 'S5'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.568, ['S7', 'S5'] 
+
+
+enemy = RAISE, 130
+
+
+ 0.474, ['S7', 'S5'] 
+
+
+enemy = , 0
+enemy is going to win
+
+raise2, raise_amount = 440
+
+
+ 0.619, ['HK', 'SJ'] 
+
+
+
+
+ 0.591, ['ST', 'DQ'] 
+
+
+
+
+ 0.626, ['DK', 'CJ'] 
+
+
+
+
+ 0.655, ['ST', 'CA'] 
+
+
+
+
+ 0.59, ['DQ', 'DJ'] 
+
+
+
+
+ 0.305, ['C2', 'D7'] 
+
+
+
+
+ 0.375, ['S2', 'H9'] 
+
+
+
+
+ 0.564, ['S4', 'C4'] 
+
+
+
+
+ 0.444, ['D5', 'D6'] 
+
+
+
+
+ 0.452, ['HQ', 'D2'] 
+
+
+
+
+ 0.536, ['ST', 'CJ'] 
+
+
+
+
+ 0.535, ['CQ', 'D7'] 
+
+
+b10902078 vs strong1 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1060, 'state': 'participating'}, {'name': 'strong1', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 940, 'state': 'participating'}]}
+
+
+ 0.338, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.488, ['H4', 'HT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.465, ['H4', 'HT'] 
+
+
+enemy = RAISE, 22
+
+
+ 0.7, ['H4', 'HT'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.581, ['C5', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.328, ['S2', 'H5'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.422, ['C5', 'S7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.297, ['D2', 'H4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.476, ['H3', 'HT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.321, ['H3', 'HT'] 
+
+
+enemy = , 0
+
+
+ 0.488, ['DK', 'S3'] 
+
+
+enemy = CALL, 5
+
+
+ 0.437, ['D5', 'H6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.591, ['SQ', 'ST'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.625, ['SQ', 'ST'] 
+
+
+enemy = RAISE, 505
+
+
+ 0.823, ['SQ', 'ST'] 
+
+
+enemy = , 0
+enemy is going to win
+
+raise1, raise_amount = 527
+
+
+ 0.604, ['CA', 'D7'] 
+
+
+
+
+ 0.62, ['HT', 'DA'] 
+
+
+
+
+ 0.751, ['CT', 'HT'] 
+
+
+
+
+ 0.387, ['D4', 'D8'] 
+
+
+
+
+ 0.528, ['SQ', 'H7'] 
+
+
+b10902078 vs strong1 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong1', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 483, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1517, 'state': 'participating'}]}
+
+
+ 0.58, ['CJ', 'C9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.525, ['HJ', 'H4'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.633, ['HT', 'HA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.613, ['HA', 'D9'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.571, ['CT', 'HJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.434, ['C4', 'DT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.339, ['H2', 'H3'] 
+
+
+
+
+ 0.602, ['CT', 'HQ'] 
+
+
+
+
+ 0.337, ['C3', 'S5'] 
+
+
+
+
+ 0.391, ['D8', 'D2'] 
+
+
+
+
+ 0.632, ['CA', 'C7'] 
+
+
+
+
+ 0.427, ['H2', 'ST'] 
+
+
+
+
+ 0.553, ['D6', 'SK'] 
+
+
+
+
+ 0.648, ['CK', 'CJ'] 
+
+
+
+
+ 0.496, ['SK', 'C4'] 
+
+
+b10902078 vs strong1 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1005, 'state': 'participating'}, {'name': 'strong1', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 995, 'state': 'participating'}]}
+
+
+ 0.839, ['SK', 'CK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.759, ['CT', 'ST'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.778, ['CT', 'ST'] 
+
+
+enemy = RAISE, 41
+raise3, raise_amount = 72
+
+
+ 0.759, ['CT', 'ST'] 
+
+
+enemy = RAISE, 44
+raise3, raise_amount = 118
+
+
+ 0.768, ['CT', 'ST'] 
+
+
+enemy = RAISE, 54
+
+
+ 0.689, ['CT', 'ST'] 
+
+
+enemy = , 0
+enemy is going to win
+
+raise1, raise_amount = 866
+
+
+ 0.734, ['C9', 'H9'] 
+
+
+
+
+ 0.585, ['SK', 'D8'] 
+
+
+
+
+ 0.526, ['DQ', 'D3'] 
+
+
+
+
+ 0.7, ['HK', 'CA'] 
+
+
+
+
+ 0.442, ['D6', 'C9'] 
+
+
+
+
+ 0.665, ['SA', 'HJ'] 
+
+
+
+
+ 0.46, ['HT', 'D5'] 
+
+
+
+
+ 0.521, ['C4', 'DK'] 
+
+
+
+
+ 0.492, ['S8', 'C9'] 
+
+
+
+
+ 0.536, ['C4', 'CK'] 
+
+
+
+
+ 0.431, ['H4', 'H7'] 
+
+
+
+
+ 0.62, ['SJ', 'DK'] 
+
+
+
+
+ 0.479, ['D4', 'SJ'] 
+
+
+
+
+ 0.386, ['D6', 'C4'] 
+
+
+
+
+ 0.353, ['C3', 'H6'] 
+
+
+
+
+ 0.63, ['S9', 'HA'] 
+
+
+
+
+ 0.282, ['D2', 'C5'] 
+
+
+b10902078 vs strong1 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong1', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 966, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1034, 'state': 'participating'}]}
+b10902078 vs strong1 - Match Result: b10902078 2 games won, 0 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.512, ['CQ', 'D5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.355, ['CQ', 'D5'] 
+
+
+enemy = CALL, 0
+
+
+ 0.419, ['C8', 'H6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.636, ['SK', 'DJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.864, ['SK', 'DJ'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.443, ['C6', 'DT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.419, ['C6', 'DT'] 
+
+
+enemy = , 0
+
+
+ 0.528, ['HQ', 'S5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.567, ['S6', 'SK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.364, ['D6', 'C4'] 
+
+
+enemy = CALL, 5
+
+
+ 0.532, ['H7', 'CQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.27, ['C2', 'D4'] 
+
+
+enemy = CALL, 5
+
+
+ 0.318, ['C3', 'C2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.395, ['C4', 'S8'] 
+
+
+enemy = CALL, 5
+
+
+ 0.358, ['C4', 'H5'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.635, ['CJ', 'SA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.44, ['D7', 'H9'] 
+
+
+enemy = CALL, 5
+
+
+ 0.503, ['D7', 'H9'] 
+
+
+enemy = CALL, 0
+
+
+ 0.379, ['D7', 'H9'] 
+
+
+enemy = RAISE, 10
+
+
+ 0.818, ['SQ', 'DQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.305, ['S2', 'C4'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.571, ['S6', 'CA'] 
+
+
+enemy = CALL, 5
+
+
+ 0.686, ['S6', 'CA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.797, ['S6', 'CA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.741, ['S6', 'CA'] 
+
+
+enemy = CALL, 0
+b10902078 vs strong2 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong2', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1010, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 990, 'state': 'participating'}]}
+
+
+ 0.623, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.644, ['S6', 'D6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.494, ['S7', 'HT'] 
+
+
+enemy = CALL, 5
+
+
+ 0.463, ['S7', 'HT'] 
+
+
+enemy = CALL, 0
+
+
+ 0.341, ['S7', 'HT'] 
+
+
+enemy = RAISE, 10
+
+
+ 0.529, ['SJ', 'H9'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.612, ['D8', 'SA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.46, ['H3', 'CQ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.324, ['H3', 'CQ'] 
+
+
+enemy = , 0
+
+
+ 0.639, ['D7', 'S7'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.624, ['D7', 'S7'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.532, ['D4', 'CK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.558, ['C8', 'HK'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.602, ['C8', 'HK'] 
+
+
+enemy = RAISE, 131
+
+
+ 0.814, ['C8', 'HK'] 
+
+
+enemy = RAISE, 10
+
+
+ 0.837, ['C8', 'HK'] 
+
+
+enemy = CALL, 0
+enemy is going to win
+
+raise1, raise_amount = 909
+b10902078 vs strong2 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 2000, 'state': 'participating'}, {'name': 'strong2', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.347, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.536, ['D9', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.795, ['D9', 'CT'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.546, ['CA', 'D5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.36, ['D2', 'D6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.669, ['DA', 'DJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.44, ['D2', 'SQ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.321, ['D2', 'SQ'] 
+
+
+enemy = , 0
+
+
+ 0.298, ['S4', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.483, ['D9', 'S7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.346, ['D9', 'S7'] 
+
+
+enemy = , 0
+
+
+ 0.319, ['H2', 'D4'] 
+
+
+enemy = RAISE, 10
+
+
+ 0.578, ['ST', 'S8'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.456, ['C7', 'C9'] 
+
+
+enemy = CALL, 5
+
+
+ 0.326, ['C7', 'C9'] 
+
+
+enemy = RAISE, 56
+
+
+ 0.529, ['HJ', 'C9'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.446, ['SJ', 'D3'] 
+
+
+enemy = CALL, 5
+
+
+ 0.614, ['SJ', 'D3'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.413, ['S2', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.515, ['SQ', 'S5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.346, ['D6', 'C4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.519, ['H3', 'HK'] 
+
+
+enemy = RAISE, 21
+
+
+ 0.401, ['H3', 'HK'] 
+
+
+enemy = RAISE, 10
+
+
+ 0.302, ['H3', 'HK'] 
+
+
+enemy = CALL, 0
+
+
+ 0.331, ['H3', 'HK'] 
+
+
+enemy = CALL, 0
+
+
+ 0.372, ['C3', 'H9'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+b10902078 vs strong2 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong2', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1011, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 989, 'state': 'participating'}]}
+b10902078 vs strong2 - Match Result: b10902078 3 games won, 2 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.501, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 45
+raise3, raise_amount = 90
+
+
+ 0.536, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 80
+raise3, raise_amount = 170
+
+
+ 0.488, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 80
+enemy is going to win
+
+raise2, raise_amount = 622
+
+
+ 0.358, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 50
+enemy is going to win
+
+raise2, raise_amount = 236
+
+
+ 0.364, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 100
+enemy is going to win
+
+raise2, raise_amount = -1
+
+
+ 0.612, ['HK', 'ST'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.387, ['C8', 'S3'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.438, ['HJ', 'C2'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.275, ['D3', 'C2'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.264, ['C2', 'D3'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.412, ['C9', 'D5'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.501, ['S3', 'HK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.486, ['D9', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.589, ['CK', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+b10902078 vs strong3 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong3', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1728, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 272, 'state': 'participating'}]}
+
+
+ 0.643, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.537, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.467, ['CT', 'DA'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.688, ['CT', 'DA'] 
+
+
+enemy = RAISE, 20
+raise3, raise_amount = 70
+
+
+ 0.51, ['D9', 'HT'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.559, ['D9', 'HT'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.48, ['H6', 'C9'] 
+
+
+enemy = CALL, 5
+
+
+ 0.292, ['H6', 'C9'] 
+
+
+enemy = RAISE, 50
+in here
+
+
+
+ 0.506, ['H6', 'SJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.358, ['H6', 'SJ'] 
+
+
+enemy = , 0
+
+
+ 0.56, ['C9', 'CJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.405, ['S9', 'H2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.58, ['C7', 'SA'] 
+
+
+enemy = CALL, 5
+
+
+ 0.63, ['H9', 'DA'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.898, ['H9', 'DA'] 
+
+
+enemy = , 0
+
+
+ 0.888, ['H9', 'DA'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.875, ['H9', 'DA'] 
+
+
+enemy = , 0
+
+
+ 0.893, ['H9', 'DA'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.879, ['H9', 'DA'] 
+
+
+enemy = , 0
+
+
+ 0.867, ['H9', 'DA'] 
+
+
+enemy = RAISE, 20
+
+
+ 0.365, ['C2', 'C6'] 
+
+
+
+
+ 0.453, ['H3', 'HT'] 
+
+
+
+
+ 0.305, ['H4', 'S3'] 
+
+
+
+
+ 0.57, ['S7', 'SQ'] 
+
+
+
+
+ 0.372, ['D3', 'C8'] 
+
+
+
+
+ 0.658, ['S9', 'SA'] 
+
+
+
+
+ 0.698, ['SA', 'SQ'] 
+
+
+
+
+ 0.36, ['S7', 'D3'] 
+
+
+
+
+ 0.499, ['HQ', 'C6'] 
+
+
+
+
+ 0.522, ['SJ', 'D6'] 
+
+
+
+
+ 0.336, ['S2', 'S5'] 
+
+
+
+
+ 0.329, ['S3', 'S4'] 
+
+
+b10902078 vs strong3 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1075, 'state': 'participating'}, {'name': 'strong3', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 925, 'state': 'participating'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.334, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.401, ['S7', 'S4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.588, ['H7', 'HK'] 
+
+
+enemy = RAISE, 45
+raise3, raise_amount = 90
+
+
+ 0.598, ['H7', 'HK'] 
+
+
+enemy = RAISE, 80
+raise3, raise_amount = 170
+
+
+ 0.586, ['H7', 'HK'] 
+
+
+enemy = RAISE, 80
+enemy is going to win
+
+raise2, raise_amount = 615
+
+
+ 0.573, ['H7', 'HK'] 
+
+
+enemy = RAISE, 810
+enemy is going to win
+
+raise2, raise_amount = -1
+
+
+ 0.752, ['CT', 'ST'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.573, ['ST', 'SQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.498, ['HT', 'H5'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.304, ['S3', 'C4'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.639, ['SA', 'S7'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.55, ['CT', 'HJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.557, ['SQ', 'S8'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.656, ['D6', 'S6'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+b10902078 vs strong3 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong3', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1515, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 485, 'state': 'participating'}]}
+b10902078 vs strong3 - Match Result: b10902078 3 games won, 2 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.513, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 59.123333333333335
+raise3, raise_amount = 118.24666666666667
+
+
+ 0.354, ['CQ', 'D5'] 
+
+
+enemy = RAISE, 38.820800000000006
+
+
+ 0.581, ['C6', 'SA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.58, ['C6', 'SA'] 
+
+
+enemy = RAISE, 62.71666666666667
+raise3, raise_amount = 115.43333333333334
+
+
+ 0.459, ['C6', 'SA'] 
+
+
+enemy = , 0
+
+
+ 0.498, ['C6', 'SA'] 
+
+
+enemy = , 0
+
+
+ 0.441, ['C6', 'SA'] 
+
+
+enemy = , 0
+
+
+ 0.366, ['D7', 'C3'] 
+
+
+enemy = RAISE, 44.26
+
+
+ 0.58, ['DJ', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.77, ['DJ', 'CT'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.375, ['D3', 'C7'] 
+
+
+enemy = RAISE, 241.8098
+
+
+ 0.519, ['H9', 'H8'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.661, ['H9', 'H8'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.656, ['H9', 'H8'] 
+
+
+enemy = RAISE, 241.60735
+
+
+ 0.669, ['H9', 'H8'] 
+
+
+enemy = , 0
+enemy is going to win
+
+raise1, raise_amount = 729.7126499999999
+b10902078 vs strong4 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong4', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1992.0, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+
+
+ 0.616, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.537, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.452, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+
+
+ 0.698, ['CT', 'DA'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 110
+
+
+ 0.493, ['C5', 'DJ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.474, ['C5', 'DJ'] 
+
+
+enemy = RAISE, 46.176
+
+
+ 0.683, ['C5', 'DJ'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.543, ['C3', 'D3'] 
+
+
+enemy = RAISE, 69.89599999999999
+in here
+
+
+
+ 0.464, ['C9', 'D7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.441, ['C3', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.451, ['C3', 'CT'] 
+
+
+enemy = RAISE, 26.337999999999994
+
+
+ 0.632, ['C3', 'CT'] 
+
+
+enemy = , 0
+
+
+ 0.505, ['C3', 'CT'] 
+
+
+enemy = , 0
+
+
+ 0.364, ['C3', 'CT'] 
+
+
+enemy = , 0
+
+
+ 0.316, ['H2', 'S4'] 
+
+
+enemy = RAISE, 32.482
+
+
+ 0.42, ['H2', 'CJ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.6, ['SA', 'C7'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.488, ['SA', 'C7'] 
+
+
+enemy = CALL, 0
+
+
+ 0.425, ['SA', 'C7'] 
+
+
+enemy = RAISE, 30.36
+
+
+ 0.326, ['H7', 'S2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.481, ['D6', 'CJ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.484, ['D6', 'CJ'] 
+
+
+enemy = RAISE, 19.525999999999996
+
+
+ 0.648, ['D6', 'CJ'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.638, ['D6', 'CJ'] 
+
+
+enemy = , 0
+
+
+ 0.663, ['D6', 'CJ'] 
+
+
+enemy = , 0
+
+
+ 0.521, ['C2', 'DK'] 
+
+
+
+
+ 0.375, ['H4', 'C8'] 
+
+
+
+
+ 0.656, ['DJ', 'SA'] 
+
+
+
+
+ 0.401, ['D8', 'D2'] 
+
+
+
+
+ 0.612, ['SK', 'CA'] 
+
+
+
+
+ 0.326, ['D4', 'H3'] 
+
+
+
+
+ 0.367, ['S8', 'C3'] 
+
+
+b10902078 vs strong4 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1053.96, 'state': 'participating'}, {'name': 'strong4', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 941.5224000000001, 'state': 'participating'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.327, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.566, ['C7', 'HK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.506, ['C7', 'HK'] 
+
+
+enemy = , 0
+
+
+ 0.466, ['C7', 'HK'] 
+
+
+enemy = , 0
+
+
+ 0.347, ['C7', 'HK'] 
+
+
+enemy = , 0
+
+
+ 0.399, ['H7', 'S5'] 
+
+
+enemy = RAISE, 48.29
+
+
+ 0.421, ['D2', 'D9'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.641, ['ST', 'SK'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.824, ['ST', 'SK'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.469, ['H4', 'DJ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.443, ['H4', 'DJ'] 
+
+
+enemy = , 0
+
+
+ 0.345, ['H4', 'DJ'] 
+
+
+enemy = , 0
+
+
+ 0.548, ['CA', 'H2'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.519, ['CA', 'H2'] 
+
+
+enemy = , 0
+
+
+ 0.439, ['CA', 'H2'] 
+
+
+enemy = , 0
+
+
+ 0.443, ['D7', 'C6'] 
+
+
+enemy = RAISE, 27.685000000000002
+
+
+ 0.237, ['D7', 'C6'] 
+
+
+enemy = RAISE, 29.79801
+raise3, raise_amount = 60
+
+
+ 0.237, ['D7', 'C6'] 
+
+
+enemy = RAISE, 324.0083333333334
+enemy is going to win
+
+raise2, raise_amount = 745.0
+
+
+ 0.113, ['D7', 'C6'] 
+
+
+enemy = RAISE, 151.35000000000002
+enemy is going to win
+
+in here222
+
+
+
+ 0.597, ['ST', 'CK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.35, ['H8', 'D3'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.396, ['C6', 'S5'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.368, ['H3', 'D8'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.416, ['ST', 'D3'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+b10902078 vs strong4 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong4', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1826.675, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 172.31500000000005, 'state': 'participating'}]}
+b10902078 vs strong4 - Match Result: b10902078 3 games won, 2 points earned
+
+
+ 0.427, ['CJ', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.515, ['CQ', 'D5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.387, ['CQ', 'D5'] 
+
+
+enemy = CALL, 0
+
+
+ 0.485, ['HJ', 'D6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.706, ['HJ', 'D6'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.746, ['HJ', 'D6'] 
+
+
+enemy = , 0
+raise3, raise_amount = 90
+
+
+ 0.732, ['HJ', 'D6'] 
+
+
+enemy = , 0
+raise3, raise_amount = 10
+
+
+ 0.698, ['HJ', 'D6'] 
+
+
+enemy = RAISE, 875
+enemy is going to win
+
+raise1, raise_amount = -1
+
+
+ 0.404, ['S8', 'D5'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.579, ['D9', 'DQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.512, ['S7', 'CJ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.412, ['S4', 'H8'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.52, ['SQ', 'S5'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.594, ['S5', 'H5'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.562, ['S9', 'CQ'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.277, ['S3', 'D2'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+b10902078 vs strong5 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong5', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1080, 'state': 'participating'}, {'name': 'b10902078', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 920, 'state': 'participating'}]}
+
+
+ 0.632, ['CT', 'DA'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.358, ['H6', 'C4'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.393, ['S9', 'H2'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.388, ['C4', 'H8'] 
+
+
+enemy = CALL, 5
+
+
+ 0.376, ['D2', 'H8'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.454, ['S5', 'S9'] 
+
+
+enemy = CALL, 5
+
+
+ 0.875, ['S5', 'S9'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.431, ['D7', 'D5'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.529, ['H4', 'HK'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.606, ['DK', 'D8'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.478, ['D7', 'D6'] 
+
+
+enemy = CALL, 5
+
+
+ 0.244, ['D7', 'D6'] 
+
+
+enemy = CALL, 0
+
+
+ 0.618, ['CQ', 'HK'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.919, ['CQ', 'HK'] 
+
+
+enemy = , 0
+raise4, raise_amount = 995
+b10902078 vs strong5 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 2000, 'state': 'participating'}, {'name': 'strong5', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+
+
+ 0.355, ['S2', 'C7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.336, ['C6', 'H2'] 
+
+
+enemy = CALL, 5
+
+
+ 0.566, ['S5', 'CA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.548, ['D7', 'DJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.461, ['D7', 'DJ'] 
+
+
+enemy = CALL, 0
+
+
+ 0.346, ['D7', 'DJ'] 
+
+
+enemy = RAISE, 345.8199999999999
+
+
+ 0.876, ['HA', 'CA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.863, ['HA', 'CA'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.361, ['C2', 'H6'] 
+
+
+enemy = CALL, 5
+
+
+ 0.491, ['ST', 'C6'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.327, ['ST', 'C6'] 
+
+
+enemy = , 0
+
+
+ 0.518, ['SQ', 'S5'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.552, ['S2', 'HA'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.376, ['S2', 'HA'] 
+
+
+enemy = , 0
+
+
+ 0.616, ['DK', 'CQ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.441, ['C2', 'CT'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.694, ['C2', 'CT'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.646, ['DA', 'CJ'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.892, ['DA', 'CJ'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.494, ['DT', 'H7'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.512, ['DT', 'H7'] 
+
+
+enemy = RAISE, 964.1800000000001
+b10902078 vs strong5 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong5', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'b10902078', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1998.82, 'state': 'participating'}]}
+
+
+ 0.574, ['CJ', 'C9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.688, ['H8', 'C8'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.695, ['H8', 'C8'] 
+
+
+enemy = , 0
+raise3, raise_amount = 60
+
+
+ 0.603, ['SQ', 'S9'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.548, ['CA', 'S3'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.563, ['C5', 'DK'] 
+
+
+enemy = CALL, 5
+raise3, raise_amount = 30
+
+
+ 0.413, ['H2', 'CJ'] 
+
+
+enemy = BIGBLIND, 5
+
+
+ 0.495, ['SJ', 'S5'] 
+
+
+enemy = CALL, 5
+
+
+ 0.756, ['SJ', 'S5'] 
+
+
+enemy = CALL, 0
+raise3, raise_amount = 60
+
+
+ 0.5, ['HT', 'H5'] 
+
+
+enemy = BIGBLIND, 5
+raise3, raise_amount = 30
+
+
+ 0.482, ['HT', 'H5'] 
+
+
+enemy = RAISE, 915
+b10902078 vs strong5 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902078', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000, 'state': 'participating'}, {'name': 'strong5', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+b10902078 vs strong5 - Match Result: b10902078 3 games won, 2 points earned

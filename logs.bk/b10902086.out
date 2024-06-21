@@ -1,0 +1,2111 @@
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9'] 0.581 0.67
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6'] 0.466 0.47
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.36 0.37
+Call!
+['DJ', 'HQ'] [] 0.594 0.81
+Raise!
+['DJ', 'HQ'] ['DT', 'S4', 'H5'] 0.418 0.39
+Call!
+['DJ', 'HQ'] ['DT', 'S4', 'H5', 'C5'] 0.396 0.37
+Call!
+['DJ', 'HQ'] ['DT', 'S4', 'H5', 'C5', 'H2'] 0.282 0.29
+Call!
+['SA', 'H3'] [] 0.547 0.66
+Call!
+['SA', 'H3'] ['C2', 'D5', 'C3'] 0.612 0.71
+Call!
+['SA', 'H3'] ['C2', 'D5', 'C3', 'SK'] 0.597 0.65
+Call!
+['SA', 'H3'] ['C2', 'D5', 'C3', 'SK', 'D4'] 0.434 0.44
+Call!
+['D3', 'DT'] [] 0.452 0.35
+Call!
+['D3', 'DT'] ['DA', 'D8', 'H8'] 0.563 0.64
+Call!
+['D3', 'DT'] ['DA', 'D8', 'H8', 'C3'] 0.68 0.74
+Call!
+['D3', 'DT'] ['DA', 'D8', 'H8', 'C3', 'SK'] 0.613 0.61
+Call!
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['DK', 'HA'] [] 0.679 0.97
+Raise!
+['DK', 'HA'] ['HT', 'D3', 'D6'] 0.544 0.61
+Call!
+['DK', 'HA'] ['HT', 'D3', 'D6', 'DT'] 0.622 0.67
+Call!
+['DK', 'HA'] ['HT', 'D3', 'D6', 'DT', 'H8'] 0.488 0.49
+Call!
+['H6', 'H4'] [] 0.417 0.25
+Fold!
+['C4', 'CK'] [] 0.574 0.75
+Raise!
+['C4', 'CK'] ['CA', 'C5', 'SK'] 0.867 0.96
+Raise!
+b10902086 vs baseline0 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline0', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 210, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1790, 'state': 'participating'}]}
+['CT', 'DA'] [] 0.653 0.94
+Raise!
+['CT', 'DA'] ['C2', 'H8', 'C9'] 0.527 0.58
+Call!
+['CT', 'DA'] ['C2', 'H8', 'C9', 'H6'] 0.487 0.5
+Call!
+['CT', 'DA'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.691 0.69
+Call!
+['H4', 'H9'] [] 0.445 0.33
+Fold!
+['HK', 'D8'] [] 0.601 0.83
+Raise!
+['HK', 'D8'] ['CJ', 'DJ', 'H6'] 0.564 0.64
+Call!
+['HK', 'D8'] ['CJ', 'DJ', 'H6', 'S2'] 0.459 0.46
+Call!
+['HK', 'D8'] ['CJ', 'DJ', 'H6', 'S2', 'SA'] 0.469 0.48
+Call!
+['H5', 'H9'] [] 0.473 0.41
+Call!
+['H5', 'H9'] ['C5', 'CJ', 'S7'] 0.623 0.73
+Call!
+['H5', 'H9'] ['C5', 'CJ', 'S7', 'CQ'] 0.508 0.52
+Call!
+['H5', 'H9'] ['C5', 'CJ', 'S7', 'CQ', 'C7'] 0.353 0.36
+Call!
+['D8', 'S9'] [] 0.511 0.53
+Call!
+['D8', 'S9'] ['CQ', 'S5', 'HJ'] 0.425 0.4
+Call!
+['D8', 'S9'] ['CQ', 'S5', 'HJ', 'S2'] 0.29 0.24
+Call!
+['D8', 'S9'] ['CQ', 'S5', 'HJ', 'S2', 'DJ'] 0.208 0.22
+Call!
+['D7', 'C6'] [] 0.429 0.28
+Fold!
+['HJ', 'H5'] [] 0.525 0.58
+Call!
+['HJ', 'H5'] ['SK', 'CA', 'H8'] 0.439 0.43
+Call!
+['HJ', 'H5'] ['SK', 'CA', 'H8', 'C7'] 0.312 0.26
+Call!
+['HJ', 'H5'] ['SK', 'CA', 'H8', 'C7', 'SQ'] 0.387 0.4
+Call!
+['H2', 'H3'] [] 0.319 0.04
+Fold!
+['DT', 'HA'] [] 0.645 0.93
+Raise!
+['DT', 'HA'] ['HK', 'H9', 'C8'] 0.524 0.58
+Call!
+['DT', 'HA'] ['HK', 'H9', 'C8', 'HJ'] 0.607 0.66
+Call!
+['DT', 'HA'] ['HK', 'H9', 'C8', 'HJ', 'D5'] 0.318 0.33
+Call!
+['CJ', 'HJ'] [] 0.773 0.99
+Raise!
+['CJ', 'HJ'] ['C2', 'S4', 'S2'] 0.795 0.9
+Raise!
+['CJ', 'HJ'] ['C2', 'S4', 'S2', 'C5'] 0.777 0.83
+Raise!
+b10902086 vs baseline0 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1875, 'state': 'participating'}, {'name': 'baseline0', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 125, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['D9', 'H8'] [] 0.459 0.36
+Call!
+['D9', 'H8'] ['DT', 'H9', 'D3'] 0.707 0.82
+Raise!
+['D9', 'H8'] ['DT', 'H9', 'D3', 'D7'] 0.713 0.77
+Call!
+['D9', 'H8'] ['DT', 'H9', 'D3', 'D7', 'ST'] 0.804 0.8
+Call!
+['DK', 'C7'] [] 0.576 0.76
+Raise!
+['DK', 'C7'] ['C5', 'DQ', 'D6'] 0.448 0.45
+Call!
+['DK', 'C7'] ['C5', 'DQ', 'D6', 'C3'] 0.375 0.34
+Call!
+['DK', 'C7'] ['C5', 'DQ', 'D6', 'C3', 'HK'] 0.826 0.82
+Raise!
+['C2', 'D3'] [] 0.294 0.02
+Call!
+['C2', 'D3'] ['DQ', 'D5', 'ST'] 0.142 0.02
+Fold!
+['DK', 'D4'] [] 0.507 0.52
+Call!
+['DK', 'D4'] ['H5', 'C6', 'H4'] 0.507 0.55
+Call!
+['DK', 'D4'] ['H5', 'C6', 'H4', 'CK'] 0.796 0.85
+Raise!
+['DK', 'D4'] ['H5', 'C6', 'H4', 'CK', 'SA'] 0.92 0.91
+Raise!
+b10902086 vs baseline0 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline0', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 965, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1035, 'state': 'participating'}]}
+['CJ', 'C9'] [] 0.578 0.76
+Raise!
+['CJ', 'C9'] ['C8', 'H2', 'SJ'] 0.829 0.93
+Raise!
+['CJ', 'C9'] ['C8', 'H2', 'SJ', 'HQ'] 0.777 0.83
+Raise!
+b10902086 vs baseline0 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000, 'state': 'participating'}, {'name': 'baseline0', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+['SK', 'CK'] [] 0.804 0.99
+Raise!
+['SK', 'CK'] ['H6', 'H3', 'C8'] 0.789 0.89
+Raise!
+['SK', 'CK'] ['H6', 'H3', 'C8', 'S9'] 0.782 0.84
+Raise!
+['SK', 'CK'] ['H6', 'H3', 'C8', 'S9', 'DK'] 0.972 0.97
+Raise!
+b10902086 vs baseline0 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline0', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 740, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1260, 'state': 'participating'}]}
+b10902086 vs baseline0 - Match Result: b10902086 2 games won, 3.0 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9'] 0.604 0.7
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6'] 0.47 0.48
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.318 0.33
+Call!
+['ST', 'DQ'] [] 0.591 0.81
+Raise!
+['ST', 'DQ'] ['SA', 'H3', 'C2'] 0.462 0.47
+Call!
+['H3', 'S9'] [] 0.412 0.23
+Fold!
+['HK', 'C3'] [] 0.551 0.68
+Call!
+['HK', 'C3'] ['S5', 'C2', 'C8'] 0.394 0.34
+Call!
+['HK', 'C3'] ['S5', 'C2', 'C8', 'DJ'] 0.299 0.25
+Call!
+['HK', 'C3'] ['S5', 'C2', 'C8', 'DJ', 'H6'] 0.161 0.17
+Fold!
+['C5', 'S5'] [] 0.555 0.69
+Call!
+['C5', 'S5'] ['CA', 'HJ', 'D3'] 0.573 0.66
+Call!
+['C5', 'S5'] ['CA', 'HJ', 'D3', 'H7'] 0.562 0.6
+Call!
+['D2', 'D3'] [] 0.299 0.02
+Call!
+['D2', 'D3'] ['D5', 'SA', 'S9'] 0.152 0.02
+Fold!
+['D2', 'S7'] [] 0.323 0.05
+Fold!
+['D9', 'H5'] [] 0.414 0.24
+Call!
+['D9', 'H5'] ['HJ', 'CQ', 'DJ'] 0.362 0.29
+Fold!
+['C7', 'CT'] [] 0.514 0.54
+Call!
+['C7', 'CT'] ['H5', 'HQ', 'S6'] 0.292 0.17
+Call!
+['C7', 'CT'] ['H5', 'HQ', 'S6', 'D8'] 0.355 0.32
+Call!
+['C7', 'CT'] ['H5', 'HQ', 'S6', 'D8', 'SQ'] 0.178 0.19
+Fold!
+['C7', 'HT'] [] 0.496 0.48
+Call!
+['C7', 'HT'] ['S5', 'C8', 'D3'] 0.303 0.19
+Call!
+['C7', 'HT'] ['S5', 'C8', 'D3', 'H6'] 0.303 0.25
+Call!
+['C7', 'HT'] ['S5', 'C8', 'D3', 'H6', 'S2'] 0.012 0.02
+Fold!
+['CJ', 'SQ'] [] 0.579 0.77
+Raise!
+['CJ', 'SQ'] ['D6', 'S5', 'DJ'] 0.775 0.88
+Raise!
+b10902086 vs baseline1 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline1', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 149.75, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1850, 'state': 'participating'}]}
+['CT', 'DA'] [] 0.639 0.92
+Raise!
+['CT', 'DA'] ['C2', 'H8', 'C9'] 0.521 0.57
+Call!
+['CT', 'DA'] ['C2', 'H8', 'C9', 'H6'] 0.431 0.42
+Call!
+['CT', 'DA'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.736 0.73
+Call!
+['S6', 'H8'] [] 0.439 0.31
+Fold!
+['C5', 'H7'] [] 0.42 0.26
+Call!
+['C5', 'H7'] ['CA', 'S6', 'DK'] 0.251 0.12
+Call!
+['C5', 'H7'] ['CA', 'S6', 'DK', 'C9'] 0.24 0.17
+Call!
+['C5', 'H7'] ['CA', 'S6', 'DK', 'C9', 'H5'] 0.499 0.5
+Call!
+['D4', 'C5'] [] 0.388 0.17
+Fold!
+['S9', 'HJ'] [] 0.571 0.74
+Raise!
+['S9', 'HJ'] ['DJ', 'S7', 'S8'] 0.794 0.9
+Raise!
+b10902086 vs baseline1 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1173.5, 'state': 'participating'}, {'name': 'baseline1', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 826.25, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['D9', 'H8'] [] 0.518 0.56
+Call!
+['HA', 'SA'] [] 0.872 1
+Raise!
+['HA', 'SA'] ['H2', 'D9', 'CJ'] 0.857 0.95
+Raise!
+['HA', 'SA'] ['H2', 'D9', 'CJ', 'H4'] 0.867 0.92
+Raise!
+b10902086 vs baseline1 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline1', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 2000, 'state': 'participating'}]}
+['CJ', 'C9'] [] 0.562 0.71
+Raise!
+['CJ', 'C9'] ['C8', 'H2', 'SJ'] 0.832 0.93
+Raise!
+['CJ', 'C9'] ['C8', 'H2', 'SJ', 'HQ'] 0.75 0.81
+Raise!
+b10902086 vs baseline1 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000, 'state': 'participating'}, {'name': 'baseline1', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+['SK', 'CK'] [] 0.804 0.99
+Raise!
+['SK', 'CK'] ['H6', 'H3', 'C8'] 0.779 0.89
+Raise!
+['SK', 'CK'] ['H6', 'H3', 'C8', 'S9'] 0.796 0.85
+Raise!
+['S3', 'CK'] [] 0.496 0.48
+Call!
+['S3', 'CK'] ['H9', 'C2', 'ST'] 0.378 0.32
+Fold!
+['H3', 'CJ'] [] 0.451 0.34
+Call!
+['H3', 'CJ'] ['D8', 'H8', 'C7'] 0.336 0.25
+Call!
+['H3', 'CJ'] ['D8', 'H8', 'C7', 'H2'] 0.263 0.2
+Call!
+['H3', 'CJ'] ['D8', 'H8', 'C7', 'H2', 'DK'] 0.253 0.26
+Call!
+['SK', 'D4'] [] 0.523 0.58
+Call!
+['SK', 'D4'] ['HA', 'S9', 'S6'] 0.45 0.45
+Call!
+['SK', 'D4'] ['HA', 'S9', 'S6', 'C6'] 0.511 0.53
+Fold!
+['HQ', 'C8'] [] 0.539 0.64
+Call!
+['HQ', 'C8'] ['SQ', 'C6', 'H8'] 0.886 0.97
+Raise!
+['HQ', 'C8'] ['SQ', 'C6', 'H8', 'S8'] 0.997 1
+Raise!
+['HQ', 'C8'] ['SQ', 'C6', 'H8', 'S8', 'HT'] 0.995 0.99
+Raise!
+b10902086 vs baseline1 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline1', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 829.125, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1170, 'state': 'participating'}]}
+b10902086 vs baseline1 - Match Result: b10902086 2 games won, 3.0 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9'] 0.581 0.67
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6'] 0.461 0.46
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.336 0.34
+Call!
+['SJ', 'H9'] [] 0.532 0.61
+Call!
+['SJ', 'H9'] ['H6', 'H5', 'HT'] 0.518 0.57
+Call!
+['SJ', 'H9'] ['H6', 'H5', 'HT', 'D8'] 0.42 0.41
+Call!
+['SJ', 'H9'] ['H6', 'H5', 'HT', 'D8', 'S2'] 0.089 0.1
+Fold!
+['CA', 'S2'] [] 0.546 0.66
+Call!
+['CA', 'S2'] ['CK', 'D6', 'DQ'] 0.428 0.41
+Call!
+['CA', 'S2'] ['CK', 'D6', 'DQ', 'D2'] 0.461 0.46
+Call!
+['SQ', 'SJ'] [] 0.623 0.89
+Raise!
+['SQ', 'SJ'] ['CT', 'C2', 'S8'] 0.533 0.59
+Fold!
+['HA', 'S6'] [] 0.596 0.82
+Raise!
+['HA', 'S6'] ['C8', 'S7', 'DK'] 0.471 0.49
+Call!
+['HA', 'S6'] ['C8', 'S7', 'DK', 'SK'] 0.539 0.57
+Call!
+['HA', 'S6'] ['C8', 'S7', 'DK', 'SK', 'S4'] 0.428 0.43
+Call!
+['H7', 'DA'] [] 0.599 0.83
+Raise!
+['H7', 'DA'] ['H2', 'S3', 'C2'] 0.571 0.65
+Fold!
+['D4', 'SK'] [] 0.538 0.63
+Call!
+['D4', 'SK'] ['H5', 'ST', 'S3'] 0.404 0.36
+Call!
+['D4', 'SK'] ['H5', 'ST', 'S3', 'S2'] 0.484 0.49
+Call!
+['D4', 'SK'] ['H5', 'ST', 'S3', 'S2', 'HT'] 0.299 0.31
+Call!
+['D7', 'D5'] [] 0.448 0.33
+Call!
+['D7', 'D5'] ['S3', 'H5', 'C6'] 0.655 0.76
+Raise!
+['S2', 'DA'] [] 0.559 0.7
+Call!
+['S2', 'DA'] ['H2', 'HT', 'CA'] 0.904 0.98
+Raise!
+['S2', 'DA'] ['H2', 'HT', 'CA', 'HA'] 0.983 1
+Raise!
+['CT', 'DQ'] [] 0.572 0.74
+Raise!
+['CT', 'DQ'] ['CJ', 'HA', 'HQ'] 0.79 0.9
+Raise!
+['S8', 'C5'] [] 0.421 0.26
+Fold!
+['C8', 'H6'] [] 0.437 0.3
+Call!
+['C8', 'H6'] ['H7', 'HT', 'D6'] 0.664 0.77
+Raise!
+['C8', 'H6'] ['H7', 'HT', 'D6', 'ST'] 0.678 0.73
+Call!
+['C8', 'H6'] ['H7', 'HT', 'D6', 'ST', 'C2'] 0.693 0.69
+Call!
+b10902086 vs baseline2 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline2', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 959.171875, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1040, 'state': 'participating'}]}
+['CT', 'DA'] [] 0.621 0.88
+Raise!
+['CT', 'DA'] ['C2', 'H8', 'C9'] 0.537 0.6
+Call!
+['CT', 'DA'] ['C2', 'H8', 'C9', 'H6'] 0.464 0.47
+Call!
+['CT', 'DA'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.699 0.69
+Call!
+['DT', 'HA'] [] 0.651 0.94
+Raise!
+['DT', 'HA'] ['S4', 'DA', 'S2'] 0.86 0.96
+Raise!
+['DT', 'HA'] ['S4', 'DA', 'S2', 'D6'] 0.847 0.9
+Raise!
+['DT', 'HA'] ['S4', 'DA', 'S2', 'D6'] 0.845 0.9
+Raise!
+b10902086 vs baseline2 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1172.5, 'state': 'participating'}, {'name': 'baseline2', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 827.5, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['D9', 'H8'] [] 0.503 0.51
+Call!
+['S3', 'C3'] [] 0.541 0.64
+Call!
+['S3', 'C3'] ['H4', 'CK', 'HQ'] 0.469 0.49
+Call!
+['S3', 'C3'] ['H4', 'CK', 'HQ'] 0.452 0.46
+Fold!
+['C4', 'C8'] [] 0.416 0.24
+Call!
+['C4', 'C8'] ['DJ', 'HJ', 'S9'] 0.284 0.16
+Call!
+['C4', 'C8'] ['DJ', 'HJ', 'S9', 'H4'] 0.596 0.65
+Call!
+['C4', 'C8'] ['DJ', 'HJ', 'S9', 'H4', 'S4'] 0.878 0.87
+Raise!
+b10902086 vs baseline2 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline2', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 864.8125, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1134.125, 'state': 'participating'}]}
+['CJ', 'C9'] [] 0.57 0.74
+Raise!
+['CJ', 'C9'] ['C8', 'H2', 'SJ'] 0.812 0.92
+Raise!
+['CJ', 'C9'] ['C8', 'H2', 'SJ', 'HQ'] 0.778 0.83
+Raise!
+b10902086 vs baseline2 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000, 'state': 'participating'}, {'name': 'baseline2', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+['SK', 'CK'] [] 0.804 0.99
+Raise!
+['SK', 'CK'] ['H6', 'H3', 'C8'] 0.805 0.91
+Raise!
+['SK', 'CK'] ['H6', 'H3', 'C8', 'S9'] 0.793 0.85
+Raise!
+['D6', 'D7'] [] 0.46 0.37
+Call!
+['D6', 'D7'] ['C2', 'HT', 'SA'] 0.235 0.1
+Fold!
+['S2', 'C7'] [] 0.317 0.04
+Fold!
+['SQ', 'HT'] [] 0.596 0.82
+Raise!
+['SQ', 'HT'] ['ST', 'S2', 'H7'] 0.829 0.93
+Raise!
+['SQ', 'HT'] ['ST', 'S2', 'H7', 'DJ'] 0.707 0.76
+Call!
+['SQ', 'HT'] ['ST', 'S2', 'H7', 'DJ', 'D9'] 0.58 0.58
+Call!
+['CQ', 'DQ'] [] 0.796 0.99
+Raise!
+['CQ', 'DQ'] ['C8', 'SQ', 'C2'] 0.962 1
+Raise!
+['CQ', 'DQ'] ['C8', 'SQ', 'C2', 'H4'] 0.981 1
+Raise!
+b10902086 vs baseline2 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline2', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 175, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1825, 'state': 'participating'}]}
+b10902086 vs baseline2 - Match Result: b10902086 2 games won, 3.0 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9'] 0.577 0.66
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6'] 0.461 0.46
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.339 0.35
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.333 0.34
+Fold!
+['D7', 'H5'] [] 0.411 0.23
+Call!
+['D7', 'H5'] ['CJ', 'C7', 'C2'] 0.513 0.56
+Fold!
+['DJ', 'SJ'] [] 0.806 0.99
+Raise!
+['D6', 'C8'] [] 0.437 0.3
+Call!
+['D6', 'C8'] ['H7', 'HA', 'HQ'] 0.222 0.09
+Fold!
+['H6', 'DA'] [] 0.589 0.8
+Raise!
+['C6', 'CA'] [] 0.62 0.88
+Raise!
+['C8', 'S2'] [] 0.34 0.07
+Fold!
+['S3', 'S7'] [] 0.394 0.18
+Call!
+['S3', 'S7'] ['C5', 'HA', 'H8'] 0.209 0.07
+Fold!
+['CJ', 'CK'] [] 0.626 0.89
+Raise!
+['HT', 'CT'] [] 0.747 0.99
+Raise!
+['CK', 'S2'] [] 0.489 0.46
+Call!
+['CK', 'S2'] ['SA', 'H4', 'HA'] 0.495 0.53
+Call!
+['CK', 'S2'] ['SA', 'H4', 'HA'] 0.531 0.59
+Fold!
+['S2', 'HJ'] [] 0.443 0.32
+Call!
+['S2', 'HJ'] ['H8', 'D2', 'H3'] 0.562 0.64
+Fold!
+['CT', 'CK'] [] 0.61 0.86
+Raise!
+['HT', 'D4'] [] 0.445 0.33
+Call!
+['HT', 'D4'] ['HA', 'C5', 'S3'] 0.269 0.14
+Call!
+['HT', 'D4'] ['HA', 'C5', 'S3', 'C8'] 0.207 0.13
+Call!
+['HT', 'D4'] ['HA', 'C5', 'S3', 'C8', 'SK'] 0.172 0.18
+Fold!
+['D9', 'H7'] [] 0.471 0.4
+Call!
+['D9', 'H7'] ['S4', 'H6', 'DK'] 0.269 0.14
+Call!
+['D9', 'H7'] ['S4', 'H6', 'DK', 'SQ'] 0.19 0.11
+Call!
+['D9', 'H7'] ['S4', 'H6', 'DK', 'SQ'] 0.219 0.14
+Fold!
+['H8', 'S4'] [] 0.419 0.25
+Fold!
+b10902086 vs baseline3 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline3', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1997.55615234375, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+['CT', 'DA'] [] 0.634 0.91
+Raise!
+['CA', 'C2'] [] 0.556 0.69
+Call!
+['CA', 'C2'] ['C8', 'D2', 'CJ'] 0.737 0.85
+Raise!
+['S7', 'S5'] [] 0.437 0.3
+Call!
+['S7', 'S5'] ['DT', 'D7', 'DQ'] 0.479 0.51
+Fold!
+['HQ', 'S5'] [] 0.54 0.64
+Call!
+['HQ', 'S5'] ['C6', 'DA', 'HK'] 0.446 0.44
+Call!
+['HQ', 'S5'] ['C6', 'DA', 'HK'] 0.454 0.46
+Fold!
+['SJ', 'D7'] [] 0.523 0.58
+Call!
+['SJ', 'D7'] ['HT', 'H9', 'C4'] 0.433 0.42
+Call!
+['SJ', 'D7'] ['HT', 'H9', 'C4'] 0.434 0.42
+Fold!
+['SA', 'SQ'] [] 0.691 0.98
+Raise!
+['SA', 'C3'] [] 0.587 0.79
+Raise!
+['H3', 'HK'] [] 0.563 0.72
+Raise!
+['HK', 'D8'] [] 0.57 0.74
+Raise!
+['H4', 'DT'] [] 0.448 0.33
+Call!
+['D7', 'S4'] [] 0.384 0.16
+Fold!
+['HJ', 'CA'] [] 0.646 0.93
+Raise!
+['HJ', 'CA'] ['DT', 'DA', 'D6'] 0.76 0.87
+Raise!
+b10902086 vs baseline3 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1247.7109375, 'state': 'participating'}, {'name': 'baseline3', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 749.43359375, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['CQ', 'D9'] [] 0.567 0.73
+Raise!
+['D5', 'C9'] [] 0.446 0.33
+Call!
+['D5', 'C9'] ['SQ', 'C3', 'DA'] 0.262 0.13
+Call!
+['D5', 'C9'] ['SQ', 'C3', 'DA', 'D3'] 0.263 0.2
+Fold!
+['SK', 'C5'] [] 0.535 0.62
+Call!
+['SK', 'C5'] [] 0.547 0.66
+Fold!
+['H6', 'SK'] [] 0.581 0.77
+Raise!
+['H6', 'H3'] [] 0.381 0.15
+Fold!
+['HQ', 'H6'] [] 0.54 0.64
+Call!
+['HQ', 'H6'] ['S4', 'S2', 'H4'] 0.429 0.41
+Call!
+['HQ', 'H6'] ['S4', 'S2', 'H4', 'D2'] 0.435 0.43
+Call!
+['HQ', 'H6'] ['S4', 'S2', 'H4', 'D2', 'H8'] 0.351 0.36
+Call!
+['DT', 'S6'] [] 0.48 0.43
+Call!
+['DT', 'S6'] ['S2', 'S7', 'CJ'] 0.332 0.24
+Call!
+['DT', 'S6'] ['S2', 'S7', 'CJ', 'C8'] 0.279 0.22
+Call!
+['DT', 'S6'] ['S2', 'S7', 'CJ', 'C8', 'CK'] 0.16 0.17
+Fold!
+['H6', 'D4'] [] 0.416 0.24
+Call!
+['HK', 'H3'] [] 0.54 0.64
+Call!
+['HK', 'H3'] ['H6', 'ST', 'S8'] 0.379 0.32
+Call!
+['HK', 'H3'] ['H6', 'ST', 'S8', 'CA'] 0.366 0.33
+Call!
+['HK', 'H3'] ['H6', 'ST', 'S8', 'CA', 'DJ'] 0.295 0.31
+Call!
+['S6', 'D8'] [] 0.473 0.41
+Call!
+['S6', 'D8'] ['SJ', 'D9', 'CQ'] 0.348 0.27
+Call!
+['S6', 'D8'] ['SJ', 'D9', 'CQ', 'H3'] 0.267 0.2
+Call!
+['S6', 'D8'] ['SJ', 'D9', 'CQ', 'H3', 'S4'] 0.117 0.13
+Fold!
+['SJ', 'D9'] [] 0.541 0.64
+Call!
+['SJ', 'D9'] ['H5', 'H7', 'HA'] 0.3 0.19
+Call!
+['SJ', 'D9'] ['H5', 'H7', 'HA', 'CQ'] 0.316 0.27
+Call!
+['S8', 'SK'] [] 0.592 0.81
+Raise!
+['H4', 'S9'] [] 0.407 0.22
+Fold!
+['S6', 'S8'] [] 0.494 0.48
+Call!
+['S6', 'S8'] ['DA', 'CK', 'HA'] 0.336 0.25
+Call!
+['C6', 'HQ'] [] 0.504 0.51
+Call!
+['C6', 'HQ'] ['CA', 'HT', 'ST'] 0.49 0.52
+Call!
+b10902086 vs baseline3 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline3', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 994.3125, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1005, 'state': 'participating'}]}
+['H9', 'S7'] [] 0.461 0.37
+Call!
+['H9', 'S7'] ['CT', 'D5', 'DA'] 0.332 0.24
+Call!
+['H9', 'S7'] ['CT', 'D5', 'DA', 'S9'] 0.687 0.74
+Call!
+['H9', 'S7'] ['CT', 'D5', 'DA', 'S9', 'CK'] 0.546 0.55
+Call!
+['H8', 'D6'] [] 0.442 0.32
+Call!
+['H8', 'D6'] ['H6', 'D2', 'D4'] 0.668 0.78
+Raise!
+['H2', 'S5'] [] 0.308 0.03
+Fold!
+['C4', 'CA'] [] 0.569 0.74
+Raise!
+['DA', 'HT'] [] 0.637 0.92
+Raise!
+['DK', 'S2'] [] 0.509 0.53
+Call!
+['DK', 'S2'] ['H3', 'S8', 'D8'] 0.479 0.51
+Call!
+['DK', 'S2'] ['H3', 'S8', 'D8', 'HK'] 0.83 0.89
+Raise!
+['DK', 'S2'] ['H3', 'S8', 'D8', 'HK', 'D7'] 0.835 0.83
+Raise!
+b10902086 vs baseline3 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1030, 'state': 'participating'}, {'name': 'baseline3', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 970, 'state': 'participating'}]}
+b10902086 vs baseline3 - Match Result: b10902086 3 games won, 5 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] [] 0.437 0.3
+Fold!
+['H2', 'C3'] [] 0.261 0.01
+Fold!
+['H2', 'H3'] [] 0.327 0.05
+Fold!
+['H2', 'DK'] [] 0.478 0.42
+Fold!
+['DT', 'SA'] [] 0.664 0.96
+Raise!
+['DT', 'SA'] [] 0.652 0.94
+Raise!
+b10902086 vs baseline4 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline4', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1998.1399999999999, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+['CT', 'DA'] [] 0.653 0.94
+Raise!
+['CT', 'DA'] ['C2', 'H8', 'C9'] 0.527 0.58
+Fold!
+['HK', 'C5'] [] 0.559 0.7
+Call!
+['HK', 'C5'] ['D8', 'S9', 'H7'] 0.431 0.41
+Call!
+['HK', 'C5'] ['D8', 'S9', 'H7'] 0.412 0.38
+Fold!
+['H8', 'D4'] [] 0.373 0.13
+Fold!
+['S6', 'H5'] [] 0.395 0.18
+Fold!
+['H2', 'SA'] [] 0.569 0.74
+Raise!
+b10902086 vs baseline4 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 0, 'state': 'folded'}, {'name': 'baseline4', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1998.3718266735332, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['D9', 'H8'] [] 0.459 0.36
+Call!
+['D9', 'H8'] ['DT', 'H9', 'D3'] 0.707 0.82
+Raise!
+['HQ', 'H2'] [] 0.495 0.48
+Call!
+['HQ', 'H2'] [] 0.492 0.47
+Fold!
+['SA', 'H5'] [] 0.578 0.76
+Raise!
+['SA', 'H5'] ['HA', 'HJ', 'H8'] 0.88 0.97
+Raise!
+['DJ', 'SJ'] [] 0.781 0.99
+Raise!
+['DJ', 'SJ'] ['S2', 'HQ', 'DA'] 0.709 0.82
+Raise!
+['SK', 'S6'] [] 0.592 0.81
+Raise!
+['SK', 'S6'] [] 0.595 0.82
+Raise!
+b10902086 vs baseline4 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline4', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1998.0, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+['CJ', 'C9'] [] 0.578 0.76
+Raise!
+['C6', 'H2'] [] 0.36 0.1
+Fold!
+['D8', 'HT'] [] 0.519 0.56
+Call!
+['D8', 'HT'] ['S7', 'ST', 'CQ'] 0.686 0.8
+Raise!
+['D8', 'HT'] ['S7', 'ST', 'CQ', 'S4'] 0.64 0.69
+Call!
+['D8', 'HT'] ['S7', 'ST', 'CQ', 'S4', 'D6'] 0.708 0.7
+Call!
+['H4', 'H9'] [] 0.429 0.28
+Fold!
+['DA', 'D7'] [] 0.626 0.89
+Raise!
+['DA', 'D7'] ['S3', 'HT', 'D8'] 0.511 0.56
+Call!
+['DA', 'D7'] ['S3', 'HT', 'D8', 'S9'] 0.469 0.47
+Fold!
+['C5', 'D3'] [] 0.328 0.05
+Fold!
+['H3', 'D4'] [] 0.334 0.06
+Fold!
+['CJ', 'HT'] [] 0.595 0.82
+Raise!
+['CJ', 'HT'] ['D4', 'D7', 'C4'] 0.397 0.35
+Call!
+['CJ', 'HT'] ['D4', 'D7', 'C4', 'S7'] 0.444 0.44
+Call!
+['CJ', 'HT'] ['D4', 'D7', 'C4', 'S7', 'CA'] 0.424 0.43
+Call!
+['S8', 'S9'] [] 0.518 0.56
+Call!
+['S8', 'S9'] ['D5', 'SA', 'H3'] 0.311 0.21
+Call!
+['S8', 'S9'] ['D5', 'SA', 'H3', 'D4'] 0.169 0.09
+Fold!
+['S9', 'C7'] [] 0.487 0.45
+Call!
+['S9', 'C7'] ['S6', 'SJ', 'DT'] 0.445 0.44
+Call!
+['S9', 'C7'] ['S6', 'SJ', 'DT', 'C5'] 0.289 0.23
+Call!
+['S9', 'C7'] ['S6', 'SJ', 'DT', 'C5', 'D3'] 0.079 0.09
+Fold!
+['CT', 'D3'] [] 0.433 0.29
+Call!
+['CT', 'D3'] ['H7', 'D7', 'DQ'] 0.351 0.27
+Call!
+['CT', 'D3'] ['H7', 'D7', 'DQ', 'H2'] 0.249 0.18
+Fold!
+['C4', 'D9'] [] 0.407 0.22
+Fold!
+['C8', 'H8'] [] 0.683 0.97
+Raise!
+['H6', 'S2'] [] 0.337 0.06
+Fold!
+['S5', 'D4'] [] 0.394 0.18
+Fold!
+b10902086 vs baseline4 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'baseline4', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1997.1978260869564, 'state': 'participating'}]}
+['SK', 'CK'] [] 0.804 0.99
+Raise!
+['SK', 'CK'] ['H6', 'H3', 'C8'] 0.789 0.89
+Raise!
+['SK', 'CK'] ['H6', 'H3', 'C8', 'S9'] 0.782 0.84
+Raise!
+['D4', 'S3'] [] 0.325 0.05
+Fold!
+['H2', 'ST'] [] 0.425 0.27
+Fold!
+['C7', 'DQ'] [] 0.527 0.59
+Call!
+['C7', 'DQ'] ['C3', 'D8', 'HA'] 0.429 0.41
+Call!
+['C7', 'DQ'] ['C3', 'D8', 'HA', 'C8'] 0.47 0.48
+Call!
+['C7', 'DQ'] ['C3', 'D8', 'HA', 'C8', 'C9'] 0.342 0.35
+Fold!
+['H9', 'CA'] [] 0.643 0.93
+Raise!
+['H9', 'CA'] [] 0.607 0.85
+Raise!
+b10902086 vs baseline4 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline4', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 1997.74, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 0, 'state': 'folded'}]}
+b10902086 vs baseline4 - Match Result: b10902086 3 games won, 5 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9'] 0.581 0.67
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6'] 0.466 0.47
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.36 0.37
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.346 0.35
+Fold!
+['SJ', 'D5'] [] 0.467 0.39
+Call!
+['SJ', 'D5'] ['D6', 'D4', 'S8'] 0.422 0.4
+Call!
+['SJ', 'D5'] ['D6', 'D4', 'S8', 'DA'] 0.382 0.35
+Call!
+['SJ', 'D5'] ['D6', 'D4', 'S8', 'DA', 'C3'] 0.147 0.16
+Fold!
+['CA', 'ST'] [] 0.658 0.95
+Raise!
+['D6', 'SA'] [] 0.621 0.88
+Raise!
+['D6', 'SA'] ['D5', 'C5', 'C9'] 0.58 0.67
+Call!
+['D6', 'SA'] ['D5', 'C5', 'C9', 'ST'] 0.491 0.5
+Call!
+['D6', 'SA'] ['D5', 'C5', 'C9', 'ST', 'HA'] 0.856 0.85
+Raise!
+['HQ', 'SA'] [] 0.66 0.95
+Raise!
+['D2', 'CK'] [] 0.52 0.56
+Call!
+['D2', 'CK'] ['H3', 'D4', 'DT'] 0.389 0.34
+Call!
+['D2', 'CK'] ['H3', 'D4', 'DT', 'D8'] 0.373 0.34
+Call!
+['D2', 'CK'] ['H3', 'D4', 'DT', 'D8', 'S5'] 0.183 0.2
+Fold!
+['S8', 'S9'] [] 0.539 0.64
+Call!
+['S8', 'S9'] ['S7', 'DK', 'HT'] 0.537 0.6
+Call!
+['S8', 'S9'] ['S7', 'DK', 'HT', 'S2'] 0.5 0.51
+Call!
+['S8', 'S9'] ['S7', 'DK', 'HT', 'S2', 'D6'] 1.0 1
+Raise!
+['C7', 'H6'] [] 0.436 0.3
+Call!
+['C7', 'H6'] ['CT', 'S3', 'DK'] 0.229 0.09
+Fold!
+['C7', 'S5'] [] 0.399 0.2
+Fold!
+['S3', 'H9'] [] 0.401 0.2
+Call!
+['S3', 'H9'] ['H3', 'DK', 'HQ'] 0.565 0.64
+Call!
+['S3', 'H9'] ['H3', 'DK', 'HQ', 'DA'] 0.526 0.55
+Call!
+['S3', 'H9'] ['H3', 'DK', 'HQ', 'DA', 'S9'] 0.895 0.89
+Raise!
+['SJ', 'SK'] [] 0.658 0.95
+Raise!
+['H4', 'D3'] [] 0.33 0.06
+Call!
+['H4', 'D3'] ['H2', 'ST', 'C7'] 0.16 0.02
+Fold!
+['CQ', 'HQ'] [] 0.81 1
+Raise!
+['C9', 'CK'] [] 0.598 0.82
+Raise!
+['C9', 'CK'] ['H5', 'C4', 'D4'] 0.506 0.55
+Call!
+['C9', 'CK'] ['H5', 'C4', 'D4', 'SJ'] 0.452 0.45
+Call!
+['C9', 'CK'] ['H5', 'C4', 'D4', 'SJ', 'D6'] 0.356 0.37
+Call!
+b10902086 vs baseline5 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline5', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 979.0650887573964, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1020, 'state': 'participating'}]}
+['CT', 'DA'] [] 0.653 0.94
+Raise!
+['H2', 'S4'] [] 0.305 0.03
+Fold!
+['H8', 'CJ'] [] 0.531 0.6
+Call!
+['H8', 'CJ'] ['D3', 'H7', 'H5'] 0.35 0.27
+Call!
+['H8', 'CJ'] ['D3', 'H7', 'H5', 'CA'] 0.258 0.19
+Call!
+['H8', 'CJ'] ['D3', 'H7', 'H5', 'CA', 'DK'] 0.253 0.26
+Call!
+['D2', 'H5'] [] 0.313 0.03
+Fold!
+['H8', 'S6'] [] 0.444 0.32
+Call!
+['H8', 'S6'] ['HK', 'H4', 'CQ'] 0.279 0.16
+Call!
+['H8', 'S6'] ['HK', 'H4', 'CQ', 'H2'] 0.278 0.22
+Call!
+['H8', 'S6'] ['HK', 'H4', 'CQ', 'H2', 'D9'] 0.113 0.13
+Fold!
+['HQ', 'CK'] [] 0.631 0.91
+Raise!
+['H2', 'S3'] [] 0.309 0.03
+Call!
+['H2', 'S3'] ['C2', 'S6', 'SK'] 0.517 0.57
+Call!
+['H2', 'S3'] ['C2', 'S6', 'SK', 'D2'] 0.941 0.97
+Raise!
+['C4', 'S2'] [] 0.29 0.02
+Fold!
+['HQ', 'DJ'] [] 0.624 0.89
+Raise!
+['C5', 'SK'] [] 0.557 0.7
+Call!
+['C5', 'SK'] ['HA', 'HQ', 'C6'] 0.459 0.47
+Call!
+['C5', 'SK'] ['HA', 'HQ', 'C6', 'S7'] 0.378 0.35
+Call!
+['C5', 'SK'] ['HA', 'HQ', 'C6', 'S7'] 0.385 0.36
+Fold!
+['D4', 'HJ'] [] 0.462 0.37
+Call!
+['D4', 'HJ'] ['D9', 'ST', 'S9'] 0.338 0.25
+Call!
+['D4', 'HJ'] ['D9', 'ST', 'S9', 'D7'] 0.316 0.27
+Call!
+['D4', 'HJ'] ['D9', 'ST', 'S9', 'D7', 'S7'] 0.233 0.24
+Call!
+['S5', 'CA'] [] 0.574 0.75
+Raise!
+['S6', 'C9'] [] 0.445 0.33
+Call!
+['S6', 'C9'] ['CQ', 'D4', 'H3'] 0.286 0.16
+Call!
+['S6', 'C9'] ['CQ', 'D4', 'H3', 'H8'] 0.159 0.08
+Fold!
+['C2', 'SA'] [] 0.566 0.72
+Raise!
+['C8', 'SQ'] [] 0.561 0.71
+Raise!
+['H8', 'H6'] [] 0.476 0.42
+Call!
+['H8', 'H6'] ['SQ', 'H3', 'SA'] 0.286 0.16
+Call!
+['H8', 'H6'] ['SQ', 'H3', 'SA', 'HK'] 0.36 0.33
+Call!
+['H8', 'H6'] ['SQ', 'H3', 'SA', 'HK'] 0.336 0.29
+Fold!
+['S8', 'H8'] [] 0.677 0.97
+Raise!
+['C4', 'HT'] [] 0.456 0.36
+Call!
+['C4', 'HT'] ['HK', 'CA', 'DQ'] 0.408 0.37
+Call!
+['C4', 'HT'] ['HK', 'CA', 'DQ', 'CQ'] 0.412 0.39
+Call!
+['C4', 'HT'] ['HK', 'CA', 'DQ', 'CQ', 'D7'] 0.33 0.34
+Call!
+b10902086 vs baseline5 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 10, 'state': 'participating'}, {'name': 'baseline5', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1988.0, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['D9', 'H8'] [] 0.459 0.36
+Call!
+['D9', 'H8'] ['DT', 'H9', 'D3'] 0.707 0.82
+Raise!
+['HQ', 'H2'] [] 0.495 0.48
+Call!
+['HQ', 'H2'] ['H9', 'H7', 'CJ'] 0.538 0.6
+Call!
+['HQ', 'H2'] ['H9', 'H7', 'CJ', 'H8'] 0.954 0.98
+Raise!
+['ST', 'D2'] [] 0.416 0.24
+Call!
+['ST', 'D2'] ['H4', 'HQ', 'D6'] 0.245 0.11
+Call!
+['ST', 'D2'] ['H4', 'HQ', 'D6', 'H2'] 0.446 0.44
+Fold!
+['C7', 'D9'] [] 0.469 0.39
+Call!
+['C7', 'D9'] ['H9', 'D6', 'C8'] 0.773 0.88
+Raise!
+['HK', 'HA'] [] 0.682 0.97
+Raise!
+['S6', 'S4'] [] 0.432 0.29
+Fold!
+['SQ', 'ST'] [] 0.641 0.92
+Raise!
+['ST', 'C6'] [] 0.479 0.43
+Call!
+['ST', 'C6'] ['D2', 'DA', 'C9'] 0.311 0.21
+Call!
+['ST', 'C6'] ['D2', 'DA', 'C9', 'CK'] 0.266 0.2
+Call!
+['ST', 'C6'] ['D2', 'DA', 'C9', 'CK'] 0.279 0.22
+Fold!
+['DA', 'D7'] [] 0.623 0.89
+Raise!
+['CQ', 'SJ'] [] 0.568 0.73
+Raise!
+['H6', 'DT'] [] 0.469 0.39
+Call!
+['H6', 'DT'] ['CT', 'S8', 'HQ'] 0.68 0.79
+Raise!
+['H9', 'S4'] [] 0.404 0.21
+Fold!
+['C8', 'HK'] [] 0.584 0.78
+Raise!
+['C8', 'HK'] ['S8', 'DA', 'D2'] 0.746 0.86
+Raise!
+['C8', 'HK'] ['S8', 'DA', 'D2', 'HA'] 0.826 0.88
+Raise!
+b10902086 vs baseline5 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline5', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1998, 'state': 'participating'}]}
+b10902086 vs baseline5 - Match Result: b10902086 0 games won, 0.0 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9'] 0.581 0.67
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6'] 0.466 0.47
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.36 0.37
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.346 0.35
+Fold!
+['SJ', 'D5'] [] 0.467 0.39
+Call!
+['SJ', 'D5'] ['D6', 'D4', 'S8'] 0.422 0.4
+Call!
+['SJ', 'D5'] ['D6', 'D4', 'S8', 'DA'] 0.382 0.35
+Call!
+['SJ', 'D5'] ['D6', 'D4', 'S8', 'DA', 'C3'] 0.147 0.16
+Fold!
+['CA', 'ST'] [] 0.658 0.95
+Raise!
+['CA', 'ST'] ['S9', 'D2', 'H5'] 0.517 0.57
+Call!
+['CA', 'ST'] ['S9', 'D2', 'H5', 'S7'] 0.43 0.42
+Call!
+['CA', 'ST'] ['S9', 'D2', 'H5', 'S7', 'S6'] 0.219 0.23
+Call!
+['ST', 'C7'] [] 0.517 0.55
+Fold!
+['H4', 'C7'] [] 0.378 0.15
+Fold!
+['DK', 'HA'] [] 0.696 0.98
+Raise!
+['H9', 'H4'] [] 0.43 0.28
+Fold!
+['DJ', 'DA'] [] 0.649 0.94
+Raise!
+['DJ', 'DA'] ['CJ', 'H8', 'C7'] 0.759 0.87
+Raise!
+['D2', 'D6'] [] 0.385 0.16
+Fold!
+['S7', 'DQ'] [] 0.548 0.67
+Call!
+['S7', 'DQ'] ['H6', 'C9', 'H3'] 0.342 0.26
+Call!
+['S7', 'DQ'] ['H6', 'C9', 'H3', 'S6'] 0.345 0.31
+Fold!
+['H3', 'H6'] [] 0.374 0.14
+Fold!
+['C4', 'C3'] [] 0.367 0.12
+Call!
+['C4', 'C3'] ['H7', 'SQ', 'DQ'] 0.164 0.03
+Fold!
+b10902086 vs baseline6 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline6', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1999.3333333333335, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+['CT', 'DA'] [] 0.653 0.94
+Raise!
+['H2', 'S4'] [] 0.305 0.03
+Fold!
+['H8', 'CJ'] [] 0.531 0.6
+Call!
+['H8', 'CJ'] ['D3', 'H7', 'H5'] 0.35 0.27
+Call!
+['H8', 'CJ'] ['D3', 'H7', 'H5', 'CA'] 0.258 0.19
+Fold!
+['S3', 'C8'] [] 0.405 0.21
+Fold!
+['D8', 'D4'] [] 0.425 0.27
+Call!
+['D8', 'D4'] ['C4', 'HT', 'SK'] 0.572 0.65
+Call!
+['D8', 'D4'] ['C4', 'HT', 'SK', 'DA'] 0.539 0.57
+Call!
+['D8', 'D4'] ['C4', 'HT', 'SK', 'DA', 'C7'] 0.475 0.48
+Call!
+['ST', 'DJ'] [] 0.588 0.8
+Raise!
+['ST', 'DJ'] ['D2', 'H6', 'D3'] 0.373 0.31
+Call!
+['ST', 'DJ'] ['D2', 'H6', 'D3'] 0.332 0.24
+Fold!
+['H8', 'SK'] [] 0.602 0.83
+Raise!
+['H8', 'SK'] ['C7', 'D5', 'D9'] 0.486 0.52
+Call!
+['H8', 'SK'] ['C7', 'D5', 'D9', 'S7'] 0.488 0.5
+Call!
+['H8', 'SK'] ['C7', 'D5', 'D9', 'S7', 'DT'] 0.325 0.33
+Call!
+b10902086 vs baseline6 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 992.0, 'state': 'participating'}, {'name': 'baseline6', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1007.3333333333335, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['D9', 'H8'] [] 0.459 0.36
+Call!
+['D9', 'H8'] ['DT', 'H9', 'D3'] 0.707 0.82
+Raise!
+['HQ', 'H2'] [] 0.495 0.48
+Call!
+['HQ', 'H2'] ['H9', 'H7', 'CJ'] 0.538 0.6
+Call!
+['HQ', 'H2'] ['H9', 'H7', 'CJ', 'H8'] 0.954 0.98
+Raise!
+['ST', 'D2'] [] 0.416 0.24
+Call!
+['ST', 'D2'] ['H4', 'HQ', 'D6'] 0.245 0.11
+Fold!
+['D9', 'CT'] [] 0.524 0.58
+Call!
+['D9', 'CT'] ['CJ', 'C3', 'HQ'] 0.578 0.66
+Call!
+['D9', 'CT'] ['CJ', 'C3', 'HQ', 'DJ'] 0.475 0.48
+Call!
+['D9', 'CT'] ['CJ', 'C3', 'HQ', 'DJ', 'DA'] 0.386 0.4
+Call!
+['D9', 'CT'] ['CJ', 'C3', 'HQ', 'DJ', 'DA'] 0.393 0.4
+Fold!
+['C4', 'S9'] [] 0.422 0.26
+Call!
+['C4', 'S9'] ['SJ', 'S6', 'C3'] 0.281 0.16
+Call!
+['C4', 'S9'] ['SJ', 'S6', 'C3', 'HQ'] 0.184 0.1
+Fold!
+['DJ', 'HT'] [] 0.59 0.8
+Raise!
+['DJ', 'HT'] ['D9', 'S5', 'SA'] 0.38 0.32
+Call!
+['DJ', 'HT'] ['D9', 'S5', 'SA', 'CT'] 0.785 0.84
+Raise!
+['SK', 'D7'] [] 0.59 0.8
+Raise!
+['DA', 'H4'] [] 0.557 0.7
+Call!
+['DA', 'H4'] ['SK', 'S9', 'C4'] 0.622 0.73
+Call!
+['DA', 'H4'] ['SK', 'S9', 'C4', 'S6'] 0.48 0.49
+Call!
+['DA', 'H4'] ['SK', 'S9', 'C4', 'S6', 'H5'] 0.416 0.42
+Call!
+['C7', 'DJ'] [] 0.528 0.59
+Call!
+['C7', 'DJ'] ['S4', 'SA', 'SQ'] 0.355 0.28
+Call!
+['C7', 'DJ'] ['S4', 'SA', 'SQ', 'H2'] 0.312 0.26
+Call!
+['C7', 'DJ'] ['S4', 'SA', 'SQ', 'H2', 'C3'] 0.218 0.23
+Call!
+['CK', 'D6'] [] 0.541 0.64
+Call!
+['CK', 'D6'] ['ST', 'D9', 'C9'] 0.506 0.55
+Call!
+['CK', 'D6'] ['ST', 'D9', 'C9'] 0.465 0.48
+Fold!
+['DA', 'HJ'] [] 0.621 0.88
+Raise!
+['D8', 'DA'] [] 0.66 0.95
+Raise!
+['D8', 'DA'] ['S2', 'C9', 'S9'] 0.594 0.69
+Call!
+['D8', 'DA'] ['S2', 'C9', 'S9'] 0.546 0.61
+Call!
+['D8', 'DA'] ['S2', 'C9', 'S9', 'H3'] 0.559 0.6
+Call!
+['D8', 'DA'] ['S2', 'C9', 'S9', 'H3'] 0.522 0.55
+Call!
+['D8', 'DA'] ['S2', 'C9', 'S9', 'H3', 'DQ'] 0.459 0.47
+Call!
+['D8', 'DA'] ['S2', 'C9', 'S9', 'H3', 'DQ'] 0.481 0.49
+Call!
+['S2', 'D7'] [] 0.344 0.08
+Call!
+['S2', 'D7'] ['C3', 'D5', 'H7'] 0.636 0.74
+Call!
+['S2', 'D7'] ['C3', 'D5', 'H7', 'ST'] 0.651 0.71
+Call!
+b10902086 vs baseline6 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline6', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 94.66666666666652, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1905.0, 'state': 'participating'}]}
+['CJ', 'C9'] [] 0.578 0.76
+Raise!
+['C6', 'H2'] [] 0.36 0.1
+Fold!
+['D8', 'HT'] [] 0.519 0.56
+Call!
+['D8', 'HT'] ['S7', 'ST', 'CQ'] 0.686 0.8
+Raise!
+['HK', 'CQ'] [] 0.624 0.89
+Raise!
+['HK', 'CQ'] ['H2', 'D3', 'H6'] 0.457 0.47
+Call!
+['HK', 'CQ'] ['H2', 'D3', 'H6'] 0.47 0.49
+Fold!
+['SK', 'D2'] [] 0.503 0.51
+Call!
+['SK', 'D2'] ['D5', 'SJ', 'HQ'] 0.351 0.27
+Fold!
+['D4', 'SK'] [] 0.51 0.53
+Call!
+['D4', 'SK'] ['DJ', 'S9', 'DT'] 0.475 0.5
+Call!
+['D4', 'SK'] ['DJ', 'S9', 'DT', 'SJ'] 0.415 0.4
+Call!
+['D4', 'SK'] ['DJ', 'S9', 'DT', 'SJ', 'S8'] 0.165 0.18
+Fold!
+['CJ', 'CA'] [] 0.665 0.96
+Raise!
+b10902086 vs baseline6 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'baseline6', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1999.3333333333333, 'state': 'participating'}]}
+b10902086 vs baseline6 - Match Result: b10902086 1 games won, 1.5 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] [] 0.437 0.3
+Fold!
+['H2', 'C3'] [] 0.261 0.01
+Fold!
+['H2', 'H3'] [] 0.327 0.05
+Fold!
+['H2', 'DK'] [] 0.478 0.42
+Fold!
+['DT', 'SA'] [] 0.664 0.96
+Raise!
+['DT', 'SA'] [] 0.652 0.94
+Raise!
+b10902086 vs baseline7 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline7', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 2000, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+['CT', 'DA'] [] 0.653 0.94
+Raise!
+['H2', 'S4'] [] 0.305 0.03
+Fold!
+['S6', 'HJ'] [] 0.477 0.42
+Call!
+['S6', 'HJ'] [] 0.468 0.39
+Call!
+['S6', 'HJ'] ['SJ', 'D6', 'S7'] 0.879 0.97
+Raise!
+['S6', 'CJ'] [] 0.482 0.44
+Call!
+['S6', 'CJ'] ['SQ', 'SK', 'S5'] 0.509 0.56
+Call!
+['S6', 'CJ'] ['SQ', 'SK', 'S5', 'S8'] 0.814 0.87
+Raise!
+b10902086 vs baseline7 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 205, 'state': 'participating'}, {'name': 'baseline7', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1795, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['SJ', 'S4'] [] 0.497 0.49
+Call!
+['SJ', 'S4'] [] 0.465 0.38
+Call!
+['SJ', 'S4'] ['C7', 'S8', 'C9'] 0.341 0.26
+Call!
+['SJ', 'S4'] ['C7', 'S8', 'C9'] 0.389 0.34
+Fold!
+['DT', 'CK'] [] 0.614 0.87
+Raise!
+['SQ', 'HJ'] [] 0.573 0.75
+Raise!
+['SQ', 'HJ'] ['HT', 'HA', 'D7'] 0.566 0.65
+Call!
+['SQ', 'HJ'] ['HT', 'HA', 'D7', 'H2'] 0.555 0.59
+Call!
+['SQ', 'HJ'] ['HT', 'HA', 'D7', 'H2', 'C7'] 0.376 0.39
+Call!
+['HT', 'S6'] [] 0.464 0.38
+Call!
+['HT', 'S6'] [] 0.469 0.39
+Call!
+['HT', 'S6'] ['SA', 'HQ', 'ST'] 0.656 0.77
+Raise!
+['DT', 'SK'] [] 0.605 0.84
+Raise!
+['DT', 'D2'] [] 0.437 0.3
+Fold!
+['SK', 'S8'] [] 0.594 0.81
+Raise!
+['S4', 'D3'] [] 0.319 0.04
+Fold!
+['SQ', 'H3'] [] 0.503 0.51
+Fold!
+['H4', 'HT'] [] 0.467 0.39
+Call!
+['H4', 'HT'] [] 0.468 0.39
+Fold!
+['H5', 'S9'] [] 0.431 0.28
+Fold!
+['SK', 'DQ'] [] 0.612 0.86
+Raise!
+['D6', 'HA'] [] 0.58 0.77
+Raise!
+b10902086 vs baseline7 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline7', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 2000, 'state': 'participating'}]}
+['H4', 'ST'] [] 0.464 0.38
+Call!
+['H4', 'ST'] [] 0.434 0.29
+Fold!
+['S4', 'D6'] [] 0.377 0.14
+Fold!
+['SJ', 'D7'] [] 0.519 0.56
+Call!
+['SJ', 'D7'] [] 0.514 0.54
+Call!
+['SJ', 'D7'] ['D9', 'SQ', 'C8'] 0.462 0.47
+Call!
+['SJ', 'D7'] ['D9', 'SQ', 'C8', 'S7'] 0.59 0.64
+Call!
+['SJ', 'D7'] ['D9', 'SQ', 'C8', 'S7'] 0.564 0.61
+Call!
+['SJ', 'D7'] ['D9', 'SQ', 'C8', 'S7', 'DT'] 0.935 0.92
+Raise!
+['H6', 'S3'] [] 0.359 0.1
+Fold!
+['S4', 'D9'] [] 0.427 0.27
+Fold!
+['C6', 'D7'] [] 0.426 0.27
+Fold!
+['S2', 'D7'] [] 0.357 0.1
+Fold!
+['D2', 'D5'] [] 0.353 0.09
+Fold!
+['DQ', 'H7'] [] 0.521 0.57
+Call!
+['DQ', 'H7'] ['S3', 'ST', 'H5'] 0.346 0.26
+Fold!
+['C8', 'DT'] [] 0.506 0.52
+Call!
+['C8', 'DT'] [] 0.524 0.58
+Call!
+['C8', 'DT'] ['S2', 'D6', 'HT'] 0.795 0.9
+Raise!
+['S6', 'C9'] [] 0.441 0.31
+Fold!
+['C5', 'D7'] [] 0.403 0.21
+Fold!
+['H8', 'D7'] [] 0.476 0.42
+Call!
+['H8', 'D7'] [] 0.44 0.31
+Fold!
+['C6', 'S3'] [] 0.367 0.12
+Fold!
+['SJ', 'S2'] [] 0.482 0.44
+Call!
+['SJ', 'S2'] [] 0.46 0.37
+Fold!
+b10902086 vs baseline7 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000, 'state': 'participating'}, {'name': 'baseline7', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'participating'}]}
+['SK', 'CK'] [] 0.804 0.99
+Raise!
+['SK', 'CK'] ['H6', 'H3', 'C8'] 0.789 0.89
+Raise!
+['C4', 'S7'] [] 0.385 0.16
+Fold!
+['C5', 'D8'] [] 0.405 0.21
+Fold!
+['S2', 'H6'] [] 0.331 0.06
+Fold!
+['S4', 'D3'] [] 0.326 0.05
+Fold!
+['S9', 'D3'] [] 0.405 0.21
+Fold!
+['H2', 'SJ'] [] 0.42 0.26
+Fold!
+['H2', 'C7'] [] 0.348 0.08
+Fold!
+['S9', 'C2'] [] 0.393 0.18
+Fold!
+['DK', 'C8'] [] 0.581 0.77
+Raise!
+['DK', 'C8'] ['H2', 'D5', 'CK'] 0.853 0.95
+Raise!
+['S8', 'CJ'] [] 0.532 0.61
+Call!
+['S8', 'CJ'] ['C9', 'HK', 'C5'] 0.405 0.36
+Fold!
+['S9', 'H5'] [] 0.445 0.33
+Fold!
+['DK', 'HQ'] [] 0.622 0.88
+Raise!
+['C5', 'SA'] [] 0.612 0.86
+Raise!
+['C5', 'SA'] ['ST', 'D6', 'SQ'] 0.477 0.5
+Call!
+['C5', 'SA'] ['ST', 'D6', 'SQ', 'CT'] 0.531 0.56
+Call!
+['C5', 'SA'] ['ST', 'D6', 'SQ', 'CT', 'HJ'] 0.422 0.43
+Call!
+['C5', 'SA'] ['ST', 'D6', 'SQ', 'CT', 'HJ'] 0.425 0.43
+Fold!
+['S6', 'D5'] [] 0.389 0.17
+Fold!
+['S6', 'S2'] [] 0.387 0.17
+Fold!
+b10902086 vs baseline7 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline7', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 1990, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 10, 'state': 'participating'}]}
+b10902086 vs baseline7 - Match Result: b10902086 3 games won, 5 points earned
+['CJ', 'D2'] [] 0.455 0.35
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9'] 0.574 0.66
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6'] 0.447 0.44
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.324 0.33
+Call!
+['S2', 'S5'] [] 0.341 0.07
+Call!
+['S2', 'S5'] ['D4', 'SA', 'CQ'] 0.194 0.05
+Fold!
+['H6', 'C3'] [] 0.311 0.03
+Fold!
+['D8', 'HQ'] [] 0.55 0.67
+Call!
+['D8', 'HQ'] ['H9', 'C8', 'CK'] 0.668 0.78
+Raise!
+['SA', 'SK'] [] 0.664 0.96
+Raise!
+['SA', 'SK'] [] 0.695 0.98
+Raise!
+b10902086 vs strong1 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong1', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 923, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1077, 'state': 'participating'}]}
+['CT', 'DA'] [] 0.684 0.97
+Raise!
+['H5', 'S8'] [] 0.438 0.3
+Fold!
+['HT', 'HA'] [] 0.65 0.94
+Raise!
+['C7', 'HT'] [] 0.493 0.47
+Call!
+['C7', 'HT'] [] 0.501 0.5
+Fold!
+['H2', 'H9'] [] 0.405 0.21
+Fold!
+['CT', 'CJ'] [] 0.611 0.86
+Raise!
+['DA', 'D5'] [] 0.605 0.84
+Raise!
+['DA', 'SQ'] [] 0.632 0.91
+Raise!
+['DA', 'SQ'] [] 0.631 0.91
+Raise!
+b10902086 vs strong1 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1525, 'state': 'participating'}, {'name': 'strong1', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 475, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.354 0.09
+Fold!
+['S4', 'C3'] [] 0.306 0.03
+Fold!
+['SA', 'HQ'] [] 0.663 0.96
+Raise!
+['S8', 'DT'] [] 0.54 0.64
+Call!
+['S8', 'DT'] ['DA', 'DK', 'CJ'] 0.469 0.49
+Call!
+['S8', 'DT'] ['DA', 'DK', 'CJ'] 0.496 0.53
+Fold!
+['HQ', 'D4'] [] 0.49 0.46
+Call!
+['SK', 'HJ'] [] 0.634 0.91
+Raise!
+['DJ', 'HQ'] [] 0.611 0.86
+Raise!
+['DK', 'CT'] [] 0.603 0.84
+Raise!
+['H9', 'DQ'] [] 0.581 0.77
+Raise!
+b10902086 vs strong1 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong1', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 475, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1525, 'state': 'participating'}]}
+['CJ', 'C9'] [] 0.564 0.72
+Raise!
+['SK', 'HJ'] [] 0.615 0.87
+Raise!
+['D5', 'S3'] [] 0.322 0.04
+Fold!
+['C9', 'H8'] [] 0.478 0.42
+Call!
+['C9', 'H8'] ['D8', 'S5', 'CQ'] 0.713 0.83
+Raise!
+['C9', 'H8'] ['D8', 'S5', 'CQ'] 0.749 0.86
+Raise!
+['SK', 'S6'] [] 0.582 0.78
+Raise!
+['C7', 'H9'] [] 0.464 0.38
+Call!
+['C7', 'H9'] [] 0.492 0.47
+Fold!
+b10902086 vs strong1 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1010, 'state': 'participating'}, {'name': 'strong1', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 990, 'state': 'participating'}]}
+['SK', 'CK'] [] 0.817 1
+Raise!
+['C7', 'C4'] [] 0.398 0.19
+Fold!
+['D2', 'DT'] [] 0.409 0.22
+Fold!
+['SJ', 'D9'] [] 0.568 0.73
+Raise!
+['H3', 'S8'] [] 0.361 0.11
+Fold!
+['HA', 'C4'] [] 0.607 0.85
+Raise!
+['D3', 'DQ'] [] 0.512 0.54
+Call!
+['D3', 'DQ'] ['S5', 'C9', 'D5'] 0.425 0.4
+Call!
+['D3', 'DQ'] ['S5', 'C9', 'D5', 'H8'] 0.308 0.26
+Call!
+['D3', 'DQ'] ['S5', 'C9', 'D5', 'H8', 'S6'] 0.188 0.2
+Fold!
+['S5', 'S3'] [] 0.376 0.14
+Call!
+['S5', 'S3'] ['HQ', 'CK', 'C7'] 0.154 0.02
+Fold!
+['S7', 'DJ'] [] 0.517 0.55
+Call!
+['S7', 'DJ'] ['S9', 'D4', 'C6'] 0.339 0.25
+Call!
+['S7', 'DJ'] ['S9', 'D4', 'C6', 'DQ'] 0.261 0.2
+Call!
+['S7', 'DJ'] ['S9', 'D4', 'C6', 'DQ', 'C9'] 0.271 0.28
+Call!
+['DQ', 'S8'] [] 0.524 0.58
+Fold!
+['HJ', 'DJ'] [] 0.782 0.99
+Raise!
+['HJ', 'DJ'] [] 0.767 0.99
+Raise!
+b10902086 vs strong1 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong1', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 480, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1520, 'state': 'participating'}]}
+b10902086 vs strong1 - Match Result: b10902086 2 games won, 0 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9'] 0.581 0.67
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6'] 0.466 0.47
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6'] 0.466 0.47
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.351 0.36
+Call!
+['H5', 'S7'] [] 0.421 0.26
+Fold!
+['DA', 'CJ'] [] 0.617 0.87
+Raise!
+['H6', 'D5'] [] 0.396 0.19
+Fold!
+['ST', 'S6'] [] 0.503 0.51
+Call!
+['ST', 'S6'] ['H7', 'S8', 'S5'] 0.633 0.74
+Call!
+['ST', 'S6'] ['H7', 'S8', 'S5', 'D3'] 0.456 0.46
+Call!
+['ST', 'S6'] ['H7', 'S8', 'S5', 'D3', 'CA'] 0.108 0.12
+Fold!
+['H8', 'S5'] [] 0.455 0.35
+Call!
+['H8', 'S5'] ['HA', 'C6', 'C9'] 0.354 0.28
+Call!
+['H8', 'S5'] ['HA', 'C6', 'C9', 'H5'] 0.567 0.61
+Call!
+['H8', 'S5'] ['HA', 'C6', 'C9', 'H5'] 0.59 0.64
+Call!
+['H8', 'S5'] ['HA', 'C6', 'C9', 'H5', 'H2'] 0.482 0.49
+Call!
+['SJ', 'C6'] [] 0.49 0.46
+Call!
+['SJ', 'C6'] ['HK', 'C5', 'H7'] 0.374 0.31
+Call!
+['SJ', 'C6'] ['HK', 'C5', 'H7', 'D6'] 0.551 0.59
+Call!
+['SJ', 'C6'] ['HK', 'C5', 'H7', 'D6', 'SQ'] 0.527 0.53
+Call!
+['C4', 'SJ'] [] 0.454 0.35
+Call!
+['C4', 'SJ'] ['H9', 'D8', 'HJ'] 0.665 0.78
+Raise!
+['S6', 'H2'] [] 0.329 0.05
+Call!
+['S6', 'H2'] ['D2', 'DQ', 'D4'] 0.45 0.45
+Fold!
+['D5', 'HA'] [] 0.59 0.8
+Raise!
+['C3', 'DJ'] [] 0.471 0.4
+Call!
+['C3', 'DJ'] ['S3', 'DK', 'D4'] 0.561 0.64
+Call!
+['C3', 'DJ'] ['S3', 'DK', 'D4', 'D9'] 0.601 0.65
+Call!
+['C3', 'DJ'] ['S3', 'DK', 'D4', 'D9', 'C8'] 0.427 0.43
+Call!
+['H4', 'S7'] [] 0.363 0.11
+Fold!
+b10902086 vs strong2 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong2', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 2000.0, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'participating'}]}
+['CT', 'DA'] [] 0.653 0.94
+Raise!
+['H2', 'S4'] [] 0.305 0.03
+Fold!
+['H8', 'CJ'] [] 0.531 0.6
+Call!
+['H8', 'CJ'] ['D3', 'H7', 'H5'] 0.35 0.27
+Call!
+['H8', 'CJ'] ['D3', 'H7', 'H5', 'CA'] 0.258 0.19
+Fold!
+['S3', 'C8'] [] 0.405 0.21
+Fold!
+['D8', 'D4'] [] 0.425 0.27
+Call!
+['D8', 'D4'] ['C4', 'HT', 'SK'] 0.572 0.65
+Call!
+['D8', 'D4'] ['C4', 'HT', 'SK', 'DA'] 0.539 0.57
+Call!
+['D8', 'D4'] ['C4', 'HT', 'SK', 'DA', 'C7'] 0.475 0.48
+Call!
+['ST', 'DJ'] [] 0.588 0.8
+Raise!
+['ST', 'DJ'] ['D2', 'H6', 'D3'] 0.373 0.31
+Call!
+['ST', 'DJ'] ['D2', 'H6', 'D3', 'HT'] 0.746 0.8
+Call!
+['ST', 'DJ'] ['D2', 'H6', 'D3', 'HT'] 0.774 0.83
+Raise!
+b10902086 vs strong2 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 125.0, 'state': 'participating'}, {'name': 'strong2', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1874.0, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['SJ', 'S4'] [] 0.497 0.49
+Call!
+['SJ', 'S4'] ['C7', 'S8', 'C9'] 0.368 0.3
+Call!
+['SJ', 'S4'] ['C7', 'S8', 'C9', 'S5'] 0.385 0.36
+Call!
+['SJ', 'S4'] ['C7', 'S8', 'C9', 'S5'] 0.376 0.34
+Fold!
+['CJ', 'S3'] [] 0.463 0.38
+Call!
+['CJ', 'S3'] ['H7', 'H5', 'DJ'] 0.731 0.84
+Raise!
+['CJ', 'S3'] ['H7', 'H5', 'DJ', 'SQ'] 0.734 0.79
+Call!
+['CJ', 'S3'] ['H7', 'H5', 'DJ', 'SQ', 'HA'] 0.591 0.59
+Call!
+['D3', 'CK'] [] 0.515 0.55
+Call!
+['D3', 'CK'] ['D6', 'C7', 'D5'] 0.437 0.43
+Call!
+['D3', 'CK'] ['D6', 'C7', 'D5', 'H8'] 0.238 0.17
+Call!
+['D3', 'CK'] ['D6', 'C7', 'D5', 'H8'] 0.266 0.2
+Fold!
+['C8', 'SQ'] [] 0.559 0.7
+Call!
+['C8', 'SQ'] ['CQ', 'CA', 'CT'] 0.775 0.88
+Raise!
+['C8', 'SQ'] ['CQ', 'CA', 'CT'] 0.792 0.9
+Raise!
+['C8', 'SQ'] ['CQ', 'CA', 'CT', 'D8'] 0.836 0.89
+Raise!
+b10902086 vs strong2 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong2', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1875.0, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 125.0, 'state': 'participating'}]}
+['H4', 'ST'] [] 0.464 0.38
+Call!
+['C7', 'S8'] [] 0.442 0.32
+Call!
+['C7', 'S8'] ['H6', 'D9', 'HT'] 0.901 0.98
+Raise!
+['SA', 'H9'] [] 0.6 0.83
+Raise!
+['H3', 'S2'] [] 0.275 0.01
+Call!
+['H3', 'S2'] ['S3', 'D4', 'SK'] 0.542 0.61
+Call!
+['H3', 'S2'] ['S3', 'D4', 'SK', 'C4'] 0.534 0.56
+Call!
+['H3', 'S2'] ['S3', 'D4', 'SK', 'C4', 'H4'] 0.71 0.7
+Call!
+['D9', 'S3'] [] 0.403 0.21
+Fold!
+['H5', 'C3'] [] 0.317 0.04
+Call!
+['H5', 'C3'] ['D9', 'H2', 'D7'] 0.16 0.02
+Fold!
+['DA', 'HK'] [] 0.666 0.96
+Raise!
+['DA', 'HK'] ['C9', 'DQ', 'CJ'] 0.583 0.67
+Call!
+['DA', 'HK'] ['C9', 'DQ', 'CJ', 'D7'] 0.496 0.51
+Call!
+['DA', 'HK'] ['C9', 'DQ', 'CJ', 'D7'] 0.485 0.49
+Fold!
+['H7', 'S9'] [] 0.476 0.42
+Call!
+['H7', 'S9'] ['CT', 'C6', 'HQ'] 0.416 0.38
+Call!
+['H7', 'S9'] ['CT', 'C6', 'HQ', 'HK'] 0.369 0.34
+Fold!
+['C9', 'D9'] [] 0.747 0.99
+Raise!
+['ST', 'C6'] [] 0.494 0.48
+Call!
+['ST', 'C6'] ['CT', 'S5', 'H9'] 0.756 0.87
+Raise!
+['D5', 'S9'] [] 0.429 0.28
+Fold!
+['D6', 'C2'] [] 0.35 0.08
+Call!
+['D6', 'C2'] ['D9', 'CT', 'H3'] 0.185 0.04
+Fold!
+['H8', 'CK'] [] 0.579 0.77
+Raise!
+['H8', 'CK'] ['H6', 'H4', 'D4'] 0.513 0.56
+Call!
+['H8', 'CK'] ['H6', 'H4', 'D4', 'D6'] 0.556 0.6
+Call!
+['H8', 'CK'] ['H6', 'H4', 'D4', 'D6', 'DT'] 0.457 0.47
+Call!
+['H7', 'C3'] [] 0.34 0.07
+Fold!
+['C6', 'DK'] [] 0.586 0.79
+Raise!
+['C6', 'DK'] [] 0.567 0.73
+Raise!
+b10902086 vs strong2 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000, 'state': 'participating'}, {'name': 'strong2', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+b10902086 vs strong2 - Match Result: b10902086 3 games won, 2 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] [] 0.449 0.34
+Fold!
+['D7', 'SA'] [] 0.61 0.86
+Raise!
+['D7', 'SA'] [] 0.602 0.83
+Raise!
+['C5', 'C8'] [] 0.452 0.35
+Call!
+['C5', 'C8'] ['D5', 'H3', 'CJ'] 0.668 0.78
+Raise!
+['C8', 'H3'] [] 0.372 0.13
+Call!
+['C8', 'H3'] ['DK', 'D5', 'HQ'] 0.219 0.08
+Fold!
+['S6', 'D5'] [] 0.409 0.22
+Fold!
+['CK', 'C2'] [] 0.521 0.57
+Call!
+['CK', 'C2'] ['SJ', 'S6', 'H9'] 0.341 0.26
+Fold!
+['C8', 'C2'] [] 0.414 0.24
+Fold!
+['DA', 'S2'] [] 0.535 0.62
+Call!
+['DA', 'S2'] ['S3', 'DK', 'DJ'] 0.469 0.49
+Fold!
+['D4', 'S4'] [] 0.553 0.68
+Call!
+['D4', 'S4'] ['HA', 'S5', 'C4'] 0.936 0.99
+Raise!
+['C2', 'S7'] [] 0.335 0.06
+Call!
+['S5', 'C5'] [] 0.619 0.88
+Raise!
+['S5', 'C5'] ['SQ', 'H3', 'C4'] 0.664 0.77
+Raise!
+['SK', 'S6'] [] 0.579 0.77
+Raise!
+['SK', 'S6'] ['DT', 'DJ', 'S2'] 0.392 0.34
+Fold!
+['S6', 'H4'] [] 0.375 0.14
+Fold!
+['DT', 'S6'] [] 0.462 0.37
+Call!
+['DT', 'S6'] ['C7', 'D7', 'CT'] 0.729 0.84
+Raise!
+['DA', 'S6'] [] 0.609 0.85
+Raise!
+['DA', 'S6'] ['S9', 'D3', 'D2'] 0.514 0.56
+Call!
+b10902086 vs strong3 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong3', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 985, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1015, 'state': 'participating'}]}
+['CT', 'DA'] [] 0.628 0.9
+Raise!
+['CT', 'DA'] ['C2', 'H8', 'C9'] 0.529 0.59
+Call!
+['CT', 'DA'] ['C2', 'H8', 'C9', 'H6'] 0.466 0.47
+Call!
+['CT', 'DA'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.693 0.69
+Call!
+['C2', 'CJ'] [] 0.464 0.38
+Call!
+['C2', 'CJ'] [] 0.481 0.43
+Fold!
+['SA', 'S7'] [] 0.628 0.9
+Raise!
+['SA', 'S7'] [] 0.619 0.88
+Raise!
+b10902086 vs strong3 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 2000, 'state': 'participating'}, {'name': 'strong3', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['D9', 'H8'] [] 0.499 0.49
+Call!
+['SQ', 'D2'] [] 0.457 0.36
+Call!
+['SQ', 'D2'] [] 0.482 0.44
+Fold!
+['CA', 'D5'] [] 0.558 0.7
+Call!
+['CA', 'D5'] ['C2', 'C9', 'H4'] 0.481 0.51
+Fold!
+['H6', 'CA'] [] 0.6 0.83
+Raise!
+['H6', 'CA'] ['H9', 'D7', 'ST'] 0.491 0.53
+Call!
+['H6', 'CA'] ['H9', 'D7', 'ST'] 0.474 0.5
+Fold!
+['HK', 'CT'] [] 0.594 0.81
+Raise!
+['H4', 'D2'] [] 0.273 0.01
+Fold!
+['CA', 'H8'] [] 0.596 0.82
+Raise!
+['CA', 'H8'] ['CJ', 'HJ', 'S8'] 0.771 0.88
+Raise!
+['CA', 'H8'] ['CJ', 'HJ', 'S8', 'DQ'] 0.713 0.77
+Call!
+['CT', 'D2'] [] 0.42 0.26
+Call!
+['DQ', 'CJ'] [] 0.601 0.83
+Raise!
+['CT', 'S4'] [] 0.433 0.29
+Call!
+b10902086 vs strong3 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong3', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 995, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1005, 'state': 'participating'}]}
+['CJ', 'C9'] [] 0.587 0.79
+Raise!
+['CJ', 'C9'] ['C8', 'H2', 'SJ'] 0.82 0.92
+Raise!
+['CJ', 'C9'] ['C8', 'H2', 'SJ', 'HQ'] 0.773 0.83
+Raise!
+['SQ', 'CQ'] [] 0.81 1
+Raise!
+['SQ', 'CQ'] [] 0.814 1
+Raise!
+['SQ', 'CQ'] [] 0.785 0.99
+Raise!
+b10902086 vs strong3 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 295, 'state': 'participating'}, {'name': 'strong3', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1705, 'state': 'participating'}]}
+b10902086 vs strong3 - Match Result: b10902086 1 games won, 0 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] [] 0.438 0.3
+Fold!
+['CJ', 'SQ'] [] 0.605 0.84
+Raise!
+['CJ', 'SQ'] ['DQ', 'HT', 'H8'] 0.804 0.91
+Raise!
+['C2', 'CQ'] [] 0.509 0.53
+Call!
+['C5', 'SA'] [] 0.588 0.8
+Raise!
+['C5', 'SA'] ['SK', 'HT', 'C3'] 0.47 0.49
+Call!
+['C5', 'SA'] ['SK', 'HT', 'C3', 'DT'] 0.525 0.55
+Call!
+['C5', 'SA'] ['SK', 'HT', 'C3', 'DT', 'SQ'] 0.442 0.45
+Fold!
+['D4', 'CQ'] [] 0.489 0.46
+Call!
+['D4', 'CQ'] ['DK', 'SA', 'H5'] 0.446 0.44
+Call!
+['D4', 'CQ'] ['DK', 'SA', 'H5', 'DT'] 0.439 0.43
+Call!
+['D4', 'CQ'] ['DK', 'SA', 'H5', 'DT', 'C9'] 0.313 0.32
+Call!
+['C6', 'H6'] [] 0.651 0.94
+Raise!
+['H9', 'DT'] [] 0.55 0.67
+Call!
+['H9', 'DT'] ['DQ', 'CA', 'SA'] 0.464 0.48
+Call!
+['H9', 'DT'] ['DQ', 'CA', 'SA', 'HA'] 0.498 0.51
+Call!
+['H9', 'DT'] ['DQ', 'CA', 'SA', 'HA', 'S3'] 0.391 0.4
+Call!
+['DA', 'CK'] [] 0.656 0.95
+Raise!
+['DA', 'CK'] ['H5', 'HJ', 'CJ'] 0.614 0.72
+Call!
+['DA', 'CK'] ['H5', 'HJ', 'CJ', 'D5'] 0.741 0.8
+Call!
+['DA', 'CK'] ['H5', 'HJ', 'CJ', 'D5', 'C4'] 0.782 0.78
+Call!
+['DQ', 'C2'] [] 0.437 0.3
+Fold!
+['D5', 'S2'] [] 0.319 0.04
+Fold!
+['C5', 'DK'] [] 0.524 0.58
+Call!
+['C5', 'DK'] ['H7', 'D8', 'S8'] 0.472 0.49
+Call!
+['C5', 'DK'] ['H7', 'D8', 'S8', 'H9'] 0.405 0.38
+Call!
+['C5', 'DK'] ['H7', 'D8', 'S8', 'H9'] 0.437 0.43
+Fold!
+['HJ', 'D9'] [] 0.567 0.73
+Raise!
+['HJ', 'D9'] ['DT', 'DJ', 'CK'] 0.753 0.86
+Raise!
+b10902086 vs strong4 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong4', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 859.3827078336788, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1136.0, 'state': 'participating'}]}
+['CT', 'DA'] [] 0.637 0.92
+Raise!
+['CT', 'DA'] ['C2', 'H8', 'C9'] 0.518 0.57
+Call!
+['CT', 'DA'] ['C2', 'H8', 'C9', 'H6'] 0.457 0.46
+Call!
+['CT', 'DA'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.696 0.69
+Call!
+['SK', 'D7'] [] 0.574 0.75
+Raise!
+['SK', 'D7'] [] 0.571 0.74
+Raise!
+b10902086 vs strong4 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1130.0, 'state': 'participating'}, {'name': 'strong4', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 867.3399999999999, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['CQ', 'D8'] [] 0.559 0.7
+Call!
+['CQ', 'D8'] [] 0.537 0.63
+Fold!
+['C8', 'D6'] [] 0.432 0.29
+Fold!
+['D7', 'H6'] [] 0.421 0.26
+Fold!
+['S6', 'S3'] [] 0.393 0.18
+Fold!
+['CT', 'HQ'] [] 0.581 0.77
+Raise!
+['CT', 'HQ'] [] 0.586 0.79
+Raise!
+['CT', 'HQ'] ['HA', 'C2', 'SJ'] 0.569 0.65
+Call!
+['CT', 'HQ'] ['HA', 'C2', 'SJ', 'D9'] 0.471 0.48
+Call!
+['CT', 'HQ'] ['HA', 'C2', 'SJ', 'D9', 'DJ'] 0.402 0.41
+Call!
+['CJ', 'S3'] [] 0.457 0.36
+Call!
+['DA', 'CK'] [] 0.671 0.96
+Raise!
+['DA', 'CK'] ['ST', 'H6', 'S4'] 0.501 0.54
+Call!
+['DA', 'CK'] ['ST', 'H6', 'S4', 'HT'] 0.583 0.63
+Call!
+['DA', 'CK'] ['ST', 'H6', 'S4', 'HT', 'SQ'] 0.495 0.5
+Call!
+['CA', 'C6'] [] 0.57 0.74
+Raise!
+['CA', 'C6'] [] 0.626 0.89
+Raise!
+b10902086 vs strong4 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong4', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1924.0, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 72.0, 'state': 'participating'}]}
+['HJ', 'C5'] [] 0.506 0.52
+Call!
+['HJ', 'C5'] [] 0.447 0.33
+Fold!
+['CA', 'D8'] [] 0.643 0.93
+Raise!
+['CA', 'D8'] ['C9', 'D9', 'SA'] 0.886 0.97
+Raise!
+['C8', 'CA'] [] 0.641 0.92
+Raise!
+['C8', 'CA'] [] 0.629 0.9
+Raise!
+['C8', 'CA'] ['C3', 'CJ', 'S8'] 0.843 0.94
+Raise!
+b10902086 vs strong4 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1998.0, 'state': 'participating'}, {'name': 'strong4', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+b10902086 vs strong4 - Match Result: b10902086 3 games won, 2 points earned
+['CJ', 'D2'] [] 0.457 0.36
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9'] 0.577 0.66
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6'] 0.461 0.46
+Call!
+['CJ', 'D2'] ['C2', 'H8', 'C9', 'H6', 'DT'] 0.339 0.35
+Call!
+['DA', 'SK'] [] 0.654 0.95
+Raise!
+['C9', 'D4'] [] 0.409 0.22
+Fold!
+['S2', 'H6'] [] 0.315 0.04
+Call!
+['S2', 'H6'] ['S5', 'HT', 'D9'] 0.166 0.03
+Fold!
+['S8', 'HJ'] [] 0.531 0.6
+Call!
+['S8', 'HJ'] ['S9', 'H8', 'DT'] 0.707 0.82
+Raise!
+['S8', 'HJ'] ['S9', 'H8', 'DT', 'D4'] 0.675 0.73
+Call!
+['S8', 'HJ'] ['S9', 'H8', 'DT', 'D4', 'D3'] 0.56 0.56
+Call!
+['S8', 'HJ'] ['S9', 'H8', 'DT', 'D4', 'D3'] 0.608 0.61
+Fold!
+['DT', 'C5'] [] 0.456 0.36
+Call!
+['DT', 'C5'] ['HJ', 'D7', 'D8'] 0.396 0.35
+Fold!
+['C4', 'S3'] [] 0.321 0.04
+Fold!
+['DJ', 'H3'] [] 0.457 0.36
+Call!
+['DJ', 'H3'] ['DQ', 'D3', 'HQ'] 0.672 0.78
+Raise!
+b10902086 vs strong5 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong5', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1998.0, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+['CT', 'DA'] [] 0.634 0.91
+Raise!
+['CA', 'C2'] [] 0.556 0.69
+Call!
+['CA', 'C2'] ['C8', 'D2', 'CJ'] 0.737 0.85
+Raise!
+['S7', 'S5'] [] 0.437 0.3
+Call!
+['S7', 'S5'] ['DT', 'D7', 'DQ'] 0.479 0.51
+Fold!
+['HQ', 'S5'] [] 0.54 0.64
+Call!
+['HQ', 'S5'] ['C6', 'DA', 'HK'] 0.446 0.44
+Call!
+['HQ', 'S5'] ['C6', 'DA', 'HK'] 0.454 0.46
+Fold!
+['H3', 'D4'] [] 0.313 0.03
+Call!
+['H3', 'D4'] ['D8', 'D5', 'CQ'] 0.184 0.04
+Fold!
+['S7', 'S4'] [] 0.409 0.22
+Fold!
+['H9', 'SA'] [] 0.598 0.82
+Raise!
+['D2', 'H7'] [] 0.344 0.08
+Fold!
+['HT', 'DK'] [] 0.638 0.92
+Raise!
+['S7', 'H6'] [] 0.453 0.35
+Call!
+['S7', 'H6'] ['DQ', 'D4', 'D6'] 0.53 0.59
+Call!
+['S7', 'H6'] ['DQ', 'D4', 'D6', 'C9'] 0.551 0.59
+Call!
+['S7', 'H6'] ['DQ', 'D4', 'D6', 'C9', 'C8'] 0.506 0.51
+Call!
+['S9', 'S2'] [] 0.435 0.3
+Fold!
+['C4', 'DJ'] [] 0.479 0.43
+Call!
+['C4', 'DJ'] ['S9', 'DA', 'HJ'] 0.731 0.84
+Raise!
+['D6', 'CJ'] [] 0.5 0.5
+Call!
+['D6', 'CJ'] ['ST', 'C2', 'H8'] 0.311 0.21
+Call!
+['D6', 'CJ'] ['ST', 'C2', 'H8', 'D7'] 0.328 0.28
+Call!
+['D6', 'CJ'] ['ST', 'C2', 'H8', 'D7', 'CK'] 0.182 0.19
+Fold!
+['D6', 'HK'] [] 0.563 0.72
+Raise!
+['C6', 'CT'] [] 0.492 0.47
+Call!
+['C6', 'CT'] ['C4', 'DQ', 'C3'] 0.558 0.63
+Call!
+['C6', 'CT'] ['C4', 'DQ', 'C3', 'DJ'] 0.396 0.37
+Call!
+['C6', 'CT'] ['C4', 'DQ', 'C3', 'DJ', 'H6'] 0.647 0.65
+Call!
+['H8', 'D9'] [] 0.485 0.45
+Call!
+['H8', 'D9'] [] 0.477 0.42
+Fold!
+['ST', 'D2'] [] 0.415 0.24
+Call!
+['ST', 'D2'] ['C4', 'H8', 'SJ'] 0.275 0.15
+Call!
+['ST', 'D2'] ['C4', 'H8', 'SJ', 'S9'] 0.3 0.25
+Call!
+['ST', 'D2'] ['C4', 'H8', 'SJ', 'S9', 'H5'] 0.076 0.09
+Fold!
+b10902086 vs strong5 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902086', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1975, 'state': 'participating'}, {'name': 'strong5', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 22.0, 'state': 'participating'}]}
+['S2', 'C7'] [] 0.328 0.05
+Fold!
+['D9', 'H8'] [] 0.46 0.37
+Call!
+['D9', 'H8'] ['DT', 'H9', 'D3'] 0.707 0.82
+Raise!
+['S6', 'HA'] [] 0.606 0.85
+Raise!
+['S6', 'HA'] ['HT', 'D5', 'S2'] 0.492 0.53
+Call!
+['S6', 'HA'] ['HT', 'D5', 'S2', 'ST'] 0.545 0.58
+Call!
+['S6', 'HA'] ['HT', 'D5', 'S2', 'ST', 'DA'] 0.852 0.85
+Raise!
+['D7', 'D6'] [] 0.461 0.37
+Call!
+['D7', 'D6'] ['CA', 'H4', 'DJ'] 0.278 0.16
+Fold!
+['SJ', 'D8'] [] 0.526 0.59
+Call!
+['SJ', 'D8'] ['D3', 'D9', 'C5'] 0.377 0.32
+Call!
+['SJ', 'D8'] ['D3', 'D9', 'C5', 'ST'] 0.378 0.35
+Call!
+['SJ', 'D8'] ['D3', 'D9', 'C5', 'ST', 'DJ'] 0.78 0.78
+Call!
+['DK', 'D4'] [] 0.556 0.69
+Call!
+['DK', 'D4'] ['S5', 'DJ', 'D8'] 0.596 0.69
+Call!
+['DK', 'D4'] ['S5', 'DJ', 'D8', 'C7'] 0.459 0.46
+Call!
+['DK', 'D4'] ['S5', 'DJ', 'D8', 'C7', 'S7'] 0.311 0.32
+Call!
+['HA', 'CK'] [] 0.669 0.96
+Raise!
+['DJ', 'S9'] [] 0.576 0.76
+Raise!
+['S8', 'H4'] [] 0.383 0.16
+Fold!
+['S3', 'D8'] [] 0.365 0.11
+Fold!
+['H3', 'D8'] [] 0.338 0.07
+Fold!
+['S2', 'H5'] [] 0.309 0.03
+Fold!
+['D7', 'D4'] [] 0.433 0.29
+Fold!
+['ST', 'C3'] [] 0.455 0.35
+Fold!
+['D3', 'HQ'] [] 0.484 0.44
+Call!
+['D3', 'HQ'] [] 0.47 0.4
+Fold!
+['H4', 'DA'] [] 0.556 0.69
+Call!
+['H4', 'DA'] ['S6', 'C5', 'DT'] 0.483 0.51
+Fold!
+['SQ', 'H5'] [] 0.51 0.53
+Call!
+['SQ', 'H5'] [] 0.512 0.54
+Fold!
+b10902086 vs strong5 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong5', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1999.0, 'state': 'participating'}, {'name': 'b10902086', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+b10902086 vs strong5 - Match Result: b10902086 3 games won, 2 points earned

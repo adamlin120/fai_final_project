@@ -1,0 +1,3166 @@
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+960 1020 120 120
+20 165 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+955 1030 110 115
+15 160 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'fold', 'amount': 0} 0
+940 1040 105 105
+20 170 64 {'action': 'call', 'amount': 10} 10
+940 1040 105 105
+20 170 64 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 10
+930 1030 105 105
+40 180 74 {'action': 'call', 'amount': 0} 0
+930 1030 105 105
+40 180 74 {'action': 'call', 'amount': 0} 0
+965 1020 95 100
+15 135 79 {'action': 'call', 'amount': 10} 10
+960 1020 95 100
+20 140 79 {'action': 'fold', 'amount': 0} 0
+950 1030 90 90
+20 145 59 {'action': 'call', 'amount': 10} 10
+950 1030 90 90
+20 145 59 {'action': 'fold', 'amount': 0} 0
+945 1040 80 85
+15 140 44 {'action': 'call', 'amount': 10} 10
+940 1040 80 85
+20 145 44 {'action': 'fold', 'amount': 0} 0
+930 1050 75 75
+20 150 24 {'action': 'call', 'amount': 10} 10
+930 1050 75 75
+20 150 24 {'action': 'fold', 'amount': 0} 0
+925 1060 65 70
+15 145 9 {'action': 'raise', 'amount': {'min': 15, 'max': 930}} 930
+1850 130 60 60
+fold
+1845 140 50 55
+fold
+1835 145 45 45
+fold
+1830 155 35 40
+fold
+1820 160 30 30
+fold
+1815 170 20 25
+fold
+1805 175 15 15
+fold
+1800 185 5 10
+fold
+1790 190 0 0
+fold
+b10201054 vs baseline0 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline0', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 210, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1790, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+970 1010 125 130
+20 160 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+965 1020 120 120
+15 160 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+950 1030 110 115
+20 165 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'fold', 'amount': 0} 0
+945 1040 105 105
+15 165 64 {'action': 'call', 'amount': 10} 10
+940 1040 105 105
+20 170 64 {'action': 'fold', 'amount': 0} 0
+930 1050 95 100
+20 170 49 {'action': 'call', 'amount': 10} 10
+930 1050 95 100
+20 170 49 {'action': 'call', 'amount': 0} 0
+930 1050 95 100
+20 170 49 {'action': 'call', 'amount': 0} 0
+930 1050 95 100
+20 170 49 {'action': 'call', 'amount': 0} 0
+925 1060 90 90
+15 170 29 {'action': 'call', 'amount': 10} 10
+920 1060 90 90
+20 175 29 {'action': 'fold', 'amount': 0} 0
+910 1070 80 85
+20 175 14 {'action': 'raise', 'amount': {'min': 15, 'max': 920}} 920
+b10201054 vs baseline0 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 0, 'state': 'folded'}, {'name': 'baseline0', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 2000, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+960 1020 120 120
+20 165 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+955 1030 110 115
+15 160 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'raise', 'amount': {'min': 10, 'max': 950}} 49
+901 981 110 115
+118 214 133 {'action': 'raise', 'amount': {'min': 10, 'max': 901}} 14
+887 967 110 115
+146 228 147 {'action': 'raise', 'amount': {'min': 10, 'max': 887}} 82
+1105 875 105 105
+20 5 229 {'action': 'call', 'amount': 10} 10
+1105 875 105 105
+20 5 229 {'action': 'fold', 'amount': 0} 0
+1100 885 95 100
+15 0 214 {'action': 'call', 'amount': 10} 10
+1095 885 95 100
+20 5 214 {'action': 'fold', 'amount': 0} 0
+1085 895 90 90
+20 10 194 {'action': 'call', 'amount': 10} 10
+1085 895 90 90
+20 10 194 {'action': 'raise', 'amount': {'min': 10, 'max': 1085}} 10
+1075 885 90 90
+40 20 204 {'action': 'raise', 'amount': {'min': 10, 'max': 1075}} 10
+1065 875 90 90
+60 30 214 {'action': 'raise', 'amount': {'min': 10, 'max': 1065}} 10
+1130 855 80 85
+fold
+1120 860 75 75
+fold
+1115 870 65 70
+fold
+1105 875 60 60
+fold
+1100 885 50 55
+fold
+1090 890 45 45
+fold
+1085 900 35 40
+fold
+1075 905 30 30
+fold
+1070 915 20 25
+fold
+1060 920 15 15
+fold
+1055 930 5 10
+fold
+1045 935 0 0
+fold
+b10201054 vs baseline0 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline0', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 955, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1045, 'state': 'participating'}]}
+b10201054 vs baseline0 - Match Result: b10201054 0 games won, 0.0 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+960 1020 120 120
+20 165 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'raise', 'amount': {'min': 10, 'max': 960}} 64
+896 956 120 120
+148 229 163 {'action': 'call', 'amount': 0} 0
+896 956 120 120
+148 229 163 {'action': 'raise', 'amount': {'min': 10, 'max': 896}} 14
+1053 932 110 115
+15 62 182 {'action': 'call', 'amount': 10} 10
+1048 932 110 115
+20 67 182 {'action': 'fold', 'amount': 0} 0
+1038 942 105 105
+20 72 162 {'action': 'call', 'amount': 10} 10
+1038 942 105 105
+20 72 162 {'action': 'fold', 'amount': 0} 0
+1033 952 95 100
+15 67 147 {'action': 'call', 'amount': 10} 10
+1028 952 95 100
+20 72 147 {'action': 'raise', 'amount': {'min': 10, 'max': 1028}} 10
+1018 942 95 100
+40 82 157 {'action': 'raise', 'amount': {'min': 10, 'max': 1018}} 10
+1008 932 95 100
+60 92 167 {'action': 'raise', 'amount': {'min': 10, 'max': 1008}} 32
+1058 922 90 90
+20 37 167 {'action': 'call', 'amount': 10} 10
+1058 922 90 90
+20 37 167 {'action': 'fold', 'amount': 0} 0
+1053 932 80 85
+15 32 152 {'action': 'call', 'amount': 10} 10
+1048 932 80 85
+20 37 152 {'action': 'fold', 'amount': 0} 0
+1038 942 75 75
+20 42 132 {'action': 'call', 'amount': 10} 10
+1038 942 75 75
+20 42 132 {'action': 'fold', 'amount': 0} 0
+1033 952 65 70
+15 37 117 {'action': 'call', 'amount': 10} 10
+1028 952 65 70
+20 42 117 {'action': 'raise', 'amount': {'min': 10, 'max': 1028}} 22
+1006 930 65 70
+64 64 139 {'action': 'raise', 'amount': {'min': 10, 'max': 1006}} 10
+996 920 65 70
+84 74 149 {'action': 'raise', 'amount': {'min': 10, 'max': 996}} 10
+986 682.0 65 70
+332.0 84 387.0 {'action': 'call', 'amount': 238.0} 238.0
+1308.0 672.0 60 60
+fold
+1303.0 682.0 50 55
+fold
+1293.0 687.0 45 45
+fold
+1288.0 697.0 35 40
+fold
+1278.0 702.0 30 30
+fold
+1273.0 712.0 20 25
+fold
+1263.0 717.0 15 15
+fold
+1258.0 727.0 5 10
+fold
+1248.0 732.0 0 0
+fold
+b10201054 vs baseline1 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline1', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 752.0, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1248.0, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+970 1010 125 130
+20 160 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+965 1020 120 120
+15 160 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+950 1030 110 115
+20 165 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'fold', 'amount': 0} 0
+945 1040 105 105
+15 165 64 {'action': 'call', 'amount': 10} 10
+940 1040 105 105
+20 170 64 {'action': 'fold', 'amount': 0} 0
+930 1050 95 100
+20 170 49 {'action': 'call', 'amount': 10} 10
+930 1050 95 100
+20 170 49 {'action': 'call', 'amount': 0} 0
+930 1050 95 100
+20 170 49 {'action': 'call', 'amount': 0} 0
+930 786.25 95 100
+283.75 170 312.75 {'action': 'fold', 'amount': 0} 0
+925 1059.25 90 90
+15 170 29.75 {'action': 'call', 'amount': 10} 10
+920 1059.25 90 90
+20 175 29.75 {'action': 'fold', 'amount': 0} 0
+910 1069.25 80 85
+20 175 14.75 {'action': 'raise', 'amount': {'min': 15, 'max': 920}} 920
+1835 149.25 75 75
+fold
+1825 154.25 65 70
+fold
+1820 164.25 60 60
+fold
+1810 169.25 50 55
+fold
+1805 179.25 45 45
+fold
+1795 184.25 35 40
+fold
+1790 194.25 30 30
+fold
+1780 199.25 20 25
+fold
+1775 209.25 15 15
+fold
+1765 214.25 5 10
+fold
+1760 224.25 0 0
+fold
+b10201054 vs baseline1 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1760, 'state': 'participating'}, {'name': 'baseline1', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 239.25, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'raise', 'amount': {'min': 10, 'max': 980}} 10
+970 990 135 135
+40 170 144 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 10
+960 980 135 135
+60 180 154 {'action': 'raise', 'amount': {'min': 10, 'max': 960}} 10
+945 1040 125 130
+15 185 89 {'action': 'call', 'amount': 10} 10
+940 1040 125 130
+20 190 89 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 10
+930 1030 125 130
+40 200 99 {'action': 'raise', 'amount': {'min': 10, 'max': 930}} 10
+920 1020 125 130
+60 210 109 {'action': 'raise', 'amount': {'min': 10, 'max': 920}} 10
+970 1010 120 120
+20 155 109 {'action': 'raise', 'amount': {'min': 15, 'max': 980}} 59
+921 961 120 120
+118 204 158 {'action': 'raise', 'amount': {'min': 10, 'max': 921}} 25
+1059 926 110 115
+15 56 188 {'action': 'call', 'amount': 10} 10
+1054 926 110 115
+20 61 188 {'action': 'fold', 'amount': 0} 0
+1044 936 105 105
+20 66 168 {'action': 'call', 'amount': 10} 10
+1044 936 105 105
+20 66 168 {'action': 'fold', 'amount': 0} 0
+1039 946 95 100
+15 61 153 {'action': 'call', 'amount': 10} 10
+1034 946 95 100
+20 66 153 {'action': 'fold', 'amount': 0} 0
+1024 956 90 90
+20 71 133 {'action': 'call', 'amount': 10} 10
+1024 956 90 90
+20 71 133 {'action': 'raise', 'amount': {'min': 10, 'max': 1024}} 10
+1014 946 90 90
+40 81 143 {'action': 'raise', 'amount': {'min': 10, 'max': 1014}} 10
+1004 936 90 90
+60 91 153 {'action': 'raise', 'amount': {'min': 10, 'max': 1004}} 10
+1069 916 80 85
+15 16 168 {'action': 'call', 'amount': 10} 10
+1064 916 80 85
+20 21 168 {'action': 'fold', 'amount': 0} 0
+1054 926 75 75
+20 26 148 {'action': 'call', 'amount': 10} 10
+1054 926 75 75
+20 26 148 {'action': 'fold', 'amount': 0} 0
+1049 936 65 70
+15 21 133 {'action': 'call', 'amount': 10} 10
+1044 936 65 70
+20 26 133 {'action': 'fold', 'amount': 0} 0
+1034 946 60 60
+20 31 113 {'action': 'call', 'amount': 10} 10
+1034 708.25 60 60
+257.75 31 350.75 {'action': 'call', 'amount': 237.75} 237.75
+796.25 470.5 60 60
+733.25 268.75 588.5 {'action': 'raise', 'amount': {'min': 475.5, 'max': 796.25}} 796.25
+1524.0 460.5 50 55
+fold
+1514.0 465.5 45 45
+fold
+1509.0 475.5 35 40
+fold
+1499.0 480.5 30 30
+fold
+1494.0 490.5 20 25
+fold
+1484.0 495.5 15 15
+fold
+1479.0 505.5 5 10
+fold
+1469.0 510.5 0 0
+fold
+b10201054 vs baseline1 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline1', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 530.5, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1469.0, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'raise', 'amount': {'min': 10, 'max': 990}} 119
+871 871 140 145
+258 274 273 {'action': 'call', 'amount': 0} 0
+871 871 140 145
+258 274 273 {'action': 'call', 'amount': 0} 0
+1124 861 135 135
+15 16 273 {'action': 'call', 'amount': 10} 10
+1119 861 135 135
+20 21 273 {'action': 'fold', 'amount': 0} 0
+1109 871 125 130
+20 21 258 {'action': 'call', 'amount': 10} 10
+1109 871 125 130
+20 21 258 {'action': 'raise', 'amount': {'min': 10, 'max': 1109}} 10
+1099 861 125 130
+40 31 268 {'action': 'raise', 'amount': {'min': 10, 'max': 1099}} 10
+1089 851 125 130
+60 41 278 {'action': 'raise', 'amount': {'min': 10, 'max': 1089}} 10
+1154 831 120 120
+fold
+1144 836 110 115
+fold
+1139 846 105 105
+fold
+1129 851 95 100
+fold
+1124 861 90 90
+fold
+1114 866 80 85
+fold
+1109 876 75 75
+fold
+1099 881 65 70
+fold
+1094 891 60 60
+fold
+1084 896 50 55
+fold
+1079 906 45 45
+fold
+1069 911 35 40
+fold
+1064 921 30 30
+fold
+1054 926 20 25
+fold
+1049 936 15 15
+fold
+1039 941 5 10
+fold
+1034 951 0 0
+fold
+b10201054 vs baseline1 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1034, 'state': 'participating'}, {'name': 'baseline1', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 966, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'raise', 'amount': {'min': 15, 'max': 1000}} 109
+891 891 140 145
+218 254 253 {'action': 'raise', 'amount': {'min': 10, 'max': 891}} 20
+871 871 140 145
+258 274 273 {'action': 'call', 'amount': 0} 0
+1119 861 135 135
+20 21 273 {'action': 'call', 'amount': 10} 10
+1119 644.5 135 135
+236.5 21 489.5 {'action': 'fold', 'amount': 0} 0
+1114 870.5 125 130
+15 16 258.5 {'action': 'call', 'amount': 10} 10
+1109 870.5 125 130
+20 21 258.5 {'action': 'raise', 'amount': {'min': 10, 'max': 1109}} 10
+1099 860.5 125 130
+40 31 268.5 {'action': 'raise', 'amount': {'min': 10, 'max': 1099}} 10
+1089 850.5 125 130
+60 41 278.5 {'action': 'fold', 'amount': 0} 0
+1079 900.5 120 120
+20 46 218.5 {'action': 'raise', 'amount': {'min': 15, 'max': 1089}} 26
+1063 884.5 120 120
+52 62 234.5 {'action': 'raise', 'amount': {'min': 10, 'max': 1063}} 10
+1053 874.5 120 120
+72 72 244.5 {'action': 'raise', 'amount': {'min': 10, 'max': 1053}} 10
+1043 864.5 120 120
+92 82 254.5 {'action': 'raise', 'amount': {'min': 10, 'max': 1043}} 10
+1140 844.5 110 115
+fold
+1130 849.5 105 105
+fold
+1125 859.5 95 100
+fold
+1115 864.5 90 90
+fold
+1110 874.5 80 85
+fold
+1100 879.5 75 75
+fold
+1095 889.5 65 70
+fold
+1085 894.5 60 60
+fold
+1080 904.5 50 55
+fold
+1070 909.5 45 45
+fold
+1065 919.5 35 40
+fold
+1055 924.5 30 30
+fold
+1050 934.5 20 25
+fold
+1040 939.5 15 15
+fold
+1035 949.5 5 10
+fold
+1025 954.5 0 0
+fold
+b10201054 vs baseline1 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline1', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 974.5, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1025, 'state': 'participating'}]}
+b10201054 vs baseline1 - Match Result: b10201054 2 games won, 3.0 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+960 1020 120 120
+20 165 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+955 1030 110 115
+15 160 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'fold', 'amount': 0} 0
+940 1040 105 105
+20 170 64 {'action': 'call', 'amount': 10} 10
+940 1040 105 105
+20 170 64 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 10
+930 1030 105 105
+40 180 74 {'action': 'call', 'amount': 0} 0
+930 1030 105 105
+40 180 74 {'action': 'raise', 'amount': {'min': 10, 'max': 930}} 33
+998 987 95 100
+15 102 112 {'action': 'call', 'amount': 10} 10
+993 987 95 100
+20 107 112 {'action': 'fold', 'amount': 0} 0
+983 997 90 90
+20 112 92 {'action': 'call', 'amount': 10} 10
+983 997 90 90
+20 112 92 {'action': 'fold', 'amount': 0} 0
+978 1007 80 85
+15 107 77 {'action': 'call', 'amount': 10} 10
+973 1007 80 85
+20 112 77 {'action': 'fold', 'amount': 0} 0
+963 1017 75 75
+20 117 57 {'action': 'call', 'amount': 10} 10
+963 1017 75 75
+20 117 57 {'action': 'fold', 'amount': 0} 0
+958 1027 65 70
+15 112 42 {'action': 'call', 'amount': 10} 10
+953 1027 65 70
+20 117 42 {'action': 'call', 'amount': 0} 0
+953 1027 65 70
+20 117 42 {'action': 'call', 'amount': 0} 0
+953 1027 65 70
+20 117 42 {'action': 'call', 'amount': 0} 0
+963 1017 60 60
+20 102 42 {'action': 'call', 'amount': 10} 10
+963 1017 60 60
+20 102 42 {'action': 'fold', 'amount': 0} 0
+958 1027 50 55
+15 97 27 {'action': 'call', 'amount': 10} 10
+953 1027 50 55
+20 102 27 {'action': 'fold', 'amount': 0} 0
+943 1037 45 45
+20 107 7 {'action': 'raise', 'amount': {'min': 15, 'max': 953}} 953
+b10201054 vs baseline2 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline2', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 2000, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+970 1010 125 130
+20 160 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+965 1020 120 120
+15 160 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+950 1030 110 115
+20 165 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'raise', 'amount': {'min': 10, 'max': 950}} 49
+901 981 110 115
+118 214 133 {'action': 'raise', 'amount': {'min': 10, 'max': 901}} 14
+887 967 110 115
+146 228 147 {'action': 'call', 'amount': 0} 0
+1028 957 105 105
+15 82 147 {'action': 'call', 'amount': 10} 10
+1023 957 105 105
+20 87 147 {'action': 'fold', 'amount': 0} 0
+1013 967 95 100
+20 87 132 {'action': 'call', 'amount': 10} 10
+1013 967 95 100
+20 87 132 {'action': 'fold', 'amount': 0} 0
+1008 977 90 90
+15 87 112 {'action': 'call', 'amount': 10} 10
+1003 977 90 90
+20 92 112 {'action': 'raise', 'amount': {'min': 10, 'max': 1003}} 10
+993 967 90 90
+40 102 122 {'action': 'raise', 'amount': {'min': 10, 'max': 993}} 10
+1023 957 80 85
+20 62 127 {'action': 'call', 'amount': 10} 10
+1023 957 80 85
+20 62 127 {'action': 'raise', 'amount': {'min': 10, 'max': 1023}} 10
+1013 947 80 85
+40 72 137 {'action': 'raise', 'amount': {'min': 10, 'max': 1013}} 10
+1003 937 80 85
+60 82 147 {'action': 'raise', 'amount': {'min': 10, 'max': 1003}} 10
+988 997 75 75
+15 92 77 {'action': 'call', 'amount': 10} 10
+983 997 75 75
+20 97 77 {'action': 'fold', 'amount': 0} 0
+973 1007 65 70
+20 97 62 {'action': 'call', 'amount': 10} 10
+973 1007 65 70
+20 97 62 {'action': 'fold', 'amount': 0} 0
+968 1017 60 60
+15 97 42 {'action': 'call', 'amount': 10} 10
+963 1017 60 60
+20 102 42 {'action': 'call', 'amount': 0} 0
+973 1007 50 55
+20 82 47 {'action': 'call', 'amount': 10} 10
+973 1007 50 55
+20 82 47 {'action': 'call', 'amount': 0} 0
+973 1007 50 55
+20 82 47 {'action': 'raise', 'amount': {'min': 10, 'max': 973}} 26
+947 981 50 55
+72 108 73 {'action': 'call', 'amount': 0} 0
+1014 971 45 45
+15 36 73 {'action': 'call', 'amount': 10} 10
+1009 971 45 45
+20 41 73 {'action': 'fold', 'amount': 0} 0
+999 981 35 40
+20 41 58 {'action': 'call', 'amount': 10} 10
+999 981 35 40
+20 41 58 {'action': 'raise', 'amount': {'min': 10, 'max': 999}} 21
+978 960 35 40
+62 62 79 {'action': 'raise', 'amount': {'min': 10, 'max': 978}} 10
+968 950 35 40
+82 72 89 {'action': 'call', 'amount': 0} 0
+1045 940 30 30
+fold
+1035 945 20 25
+fold
+1030 955 15 15
+fold
+1020 960 5 10
+fold
+1015 970 0 0
+fold
+b10201054 vs baseline2 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1015, 'state': 'participating'}, {'name': 'baseline2', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 985, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'raise', 'amount': {'min': 10, 'max': 980}} 10
+970 990 135 135
+40 170 144 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 10
+1015 970 125 130
+15 115 159 {'action': 'call', 'amount': 10} 10
+1010 970 125 130
+20 120 159 {'action': 'fold', 'amount': 0} 0
+1000 980 120 120
+20 125 139 {'action': 'call', 'amount': 10} 10
+1000 980 120 120
+20 125 139 {'action': 'raise', 'amount': {'min': 10, 'max': 1000}} 10
+990 970 120 120
+40 135 149 {'action': 'raise', 'amount': {'min': 10, 'max': 990}} 95
+895 875 120 120
+230 230 244 {'action': 'raise', 'amount': {'min': 10, 'max': 895}} 10
+1130 855 110 115
+fold
+1120 860 105 105
+fold
+1115 870 95 100
+fold
+1105 875 90 90
+fold
+1100 885 80 85
+fold
+1090 890 75 75
+fold
+1085 900 65 70
+fold
+1075 905 60 60
+fold
+1070 915 50 55
+fold
+1060 920 45 45
+fold
+1055 930 35 40
+fold
+1045 935 30 30
+fold
+1040 945 20 25
+fold
+1030 950 15 15
+fold
+1025 960 5 10
+fold
+1015 965 0 0
+fold
+b10201054 vs baseline2 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline2', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 985, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1015, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'raise', 'amount': {'min': 10, 'max': 990}} 119
+871 871 140 145
+258 274 273 {'action': 'call', 'amount': 0} 0
+871 871 140 145
+258 274 273 {'action': 'call', 'amount': 0} 0
+1124 861 135 135
+15 16 273 {'action': 'call', 'amount': 10} 10
+1119 861 135 135
+20 21 273 {'action': 'raise', 'amount': {'min': 10, 'max': 1119}} 10
+1129 851 125 130
+20 1 278 {'action': 'call', 'amount': 10} 10
+1129 851 125 130
+20 1 278 {'action': 'fold', 'amount': 0} 0
+1124 861 120 120
+15 1 258 {'action': 'call', 'amount': 10} 10
+1119 861 120 120
+20 6 258 {'action': 'fold', 'amount': 0} 0
+1109 871 110 115
+20 6 243 {'action': 'call', 'amount': 10} 10
+1109 871 110 115
+20 6 243 {'action': 'raise', 'amount': {'min': 10, 'max': 1109}} 10
+1099 861 110 115
+40 16 253 {'action': 'raise', 'amount': {'min': 10, 'max': 1099}} 10
+1144 841 105 105
+fold
+1134 846 95 100
+fold
+1129 856 90 90
+fold
+1119 861 80 85
+fold
+1114 871 75 75
+fold
+1104 876 65 70
+fold
+1099 886 60 60
+fold
+1089 891 50 55
+fold
+1084 901 45 45
+fold
+1074 906 35 40
+fold
+1069 916 30 30
+fold
+1059 921 20 25
+fold
+1054 931 15 15
+fold
+1044 936 5 10
+fold
+1039 946 0 0
+fold
+b10201054 vs baseline2 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1039, 'state': 'participating'}, {'name': 'baseline2', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 961, 'state': 'participating'}]}
+b10201054 vs baseline2 - Match Result: b10201054 3 games won, 5 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+995 990 125 130
+15 135 139 {'action': 'call', 'amount': 10} 10
+990 990 125 130
+20 140 139 {'action': 'fold', 'amount': 0} 0
+980 758.75 120 120
+261.25 145 360.25 {'action': 'fold', 'amount': 0} 0
+975 1009.75 110 115
+15 140 104.25 {'action': 'call', 'amount': 10} 10
+970 1009.75 110 115
+20 145 104.25 {'action': 'fold', 'amount': 0} 0
+960 1019.75 105 105
+20 150 84.25 {'action': 'call', 'amount': 10} 10
+960 1019.75 105 105
+20 150 84.25 {'action': 'fold', 'amount': 0} 0
+955 1029.75 95 100
+15 145 69.25 {'action': 'call', 'amount': 10} 10
+950 1029.75 95 100
+20 150 69.25 {'action': 'fold', 'amount': 0} 0
+940 1039.75 90 90
+20 155 49.25 {'action': 'call', 'amount': 10} 10
+940 1039.75 90 90
+20 155 49.25 {'action': 'call', 'amount': 0} 0
+955 1029.75 80 85
+15 130 54.25 {'action': 'call', 'amount': 10} 10
+950 1029.75 80 85
+20 135 54.25 {'action': 'fold', 'amount': 0} 0
+940 1039.75 75 75
+20 140 34.25 {'action': 'call', 'amount': 10} 10
+940 778.5625 75 75
+281.1875 140 295.4375 {'action': 'call', 'amount': 261.1875} 261.1875
+678.8125 517.375 75 75
+803.5625 401.1875 556.625 {'action': 'raise', 'amount': {'min': 522.375, 'max': 678.8125}} 678.8125
+1477.0 507.375 65 70
+fold
+1467.0 512.375 60 60
+fold
+1462.0 522.375 50 55
+fold
+1452.0 527.375 45 45
+fold
+1447.0 537.375 35 40
+fold
+1437.0 542.375 30 30
+fold
+1432.0 552.375 20 25
+fold
+1422.0 557.375 15 15
+fold
+1417.0 567.375 5 10
+fold
+1407.0 572.375 0 0
+fold
+b10201054 vs baseline3 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline3', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 592.375, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1407.0, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+990 990 125 130
+20 140 139 {'action': 'call', 'amount': 10} 10
+990 741.25 125 130
+268.75 140 387.75 {'action': 'call', 'amount': 248.75} 248.75
+741.25 492.5 125 130
+766.25 388.75 636.5 {'action': 'raise', 'amount': {'min': 497.5, 'max': 741.25}} 741.25
+1502.0 482.5 120 120
+fold
+1492.0 487.5 110 115
+fold
+1487.0 497.5 105 105
+fold
+1477.0 502.5 95 100
+fold
+1472.0 512.5 90 90
+fold
+1462.0 517.5 80 85
+fold
+1457.0 527.5 75 75
+fold
+1447.0 532.5 65 70
+fold
+1442.0 542.5 60 60
+fold
+1432.0 547.5 50 55
+fold
+1427.0 557.5 45 45
+fold
+1427.0 557.5 30 30
+fold
+1417.0 562.5 20 25
+fold
+1412.0 572.5 15 15
+fold
+1402.0 577.5 5 10
+fold
+1397.0 587.5 0 0
+fold
+b10201054 vs baseline3 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1397.0, 'state': 'participating'}, {'name': 'baseline3', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 602.5, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'raise', 'amount': {'min': 15, 'max': 980}} 74
+980 1000 120 120
+20 145 119 {'action': 'call', 'amount': 10} 10
+980 1000 120 120
+20 145 119 {'action': 'fold', 'amount': 0} 0
+975 1010 110 115
+15 140 104 {'action': 'call', 'amount': 10} 10
+970 1010 110 115
+20 145 104 {'action': 'fold', 'amount': 0} 0
+960 1020 105 105
+20 150 84 {'action': 'call', 'amount': 10} 10
+960 1020 105 105
+20 150 84 {'action': 'fold', 'amount': 0} 0
+955 1030 95 100
+15 145 69 {'action': 'call', 'amount': 10} 10
+950 1030 95 100
+20 150 69 {'action': 'fold', 'amount': 0} 0
+940 1040 90 90
+20 155 49 {'action': 'call', 'amount': 10} 10
+955 1030 80 85
+15 130 54 {'action': 'call', 'amount': 10} 10
+950 1030 80 85
+20 135 54 {'action': 'fold', 'amount': 0} 0
+940 1040 75 75
+20 140 34 {'action': 'call', 'amount': 10} 10
+940 1040 75 75
+20 140 34 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 10
+955 1030 65 70
+15 115 39 {'action': 'call', 'amount': 10} 10
+950 1030 65 70
+20 120 39 {'action': 'call', 'amount': 0} 0
+950 1030 65 70
+20 120 39 {'action': 'call', 'amount': 0} 0
+950 772.5 65 70
+277.5 120 296.5 {'action': 'call', 'amount': 257.5} 257.5
+692.5 772.5 65 70
+535.0 377.5 296.5 {'action': 'raise', 'amount': {'min': 10, 'max': 692.5}} 692.5
+1217.0 762.5 60 60
+fold
+1212.0 772.5 50 55
+fold
+1202.0 777.5 45 45
+fold
+1197.0 787.5 35 40
+fold
+1187.0 792.5 30 30
+fold
+1182.0 802.5 20 25
+fold
+1172.0 807.5 15 15
+fold
+1167.0 817.5 5 10
+fold
+1157.0 822.5 0 0
+fold
+b10201054 vs baseline3 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline3', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 842.5, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1157.0, 'state': 'participating'}]}
+1000 985 135 135
+15 140 149 {'action': 'call', 'amount': 10} 10
+995 985 135 135
+20 145 149 {'action': 'fold', 'amount': 0} 0
+985 995 125 130
+20 145 134 {'action': 'call', 'amount': 10} 10
+985 995 125 130
+20 145 134 {'action': 'fold', 'amount': 0} 0
+980 1005 120 120
+15 145 114 {'action': 'call', 'amount': 10} 10
+975 1005 120 120
+20 150 114 {'action': 'fold', 'amount': 0} 0
+965 1015 110 115
+20 150 99 {'action': 'call', 'amount': 10} 10
+965 1015 110 115
+20 150 99 {'action': 'fold', 'amount': 0} 0
+960 1025 105 105
+15 150 79 {'action': 'call', 'amount': 10} 10
+955 1025 105 105
+20 155 79 {'action': 'raise', 'amount': {'min': 10, 'max': 955}} 10
+965 1015 95 100
+20 135 84 {'action': 'call', 'amount': 10} 10
+965 1015 95 100
+20 135 84 {'action': 'fold', 'amount': 0} 0
+960 1025 90 90
+15 135 64 {'action': 'call', 'amount': 10} 10
+955 1025 90 90
+20 140 64 {'action': 'fold', 'amount': 0} 0
+945 1035 80 85
+20 140 49 {'action': 'call', 'amount': 10} 10
+945 1035 80 85
+20 140 49 {'action': 'call', 'amount': 0} 0
+960 1025 75 75
+15 120 49 {'action': 'call', 'amount': 10} 10
+955 778.75 75 75
+266.25 125 295.25 {'action': 'fold', 'amount': 0} 0
+945 1034.75 65 70
+20 125 34.25 {'action': 'call', 'amount': 10} 10
+945 774.8125 65 70
+279.9375 125 294.1875 {'action': 'fold', 'amount': 0} 0
+940 1043.8125 60 60
+15 125 15.1875 {'action': 'call', 'amount': 10} 10
+935 1043.8125 60 60
+20 130 15.1875 {'action': 'raise', 'amount': {'min': 10, 'max': 935}} 935
+945 1033.8125 50 55
+20 110 20.1875 {'action': 'call', 'amount': 10} 10
+945 1033.8125 50 55
+20 110 20.1875 {'action': 'fold', 'amount': 0} 0
+940 1043.8125 45 45
+15 110 0.1875 {'action': 'raise', 'amount': {'min': 15, 'max': 945}} 945
+945 1033.8125 35 40
+20 95 5.1875 {'action': 'raise', 'amount': {'min': 15, 'max': 955}} 955
+960 1023.8125 30 30
+15 75 5.1875 {'action': 'raise', 'amount': {'min': 15, 'max': 965}} 965
+965 1013.8125 20 25
+20 60 10.1875 {'action': 'raise', 'amount': {'min': 15, 'max': 975}} 975
+980 1003.8125 15 15
+15 40 10.1875 {'action': 'raise', 'amount': {'min': 15, 'max': 985}} 985
+985 993.8125 5 10
+20 25 15.1875 {'action': 'raise', 'amount': {'min': 15, 'max': 995}} 995
+1000 983.8125 0 0
+15 5 15.1875 {'action': 'call', 'amount': 10} 10
+995 983.8125 0 0
+20 10 15.1875 {'action': 'raise', 'amount': {'min': 10, 'max': 995}} 995
+b10201054 vs baseline3 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1015, 'state': 'participating'}, {'name': 'baseline3', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 983.8125, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'raise', 'amount': {'min': 15, 'max': 1000}} 109
+1010 975 125 130
+15 120 154 {'action': 'call', 'amount': 10} 10
+1005 975 125 130
+20 125 154 {'action': 'fold', 'amount': 0} 0
+995 985 120 120
+20 130 134 {'action': 'call', 'amount': 10} 10
+995 985 120 120
+20 130 134 {'action': 'raise', 'amount': {'min': 10, 'max': 995}} 99
+1010 975 110 115
+15 105 139 {'action': 'call', 'amount': 10} 10
+1005 975 110 115
+20 110 139 {'action': 'raise', 'amount': {'min': 10, 'max': 1005}} 10
+1015 965 105 105
+20 95 139 {'action': 'call', 'amount': 10} 10
+1030 955 95 100
+15 70 144 {'action': 'call', 'amount': 10} 10
+1025 955 95 100
+20 75 144 {'action': 'fold', 'amount': 0} 0
+1015 965 90 90
+20 80 124 {'action': 'raise', 'amount': {'min': 15, 'max': 1025}} 60
+1030 955 80 85
+15 55 129 {'action': 'call', 'amount': 10} 10
+1025 955 80 85
+20 60 129 {'action': 'fold', 'amount': 0} 0
+1015 965 75 75
+20 65 109 {'action': 'call', 'amount': 10} 10
+1030 955 65 70
+15 40 114 {'action': 'call', 'amount': 10} 10
+1025 955 65 70
+20 45 114 {'action': 'fold', 'amount': 0} 0
+1015 732.5 60 60
+252.5 50 326.5 {'action': 'fold', 'amount': 0} 0
+1010 974.5 50 55
+15 45 79.5 {'action': 'call', 'amount': 10} 10
+1005 974.5 50 55
+20 50 79.5 {'action': 'fold', 'amount': 0} 0
+995 984.5 45 45
+20 55 59.5 {'action': 'call', 'amount': 10} 10
+995 984.5 45 45
+20 55 59.5 {'action': 'raise', 'amount': {'min': 10, 'max': 995}} 24.5
+970.5 960.0 45 45
+69.0 79.5 84.0 {'action': 'raise', 'amount': {'min': 10, 'max': 970.5}} 10.5
+960.0 949.5 45 45
+90.0 90.0 94.5 {'action': 'call', 'amount': 0} 0
+1045.0 939.5 35 40
+fold
+1035.0 944.5 30 30
+20 -0.0 84.5 {'action': 'call', 'amount': 10} 10
+1035.0 944.5 30 30
+20 -0.0 84.5 {'action': 'fold', 'amount': 0} 0
+1030.0 954.5 20 25
+fold
+1030.0 954.5 5 10
+fold
+1020.0 959.5 0 0
+fold
+b10201054 vs baseline3 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline3', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 979.5, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1020.0, 'state': 'participating'}]}
+b10201054 vs baseline3 - Match Result: b10201054 2 games won, 3.0 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 915.3199999999999 140 145
+94.68 155 228.68000000000006 {'action': 'fold', 'amount': 0} 0
+980 999.3199999999999 135 135
+20 160 134.68000000000006 {'action': 'call', 'amount': 10} 10
+980 945.0425298292131 135 135
+74.27747017078687 160 188.9574701707869 {'action': 'fold', 'amount': 0} 0
+975 1009.0425298292131 125 130
+15 155 119.9574701707869 {'action': 'call', 'amount': 10} 10
+970 943.5725298292131 125 130
+85.47 160 185.42747017078693 {'action': 'fold', 'amount': 0} 0
+960 953.1025298292132 120 120
+85.47 165 165.89747017078685 {'action': 'fold', 'amount': 0} 0
+955 1028.1025298292132 110 115
+15 160 85.89747017078685 {'action': 'call', 'amount': 10} 10
+950 1028.1025298292132 110 115
+20 165 85.89747017078685 {'action': 'raise', 'amount': {'min': 10, 'max': 950}} 10
+960 972.3125298292132 105 105
+65.78999999999999 150 131.6874701707868 {'action': 'fold', 'amount': 0} 0
+955 1027.3125298292132 95 100
+15 145 71.68747017078681 {'action': 'call', 'amount': 10} 10
+950 977.0825298292132 95 100
+70.23 150 121.91747017078683 {'action': 'fold', 'amount': 0} 0
+940 1037.0825298292132 90 90
+20 155 51.91747017078683 {'action': 'call', 'amount': 10} 10
+940 1037.0825298292132 90 90
+20 155 51.91747017078683 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 16.917470170786828
+954.0825298292132 1027.0825298292132 80 85
+15 130.91747017078683 56.91747017078683 {'action': 'call', 'amount': 10} 10
+949.0825298292132 958.7625298292132 80 85
+88.31999999999998 135.91747017078683 125.23747017078676 {'action': 'fold', 'amount': 0} 0
+939.0825298292132 1036.7625298292132 75 75
+20 140.91747017078683 37.237470170786764 {'action': 'call', 'amount': 10} 10
+939.0825298292132 1036.7625298292132 75 75
+20 140.91747017078683 37.237470170786764 {'action': 'fold', 'amount': 0} 0
+934.0825298292132 1046.7625298292132 65 70
+15 135.91747017078683 22.237470170786764 {'action': 'call', 'amount': 10} 10
+929.0825298292132 1046.7625298292132 65 70
+20 140.91747017078683 22.237470170786764 {'action': 'fold', 'amount': 0} 0
+929.0825298292132 1051.7625298292132 50 55
+15 125.91747017078683 2.2374701707867644 {'action': 'raise', 'amount': {'min': 15, 'max': 934.0825298292132}} 934.0825298292132
+944.0 1036.7625298292132 35 40
+15 96.0 2.2374701707867644 {'action': 'raise', 'amount': {'min': 15, 'max': 949.0}} 949.0
+959.0 1021.7625298292132 20 25
+15 66.0 2.2374701707867644 {'action': 'raise', 'amount': {'min': 15, 'max': 964.0}} 964.0
+974.0 1006.7625298292132 5 10
+15 36.0 2.2374701707867644 {'action': 'raise', 'amount': {'min': 15, 'max': 979.0}} 979.0
+b10201054 vs baseline4 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline4', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1001.7625298292132, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 994.0, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 916.6757526948334 140 145
+93.32424730516664 155 227.32424730516664 {'action': 'fold', 'amount': 0} 0
+985 999.6757526948334 135 135
+15 155 134.32424730516664 {'action': 'call', 'amount': 10} 10
+980 930.7557526948333 135 135
+88.92000000000002 160 203.2442473051667 {'action': 'call', 'amount': 78.92000000000002} 78.92000000000002
+911.0799999999999 930.7557526948333 135 135
+157.84000000000003 228.92000000000007 203.2442473051667 {'action': 'fold', 'amount': 0} 0
+901.0799999999999 1077.7557526948333 125 130
+20 228.92000000000007 51.24424730516671 {'action': 'call', 'amount': 10} 10
+901.0799999999999 1077.7557526948333 125 130
+20 228.92000000000007 51.24424730516671 {'action': 'fold', 'amount': 0} 0
+896.0799999999999 1087.7557526948333 120 120
+15 228.92000000000007 31.24424730516671 {'action': 'call', 'amount': 10} 10
+891.0799999999999 1087.7557526948333 120 120
+20 233.92000000000007 31.24424730516671 {'action': 'fold', 'amount': 0} 0
+881.0799999999999 1097.7557526948333 110 115
+20 233.92000000000007 16.24424730516671 {'action': 'raise', 'amount': {'min': 15, 'max': 891.0799999999999}} 891.0799999999999
+896.0 1087.7557526948333 105 105
+15 214.0 16.24424730516671 {'action': 'call', 'amount': 10} 10
+891.0 1087.7557526948333 105 105
+20 219.0 16.24424730516671 {'action': 'raise', 'amount': {'min': 10, 'max': 891.0}} 891.0
+901.0 1077.7557526948333 95 100
+20 199.0 21.24424730516671 {'action': 'call', 'amount': 10} 10
+901.0 1077.7557526948333 95 100
+20 199.0 21.24424730516671 {'action': 'fold', 'amount': 0} 0
+896.0 1087.7557526948333 90 90
+15 199.0 1.2442473051667093 {'action': 'raise', 'amount': {'min': 15, 'max': 901.0}} 901.0
+b10201054 vs baseline4 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 0, 'state': 'folded'}, {'name': 'baseline4', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1998.7557526948333, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 937.67 140 145
+72.33000000000001 155 206.33000000000004 {'action': 'fold', 'amount': 0} 0
+980 999.67 135 135
+20 160 134.33000000000004 {'action': 'call', 'amount': 10} 10
+980 999.67 135 135
+20 160 134.33000000000004 {'action': 'fold', 'amount': 0} 0
+975 1009.67 125 130
+15 155 119.33000000000004 {'action': 'call', 'amount': 10} 10
+970 1009.67 125 130
+20 160 119.33000000000004 {'action': 'fold', 'amount': 0} 0
+960 984.4100000000001 120 120
+55.260000000000005 165 134.58999999999992 {'action': 'fold', 'amount': 0} 0
+955 1029.41 110 115
+15 160 84.58999999999992 {'action': 'call', 'amount': 10} 10
+950 900.5200000000001 110 115
+148.89000000000001 165 213.4799999999999 {'action': 'fold', 'amount': 0} 0
+940 989.7 105 105
+68.82 170 114.29999999999995 {'action': 'fold', 'amount': 0} 0
+935 1047.7 95 100
+15 165 51.299999999999955 {'action': 'call', 'amount': 10} 10
+930 996.21 95 100
+71.49000000000001 170 102.78999999999996 {'action': 'fold', 'amount': 0} 0
+920 982.71 90 90
+94.5 175 106.28999999999996 {'action': 'fold', 'amount': 0} 0
+915 1066.71 80 85
+15 170 17.289999999999964 {'action': 'call', 'amount': 10} 10
+910 983.33 80 85
+103.37999999999998 175 100.66999999999996 {'action': 'raise', 'amount': {'min': 176.75999999999996, 'max': 920}} 920
+1830 146.71000000000004 75 75
+fold
+1825 156.71000000000004 65 70
+fold
+1815 123.72000000000006 60 60
+fold
+1810 170.72000000000006 50 55
+fold
+1800 175.72000000000006 45 45
+fold
+1795 185.72000000000006 35 40
+fold
+1785 153.75000000000006 30 30
+fold
+1780 199.75000000000006 20 25
+fold
+1770 204.75000000000006 15 15
+fold
+1765 214.75000000000006 5 10
+fold
+1755 160.55000000000007 0 0
+fold
+b10201054 vs baseline4 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline4', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 239.55000000000007, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1755, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 945.837957542127 140 145
+64.16204245787304 155 198.16204245787299 {'action': 'raise', 'amount': {'min': 88.32408491574608, 'max': 990}} 90.83795754212696
+899.162042457873 852.4861273736192 140 145
+248.35183016850783 245.83795754212701 291.5138726263808 {'action': 'call', 'amount': 137.51387262638087} 137.51387262638087
+852.4861273736191 852.4861273736192 140 145
+295.02774525276175 292.51387262638093 291.5138726263808 {'action': 'raise', 'amount': {'min': 10, 'max': 852.4861273736191}} 852.4861273736191
+b10201054 vs baseline4 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000.0, 'state': 'participating'}, {'name': 'baseline4', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+995 990 140 145
+15 150 154 {'action': 'raise', 'amount': {'min': 15, 'max': 1000}} 109
+891 891 140 145
+218 254 253 {'action': 'raise', 'amount': {'min': 10, 'max': 891}} 20
+871 871 140 145
+258 274 273 {'action': 'call', 'amount': 0} 0
+871 871 140 145
+258 274 273 {'action': 'raise', 'amount': {'min': 10, 'max': 871}} 14
+1133 847 135 135
+20 7 287 {'action': 'call', 'amount': 10} 10
+1133 847 135 135
+20 7 287 {'action': 'raise', 'amount': {'min': 10, 'max': 1133}} 10
+1123 837 135 135
+40 17 297 {'action': 'raise', 'amount': {'min': 10, 'max': 1123}} 10
+1113 827 135 135
+60 27 307 {'action': 'raise', 'amount': {'min': 10, 'max': 1113}} 10
+1168 817 125 130
+fold
+1158 822 120 120
+fold
+1153 832 110 115
+fold
+1143 759.41 105 105
+fold
+1138 846.41 95 100
+fold
+1128 851.41 90 90
+fold
+1123 861.41 80 85
+fold
+1113 814.86 75 75
+fold
+1108 875.86 65 70
+fold
+1098 819.38 60 60
+fold
+1093 890.38 50 55
+fold
+1083 895.38 45 45
+fold
+1078 905.38 35 40
+fold
+1068 910.38 30 30
+fold
+1063 920.38 20 25
+fold
+1053 885.68 15 15
+fold
+1048 934.68 5 10
+fold
+1038 939.68 0 0
+fold
+b10201054 vs baseline4 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline4', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 959.68, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1038, 'state': 'participating'}]}
+b10201054 vs baseline4 - Match Result: b10201054 2 games won, 3.0 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+960 1020 120 120
+20 165 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+955 1030 110 115
+15 160 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'fold', 'amount': 0} 0
+940 1040 105 105
+20 170 64 {'action': 'call', 'amount': 10} 10
+940 1040 105 105
+20 170 64 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 10
+930 1030 105 105
+40 180 74 {'action': 'call', 'amount': 0} 0
+930 1030 105 105
+40 180 74 {'action': 'call', 'amount': 0} 0
+965 1020 95 100
+15 135 79 {'action': 'call', 'amount': 10} 10
+960 1020 95 100
+20 140 79 {'action': 'fold', 'amount': 0} 0
+950 1030 90 90
+20 145 59 {'action': 'call', 'amount': 10} 10
+950 1030 90 90
+20 145 59 {'action': 'fold', 'amount': 0} 0
+945 1040 80 85
+15 140 44 {'action': 'call', 'amount': 10} 10
+940 1040 80 85
+20 145 44 {'action': 'fold', 'amount': 0} 0
+930 1050 75 75
+20 150 24 {'action': 'call', 'amount': 10} 10
+930 1050 75 75
+20 150 24 {'action': 'fold', 'amount': 0} 0
+925 1060 65 70
+15 145 9 {'action': 'raise', 'amount': {'min': 15, 'max': 930}} 930
+930 1050 60 60
+20 135 9 {'action': 'raise', 'amount': {'min': 15, 'max': 940}} 940
+945 1040 50 55
+15 110 14 {'action': 'raise', 'amount': {'min': 15, 'max': 950}} 950
+950 1030 45 45
+20 100 14 {'action': 'raise', 'amount': {'min': 15, 'max': 960}} 960
+965 1020 35 40
+15 75 19 {'action': 'raise', 'amount': {'min': 15, 'max': 970}} 60
+970 1010 30 30
+20 65 19 {'action': 'raise', 'amount': {'min': 15, 'max': 980}} 980
+985 1000 20 25
+15 40 24 {'action': 'call', 'amount': 10} 10
+980 1000 20 25
+20 45 24 {'action': 'fold', 'amount': 0} 0
+970 1010 15 15
+20 50 4 {'action': 'raise', 'amount': {'min': 15, 'max': 980}} 980
+985 1000 5 10
+15 25 9 {'action': 'raise', 'amount': {'min': 15, 'max': 990}} 990
+990 990 0 0
+20 15 9 {'action': 'raise', 'amount': {'min': 15, 'max': 1000}} 1000
+b10201054 vs baseline5 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline5', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 0, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 2000, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+970 1010 125 130
+20 160 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+965 1020 120 120
+15 160 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+950 1030 110 115
+20 165 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'fold', 'amount': 0} 0
+945 1040 105 105
+15 165 64 {'action': 'call', 'amount': 10} 10
+940 1040 105 105
+20 170 64 {'action': 'fold', 'amount': 0} 0
+930 1050 95 100
+20 170 49 {'action': 'call', 'amount': 10} 10
+930 1050 95 100
+20 170 49 {'action': 'call', 'amount': 0} 0
+930 991.2899408284031 95 100
+78.71005917159691 170 107.71005917159687 {'action': 'call', 'amount': 58.71005917159691} 58.71005917159691
+871.2899408284031 991.2899408284031 95 100
+137.42011834319382 228.71005917159687 107.71005917159687 {'action': 'raise', 'amount': {'min': 10, 'max': 871.2899408284031}} 871.2899408284031
+b10201054 vs baseline5 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 0, 'state': 'folded'}, {'name': 'baseline5', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 2000.0, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+960 1020 120 120
+20 165 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+955 1030 110 115
+15 160 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'raise', 'amount': {'min': 10, 'max': 950}} 49
+960 1020 105 105
+20 150 84 {'action': 'call', 'amount': 10} 10
+960 1020 105 105
+20 150 84 {'action': 'fold', 'amount': 0} 0
+955 1030 95 100
+15 145 69 {'action': 'call', 'amount': 10} 10
+950 1030 95 100
+20 150 69 {'action': 'fold', 'amount': 0} 0
+940 1040 90 90
+20 155 49 {'action': 'call', 'amount': 10} 10
+940 1040 90 90
+20 155 49 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 14
+955 1030 80 85
+15 130 54 {'action': 'call', 'amount': 10} 10
+950 1030 80 85
+20 135 54 {'action': 'fold', 'amount': 0} 0
+940 1040 75 75
+20 140 34 {'action': 'call', 'amount': 10} 10
+940 1040 75 75
+20 140 34 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 10
+930 1030 75 75
+40 150 44 {'action': 'raise', 'amount': {'min': 10, 'max': 930}} 110
+965 1020 65 70
+15 105 49 {'action': 'call', 'amount': 10} 10
+960 1020 65 70
+20 110 49 {'action': 'fold', 'amount': 0} 0
+950 1030 60 60
+20 115 29 {'action': 'call', 'amount': 10} 10
+950 1030 60 60
+20 115 29 {'action': 'call', 'amount': 0} 0
+950 1030 60 60
+20 115 29 {'action': 'call', 'amount': 0} 0
+950 1030 60 60
+20 115 29 {'action': 'call', 'amount': 0} 0
+965 1020 50 55
+15 90 34 {'action': 'call', 'amount': 10} 10
+960 1020 50 55
+20 95 34 {'action': 'call', 'amount': 0} 0
+960 1020 50 55
+20 95 34 {'action': 'call', 'amount': 0} 0
+960 1020 50 55
+20 95 34 {'action': 'call', 'amount': 0} 0
+970 1010 45 45
+20 80 34 {'action': 'call', 'amount': 10} 10
+970 1010 45 45
+20 80 34 {'action': 'fold', 'amount': 0} 0
+965 1020 35 40
+15 75 19 {'action': 'call', 'amount': 10} 10
+960 1020 35 40
+20 80 19 {'action': 'raise', 'amount': {'min': 10, 'max': 960}} 960
+970 1010 30 30
+20 65 19 {'action': 'raise', 'amount': {'min': 15, 'max': 980}} 980
+985 1000 20 25
+15 40 24 {'action': 'call', 'amount': 10} 10
+980 1000 20 25
+20 45 24 {'action': 'call', 'amount': 0} 0
+980 1000 20 25
+20 45 24 {'action': 'call', 'amount': 0} 0
+980 1000 20 25
+20 45 24 {'action': 'raise', 'amount': {'min': 10, 'max': 980}} 25
+990 990 15 15
+20 30 24 {'action': 'call', 'amount': 10} 10
+990 990 15 15
+20 30 24 {'action': 'call', 'amount': 0} 0
+990 880.1265361857081 15 15
+129.8734638142919 30 133.87346381429188 {'action': 'call', 'amount': 109.87346381429191} 109.87346381429191
+880.1265361857081 880.1265361857081 15 15
+239.74692762858382 139.87346381429188 133.87346381429188 {'action': 'raise', 'amount': {'min': 10, 'max': 880.1265361857081}} 880.1265361857081
+b10201054 vs baseline5 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline5', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000.0, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'raise', 'amount': {'min': 10, 'max': 990}} 119
+1005 980 135 135
+15 135 154 {'action': 'call', 'amount': 10} 10
+1000 980 135 135
+20 140 154 {'action': 'fold', 'amount': 0} 0
+990 990 125 130
+20 140 139 {'action': 'raise', 'amount': {'min': 15, 'max': 1000}} 15
+985 985 125 130
+30 145 144 {'action': 'raise', 'amount': {'min': 10, 'max': 985}} 99
+1010 975 120 120
+15 115 144 {'action': 'call', 'amount': 10} 10
+1005 975 120 120
+20 120 144 {'action': 'raise', 'amount': {'min': 10, 'max': 1005}} 10
+995 965 120 120
+40 130 154 {'action': 'fold', 'amount': 0} 0
+985 995 110 115
+20 130 119 {'action': 'call', 'amount': 10} 10
+985 995 110 115
+20 130 119 {'action': 'fold', 'amount': 0} 0
+980 1005 105 105
+15 130 99 {'action': 'call', 'amount': 10} 10
+975 1005 105 105
+20 135 99 {'action': 'fold', 'amount': 0} 0
+965 1015 95 100
+20 135 84 {'action': 'call', 'amount': 10} 10
+965 1015 95 100
+20 135 84 {'action': 'raise', 'amount': {'min': 10, 'max': 965}} 10
+955 1005 95 100
+40 145 94 {'action': 'raise', 'amount': {'min': 10, 'max': 955}} 10
+945 995 95 100
+60 155 104 {'action': 'raise', 'amount': {'min': 10, 'max': 945}} 10
+1010 975 90 90
+15 85 114 {'action': 'call', 'amount': 10} 10
+1005 975 90 90
+20 90 114 {'action': 'raise', 'amount': {'min': 10, 'max': 1005}} 70
+1015 965 80 85
+20 70 119 {'action': 'call', 'amount': 10} 10
+1015 965 80 85
+20 70 119 {'action': 'fold', 'amount': 0} 0
+1010 975 75 75
+15 70 99 {'action': 'call', 'amount': 10} 10
+1005 975 75 75
+20 75 99 {'action': 'fold', 'amount': 0} 0
+995 985 65 70
+20 75 84 {'action': 'call', 'amount': 10} 10
+995 985 65 70
+20 75 84 {'action': 'fold', 'amount': 0} 0
+990 995 60 60
+15 75 64 {'action': 'call', 'amount': 10} 10
+985 995 60 60
+20 80 64 {'action': 'raise', 'amount': {'min': 10, 'max': 985}} 10
+975 985 60 60
+40 90 74 {'action': 'call', 'amount': 0} 0
+975 985 60 60
+40 90 74 {'action': 'call', 'amount': 0} 0
+1005 975 50 55
+20 50 79 {'action': 'call', 'amount': 10} 10
+1005 975 50 55
+20 50 79 {'action': 'fold', 'amount': 0} 0
+1000 985 45 45
+15 50 59 {'action': 'call', 'amount': 10} 10
+995 985 45 45
+20 55 59 {'action': 'fold', 'amount': 0} 0
+985 995 35 40
+20 55 44 {'action': 'call', 'amount': 10} 10
+985 995 35 40
+20 55 44 {'action': 'raise', 'amount': {'min': 10, 'max': 985}} 10
+975 985 35 40
+40 65 54 {'action': 'raise', 'amount': {'min': 10, 'max': 975}} 13
+962 972 35 40
+66 78 67 {'action': 'raise', 'amount': {'min': 10, 'max': 962}} 12
+1035 950 30 30
+15 0 79 {'action': 'call', 'amount': 10} 10
+1030 950 30 30
+20 5 79 {'action': 'fold', 'amount': 0} 0
+1020 960 20 25
+20 5 64 {'action': 'call', 'amount': 10} 10
+1020 960 20 25
+20 5 64 {'action': 'fold', 'amount': 0} 0
+1015 970 15 15
+15 5 44 {'action': 'call', 'amount': 10} 10
+1010 970 15 15
+20 10 44 {'action': 'call', 'amount': 0} 0
+1010 970 15 15
+20 10 44 {'action': 'call', 'amount': 0} 0
+1010 970 15 15
+20 10 44 {'action': 'call', 'amount': 0} 0
+1020 960 5 10
+fold
+1015 970 0 0
+fold
+b10201054 vs baseline5 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1015, 'state': 'participating'}, {'name': 'baseline5', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 985, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'raise', 'amount': {'min': 15, 'max': 1000}} 109
+1000 980 135 135
+20 140 154 {'action': 'call', 'amount': 10} 10
+1000 980 135 135
+20 140 154 {'action': 'raise', 'amount': {'min': 10, 'max': 1000}} 119
+1015 970 125 130
+15 115 159 {'action': 'call', 'amount': 10} 10
+1010 970 125 130
+20 120 159 {'action': 'fold', 'amount': 0} 0
+1000 980 120 120
+20 125 139 {'action': 'raise', 'amount': {'min': 15, 'max': 1010}} 15
+1015 970 110 115
+15 100 144 {'action': 'call', 'amount': 10} 10
+1010 970 110 115
+20 105 144 {'action': 'raise', 'amount': {'min': 10, 'max': 1010}} 85
+1020 960 105 105
+20 90 144 {'action': 'call', 'amount': 10} 10
+1020 960 105 105
+20 90 144 {'action': 'fold', 'amount': 0} 0
+1015 970 95 100
+15 85 129 {'action': 'call', 'amount': 10} 10
+1010 970 95 100
+20 90 129 {'action': 'fold', 'amount': 0} 0
+1000 980 90 90
+20 95 109 {'action': 'call', 'amount': 10} 10
+1000 980 90 90
+20 95 109 {'action': 'fold', 'amount': 0} 0
+995 990 80 85
+15 90 94 {'action': 'call', 'amount': 10} 10
+990 990 80 85
+20 95 94 {'action': 'fold', 'amount': 0} 0
+980 1000 75 75
+20 100 74 {'action': 'call', 'amount': 10} 10
+980 1000 75 75
+20 100 74 {'action': 'fold', 'amount': 0} 0
+975 1010 65 70
+15 95 59 {'action': 'call', 'amount': 10} 10
+970 1010 65 70
+20 100 59 {'action': 'fold', 'amount': 0} 0
+960 1020 60 60
+20 105 39 {'action': 'call', 'amount': 10} 10
+960 1020 60 60
+20 105 39 {'action': 'call', 'amount': 0} 0
+960 1020 60 60
+20 105 39 {'action': 'call', 'amount': 0} 0
+960 1020 60 60
+20 105 39 {'action': 'call', 'amount': 0} 0
+955 1030 50 55
+15 100 24 {'action': 'call', 'amount': 10} 10
+950 1030 50 55
+20 105 24 {'action': 'raise', 'amount': {'min': 10, 'max': 950}} 85
+960 1020 45 45
+20 90 24 {'action': 'call', 'amount': 10} 10
+960 1020 45 45
+20 90 24 {'action': 'fold', 'amount': 0} 0
+955 1030 35 40
+15 85 9 {'action': 'raise', 'amount': {'min': 15, 'max': 960}} 960
+b10201054 vs baseline5 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline5', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 2000, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 0, 'state': 'folded'}]}
+b10201054 vs baseline5 - Match Result: b10201054 3 games won, 5 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 995 135 135
+25 160 139 {'action': 'call', 'amount': 15} 15
+975 995 135 135
+30 165 139 {'action': 'fold', 'amount': 0} 0
+970 1015 125 130
+15 160 114 {'action': 'call', 'amount': 10} 10
+965 1015 125 130
+20 165 114 {'action': 'fold', 'amount': 0} 0
+955 1025 120 120
+20 170 94 {'action': 'call', 'amount': 10} 10
+955 1025 120 120
+20 170 94 {'action': 'fold', 'amount': 0} 0
+950 1035 110 115
+15 165 79 {'action': 'call', 'amount': 10} 10
+945 1035 110 115
+20 170 79 {'action': 'fold', 'amount': 0} 0
+935 1045 105 105
+20 175 59 {'action': 'call', 'amount': 10} 10
+935 1045 105 105
+20 175 59 {'action': 'call', 'amount': 0} 0
+935 1045 105 105
+20 175 59 {'action': 'call', 'amount': 0} 0
+935 1045 105 105
+20 175 59 {'action': 'call', 'amount': 0} 0
+950 1035 95 100
+15 150 64 {'action': 'call', 'amount': 10} 10
+945 1035 95 100
+20 155 64 {'action': 'fold', 'amount': 0} 0
+935 1045 90 90
+20 160 44 {'action': 'call', 'amount': 10} 10
+935 1045 90 90
+20 160 44 {'action': 'fold', 'amount': 0} 0
+930 1055 80 85
+15 155 29 {'action': 'call', 'amount': 10} 10
+925 1055 80 85
+20 160 29 {'action': 'fold', 'amount': 0} 0
+915 1065 75 75
+20 165 9 {'action': 'raise', 'amount': {'min': 15, 'max': 925}} 925
+930 1055 65 70
+15 140 14 {'action': 'raise', 'amount': {'min': 15, 'max': 935}} 935
+935 1045 60 60
+20 130 14 {'action': 'raise', 'amount': {'min': 15, 'max': 945}} 945
+950 1035 50 55
+15 105 19 {'action': 'call', 'amount': 10} 10
+945 1035 50 55
+20 110 19 {'action': 'raise', 'amount': {'min': 10, 'max': 945}} 945
+955 1025 45 45
+20 95 19 {'action': 'raise', 'amount': {'min': 15, 'max': 965}} 965
+b10201054 vs baseline6 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline6', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 2000, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+970 1010 125 130
+20 160 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+965 1020 120 120
+15 160 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+950 1030 110 115
+20 165 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'fold', 'amount': 0} 0
+945 1040 105 105
+15 165 64 {'action': 'call', 'amount': 10} 10
+940 1040 105 105
+20 170 64 {'action': 'fold', 'amount': 0} 0
+930 1050 95 100
+20 170 49 {'action': 'call', 'amount': 10} 10
+930 995.0 95 100
+75.0 170 104.0 {'action': 'call', 'amount': 55.0} 55.0
+875.0 958.3333333333334 95 100
+166.66666666666666 225.0 140.66666666666663 {'action': 'raise', 'amount': {'min': 73.33333333333333, 'max': 875.0}} 875.0
+b10201054 vs baseline6 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 0, 'state': 'folded'}, {'name': 'baseline6', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 2000.0, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+960 1020 120 120
+20 165 99 {'action': 'call', 'amount': 10} 10
+960 1010 120 120
+30 165 109 {'action': 'fold', 'amount': 0} 0
+955 1030 110 115
+15 160 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'raise', 'amount': {'min': 10, 'max': 950}} 49
+960 1020 105 105
+20 150 84 {'action': 'call', 'amount': 10} 10
+960 1020 105 105
+20 150 84 {'action': 'fold', 'amount': 0} 0
+955 1030 95 100
+15 145 69 {'action': 'call', 'amount': 10} 10
+950 1030 95 100
+20 150 69 {'action': 'fold', 'amount': 0} 0
+940 1040 90 90
+20 155 49 {'action': 'call', 'amount': 10} 10
+940 1040 90 90
+20 155 49 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 14
+955 1030 80 85
+15 130 54 {'action': 'call', 'amount': 10} 10
+950 1030 80 85
+20 135 54 {'action': 'fold', 'amount': 0} 0
+940 1040 75 75
+20 140 34 {'action': 'call', 'amount': 10} 10
+940 1040 75 75
+20 140 34 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 10
+930 1030 75 75
+40 150 44 {'action': 'raise', 'amount': {'min': 10, 'max': 930}} 110
+965 1020 65 70
+15 105 49 {'action': 'call', 'amount': 10} 10
+960 1020 65 70
+20 110 49 {'action': 'fold', 'amount': 0} 0
+950 1030 60 60
+20 115 29 {'action': 'call', 'amount': 10} 10
+950 1030 60 60
+20 115 29 {'action': 'call', 'amount': 0} 0
+950 1030 60 60
+20 115 29 {'action': 'call', 'amount': 0} 0
+950 1030 60 60
+20 115 29 {'action': 'call', 'amount': 0} 0
+965 1020 50 55
+15 90 34 {'action': 'call', 'amount': 10} 10
+960 1020 50 55
+20 95 34 {'action': 'call', 'amount': 0} 0
+960 1020 50 55
+20 95 34 {'action': 'call', 'amount': 0} 0
+960 1020 50 55
+20 95 34 {'action': 'call', 'amount': 0} 0
+970 1010 45 45
+20 80 34 {'action': 'call', 'amount': 10} 10
+970 1010 45 45
+20 80 34 {'action': 'fold', 'amount': 0} 0
+965 1020 35 40
+15 75 19 {'action': 'call', 'amount': 10} 10
+960 1020 35 40
+20 80 19 {'action': 'raise', 'amount': {'min': 10, 'max': 960}} 960
+970 1010 30 30
+20 65 19 {'action': 'raise', 'amount': {'min': 15, 'max': 980}} 980
+985 1000 20 25
+15 40 24 {'action': 'call', 'amount': 10} 10
+980 1000 20 25
+20 45 24 {'action': 'call', 'amount': 0} 0
+980 990 20 25
+30 45 34 {'action': 'call', 'amount': 10} 10
+970 990 20 25
+40 55 34 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 970
+1000 980 15 15
+20 20 34 {'action': 'call', 'amount': 10} 10
+1000 970.0 15 15
+30.0 20 44.0 {'action': 'call', 'amount': 10.0} 10.0
+990.0 960.0 15 15
+50.0 30.0 54.0 {'action': 'call', 'amount': 10} 10
+980.0 960.0 15 15
+60.0 40.0 54.0 {'action': 'raise', 'amount': {'min': 10, 'max': 980.0}} 980.0
+b10201054 vs baseline6 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline6', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 2000.0, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'raise', 'amount': {'min': 10, 'max': 990}} 119
+871 871 140 145
+258 274 273 {'action': 'call', 'amount': 0} 0
+871 871 140 145
+258 274 273 {'action': 'call', 'amount': 0} 0
+1124 861 135 135
+15 16 273 {'action': 'call', 'amount': 10} 10
+1119 861 135 135
+20 21 273 {'action': 'fold', 'amount': 0} 0
+1109 871 125 130
+20 21 258 {'action': 'call', 'amount': 10} 10
+1109 871 125 130
+20 21 258 {'action': 'fold', 'amount': 0} 0
+1104 881 120 120
+15 21 238 {'action': 'call', 'amount': 10} 10
+1099 881 120 120
+20 26 238 {'action': 'raise', 'amount': {'min': 10, 'max': 1099}} 10
+1089 871 120 120
+40 36 248 {'action': 'raise', 'amount': {'min': 10, 'max': 1089}} 10
+1079 861 120 120
+60 46 258 {'action': 'raise', 'amount': {'min': 10, 'max': 1079}} 10
+1139 836 110 115
+fold
+1134 851 105 105
+fold
+1124 851 95 100
+fold
+1119 866 90 90
+fold
+1109 871 80 85
+fold
+1104 881 75 75
+fold
+1094 881.0 65 70
+fold
+1089 896.0 60 60
+fold
+1079 896.0 50 55
+fold
+1074 911.0 45 45
+fold
+1064 916.0 35 40
+fold
+1059 926.0 30 30
+fold
+1049 931.0 20 25
+fold
+1044 941.0 15 15
+fold
+1034 941.0 5 10
+fold
+1029 956.0 0 0
+fold
+b10201054 vs baseline6 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1029, 'state': 'participating'}, {'name': 'baseline6', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 971.0, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'raise', 'amount': {'min': 15, 'max': 1000}} 109
+1000 980 135 135
+20 140 154 {'action': 'call', 'amount': 10} 10
+1000 970 135 135
+30 140 164 {'action': 'raise', 'amount': {'min': 20, 'max': 1000}} 110
+890 860 135 135
+250 250 274 {'action': 'raise', 'amount': {'min': 20, 'max': 890}} 20
+870 850 135 135
+280 270 284 {'action': 'call', 'amount': 0} 0
+1145 840 125 130
+fold
+1135 845 120 120
+fold
+1130 855 110 115
+fold
+1120 855.0 105 105
+fold
+1115 870.0 95 100
+fold
+1105 875.0 90 90
+fold
+1100 885.0 80 85
+fold
+1090 890.0 75 75
+fold
+1085 900.0 65 70
+fold
+1075 900.0 60 60
+fold
+1070 915.0 50 55
+fold
+1060 920.0 45 45
+fold
+1055 930.0 35 40
+fold
+1045 930.0 30 30
+fold
+1040 945.0 20 25
+fold
+1030 950.0 15 15
+fold
+1025 960.0 5 10
+fold
+1015 965.0 0 0
+fold
+b10201054 vs baseline6 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline6', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 985.0, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1015, 'state': 'participating'}]}
+b10201054 vs baseline6 - Match Result: b10201054 2 games won, 3.0 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 980 140 145
+30 155 164 {'action': 'fold', 'amount': 0} 0
+990 995 125 130
+15 140 134 {'action': 'call', 'amount': 10} 10
+985 985 125 130
+30 145 144 {'action': 'fold', 'amount': 0} 0
+985 1000 110 115
+15 130 114 {'action': 'call', 'amount': 10} 10
+980 990 110 115
+30 135 124 {'action': 'call', 'amount': 20} 20
+970 990 110 115
+40 145 124 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 69
+1000 965 105 105
+35 110 139 {'action': 'raise', 'amount': {'min': 40, 'max': 1010}} 74
+1030 955 95 100
+15 70 144 {'action': 'call', 'amount': 10} 10
+1025 945 95 100
+30 75 154 {'action': 'call', 'amount': 20} 20
+1015 945 95 100
+40 85 154 {'action': 'raise', 'amount': {'min': 10, 'max': 1015}} 10
+1005 935 95 100
+60 95 164 {'action': 'raise', 'amount': {'min': 10, 'max': 1005}} 10
+995 925 95 100
+80 105 174 {'action': 'raise', 'amount': {'min': 10, 'max': 995}} 10
+975 990 90 90
+35 120 99 {'action': 'call', 'amount': 25} 25
+960 965 90 90
+75 135 124 {'action': 'fold', 'amount': 0} 0
+955 1030 80 85
+15 130 54 {'action': 'call', 'amount': 10} 10
+950 1020 80 85
+30 135 64 {'action': 'fold', 'amount': 0} 0
+940 1025 75 75
+35 140 49 {'action': 'fold', 'amount': 0} 0
+935 1050 65 70
+15 135 19 {'action': 'call', 'amount': 10} 10
+930 1040 65 70
+30 140 29 {'action': 'raise', 'amount': {'min': 30, 'max': 940}} 940
+950 1015 60 60
+35 115 44 {'action': 'fold', 'amount': 0} 0
+945 1040 50 55
+15 110 14 {'action': 'raise', 'amount': {'min': 15, 'max': 950}} 950
+950 1015 45 45
+35 100 29 {'action': 'raise', 'amount': {'min': 40, 'max': 960}} 960
+980 1005 35 40
+15 60 34 {'action': 'call', 'amount': 10} 10
+975 995 35 40
+30 65 44 {'action': 'fold', 'amount': 0} 0
+965 1000 30 30
+35 70 29 {'action': 'raise', 'amount': {'min': 40, 'max': 975}} 975
+b10201054 vs baseline7 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline7', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 2000, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 0, 'state': 'folded'}]}
+990 975 140 145
+35 155 169 {'action': 'call', 'amount': 25} 25
+975 942 140 145
+83 170 202 {'action': 'fold', 'amount': 0} 0
+970 1015 135 135
+15 170 119 {'action': 'call', 'amount': 10} 10
+965 1005 135 135
+30 175 129 {'action': 'call', 'amount': 20} 20
+955 1005 135 135
+40 185 129 {'action': 'fold', 'amount': 0} 0
+945 1020 125 130
+35 185 109 {'action': 'call', 'amount': 25} 25
+930 987 125 130
+83 200 142 {'action': 'call', 'amount': 33} 33
+897 910 125 130
+193 233 219 {'action': 'call', 'amount': 77} 77
+820 730 125 130
+450 310 399 {'action': 'raise', 'amount': {'min': 360, 'max': 820}} 820
+b10201054 vs baseline7 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 0, 'state': 'folded'}, {'name': 'baseline7', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 2000, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 980 140 145
+30 155 164 {'action': 'fold', 'amount': 0} 0
+980 985 135 135
+35 160 149 {'action': 'call', 'amount': 25} 25
+965 985 135 135
+50 175 149 {'action': 'fold', 'amount': 0} 0
+960 1025 125 130
+15 170 104 {'action': 'call', 'amount': 10} 10
+955 1015 125 130
+30 175 114 {'action': 'call', 'amount': 20} 20
+945 1015 125 130
+40 185 114 {'action': 'fold', 'amount': 0} 0
+935 1030 120 120
+35 190 89 {'action': 'call', 'amount': 25} 25
+920 1030 120 120
+50 205 89 {'action': 'raise', 'amount': {'min': 10, 'max': 920}} 24
+896 1006 120 120
+98 229 113 {'action': 'raise', 'amount': {'min': 10, 'max': 896}} 14
+882 992 120 120
+126 243 127 {'action': 'raise', 'amount': {'min': 10, 'max': 882}} 117
+1003 982 110 115
+15 112 132 {'action': 'call', 'amount': 10} 10
+998 972 110 115
+30 117 142 {'action': 'call', 'amount': 20} 20
+988 972 110 115
+40 127 142 {'action': 'raise', 'amount': {'min': 10, 'max': 988}} 87
+1018 947 105 105
+35 92 157 {'action': 'call', 'amount': 25} 25
+1003 914 105 105
+83 107 190 {'action': 'fold', 'amount': 0} 0
+998 987 95 100
+15 102 112 {'action': 'call', 'amount': 10} 10
+993 977 95 100
+30 107 122 {'action': 'fold', 'amount': 0} 0
+983 982 90 90
+35 112 107 {'action': 'call', 'amount': 25} 25
+968 949 90 90
+83 127 140 {'action': 'call', 'amount': 33} 33
+935 911 90 90
+154 160 178 {'action': 'call', 'amount': 38} 38
+897 847 90 90
+256 198 242 {'action': 'raise', 'amount': {'min': 128, 'max': 897}} 897
+b10201054 vs baseline7 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline7', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+1000 985 135 135
+15 140 149 {'action': 'call', 'amount': 10} 10
+995 975 135 135
+30 145 159 {'action': 'fold', 'amount': 0} 0
+985 980 125 130
+35 145 149 {'action': 'fold', 'amount': 0} 0
+980 1005 120 120
+15 145 114 {'action': 'call', 'amount': 10} 10
+975 995 120 120
+30 150 124 {'action': 'fold', 'amount': 0} 0
+965 1000 110 115
+35 150 114 {'action': 'call', 'amount': 25} 25
+950 975 110 115
+75 165 139 {'action': 'fold', 'amount': 0} 0
+945 1040 105 105
+15 165 64 {'action': 'call', 'amount': 10} 10
+940 1030 105 105
+30 170 74 {'action': 'fold', 'amount': 0} 0
+930 1035 95 100
+35 170 64 {'action': 'fold', 'amount': 0} 0
+925 1060 90 90
+15 170 29 {'action': 'call', 'amount': 10} 10
+920 1050 90 90
+30 175 39 {'action': 'fold', 'amount': 0} 0
+910 1055 80 85
+35 175 29 {'action': 'raise', 'amount': {'min': 40, 'max': 920}} 920
+940 1045 75 75
+15 140 29 {'action': 'call', 'amount': 10} 10
+935 1035 75 75
+30 145 39 {'action': 'fold', 'amount': 0} 0
+935 1050 60 60
+15 130 9 {'action': 'raise', 'amount': {'min': 15, 'max': 940}} 940
+b10201054 vs baseline7 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'baseline7', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 2000, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'raise', 'amount': {'min': 15, 'max': 1000}} 109
+1010 975 125 130
+15 120 154 {'action': 'call', 'amount': 10} 10
+1005 965 125 130
+30 125 164 {'action': 'fold', 'amount': 0} 0
+995 970 120 120
+35 130 149 {'action': 'fold', 'amount': 0} 0
+990 995 110 115
+15 125 119 {'action': 'call', 'amount': 10} 10
+985 985 110 115
+30 130 129 {'action': 'fold', 'amount': 0} 0
+985 1000 95 100
+15 115 99 {'action': 'call', 'amount': 10} 10
+980 990 95 100
+30 120 109 {'action': 'fold', 'amount': 0} 0
+980 1005 80 85
+15 105 79 {'action': 'call', 'amount': 10} 10
+975 995 80 85
+30 110 89 {'action': 'fold', 'amount': 0} 0
+965 1000 75 75
+35 115 74 {'action': 'fold', 'amount': 0} 0
+960 1025 65 70
+15 110 44 {'action': 'call', 'amount': 10} 10
+955 1015 65 70
+30 115 54 {'action': 'fold', 'amount': 0} 0
+945 1020 60 60
+35 120 39 {'action': 'fold', 'amount': 0} 0
+940 1045 50 55
+15 115 9 {'action': 'raise', 'amount': {'min': 15, 'max': 945}} 945
+955 1030 35 40
+15 85 9 {'action': 'raise', 'amount': {'min': 15, 'max': 960}} 960
+970 1015 20 25
+15 55 9 {'action': 'raise', 'amount': {'min': 15, 'max': 975}} 975
+975 990 15 15
+35 45 24 {'action': 'raise', 'amount': {'min': 40, 'max': 985}} 985
+1005 980 5 10
+15 5 29 {'action': 'call', 'amount': 10} 10
+1000 0 5 10
+1000 10 1009 {'action': 'fold', 'amount': 0} 0
+990 0 0 0
+1010 15 999 {'action': 'call', 'amount': 1000} 1000
+b10201054 vs baseline7 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'baseline7', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 0, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 2000, 'state': 'participating'}]}
+b10201054 vs baseline7 - Match Result: b10201054 2 games won, 3.0 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 983 135 135
+37 160 151 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+960 1020 120 120
+20 165 99 {'action': 'call', 'amount': 10} 10
+975 1010 110 115
+15 140 104 {'action': 'call', 'amount': 10} 10
+970 1010 110 115
+20 145 104 {'action': 'fold', 'amount': 0} 0
+960 1020 105 105
+20 150 84 {'action': 'call', 'amount': 10} 10
+975 1010 95 100
+15 125 89 {'action': 'call', 'amount': 10} 10
+970 1010 95 100
+20 130 89 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 54
+980 1000 90 90
+20 115 89 {'action': 'call', 'amount': 10} 10
+980 980 90 90
+40 115 109 {'action': 'fold', 'amount': 0} 0
+975 1010 80 85
+15 110 74 {'action': 'call', 'amount': 10} 10
+970 1010 80 85
+20 115 74 {'action': 'fold', 'amount': 0} 0
+960 1020 75 75
+20 120 54 {'action': 'call', 'amount': 10} 10
+975 1010 65 70
+15 95 59 {'action': 'call', 'amount': 10} 10
+970 1010 65 70
+20 100 59 {'action': 'fold', 'amount': 0} 0
+960 1020 60 60
+20 105 39 {'action': 'call', 'amount': 10} 10
+975 1010 50 55
+15 80 44 {'action': 'call', 'amount': 10} 10
+970 1010 50 55
+20 85 44 {'action': 'call', 'amount': 0} 0
+970 1010 50 55
+20 85 44 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 23
+980 1000 45 45
+20 70 44 {'action': 'call', 'amount': 10} 10
+980 975 45 45
+45 70 69 {'action': 'fold', 'amount': 0} 0
+975 1010 35 40
+15 65 29 {'action': 'call', 'amount': 10} 10
+970 1010 35 40
+20 70 29 {'action': 'call', 'amount': 0} 0
+970 1010 35 40
+20 70 29 {'action': 'call', 'amount': 0} 0
+970 1010 35 40
+20 70 29 {'action': 'call', 'amount': 0} 0
+960 1020 30 30
+20 75 9 {'action': 'raise', 'amount': {'min': 15, 'max': 970}} 970
+975 1010 20 25
+15 50 14 {'action': 'raise', 'amount': {'min': 15, 'max': 980}} 980
+990 995 5 10
+15 20 14 {'action': 'raise', 'amount': {'min': 15, 'max': 995}} 995
+995 480 0 0
+525 10 519 {'action': 'call', 'amount': 515} 515
+490 0 0 0
+1510 515 999 {'action': 'call', 'amount': 480} 480
+b10201054 vs strong1 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong1', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1990, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 10, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+970 1010 125 130
+20 160 119 {'action': 'call', 'amount': 10} 10
+985 1000 120 120
+15 140 119 {'action': 'call', 'amount': 10} 10
+980 1000 120 120
+20 145 119 {'action': 'fold', 'amount': 0} 0
+970 1010 110 115
+20 145 104 {'action': 'call', 'amount': 10} 10
+985 1000 105 105
+15 125 104 {'action': 'call', 'amount': 10} 10
+980 1000 105 105
+20 130 104 {'action': 'fold', 'amount': 0} 0
+970 1010 95 100
+20 130 89 {'action': 'call', 'amount': 10} 10
+985 1000 90 90
+15 110 89 {'action': 'call', 'amount': 10} 10
+980 1000 90 90
+20 115 89 {'action': 'fold', 'amount': 0} 0
+970 1010 80 85
+20 115 74 {'action': 'call', 'amount': 10} 10
+985 1000 75 75
+15 95 74 {'action': 'call', 'amount': 10} 10
+980 1000 75 75
+20 100 74 {'action': 'fold', 'amount': 0} 0
+970 1010 65 70
+20 100 59 {'action': 'call', 'amount': 10} 10
+985 1000 60 60
+15 80 59 {'action': 'call', 'amount': 10} 10
+980 1000 60 60
+20 85 59 {'action': 'call', 'amount': 0} 0
+980 978 60 60
+42 85 81 {'action': 'call', 'amount': 22} 22
+958 978 60 60
+64 107 81 {'action': 'call', 'amount': 0} 0
+958 957 60 60
+85 107 102 {'action': 'call', 'amount': 21} 21
+937 957 60 60
+106 128 102 {'action': 'raise', 'amount': {'min': 10, 'max': 937}} 937
+1033 947 50 55
+20 22 107 {'action': 'call', 'amount': 10} 10
+1033 947 50 55
+20 22 107 {'action': 'fold', 'amount': 0} 0
+1028 957 45 45
+15 22 87 {'action': 'call', 'amount': 10} 10
+1023 957 45 45
+20 27 87 {'action': 'fold', 'amount': 0} 0
+1013 967 35 40
+20 27 72 {'action': 'call', 'amount': 10} 10
+1028 957 30 30
+15 7 72 {'action': 'call', 'amount': 10} 10
+1023 452 30 30
+525 12 577 {'action': 'fold', 'amount': 0} 0
+1023 962 15 15
+fold
+1013 462 5 10
+fold
+1008 977 0 0
+fold
+b10201054 vs strong1 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1008, 'state': 'participating'}, {'name': 'strong1', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 992, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+995 990 125 130
+15 135 139 {'action': 'call', 'amount': 10} 10
+990 990 125 130
+20 140 139 {'action': 'fold', 'amount': 0} 0
+980 1000 120 120
+20 145 119 {'action': 'call', 'amount': 10} 10
+995 990 110 115
+15 120 124 {'action': 'call', 'amount': 10} 10
+990 990 110 115
+20 125 124 {'action': 'raise', 'amount': {'min': 10, 'max': 990}} 89
+1000 980 105 105
+20 110 124 {'action': 'raise', 'amount': {'min': 15, 'max': 1010}} 15
+1015 970 95 100
+15 85 129 {'action': 'call', 'amount': 10} 10
+1010 970 95 100
+20 90 129 {'action': 'fold', 'amount': 0} 0
+1000 980 90 90
+20 95 109 {'action': 'call', 'amount': 10} 10
+1015 970 80 85
+15 70 114 {'action': 'call', 'amount': 10} 10
+1010 970 80 85
+20 75 114 {'action': 'fold', 'amount': 0} 0
+1000 980 75 75
+20 80 94 {'action': 'call', 'amount': 10} 10
+1015 970 65 70
+15 55 99 {'action': 'call', 'amount': 10} 10
+1010 970 65 70
+20 60 99 {'action': 'fold', 'amount': 0} 0
+1000 980 60 60
+20 65 79 {'action': 'call', 'amount': 10} 10
+1015 970 50 55
+15 40 84 {'action': 'call', 'amount': 10} 10
+1010 970 50 55
+20 45 84 {'action': 'fold', 'amount': 0} 0
+1000 980 45 45
+20 50 64 {'action': 'call', 'amount': 10} 10
+1015 970 35 40
+15 25 69 {'action': 'call', 'amount': 10} 10
+1010 970 35 40
+20 30 69 {'action': 'fold', 'amount': 0} 0
+1000 980 30 30
+20 35 49 {'action': 'call', 'amount': 10} 10
+1015 970 20 25
+15 10 54 {'action': 'call', 'amount': 10} 10
+1010 465 20 25
+525 15 559 {'action': 'fold', 'amount': 0} 0
+1010 975 5 10
+15 0 34 {'action': 'call', 'amount': 10} 10
+1005 470 5 10
+525 5 539 {'action': 'fold', 'amount': 0} 0
+995 480 0 0
+525 10 519 {'action': 'call', 'amount': 515} 515
+490 0 0 0
+1510 515 999 {'action': 'call', 'amount': 480} 480
+b10201054 vs strong1 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong1', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 2000, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'raise', 'amount': {'min': 10, 'max': 990}} 119
+1005 980 135 135
+15 135 154 {'action': 'call', 'amount': 10} 10
+1000 980 135 135
+20 140 154 {'action': 'fold', 'amount': 0} 0
+990 990 125 130
+20 140 139 {'action': 'call', 'amount': 10} 10
+1005 980 120 120
+15 120 139 {'action': 'call', 'amount': 10} 10
+1000 980 120 120
+20 125 139 {'action': 'fold', 'amount': 0} 0
+990 990 110 115
+20 125 124 {'action': 'call', 'amount': 10} 10
+1005 980 105 105
+15 105 124 {'action': 'call', 'amount': 10} 10
+1000 980 105 105
+20 110 124 {'action': 'raise', 'amount': {'min': 10, 'max': 1000}} 10
+1010 970 95 100
+20 90 129 {'action': 'call', 'amount': 10} 10
+1025 960 90 90
+15 70 129 {'action': 'call', 'amount': 10} 10
+1020 960 90 90
+20 75 129 {'action': 'raise', 'amount': {'min': 10, 'max': 1020}} 10
+1030 943 80 85
+27 55 141 {'action': 'fold', 'amount': 0} 0
+1025 960 75 75
+15 55 114 {'action': 'call', 'amount': 10} 10
+1020 960 75 75
+20 60 114 {'action': 'raise', 'amount': {'min': 10, 'max': 1020}} 10
+1030 950 65 70
+20 40 119 {'action': 'call', 'amount': 10} 10
+1030 930 65 70
+40 40 139 {'action': 'fold', 'amount': 0} 0
+1025 960 60 60
+15 40 99 {'action': 'call', 'amount': 10} 10
+1020 960 60 60
+20 45 99 {'action': 'fold', 'amount': 0} 0
+1010 970 50 55
+20 45 84 {'action': 'call', 'amount': 10} 10
+1025 960 45 45
+15 25 84 {'action': 'call', 'amount': 10} 10
+1020 960 45 45
+20 30 84 {'action': 'raise', 'amount': {'min': 10, 'max': 1020}} 10
+1030 950 35 40
+20 10 89 {'action': 'raise', 'amount': {'min': 15, 'max': 1040}} 15
+1025 440 35 40
+535 15 599 {'action': 'call', 'amount': 520} 520
+520 0 35 40
+1480 520 1039 {'action': 'call', 'amount': 440} 440
+75 1910 30 30
+15 960 -881 {'action': 'raise', 'amount': {'min': 15, 'max': 80}} 80
+90 1895 15 15
+15 930 -881 {'action': 'raise', 'amount': {'min': 15, 'max': 95}} 95
+105 1880 0 0
+15 900 -881 {'action': 'raise', 'amount': {'min': 15, 'max': 110}} 110
+b10201054 vs strong1 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 120, 'state': 'participating'}, {'name': 'strong1', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1880, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'raise', 'amount': {'min': 15, 'max': 1000}} 109
+1010 975 125 130
+15 120 154 {'action': 'call', 'amount': 10} 10
+1005 975 125 130
+20 125 154 {'action': 'fold', 'amount': 0} 0
+995 985 120 120
+20 130 134 {'action': 'call', 'amount': 10} 10
+1010 975 110 115
+15 105 139 {'action': 'call', 'amount': 10} 10
+1005 975 110 115
+20 110 139 {'action': 'raise', 'amount': {'min': 10, 'max': 1005}} 90
+1015 965 105 105
+20 95 139 {'action': 'call', 'amount': 10} 10
+1030 955 95 100
+15 70 144 {'action': 'call', 'amount': 10} 10
+1025 955 95 100
+20 75 144 {'action': 'raise', 'amount': {'min': 10, 'max': 1025}} 10
+1035 945 90 90
+20 60 144 {'action': 'call', 'amount': 10} 10
+1050 935 80 85
+15 35 149 {'action': 'call', 'amount': 10} 10
+1045 922 80 85
+33 40 162 {'action': 'call', 'amount': 23} 23
+1032 922 80 85
+46 53 162 {'action': 'raise', 'amount': {'min': 10, 'max': 1032}} 10
+1022 402 80 85
+576 63 682 {'action': 'call', 'amount': 520} 520
+512 402 80 85
+1086 573 682 {'action': 'raise', 'amount': {'min': 10, 'max': 512}} 512
+1588 0 75 75
+fold
+1583 402 65 70
+fold
+1573 0 60 60
+fold
+1568 417 50 55
+fold
+1558 0 45 45
+fold
+1553 432 35 40
+fold
+1543 0 30 30
+fold
+1538 447 20 25
+fold
+1528 0 15 15
+fold
+1523 462 5 10
+fold
+1513 0 0 0
+fold
+b10201054 vs strong1 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong1', 'uuid': 'kvchwizydfgcnipdittekm', 'stack': 487, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'tjgxtcfvaavduzooausahw', 'stack': 1513, 'state': 'participating'}]}
+b10201054 vs strong1 - Match Result: b10201054 2 games won, 0 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+980 1000 120 120
+20 145 119 {'action': 'call', 'amount': 10} 10
+980 1000 120 120
+20 145 119 {'action': 'fold', 'amount': 0} 0
+975 1010 110 115
+15 140 104 {'action': 'call', 'amount': 10} 10
+970 1010 110 115
+20 145 104 {'action': 'fold', 'amount': 0} 0
+960 1020 105 105
+20 150 84 {'action': 'call', 'amount': 10} 10
+960 1020 105 105
+20 150 84 {'action': 'raise', 'amount': {'min': 10, 'max': 960}} 10
+975 1010 95 100
+15 125 89 {'action': 'call', 'amount': 10} 10
+970 1010 95 100
+20 130 89 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 54
+980 1000 90 90
+20 115 89 {'action': 'call', 'amount': 10} 10
+980 1000 90 90
+20 115 89 {'action': 'fold', 'amount': 0} 0
+975 1010 80 85
+15 110 74 {'action': 'call', 'amount': 10} 10
+970 1010 80 85
+20 115 74 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 39
+980 1000 75 75
+20 100 74 {'action': 'call', 'amount': 10} 10
+980 1000 75 75
+20 100 74 {'action': 'fold', 'amount': 0} 0
+975 1010 65 70
+15 95 59 {'action': 'call', 'amount': 10} 10
+970 1010 65 70
+20 100 59 {'action': 'fold', 'amount': 0} 0
+970 1015 50 55
+15 85 39 {'action': 'call', 'amount': 10} 10
+965 1015 50 55
+20 90 39 {'action': 'fold', 'amount': 0} 0
+965 1020 35 40
+15 75 19 {'action': 'call', 'amount': 10} 10
+980 1005 20 25
+15 45 19 {'action': 'call', 'amount': 10} 10
+985 995 15 15
+20 35 19 {'action': 'raise', 'amount': {'min': 15, 'max': 995}} 995
+1000 985 5 10
+15 10 24 {'action': 'call', 'amount': 10} 10
+995 980 5 10
+25 15 29 {'action': 'fold', 'amount': 0} 0
+985 995 0 0
+20 20 4 {'action': 'raise', 'amount': {'min': 15, 'max': 995}} 995
+b10201054 vs strong2 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong2', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 10, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1990, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+970 1010 125 130
+20 160 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+965 1020 120 120
+15 160 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'fold', 'amount': 0} 0
+950 1030 110 115
+20 165 84 {'action': 'call', 'amount': 10} 10
+950 1030 110 115
+20 165 84 {'action': 'fold', 'amount': 0} 0
+945 1040 105 105
+15 165 64 {'action': 'call', 'amount': 10} 10
+940 1040 105 105
+20 170 64 {'action': 'fold', 'amount': 0} 0
+940 1045 90 90
+15 155 44 {'action': 'call', 'amount': 10} 10
+955 1030 75 75
+15 125 44 {'action': 'call', 'amount': 10} 10
+950 1030 75 75
+20 130 44 {'action': 'fold', 'amount': 0} 0
+950 1035 60 60
+15 115 24 {'action': 'call', 'amount': 10} 10
+965 1020 45 45
+15 85 24 {'action': 'call', 'amount': 10} 10
+970 1010 35 40
+20 70 29 {'action': 'call', 'amount': 10} 10
+970 1010 35 40
+20 70 29 {'action': 'fold', 'amount': 0} 0
+965 1020 30 30
+15 70 9 {'action': 'raise', 'amount': {'min': 15, 'max': 970}} 970
+980 1005 15 15
+15 40 9 {'action': 'raise', 'amount': {'min': 15, 'max': 985}} 985
+985 995 5 10
+20 25 14 {'action': 'raise', 'amount': {'min': 15, 'max': 995}} 995
+1985 0 0 0
+fold
+b10201054 vs strong2 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1985, 'state': 'participating'}, {'name': 'strong2', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 15, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1005 125 130
+25 160 124 {'action': 'call', 'amount': 15} 15
+965 1005 125 130
+30 165 124 {'action': 'fold', 'amount': 0} 0
+955 1025 120 120
+20 170 94 {'action': 'call', 'amount': 10} 10
+955 1025 120 120
+20 170 94 {'action': 'fold', 'amount': 0} 0
+950 1035 110 115
+15 165 79 {'action': 'call', 'amount': 10} 10
+945 1035 110 115
+20 170 79 {'action': 'raise', 'amount': {'min': 10, 'max': 945}} 10
+935 985.0 110 115
+80.0 180 129.0 {'action': 'call', 'amount': 50.0} 50.0
+895.0 985.0 110 115
+120.0 220.0 129.0 {'action': 'call', 'amount': 0} 0
+895.0 915.0 110 115
+190.0 220.0 199.0 {'action': 'call', 'amount': 70.0} 70.0
+825.0 915.0 110 115
+260.0 290.0 199.0 {'action': 'raise', 'amount': {'min': 10, 'max': 825.0}} 825.0
+b10201054 vs strong2 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong2', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 2000.0, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+1000 985 135 135
+15 140 149 {'action': 'call', 'amount': 10} 10
+1015 970 120 120
+15 110 149 {'action': 'call', 'amount': 10} 10
+1010 970 120 120
+20 115 149 {'action': 'fold', 'amount': 0} 0
+1000 980 110 115
+20 115 134 {'action': 'call', 'amount': 10} 10
+1000 980 110 115
+20 115 134 {'action': 'raise', 'amount': {'min': 10, 'max': 1000}} 10
+990 970 110 115
+40 125 144 {'action': 'raise', 'amount': {'min': 10, 'max': 990}} 10
+980 960 110 115
+60 135 154 {'action': 'raise', 'amount': {'min': 10, 'max': 980}} 75
+1035 950 105 105
+15 75 154 {'action': 'call', 'amount': 10} 10
+1030 950 105 105
+20 80 154 {'action': 'raise', 'amount': {'min': 10, 'max': 1030}} 10
+1040 940 95 100
+20 60 159 {'action': 'call', 'amount': 10} 10
+1040 940 95 100
+20 60 159 {'action': 'raise', 'amount': {'min': 10, 'max': 1040}} 10
+1030 930 95 100
+40 70 169 {'action': 'raise', 'amount': {'min': 10, 'max': 1030}} 10
+1020 920 95 100
+60 80 179 {'action': 'raise', 'amount': {'min': 10, 'max': 1020}} 10
+1005 980 90 90
+15 90 109 {'action': 'call', 'amount': 10} 10
+1000 980 90 90
+20 95 109 {'action': 'fold', 'amount': 0} 0
+990 990 80 85
+20 95 94 {'action': 'call', 'amount': 10} 10
+990 990 80 85
+20 95 94 {'action': 'fold', 'amount': 0} 0
+985 1000 75 75
+15 95 74 {'action': 'call', 'amount': 10} 10
+980 1000 75 75
+20 100 74 {'action': 'fold', 'amount': 0} 0
+980 1005 60 60
+15 85 54 {'action': 'call', 'amount': 10} 10
+975 1005 60 60
+20 90 54 {'action': 'fold', 'amount': 0} 0
+965 1015 50 55
+20 90 39 {'action': 'call', 'amount': 10} 10
+965 1015 50 55
+20 90 39 {'action': 'fold', 'amount': 0} 0
+960 1025 45 45
+15 90 19 {'action': 'call', 'amount': 10} 10
+975 1010 30 30
+15 60 19 {'action': 'call', 'amount': 10} 10
+970 1010 30 30
+20 65 19 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 970
+980 1000 20 25
+20 45 24 {'action': 'raise', 'amount': {'min': 15, 'max': 990}} 25
+995 990 15 15
+15 25 24 {'action': 'call', 'amount': 10} 10
+990 990 15 15
+20 30 24 {'action': 'fold', 'amount': 0} 0
+990 995 0 0
+15 15 4 {'action': 'raise', 'amount': {'min': 15, 'max': 995}} 995
+b10201054 vs strong2 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1990, 'state': 'participating'}, {'name': 'strong2', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 10, 'state': 'participating'}]}
+b10201054 vs strong2 - Match Result: b10201054 3 games won, 2 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 950 140 145
+60 155 194 {'action': 'fold', 'amount': 0} 0
+980 960 135 135
+60 160 174 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 920 125 130
+110 160 209 {'action': 'fold', 'amount': 0} 0
+960 1020 120 120
+20 165 99 {'action': 'call', 'amount': 10} 10
+975 1010 110 115
+15 140 104 {'action': 'call', 'amount': 10} 10
+970 1010 110 115
+20 145 104 {'action': 'fold', 'amount': 0} 0
+960 1020 105 105
+20 150 84 {'action': 'raise', 'amount': {'min': 15, 'max': 970}} 15
+955 995 105 105
+50 155 109 {'action': 'call', 'amount': 20} 20
+1000 985 95 100
+15 100 114 {'action': 'call', 'amount': 10} 10
+995 985 95 100
+20 105 114 {'action': 'fold', 'amount': 0} 0
+985 995 90 90
+20 110 94 {'action': 'call', 'amount': 10} 10
+985 995 90 90
+20 110 94 {'action': 'raise', 'amount': {'min': 10, 'max': 985}} 10
+975 985 90 90
+40 120 104 {'action': 'raise', 'amount': {'min': 10, 'max': 975}} 10
+965 955 90 90
+80 130 134 {'action': 'raise', 'amount': {'min': 40, 'max': 965}} 50
+1040 945 80 85
+15 45 139 {'action': 'call', 'amount': 10} 10
+1035 945 80 85
+20 50 139 {'action': 'raise', 'amount': {'min': 10, 'max': 1035}} 10
+1025 935 80 85
+40 60 149 {'action': 'raise', 'amount': {'min': 10, 'max': 1025}} 10
+1015 925 80 85
+60 70 159 {'action': 'raise', 'amount': {'min': 10, 'max': 1015}} 10
+1075 905 75 75
+20 5 169 {'action': 'call', 'amount': 10} 10
+1090 895 65 70
+fold
+1080 900 60 60
+fold
+1075 910 50 55
+fold
+1065 825 45 45
+fold
+1060 925 35 40
+fold
+1050 930 30 30
+fold
+1045 940 20 25
+fold
+1035 945 15 15
+fold
+1030 955 5 10
+fold
+1020 960 0 0
+fold
+b10201054 vs strong3 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong3', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 980, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1020, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+970 1010 125 130
+20 160 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 84
+886 826 125 130
+288 244 303 {'action': 'call', 'amount': 100} 100
+786 776 125 130
+438 344 353 {'action': 'raise', 'amount': {'min': 100, 'max': 786}} 786
+1955 30 120 120
+fold
+1955 30 105 105
+fold
+1955 30 90 90
+fold
+1945 35 80 85
+fold
+1940 45 75 75
+fold
+1930 50 65 70
+fold
+1925 60 60 60
+fold
+1915 65 50 55
+fold
+1910 75 45 45
+fold
+1900 80 35 40
+fold
+1895 90 30 30
+fold
+1885 95 20 25
+fold
+1880 105 15 15
+fold
+1880 105 0 0
+fold
+b10201054 vs strong3 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1880, 'state': 'participating'}, {'name': 'strong3', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 120, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 960 135 135
+60 160 174 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 84
+980 1000 120 120
+20 145 119 {'action': 'call', 'amount': 10} 10
+980 1000 120 120
+20 145 119 {'action': 'fold', 'amount': 0} 0
+975 1010 110 115
+15 140 104 {'action': 'call', 'amount': 10} 10
+970 1010 110 115
+20 145 104 {'action': 'fold', 'amount': 0} 0
+960 1020 105 105
+20 150 84 {'action': 'call', 'amount': 10} 10
+975 1010 95 100
+15 125 89 {'action': 'call', 'amount': 10} 10
+970 970 95 100
+60 130 129 {'action': 'fold', 'amount': 0} 0
+960 980 90 90
+60 135 109 {'action': 'fold', 'amount': 0} 0
+955 1030 80 85
+15 130 54 {'action': 'call', 'amount': 10} 10
+950 940 80 85
+110 135 144 {'action': 'fold', 'amount': 0} 0
+940 1040 75 75
+20 140 34 {'action': 'call', 'amount': 10} 10
+955 1030 65 70
+15 115 39 {'action': 'call', 'amount': 10} 10
+950 1030 65 70
+20 120 39 {'action': 'call', 'amount': 0} 0
+950 1010 65 70
+40 120 59 {'action': 'call', 'amount': 20} 20
+930 1010 65 70
+60 140 59 {'action': 'raise', 'amount': {'min': 10, 'max': 930}} 930
+980 1000 60 60
+20 85 59 {'action': 'call', 'amount': 10} 10
+995 990 50 55
+15 60 64 {'action': 'call', 'amount': 10} 10
+990 950 50 55
+60 65 104 {'action': 'fold', 'amount': 0} 0
+980 1000 45 45
+20 70 44 {'action': 'call', 'amount': 10} 10
+980 950 45 45
+70 70 94 {'action': 'fold', 'amount': 0} 0
+975 1010 35 40
+15 65 29 {'action': 'call', 'amount': 10} 10
+970 970 35 40
+60 70 69 {'action': 'fold', 'amount': 0} 0
+960 1020 30 30
+20 75 9 {'action': 'raise', 'amount': {'min': 15, 'max': 970}} 970
+975 1010 20 25
+15 50 14 {'action': 'raise', 'amount': {'min': 15, 'max': 980}} 980
+980 1000 15 15
+20 40 14 {'action': 'raise', 'amount': {'min': 15, 'max': 990}} 990
+1975 10 5 10
+fold
+1965 15 0 0
+fold
+b10201054 vs strong3 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong3', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 35, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1965, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'raise', 'amount': {'min': 10, 'max': 990}} 119
+1005 980 135 135
+15 135 154 {'action': 'call', 'amount': 10} 10
+1000 980 135 135
+20 140 154 {'action': 'fold', 'amount': 0} 0
+990 990 125 130
+20 140 139 {'action': 'call', 'amount': 10} 10
+1005 980 120 120
+15 120 139 {'action': 'call', 'amount': 10} 10
+1000 890 120 120
+110 125 229 {'action': 'fold', 'amount': 0} 0
+990 990 110 115
+20 125 124 {'action': 'call', 'amount': 10} 10
+990 940 110 115
+70 125 174 {'action': 'call', 'amount': 50} 50
+940 840 110 115
+220 175 274 {'action': 'call', 'amount': 100} 100
+840 0 110 115
+1160 275 1114 {'action': 'call', 'amount': 840} 840
+b10201054 vs strong3 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 0, 'state': 'folded'}, {'name': 'strong3', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 2000, 'state': 'participating'}]}
+b10201054 vs strong3 - Match Result: b10201054 1 games won, 0 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 934.7933333333333 140 145
+75.20666666666668 155 209.2066666666667 {'action': 'fold', 'amount': 0} 0
+980 960.23 135 135
+59.563333333333325 160 173.76999999999998 {'action': 'call', 'amount': 49.563333333333325} 49.563333333333325
+940.4366666666667 960.23 135 135
+99.12666666666665 199.56333333333328 173.76999999999998 {'action': 'raise', 'amount': {'min': 10, 'max': 940.4366666666667}} 59.64333333333333
+880.7933333333334 900.5866666666667 135 135
+218.4133333333333 259.2066666666666 233.4133333333333 {'action': 'raise', 'amount': {'min': 10, 'max': 880.7933333333334}} 14.0
+1093.7933333333335 890.5866666666667 125 130
+15 36.20666666666648 238.4133333333333 {'action': 'call', 'amount': 10} 10
+1088.7933333333335 826.3666666666667 125 130
+84.22000000000001 41.20666666666648 302.6333333333333 {'action': 'call', 'amount': 74.22000000000001} 74.22000000000001
+1024.5733333333335 826.3666666666667 125 130
+148.44000000000003 105.4266666666665 302.6333333333333 {'action': 'raise', 'amount': {'min': 10, 'max': 1024.5733333333335}} 10
+1014.5733333333335 768.2496466666666 125 130
+216.55702000000002 115.4266666666665 360.75035333333335 {'action': 'raise', 'amount': {'min': 106.23404, 'max': 1024.5733333333335}} 106.23404
+918.3392933333334 720.1326266666666 125 130
+360.90808000000004 211.66070666666656 408.8673733333334 {'action': 'raise', 'amount': {'min': 10, 'max': 918.3392933333334}} 10
+908.3392933333334 360.0663133333333 125 130
+730.9743933333334 221.66070666666656 768.9336866666667 {'action': 'call', 'amount': 360.0663133333333} 360.0663133333333
+558.2729800000002 360.0663133333333 125 130
+1081.0407066666667 571.7270199999998 768.9336866666667 {'action': 'raise', 'amount': {'min': 10, 'max': 558.2729800000002}} 558.2729800000002
+1098.0 885.0 110 115
+15 17.0 229.0 {'action': 'call', 'amount': 10} 10
+1093.0 885.0 110 115
+20 22.0 229.0 {'action': 'fold', 'amount': 0} 0
+1083.0 603.3333333333333 105 105
+311.6666666666667 27.0 500.66666666666674 {'action': 'fold', 'amount': 0} 0
+1078.0 904.3333333333333 95 100
+15 22.0 194.66666666666674 {'action': 'call', 'amount': 10} 10
+1073.0 853.6413333333333 95 100
+70.69199999999998 27.0 245.35866666666675 {'action': 'call', 'amount': 60.691999999999986} 60.691999999999986
+1022.308 853.6413333333333 95 100
+121.38399999999997 77.69200000000001 245.35866666666675 {'action': 'fold', 'amount': 0} 0
+1012.308 945.1153333333333 90 90
+39.525999999999996 82.69200000000001 143.8846666666667 {'action': 'fold', 'amount': 0} 0
+1007.308 974.1153333333333 80 85
+15 77.69200000000001 109.8846666666667 {'action': 'call', 'amount': 10} 10
+1002.308 738.0865 80 85
+256.0288333333333 82.69200000000001 345.9135 {'action': 'fold', 'amount': 0} 0
+992.308 955.4345 75 75
+48.652 87.69200000000001 118.56550000000004 {'action': 'fold', 'amount': 0} 0
+987.308 993.4345 65 70
+15 82.69200000000001 75.56550000000004 {'action': 'call', 'amount': 10} 10
+982.308 966.8061666666666 65 70
+46.62833333333333 87.69200000000001 102.19383333333337 {'action': 'fold', 'amount': 0} 0
+972.308 1002.8061666666666 60 60
+20 92.69200000000001 56.19383333333337 {'action': 'call', 'amount': 10} 10
+972.308 1002.8061666666666 60 60
+20 92.69200000000001 56.19383333333337 {'action': 'fold', 'amount': 0} 0
+967.308 1012.8061666666666 50 55
+15 87.69200000000001 41.19383333333337 {'action': 'call', 'amount': 10} 10
+962.308 1012.8061666666666 50 55
+20 92.69200000000001 41.19383333333337 {'action': 'call', 'amount': 0} 0
+962.308 1012.8061666666666 50 55
+20 92.69200000000001 41.19383333333337 {'action': 'call', 'amount': 0} 0
+962.308 1012.8061666666666 50 55
+20 92.69200000000001 41.19383333333337 {'action': 'raise', 'amount': {'min': 10, 'max': 962.308}} 20.193833333333373
+942.1141666666666 911.7431708333332 50 55
+141.2568291666667 112.88583333333338 142.25682916666676 {'action': 'call', 'amount': 101.06299583333335} 101.06299583333335
+1073.2450041666666 862.1711708333332 45 45
+fold
+1068.2450041666666 911.1711708333332 35 40
+fold
+1058.2450041666666 916.1711708333332 30 30
+fold
+1053.2450041666666 926.1711708333332 20 25
+fold
+1043.2450041666666 931.1711708333332 15 15
+fold
+1038.2450041666666 941.1711708333332 5 10
+fold
+1028.2450041666666 893.5973374999999 0 0
+fold
+b10201054 vs strong4 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong4', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 965.5973374999999, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1028.2450041666666, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'raise', 'amount': {'min': 10, 'max': 980}} 10
+990 990 125 130
+20 140 139 {'action': 'call', 'amount': 10} 10
+990 933.615 125 130
+76.385 140 195.385 {'action': 'raise', 'amount': {'min': 112.77000000000001, 'max': 990}} 112.77000000000001
+877.23 877.23 125 130
+245.54000000000002 252.76999999999998 251.76999999999998 {'action': 'call', 'amount': 0} 0
+877.23 877.23 125 130
+245.54000000000002 252.76999999999998 251.76999999999998 {'action': 'call', 'amount': 0} 0
+1117.23 867.23 120 120
+15 7.769999999999982 251.76999999999998 {'action': 'call', 'amount': 10} 10
+1132.23 852.23 105 105
+fold
+1122.23 827.304 95 100
+fold
+1117.23 866.304 90 90
+fold
+1107.23 871.304 80 85
+fold
+1102.23 881.304 75 75
+fold
+1092.23 834.89 65 70
+fold
+1087.23 895.89 60 60
+fold
+1077.23 900.89 50 55
+fold
+1072.23 910.89 45 45
+fold
+1072.23 910.89 30 30
+fold
+1072.23 910.89 15 15
+fold
+1062.23 859.834 5 10
+fold
+1057.23 925.834 0 0
+fold
+b10201054 vs strong4 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 1057.23, 'state': 'participating'}, {'name': 'strong4', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 940.834, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 942.7233333333334 140 145
+67.27666666666667 155 201.27666666666664 {'action': 'fold', 'amount': 0} 0
+980 953.7900000000001 135 135
+65.93333333333334 160 180.20999999999992 {'action': 'raise', 'amount': {'min': 101.86666666666666, 'max': 990}} 101.86666666666666
+888.1333333333333 907.8566666666668 135 135
+203.73333333333332 251.86666666666667 226.1433333333332 {'action': 'call', 'amount': 0} 0
+888.1333333333333 907.8566666666668 135 135
+203.73333333333332 251.86666666666667 226.1433333333332 {'action': 'call', 'amount': 0} 0
+888.1333333333333 907.8566666666668 135 135
+203.73333333333332 251.86666666666667 226.1433333333332 {'action': 'call', 'amount': 0} 0
+1086.1333333333332 897.8566666666668 125 130
+15 43.86666666666679 231.1433333333332 {'action': 'call', 'amount': 10} 10
+1081.1333333333332 842.1126666666668 125 130
+75.744 48.86666666666679 286.88733333333323 {'action': 'fold', 'amount': 0} 0
+1071.1333333333332 864.7846666666668 120 120
+62.327999999999996 53.86666666666679 254.2153333333332 {'action': 'fold', 'amount': 0} 0
+1066.1333333333332 916.7846666666668 110 115
+15 48.86666666666679 197.2153333333332 {'action': 'call', 'amount': 10} 10
+1071.1333333333332 878.2106666666668 105 105
+48.574 38.86666666666679 225.78933333333316 {'action': 'fold', 'amount': 0} 0
+1066.1333333333332 916.2106666666668 95 100
+15 33.86666666666679 182.78933333333316 {'action': 'call', 'amount': 10} 10
+1061.1333333333332 916.2106666666668 95 100
+20 38.86666666666679 182.78933333333316 {'action': 'raise', 'amount': {'min': 10, 'max': 1061.1333333333332}} 10
+1071.1333333333332 885.8006666666669 90 90
+40.41 23.866666666666788 203.19933333333313 {'action': 'fold', 'amount': 0} 0
+1066.1333333333332 915.8006666666669 80 85
+15 18.866666666666788 168.19933333333313 {'action': 'call', 'amount': 10} 10
+1061.1333333333332 915.8006666666669 80 85
+20 23.866666666666788 168.19933333333313 {'action': 'fold', 'amount': 0} 0
+1051.1333333333332 896.4206666666669 75 75
+49.38 28.866666666666788 177.57933333333312 {'action': 'raise', 'amount': {'min': 68.76, 'max': 1061.1333333333332}} 68.76
+992.3733333333332 578.0271111111113 75 75
+426.5335555555556 87.62666666666678 495.97288888888875 {'action': 'call', 'amount': 289.0135555555556} 289.0135555555556
+703.3597777777776 289.0135555555556 75 75
+1004.5606666666669 376.6402222222224 784.9864444444444 {'action': 'raise', 'amount': {'min': 578.0271111111113, 'max': 703.3597777777776}} 703.3597777777776
+120.0 1861.0 65 70
+15 950.0 -792.0 {'action': 'raise', 'amount': {'min': 15, 'max': 125.0}} 125.0
+135.0 1846.0 50 55
+15 920.0 -792.0 {'action': 'raise', 'amount': {'min': 15, 'max': 140.0}} 140.0
+150.0 1831.0 35 40
+15 890.0 -792.0 {'action': 'raise', 'amount': {'min': 15, 'max': 155.0}} 155.0
+165.0 1816.0 20 25
+15 860.0 -792.0 {'action': 'raise', 'amount': {'min': 15, 'max': 170.0}} 170.0
+180.0 1801.0 5 10
+15 830.0 -792.0 {'action': 'raise', 'amount': {'min': 15, 'max': 185.0}} 185.0
+b10201054 vs strong4 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong4', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1796.0, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 200.0, 'state': 'participating'}]}
+1000 985 135 135
+15 140 149 {'action': 'call', 'amount': 10} 10
+995 937.472 135 135
+67.52799999999999 145 196.52800000000002 {'action': 'fold', 'amount': 0} 0
+995 989.472 120 120
+15 130 129.52800000000002 {'action': 'call', 'amount': 10} 10
+990 989.472 120 120
+20 135 129.52800000000002 {'action': 'fold', 'amount': 0} 0
+980 951.502 110 115
+67.97 135 162.49800000000005 {'action': 'call', 'amount': 57.96999999999999} 57.96999999999999
+932.03 951.502 110 115
+115.93999999999998 182.97000000000003 162.49800000000005 {'action': 'raise', 'amount': {'min': 10, 'max': 932.03}} 10
+1042.03 941.502 105 105
+15 67.97000000000003 162.49800000000005 {'action': 'call', 'amount': 10} 10
+1037.03 941.502 105 105
+20 72.97000000000003 162.49800000000005 {'action': 'raise', 'amount': {'min': 10, 'max': 1037.03}} 10
+1047.03 909.324 95 100
+42.178 52.97000000000003 189.67600000000004 {'action': 'call', 'amount': 32.178} 32.178
+1024.8519999999999 909.324 95 100
+64.356 75.14800000000014 189.67600000000004 {'action': 'fold', 'amount': 0} 0
+1019.8519999999999 963.324 90 90
+15 75.14800000000014 125.67600000000004 {'action': 'call', 'amount': 10} 10
+1014.8519999999999 936.752 90 90
+46.57199999999999 80.14800000000014 152.24800000000005 {'action': 'call', 'amount': 36.57199999999999} 36.57199999999999
+988.2799999999999 936.752 90 90
+73.14399999999998 106.72000000000014 152.24800000000005 {'action': 'raise', 'amount': {'min': 10, 'max': 988.2799999999999}} 33.576000000000164
+954.7039999999997 903.1759999999998 90 90
+140.2960000000003 140.29600000000028 185.82400000000018 {'action': 'raise', 'amount': {'min': 10, 'max': 954.7039999999997}} 10
+944.7039999999997 451.5879999999999 90 90
+601.8840000000002 150.29600000000028 637.412 {'action': 'call', 'amount': 451.5879999999999} 451.5879999999999
+503.1159999999998 451.5879999999999 90 90
+1043.4720000000002 591.8840000000002 637.412 {'action': 'raise', 'amount': {'min': 10, 'max': 503.1159999999998}} 503.1159999999998
+b10201054 vs strong4 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 1997.0, 'state': 'participating'}, {'name': 'strong4', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 0, 'state': 'folded'}]}
+b10201054 vs strong4 - Match Result: b10201054 3 games won, 2 points earned
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'fold', 'amount': 0} 0
+960 1020 120 120
+20 165 99 {'action': 'call', 'amount': 10} 10
+960 1020 120 120
+20 165 99 {'action': 'raise', 'amount': {'min': 10, 'max': 960}} 10
+975 1010 110 115
+15 140 104 {'action': 'call', 'amount': 10} 10
+970 1010 110 115
+20 145 104 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 10
+960 1000 110 115
+40 155 114 {'action': 'raise', 'amount': {'min': 10, 'max': 960}} 10
+950 990 110 115
+60 165 124 {'action': 'raise', 'amount': {'min': 10, 'max': 950}} 63
+1063 917 105 105
+20 47 187 {'action': 'call', 'amount': 10} 10
+1063 917 105 105
+20 47 187 {'action': 'fold', 'amount': 0} 0
+1058 927 95 100
+15 42 172 {'action': 'call', 'amount': 10} 10
+1053 927 95 100
+20 47 172 {'action': 'fold', 'amount': 0} 0
+1043 937 90 90
+20 52 152 {'action': 'call', 'amount': 10} 10
+1043 937 90 90
+20 52 152 {'action': 'raise', 'amount': {'min': 10, 'max': 1043}} 32
+1058 927 80 85
+15 27 157 {'action': 'call', 'amount': 10} 10
+1053 0 80 85
+947 32 1084 {'action': 'fold', 'amount': 0} 0
+1043 937 75 75
+20 37 137 {'action': 'call', 'amount': 10} 10
+1043 0 75 75
+957 37 1074 {'action': 'call', 'amount': 937} 937
+b10201054 vs strong5 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong5', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 0, 'state': 'folded'}, {'name': 'b10201054', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 2000, 'state': 'participating'}]}
+990 990 140 145
+20 155 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+985 1000 135 135
+15 155 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+970 1010 125 130
+20 160 119 {'action': 'call', 'amount': 10} 10
+970 1010 125 130
+20 160 119 {'action': 'raise', 'amount': {'min': 10, 'max': 970}} 10
+985 1000 120 120
+15 140 119 {'action': 'call', 'amount': 10} 10
+980 1000 120 120
+20 145 119 {'action': 'fold', 'amount': 0} 0
+970 1010 110 115
+20 145 104 {'action': 'call', 'amount': 10} 10
+970 1010 110 115
+20 145 104 {'action': 'fold', 'amount': 0} 0
+965 1020 105 105
+15 145 84 {'action': 'call', 'amount': 10} 10
+960 1020 105 105
+20 150 84 {'action': 'fold', 'amount': 0} 0
+950 1030 95 100
+20 150 69 {'action': 'call', 'amount': 10} 10
+950 895.8999999999997 95 100
+154.10000000000028 150 203.10000000000025 {'action': 'fold', 'amount': 0} 0
+945 1039.8999999999996 90 90
+15 150 49.100000000000364 {'action': 'call', 'amount': 10} 10
+940 1039.8999999999996 90 90
+20 155 49.100000000000364 {'action': 'fold', 'amount': 0} 0
+930 1049.8999999999996 80 85
+20 155 34.100000000000364 {'action': 'call', 'amount': 10} 10
+930 1049.8999999999996 80 85
+20 155 34.100000000000364 {'action': 'call', 'amount': 0} 0
+930 1049.8999999999996 80 85
+20 155 34.100000000000364 {'action': 'call', 'amount': 0} 0
+930 1049.8999999999996 80 85
+20 155 34.100000000000364 {'action': 'call', 'amount': 0} 0
+945 1039.8999999999996 75 75
+15 135 34.100000000000364 {'action': 'call', 'amount': 10} 10
+940 1039.8999999999996 75 75
+20 140 34.100000000000364 {'action': 'fold', 'amount': 0} 0
+930 1049.8999999999996 65 70
+20 140 19.100000000000364 {'action': 'raise', 'amount': {'min': 15, 'max': 940}} 940
+945 1039.8999999999996 60 60
+15 120 19.100000000000364 {'action': 'call', 'amount': 10} 10
+940 1039.8999999999996 60 60
+20 125 19.100000000000364 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 940
+950 1029.8999999999996 50 55
+20 105 24.100000000000364 {'action': 'call', 'amount': 10} 10
+950 1029.8999999999996 50 55
+20 105 24.100000000000364 {'action': 'call', 'amount': 0} 0
+950 1029.8999999999996 50 55
+20 105 24.100000000000364 {'action': 'call', 'amount': 0} 0
+950 1029.8999999999996 50 55
+20 105 24.100000000000364 {'action': 'call', 'amount': 0} 0
+965 1019.8999999999996 45 45
+15 85 24.100000000000364 {'action': 'call', 'amount': 10} 10
+960 1019.8999999999996 45 45
+20 90 24.100000000000364 {'action': 'raise', 'amount': {'min': 10, 'max': 960}} 70
+970 1009.8999999999996 35 40
+20 70 29.100000000000364 {'action': 'call', 'amount': 10} 10
+970 1009.8999999999996 35 40
+20 70 29.100000000000364 {'action': 'fold', 'amount': 0} 0
+965 1019.8999999999996 30 30
+15 70 9.100000000000364 {'action': 'raise', 'amount': {'min': 15, 'max': 970}} 970
+970 1009.8999999999996 20 25
+20 55 14.100000000000364 {'action': 'raise', 'amount': {'min': 15, 'max': 980}} 980
+985 999.8999999999996 15 15
+15 35 14.100000000000364 {'action': 'raise', 'amount': {'min': 15, 'max': 990}} 990
+b10201054 vs strong5 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10201054', 'uuid': 'dtlfansmocuwwvcynrxref', 'stack': 0, 'state': 'folded'}, {'name': 'strong5', 'uuid': 'ifxskjmubjrnbvnimxglee', 'stack': 1999.8999999999996, 'state': 'participating'}]}
+995 990 140 145
+15 150 154 {'action': 'call', 'amount': 10} 10
+990 990 140 145
+20 155 154 {'action': 'fold', 'amount': 0} 0
+980 1000 135 135
+20 160 134 {'action': 'call', 'amount': 10} 10
+980 1000 135 135
+20 160 134 {'action': 'fold', 'amount': 0} 0
+975 1010 125 130
+15 155 119 {'action': 'raise', 'amount': {'min': 15, 'max': 980}} 74
+980 1000 120 120
+20 145 119 {'action': 'call', 'amount': 10} 10
+980 1000 120 120
+20 145 119 {'action': 'fold', 'amount': 0} 0
+975 1010 110 115
+15 140 104 {'action': 'call', 'amount': 10} 10
+970 1010 110 115
+20 145 104 {'action': 'fold', 'amount': 0} 0
+960 1020 105 105
+20 150 84 {'action': 'call', 'amount': 10} 10
+960 1020 105 105
+20 150 84 {'action': 'fold', 'amount': 0} 0
+955 1030 95 100
+15 145 69 {'action': 'call', 'amount': 10} 10
+950 1030 95 100
+20 150 69 {'action': 'fold', 'amount': 0} 0
+940 1040 90 90
+20 155 49 {'action': 'call', 'amount': 10} 10
+940 1040 90 90
+20 155 49 {'action': 'call', 'amount': 0} 0
+940 1040 90 90
+20 155 49 {'action': 'call', 'amount': 0} 0
+940 1040 90 90
+20 155 49 {'action': 'raise', 'amount': {'min': 10, 'max': 940}} 28
+955 1030 80 85
+15 130 54 {'action': 'call', 'amount': 10} 10
+950 1030 80 85
+20 135 54 {'action': 'call', 'amount': 0} 0
+950 813.6199999999997 80 85
+236.38000000000028 135 270.38000000000034 {'action': 'call', 'amount': 216.38000000000028} 216.38000000000028
+733.6199999999997 813.6199999999997 80 85
+452.76000000000056 351.38000000000034 270.38000000000034 {'action': 'raise', 'amount': {'min': 10, 'max': 733.6199999999997}} 733.6199999999997
+1910.0 0.0 75 75
+fold
+1905.0 80.0 65 70
+fold
+1895.0 0.0 60 60
+fold
+1890.0 95.0 50 55
+fold
+1880.0 0.0 45 45
+fold
+1875.0 110.0 35 40
+fold
+1865.0 0.0 30 30
+fold
+1860.0 125.0 20 25
+fold
+1850.0 0.0 15 15
+fold
+1845.0 140.0 5 10
+fold
+1835.0 0.0 0 0
+fold
+b10201054 vs strong5 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'strong5', 'uuid': 'qjgwoajzztsdtlyoitbbzk', 'stack': 165.0, 'state': 'participating'}, {'name': 'b10201054', 'uuid': 'rchmejgvxmlxfhjwelprjc', 'stack': 1835.0, 'state': 'participating'}]}
+b10201054 vs strong5 - Match Result: b10201054 0 games won, 0 points earned
