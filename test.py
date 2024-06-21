@@ -7,6 +7,7 @@ from pathlib import Path
 from tqdm import tqdm
 from contextlib import redirect_stdout, redirect_stderr
 
+from deck_utils import build_decks
 from game.game import setup_config, start_poker
 from agents.call_player import setup_ai as call_ai
 from agents.random_player import setup_ai as random_ai
@@ -26,7 +27,6 @@ from unseen_strong3 import setup_ai as strong3_ai
 from unseen_strong4 import setup_ai as strong4_ai
 from unseen_strong5 import setup_ai as strong5_ai
 
-SEEDS = (0, 0, 1, 1, 2)
 
 # 讀取 student_src_info.csv 文件
 src_info_file = 'student_src_info.csv'
@@ -104,17 +104,17 @@ with open(results_file, 'a', newline='') as f:
     with open(log_out_file, 'w', buffering=1) as log_out_f, open(log_err_file, 'w', buffering=1) as log_err_f:  # Use buffering=0 for completely unbuffered
         with redirect_stdout(log_out_f), redirect_stderr(log_err_f):
             # Play against each baseline AI
-            for i in range(8):
+            for i in range(1, 8):
                 desc = f'{student_dir} vs baseline{i}'
                 baseline_ai = globals()[f'baseline{i}_ai']
                 
                 student_points = 0
                 baseline_points = 0
 
+                # create deck for BO5
+                decks = build_decks()
                 # Play 5 games (BO5)
-                for j, seed in zip(range(5), SEEDS):
-                    random.seed(seed)
-                    np.random.seed(seed)
+                for j in range(5):
                     config = setup_config(max_round=20, initial_stack=1000, small_blind_amount=5)
                     if j % 2:
                         config.register_player(name=student_dir, algorithm=student_ai())
@@ -122,7 +122,7 @@ with open(results_file, 'a', newline='') as f:
                     else:
                         config.register_player(name=f'baseline{i}', algorithm=baseline_ai())
                         config.register_player(name=student_dir, algorithm=student_ai())
-                    game_result = start_poker(config, verbose=0)
+                    game_result = start_poker(config, verbose=1, decks=decks[j])
                     print(f'{desc} - Game {j+1}: {game_result}')
 
                     # Determine game winner
@@ -131,8 +131,8 @@ with open(results_file, 'a', newline='') as f:
                     else:
                         baseline_points += 1
                     
-                    # Check if a player has won 3 games (BO5)
-                    if student_points == 3 or baseline_points == 3:
+                    # Check if the student has won 3 games (he can get full points and thus we can break)
+                    if student_points == 3:
                         break
 
                 # Calculate total points earned
@@ -157,10 +157,10 @@ with open(results_file, 'a', newline='') as f:
                 student_points = 0
                 strong_points = 0
 
+                # create deck for BO5
+                decks = build_decks()
                 # Play 5 games (BO5)
-                for j, seed in zip(range(5), SEEDS):
-                    random.seed(seed)
-                    np.random.seed(seed)
+                for j in range(5):
                     config = setup_config(max_round=20, initial_stack=1000, small_blind_amount=5)
                     if j % 2:
                         config.register_player(name=student_dir, algorithm=student_ai())
@@ -168,7 +168,7 @@ with open(results_file, 'a', newline='') as f:
                     else:
                         config.register_player(name=f'strong{i}', algorithm=strong_ai())
                         config.register_player(name=student_dir, algorithm=student_ai())
-                    game_result = start_poker(config, verbose=0)
+                    game_result = start_poker(config, verbose=0, decks=decks[j])
                     print(f'{desc} - Game {j+1}: {game_result}')
 
                     # Determine game winner

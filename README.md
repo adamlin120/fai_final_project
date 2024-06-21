@@ -15,6 +15,7 @@
    ```
    pip install -r requirements.txt
    pip install pandas tqdm
+   pip install stable-baselines3[extra]
    ```
 
 ## 🗃️ Zip Student Files

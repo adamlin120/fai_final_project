@@ -6,14 +6,14 @@ def setup_config(max_round, initial_stack, small_blind_amount, ante=0):
     return Config(max_round, initial_stack, small_blind_amount, ante)
 
 
-def start_poker(config, verbose=2):
+def start_poker(config, verbose=2, decks=None):
     config.validation()
     dealer = Dealer(config.sb_amount, config.initial_stack, config.ante)
     dealer.set_verbose(verbose)
     dealer.set_blind_structure(config.blind_structure)
     for info in config.players_info:
         dealer.register_player(info["name"], info["algorithm"])
-    result_message = dealer.start_game(config.max_round)
+    result_message = dealer.start_game(config.max_round, decks)
     return _format_result(result_message)
 
 

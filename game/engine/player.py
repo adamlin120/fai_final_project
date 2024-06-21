@@ -30,6 +30,7 @@ class Player:
         if not all([isinstance(card, Card) for card in cards]):
             raise ValueError(self.__wrong_type_hole_msg)
         self.hole_card = cards
+        print(f'name: {self.name}, hole_card: {[c.__str__() for c in self.hole_card]}') # print 每個玩家的 hole card，每個 round 這個函式都會被呼叫一次
 
     def clear_holecard(self):
         self.hole_card = []

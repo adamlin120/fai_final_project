@@ -40,6 +40,9 @@ class Table:
             player.clear_action_histories()
             player.clear_pay_info()
 
+    def set_deck(self, deck):
+        self.deck = deck
+
     def shift_dealer_btn(self):
         self.dealer_btn = self.next_active_player_pos(self.dealer_btn)
 

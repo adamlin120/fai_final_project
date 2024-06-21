@@ -17,6 +17,7 @@ class RoundManager:
         table = state["table"]
 
         table.deck.shuffle()
+        print(f'community cards of this round: {[c.__str__() for c in table.deck.deck][-9:-4][::-1]}') # print 這個 round 的 deck 長怎樣，牌是從 list 最後面開始發，所以從倒數第五張開始數五張會是這個 round 的 community cards
         self.__correct_ante(ante_amount, table.seats.players)
         self.__correct_blind(small_blind_amount, table)
         self.__deal_holecard(table.deck, table.seats.players)

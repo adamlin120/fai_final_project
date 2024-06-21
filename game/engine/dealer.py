@@ -28,7 +28,7 @@ class Dealer:
     def set_verbose(self, verbose):
         self.message_summarizer.verbose = verbose
 
-    def start_game(self, max_round):
+    def start_game(self, max_round, decks=None):
         table = self.table
         self.__notify_game_start(max_round)
         ante, sb_amount = self.ante, self.small_blind_amount
@@ -39,6 +39,8 @@ class Dealer:
             table = self.__exclude_short_of_money_players(table, ante, sb_amount)
             if self.__is_game_finished(table):
                 break
+            if decks is not None:
+                table.set_deck(decks[round_count - 1])
             table = self.play_round(round_count, sb_amount, ante, table)
             table.shift_dealer_btn()
         return self.__generate_game_result(max_round, table.seats)
