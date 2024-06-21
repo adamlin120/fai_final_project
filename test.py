@@ -122,7 +122,7 @@ with open(results_file, 'a', newline='') as f:
                     else:
                         config.register_player(name=f'baseline{i}', algorithm=baseline_ai())
                         config.register_player(name=student_dir, algorithm=student_ai())
-                    game_result = start_poker(config, verbose=1, decks=decks[j])
+                    game_result = start_poker(config, verbose=0, decks=decks[j])
                     print(f'{desc} - Game {j+1}: {game_result}')
 
                     # Determine game winner
