@@ -35,14 +35,14 @@ def read_student_src_info() -> Dict[str, str]:
             src_info[row['學號']] = row['src目錄']
     return src_info
 
-def load_student_ai(student_id: str, src_path: str):
+def load_student_ai(student_id: str):
     """Load the student's AI setup function."""
-    sys.path.insert(0, src_path)
+    sys.path.insert(0, './')
     try:
-        student_module = __import__('agent', fromlist=['setup_ai'])
+        student_module = __import__(f'{student_id}.agent', fromlist=['setup_ai'])
         return student_module.setup_ai
-    except ImportError:
-        print(f'Error importing setup_ai for {student_id}')
+    except ImportError as e:    
+        print(f'Error importing setup_ai for {student_id}: {e}')
         sys.exit(1)
     finally:
         sys.path.pop(0)
@@ -107,7 +107,7 @@ def main(student_id: str):
         print(f'Skipping {student_id} (src directory not found)')
         sys.exit(1)
 
-    student_ai = load_student_ai(student_id, src_path)
+    student_ai = load_student_ai(student_id)
     existing_results = read_existing_results()
 
     if student_id in existing_results:

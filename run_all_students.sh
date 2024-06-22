@@ -3,8 +3,12 @@
 # Function to run the test for a single student
 run_test() {
     student_id=$1
-    echo "Running test for student: $student_id"
-    python test.py "$student_id" 2>&1 | tee "./logs/${student_id}.out" | tee "./logs/${student_id}.err"
+    if grep -q "^$student_id," results.csv; then
+        echo "Skipping $student_id (already in results.csv)"
+    else
+        echo "Running test for student: $student_id"
+        python test.py "$student_id" 2>&1 | tee "./logs/${student_id}.log"
+    fi
 }
 
 export -f run_test
