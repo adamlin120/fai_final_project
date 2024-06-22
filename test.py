@@ -1,17 +1,11 @@
 import os
 import csv
 import sys
-import random
-import numpy as np
-from pathlib import Path
-from tqdm import tqdm
-from contextlib import redirect_stdout, redirect_stderr
+import argparse
+from typing import Dict, Any
 
 from deck_utils import build_decks
 from game.game import setup_config, start_poker
-from agents.call_player import setup_ai as call_ai
-from agents.random_player import setup_ai as random_ai
-from agents.console_player import setup_ai as console_ai
 
 from baseline0 import setup_ai as baseline0_ai
 from baseline1 import setup_ai as baseline1_ai
@@ -27,179 +21,139 @@ from unseen_strong3 import setup_ai as strong3_ai
 from unseen_strong4 import setup_ai as strong4_ai
 from unseen_strong5 import setup_ai as strong5_ai
 
+RESULTS_FILE = 'results.csv'
+MAX_ROUNDS = 20
+INITIAL_STACK = 1000
+SMALL_BLIND_AMOUNT = 5
 
-# 讀取 student_src_info.csv 文件
-src_info_file = 'student_src_info.csv'
-student_src_info = {}
-if os.path.exists(src_info_file):
-    with open(src_info_file, 'r') as f:
+def read_student_src_info() -> Dict[str, str]:
+    """Read student_src_info.csv and return a dictionary of student IDs and their source directories."""
+    src_info = {}
+    with open('student_src_info.csv', 'r') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            src_path = Path(row['src目錄'])
-            if row['src目錄'] and src_path.is_dir():
-                student_src_info[row['學號']] = row['src目錄']
-            else:
-                # print(f"Skipping {row['學號']} (src directory not found)")
-                pass
+            src_info[row['學號']] = row['src目錄']
+    return src_info
 
-# Get student directory from command-line argument
-if len(sys.argv) != 2:
-    print("Usage: python test.py <student_dir>")
-    sys.exit(1)
-
-student_dir = sys.argv[1]
-
-# Load existing results from CSV file if it exists
-results_file = 'results.csv'
-existing_results = {}
-if os.path.exists(results_file):
-    with open(results_file, 'r') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            if row['student_dir'] not in existing_results:
-                existing_results[row['student_dir']] = {}
-            existing_results[row['student_dir']][row['opponent']] = {
-                'games_won': int(row['games_won']),
-                'points_earned': float(row['points_earned'])
-            }
-
-with open(results_file, 'a', newline='') as f:
-    fieldnames = ['student_dir', 'opponent', 'games_won', 'points_earned']
-    writer = csv.DictWriter(f, fieldnames=fieldnames)
-    if f.tell() == 0:  # Write header if file is empty
-        writer.writeheader()
-
-    if student_dir in existing_results:
-        print(f'Skipping {student_dir} (already tested)')
-        sys.exit(0)
-
-    # 獲取學生的 src 目錄
-    src_path = student_src_info.get(student_dir)
-    if not src_path:
-        print(f'Skipping {student_dir} (src directory not found)')
-        sys.exit(1)
-
-    # 將 src 目錄添加到 sys.path
+def load_student_ai(student_id: str, src_path: str):
+    """Load the student's AI setup function."""
     sys.path.insert(0, src_path)
-
-    # Load student's setup_ai function
     try:
         student_module = __import__('agent', fromlist=['setup_ai'])
-        student_ai = student_module.setup_ai
+        return student_module.setup_ai
     except ImportError:
-        print(f'Error importing setup_ai for {student_dir}')
+        print(f'Error importing setup_ai for {student_id}')
         sys.exit(1)
     finally:
-        # 從 sys.path 中移除 src 目錄
         sys.path.pop(0)
-    
+
+def read_existing_results() -> Dict[str, Dict[str, Dict[str, Any]]]:
+    """Read existing results from the CSV file."""
+    existing_results = {}
+    if os.path.exists(RESULTS_FILE):
+        with open(RESULTS_FILE, 'r') as f:
+            reader = csv.reader(f)
+            for row in reader:
+                student_dir, opponent, games_won, points_earned = row
+                if student_dir == "student_dir":
+                    continue
+                if student_dir not in existing_results:
+                    existing_results[student_dir] = {}
+                existing_results[student_dir][opponent] = {
+                    'games_won': int(games_won),
+                    'points_earned': float(points_earned)
+                }
+    return existing_results
+
+def play_games(student_id: str, student_ai, opponent_name: str, opponent_ai, num_games: int = 5) -> Dict[str, Any]:
+    """Play a series of games between the student AI and an opponent AI."""
+    student_points = 0
+    opponent_points = 0
+    decks = build_decks()
+
+    for j in range(num_games):
+        config = setup_config(max_round=MAX_ROUNDS, initial_stack=INITIAL_STACK, small_blind_amount=SMALL_BLIND_AMOUNT)
+        if j % 2:
+            config.register_player(name=student_id, algorithm=student_ai())
+            config.register_player(name=opponent_name, algorithm=opponent_ai())
+        else:
+            config.register_player(name=opponent_name, algorithm=opponent_ai())
+            config.register_player(name=student_id, algorithm=student_ai())
+        
+        game_result = start_poker(config, verbose=0, decks=decks[j])
+        print(f'{student_id} vs {opponent_name} - Game {j+1}: {game_result}')
+
+        if game_result['players'][0]['stack'] > game_result['players'][1]['stack']:
+            student_points += 1
+        else:
+            opponent_points += 1
+        
+        if student_points == 3 or opponent_points == 3:
+            break
+
+    return {'games_won': student_points, 'opponent_games_won': opponent_points}
+
+def calculate_points(games_won: int, is_baseline: bool) -> float:
+    """Calculate points based on games won and opponent type."""
+    if games_won >= 3:
+        return 5 if is_baseline else 2
+    return games_won * 1.5 if is_baseline else 0
+
+def main(student_id: str):
+    student_src_info = read_student_src_info()
+    src_path = student_src_info.get(student_id)
+
+    if not src_path or not os.path.exists(src_path):
+        print(f'Skipping {student_id} (src directory not found)')
+        sys.exit(1)
+
+    student_ai = load_student_ai(student_id, src_path)
+    existing_results = read_existing_results()
+
+    if student_id in existing_results:
+        print(f'Skipping {student_id} (already tested)')
+        sys.exit(0)
+
     results = {}
 
-    # Create log directory if it doesn't exist
-    log_dir = 'logs'
-    os.makedirs(log_dir, exist_ok=True)
-    log_out_file = os.path.join(log_dir, f'{student_dir}.out')
-    log_err_file = os.path.join(log_dir, f'{student_dir}.err')
+    # Play against each baseline AI
+    for i in range(1, 8):
+        baseline_ai = globals()[f'baseline{i}_ai']
+        game_results = play_games(student_id, student_ai, f'baseline{i}', baseline_ai)
+        points_earned = calculate_points(game_results['games_won'], is_baseline=True)
+        results[f'baseline{i}'] = {
+            'games_won': game_results['games_won'],
+            'points_earned': points_earned
+        }
+        print(f'{student_id} vs baseline{i} - Match Result: {game_results["games_won"]} games won, {points_earned} points earned')
 
-    with open(log_out_file, 'w', buffering=1) as log_out_f, open(log_err_file, 'w', buffering=1) as log_err_f:  # Use buffering=0 for completely unbuffered
-        with redirect_stdout(log_out_f), redirect_stderr(log_err_f):
-            # Play against each baseline AI
-            for i in range(1, 8):
-                desc = f'{student_dir} vs baseline{i}'
-                baseline_ai = globals()[f'baseline{i}_ai']
-                
-                student_points = 0
-                baseline_points = 0
+    # Play against each unseen strong AI
+    for i in range(1, 6):
+        strong_ai = globals()[f'strong{i}_ai']
+        game_results = play_games(student_id, student_ai, f'strong{i}', strong_ai)
+        points_earned = calculate_points(game_results['games_won'], is_baseline=False)
+        results[f'strong{i}'] = {
+            'games_won': game_results['games_won'],
+            'points_earned': points_earned
+        }
+        print(f'{student_id} vs strong{i} - Match Result: {game_results["games_won"]} games won, {points_earned} points earned')
 
-                # create deck for BO5
-                decks = build_decks()
-                # Play 5 games (BO5)
-                for j in range(5):
-                    config = setup_config(max_round=20, initial_stack=1000, small_blind_amount=5)
-                    if j % 2:
-                        config.register_player(name=student_dir, algorithm=student_ai())
-                        config.register_player(name=f'baseline{i}', algorithm=baseline_ai())
-                    else:
-                        config.register_player(name=f'baseline{i}', algorithm=baseline_ai())
-                        config.register_player(name=student_dir, algorithm=student_ai())
-                    game_result = start_poker(config, verbose=0, decks=decks[j])
-                    print(f'{desc} - Game {j+1}: {game_result}')
+    # Write results to CSV file
+    with open(RESULTS_FILE, 'a', newline='') as f:
+        fieldnames = ['student_dir', 'opponent', 'games_won', 'points_earned']
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        if f.tell() == 0:
+            writer.writeheader()
+        for opponent, result in results.items():
+            writer.writerow({
+                'student_dir': student_id,
+                'opponent': opponent,
+                'games_won': result['games_won'],
+                'points_earned': result['points_earned']
+            })
 
-                    # Determine game winner
-                    if game_result['players'][0]['stack'] > game_result['players'][1]['stack']:
-                        student_points += 1
-                    else:
-                        baseline_points += 1
-                    
-                    # Check if the student has won 3 games (he can get full points and thus we can break)
-                    if student_points == 3:
-                        break
-
-                # Calculate total points earned
-                if student_points >= 3:
-                    student_total_points = 5
-                else:
-                    student_total_points = student_points * 1.5
-                
-                print(f'{desc} - Match Result: {student_dir} {student_points} games won, {student_total_points} points earned')
-
-                # Save match result
-                results[f'baseline{i}'] = {
-                    'games_won': student_points,
-                    'points_earned': student_total_points
-                }
-
-            # Play against each unseen strong AI  
-            for i in range(1, 6):
-                desc = f'{student_dir} vs strong{i}'
-                strong_ai = globals()[f'strong{i}_ai']
-                
-                student_points = 0
-                strong_points = 0
-
-                # create deck for BO5
-                decks = build_decks()
-                # Play 5 games (BO5)
-                for j in range(5):
-                    config = setup_config(max_round=20, initial_stack=1000, small_blind_amount=5)
-                    if j % 2:
-                        config.register_player(name=student_dir, algorithm=student_ai())
-                        config.register_player(name=f'strong{i}', algorithm=strong_ai())
-                    else:
-                        config.register_player(name=f'strong{i}', algorithm=strong_ai())
-                        config.register_player(name=student_dir, algorithm=student_ai())
-                    game_result = start_poker(config, verbose=0, decks=decks[j])
-                    print(f'{desc} - Game {j+1}: {game_result}')
-
-                    # Determine game winner
-                    if game_result['players'][0]['stack'] > game_result['players'][1]['stack']:
-                        student_points += 1
-                    else:
-                        strong_points += 1
-                    
-                    # Check if a player has won 3 games (BO5)
-                    if student_points == 3 or strong_points == 3:
-                        break
-
-                # Calculate total points earned
-                if student_points >= 3:
-                    student_total_points = 2
-                else:
-                    student_total_points = 0
-                
-                print(f'{desc} - Match Result: {student_dir} {student_points} games won, {student_total_points} points earned')
-
-                # Save match result
-                results[f'strong{i}'] = {
-                    'games_won': student_points,
-                    'points_earned': student_total_points
-                }
-
-            # Write all results for this student to CSV file
-            for opponent, result in results.items():
-                writer.writerow({
-                    'student_dir': student_dir,
-                    'opponent': opponent,
-                    'games_won': result['games_won'],
-                    'points_earned': result['points_earned']
-                })
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run poker AI tests for a student.")
+    parser.add_argument("student_id", help="The student ID to test")
+    args = parser.parse_args()
+    main(args.student_id)
