@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "test.py", line 166, in <module>
+    main(args.student_id)
+  File "test.py", line 129, in main
+    game_results = play_games(student_id, student_ai, f'baseline{i}', baseline_ai)
+  File "test.py", line 88, in play_games
+    config.register_player(name=student_id, algorithm=student_ai())
+  File "/home/ubitus03/fai_final_project/./b09303113/agent.py", line 379, in setup_ai
+    model_1 = joblib.load('random_forest_model_1.joblib')
+  File "/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/joblib/numpy_pickle.py", line 650, in load
+    with open(filename, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'random_forest_model_1.joblib'

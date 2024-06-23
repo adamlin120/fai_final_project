@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "test.py", line 166, in <module>
+    main(args.student_id)
+  File "test.py", line 117, in main
+    student_ai = load_student_ai(student_id)
+  File "test.py", line 42, in load_student_ai
+    student_module = __import__(f'{student_id}.agent', fromlist=['setup_ai'])
+  File "/home/ubitus03/fai_final_project/./b10902090/agent.py", line 1, in <module>
+    class AdvancedPokerAgent(BasePokerPlayer):
+NameError: name 'BasePokerPlayer' is not defined

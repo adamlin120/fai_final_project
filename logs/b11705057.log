@@ -1,0 +1,37 @@
+2024-06-23 20:17:28.256750: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-06-23 20:17:28.258644: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-06-23 20:17:28.296585: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-06-23 20:17:28.296959: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 AVX_VNNI AMX_TILE AMX_INT8 AMX_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-23 20:17:28.886686: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-06-23 20:17:31.915481: W tensorflow/core/common_runtime/gpu/gpu_device.cc:1956] Cannot dlopen some GPU libraries. Please make sure the missing libraries mentioned above are installed properly if you would like to use GPU. Follow the guide at https://www.tensorflow.org/install/gpu for how to download and setup the required libraries for your platform.
+Skipping registering GPU devices...
+community cards of this round: ['DK', 'C2', 'C5', 'S3', 'DA']
+name: baseline1, hole_card: ['DT', 'H3']
+name: b11705057, hole_card: ['C3', 'S2']
+name: baseline1, hole_card: ['DT', 'H3']
+name: b11705057, hole_card: ['C3', 'S2']
+Traceback (most recent call last):
+  File "test.py", line 166, in <module>
+    main(args.student_id)
+  File "test.py", line 129, in main
+    game_results = play_games(student_id, student_ai, f'baseline{i}', baseline_ai)
+  File "test.py", line 90, in play_games
+    game_result = start_poker(config, verbose=0, decks=decks[j])
+  File "/home/ubitus03/fai_final_project/game/game.py", line 16, in start_poker
+    result_message = dealer.start_game(config.max_round, decks)
+  File "/home/ubitus03/fai_final_project/game/engine/dealer.py", line 44, in start_game
+    table = self.play_round(round_count, sb_amount, ante, table)
+  File "/home/ubitus03/fai_final_project/game/engine/dealer.py", line 58, in play_round
+    self.__publish_messages(msgs)
+  File "/home/ubitus03/fai_final_project/game/engine/dealer.py", line 120, in __publish_messages
+    return self.message_handler.process_message(*msgs[-1])
+  File "/home/ubitus03/fai_final_project/game/engine/dealer.py", line 229, in process_message
+    receiver.receive_notification(msg["message"])
+  File "/home/ubitus03/fai_final_project/game/players.py", line 89, in receive_notification
+    self.receive_round_result_message(winners, hand_info, state)
+  File "/home/ubitus03/fai_final_project/./b11705057/agent.py", line 195, in receive_round_result_message
+    features = self.extract_features(self.hole_card, round_state)
+  File "/home/ubitus03/fai_final_project/./b11705057/agent.py", line 100, in extract_features
+    player_stack = next(seat['stack'] for seat in round_state['seats'] if seat['name'] == 'me')
+StopIteration
