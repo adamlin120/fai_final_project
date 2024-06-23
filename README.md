@@ -30,6 +30,7 @@ Run the following command to process and zip student files:
 ```
 python parse_student_info.py
 python find_src_directories.py
+python create_student_symlink.py
 ```
 
 ## 🚀 Run All Students Baseline
@@ -42,3 +43,11 @@ Run the following command to execute the script:
 ./run_all_students.sh
 ```
 
+
+## 🏆 Run Round-Robin Tournament
+
+To run a round-robin tournament where each student's AI plays against every other student's AI, use the following command:
+
+```
+python make_group.py
+```
