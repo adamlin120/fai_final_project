@@ -87,7 +87,7 @@ def play_games(student_id: str, student_ai, opponent_name: str, opponent_ai, num
             config.register_player(name=opponent_name, algorithm=opponent_ai())
             config.register_player(name=student_id, algorithm=student_ai())
         
-        game_result = start_poker(config, verbose=0, decks=decks[j])
+        game_result = start_poker(config, verbose=1, decks=decks[j])
         print(f'{student_id} vs {opponent_name} - Game {j+1}: {game_result}')
 
         if game_result['players'][0]['stack'] > game_result['players'][1]['stack']:
