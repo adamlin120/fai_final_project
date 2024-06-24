@@ -1,0 +1,3033 @@
+community cards of this round: ['H6', 'C5', 'DT', 'CK', 'DK']
+name: b07401120, hole_card: ['C3', 'D5']
+name: b11902140, hole_card: ['H9', 'DJ']
+Started the round 1
+Street "preflop" started. (community card = [])
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+block timedout after 5 seconds
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+'>' not supported between instances of 'NoneType' and 'float'
+name: b07401120, hole_card: ['C3', 'D5']
+name: b11902140, hole_card: ['H9', 'DJ']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 1 (stack = {'b07401120': 1005, 'b11902140': 995})
+community cards of this round: ['HQ', 'S2', 'SJ', 'H8', 'C5']
+name: b07401120, hole_card: ['DQ', 'CT']
+name: b11902140, hole_card: ['C7', 'CA']
+Started the round 2
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.340625++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1005}}]=========
+my_score_after_call: 990 oppo_score_after: 1010 round_count: 2
+my_score_if_fold: 1000 oppo_score_if_fold: 1000
+name: b07401120, hole_card: ['DQ', 'CT']
+name: b11902140, hole_card: ['C7', 'CA']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['DQ', 'CT']
+name: b11902140, hole_card: ['C7', 'CA']
+"b11902140" declared "raise:19.924623115577887"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.71575++++++++++++++++++++
+++++++++++[pot]29.924623115577887++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 19.924623115577887}, {'action': 'raise', 'amount': {'min': 29.849246231155774, 'max': 1005}}]=========
+my_score_after_call: 975.0753768844221 oppo_score_after: 1024.9246231155778 round_count: 2
+my_score_if_fold: 995 oppo_score_if_fold: 1005.0
+name: b07401120, hole_card: ['DQ', 'CT']
+name: b11902140, hole_card: ['C7', 'CA']
+"b07401120" declared "call:19.924623115577887"
+Street "flop" started. (community card = ['HQ', 'S2', 'SJ'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.92925++++++++++++++++++++
+++++++++++[pot]39.849246231155774++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 985.0753768844221}}]=========
+my_score_after_call: 985.0753768844221 oppo_score_after: 1014.9246231155779 round_count: 2
+my_score_if_fold: 985.0753768844221 oppo_score_if_fold: 1014.9246231155779
+name: b07401120, hole_card: ['DQ', 'CT']
+name: b11902140, hole_card: ['C7', 'CA']
+"b07401120" declared "raise:10.8"
+name: b07401120, hole_card: ['DQ', 'CT']
+name: b11902140, hole_card: ['C7', 'CA']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 2 (stack = {'b07401120': 1024.2753768844223, 'b11902140': 975.0753768844221})
+community cards of this round: ['CT', 'C9', 'C6', 'H9', 'DQ']
+name: b07401120, hole_card: ['D6', 'C5']
+name: b11902140, hole_card: ['H7', 'DJ']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['D6', 'C5']
+name: b11902140, hole_card: ['H7', 'DJ']
+"b11902140" declared "raise:39.221567717996365"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.48225++++++++++++++++++++
+++++++++++[pot]49.221567717996365++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 39.221567717996365}, {'action': 'raise', 'amount': {'min': 68.44313543599273, 'max': 1024.2753768844223}}]=========
+my_score_after_call: 975.0538091664259 oppo_score_after: 1024.2969446024185 round_count: 3
+my_score_if_fold: 1014.2753768844223 oppo_score_if_fold: 985.0753768844221
+name: b07401120, hole_card: ['D6', 'C5']
+name: b11902140, hole_card: ['H7', 'DJ']
+"b07401120" declared "call:39.221567717996365"
+Street "flop" started. (community card = ['CT', 'C9', 'C6'])
+name: b07401120, hole_card: ['D6', 'C5']
+name: b11902140, hole_card: ['H7', 'DJ']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.719125++++++++++++++++++++
+++++++++++[pot]78.44313543599273++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 985.0538091664259}}]=========
+my_score_after_call: 985.0538091664259 oppo_score_after: 1014.2969446024185 round_count: 3
+my_score_if_fold: 985.0538091664259 oppo_score_if_fold: 1014.2969446024185
+name: b07401120, hole_card: ['D6', 'C5']
+name: b11902140, hole_card: ['H7', 'DJ']
+"b07401120" declared "raise:10"
+name: b07401120, hole_card: ['D6', 'C5']
+name: b11902140, hole_card: ['H7', 'DJ']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 3 (stack = {'b07401120': 1063.053809166426, 'b11902140': 935.8538091664258})
+community cards of this round: ['D8', 'D4', 'ST', 'CA', 'S9']
+name: b07401120, hole_card: ['HK', 'D7']
+name: b11902140, hole_card: ['HQ', 'H9']
+Started the round 4
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.32375++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1063.053809166426}}]=========
+my_score_after_call: 1048.053809166426 oppo_score_after: 950.8538091664258 round_count: 4
+my_score_if_fold: 1058.053809166426 oppo_score_if_fold: 940.8538091664258
+name: b07401120, hole_card: ['HK', 'D7']
+name: b11902140, hole_card: ['HQ', 'H9']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['HK', 'D7']
+name: b11902140, hole_card: ['HQ', 'H9']
+"b11902140" declared "raise:77.58061001552191"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.342++++++++++++++++++++
+++++++++++[pot]87.58061001552191++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 77.58061001552191}, {'action': 'raise', 'amount': {'min': 145.16122003104383, 'max': 1063.053809166426}}]=========
+my_score_after_call: 975.4731991509041 oppo_score_after: 1023.4344191819476 round_count: 4
+my_score_if_fold: 1053.053809166426 oppo_score_if_fold: 945.8538091664258
+name: b07401120, hole_card: ['HK', 'D7']
+name: b11902140, hole_card: ['HQ', 'H9']
+"b07401120" declared "call:77.58061001552191"
+Street "flop" started. (community card = ['D8', 'D4', 'ST'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.22225++++++++++++++++++++
+++++++++++[pot]155.16122003104383++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 985.4731991509041}}]=========
+my_score_after_call: 985.4731991509041 oppo_score_after: 1013.4344191819478 round_count: 4
+my_score_if_fold: 985.4731991509041 oppo_score_if_fold: 1013.4344191819478
+name: b07401120, hole_card: ['HK', 'D7']
+name: b11902140, hole_card: ['HQ', 'H9']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['HK', 'D7']
+name: b11902140, hole_card: ['HQ', 'H9']
+"b11902140" declared "call:0"
+Street "turn" started. (community card = ['D8', 'D4', 'ST', 'CA'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.49675++++++++++++++++++++
+++++++++++[pot]155.16122003104383++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 985.4731991509041}}]=========
+my_score_after_call: 985.4731991509041 oppo_score_after: 1013.4344191819478 round_count: 4
+my_score_if_fold: 985.4731991509041 oppo_score_if_fold: 1013.4344191819478
+name: b07401120, hole_card: ['HK', 'D7']
+name: b11902140, hole_card: ['HQ', 'H9']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['HK', 'D7']
+name: b11902140, hole_card: ['HQ', 'H9']
+"b11902140" declared "call:0"
+Street "river" started. (community card = ['D8', 'D4', 'ST', 'CA', 'S9'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.335++++++++++++++++++++
+++++++++++[pot]155.16122003104383++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 985.4731991509041}}]=========
+my_score_after_call: 985.4731991509041 oppo_score_after: 1013.4344191819478 round_count: 4
+my_score_if_fold: 985.4731991509041 oppo_score_if_fold: 1013.4344191819478
+name: b07401120, hole_card: ['HK', 'D7']
+name: b11902140, hole_card: ['HQ', 'H9']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['HK', 'D7']
+name: b11902140, hole_card: ['HQ', 'H9']
+"b11902140" declared "call:0"
+"['b11902140']" won the round 4 (stack = {'b07401120': 985.4731991509041, 'b11902140': 1013.2731991509039})
+community cards of this round: ['HT', 'C6', 'D6', 'C3', 'HK']
+name: b07401120, hole_card: ['H5', 'S6']
+name: b11902140, hole_card: ['C8', 'SK']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['H5', 'S6']
+name: b11902140, hole_card: ['C8', 'SK']
+"b11902140" declared "raise:122.10000000000002"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.42525++++++++++++++++++++
+++++++++++[pot]132.10000000000002++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 122.10000000000002}, {'action': 'raise', 'amount': {'min': 234.20000000000005, 'max': 985.4731991509041}}]=========
+my_score_after_call: 853.373199150904 oppo_score_after: 1145.373199150904 round_count: 5
+my_score_if_fold: 975.4731991509041 oppo_score_if_fold: 1023.2731991509039
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['H5', 'S6']
+name: b11902140, hole_card: ['C8', 'SK']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 5 (stack = {'b07401120': 975.4731991509041, 'b11902140': 1023.1731991509039})
+community cards of this round: ['S9', 'D8', 'S8', 'D6', 'C2']
+name: b07401120, hole_card: ['DA', 'H7']
+name: b11902140, hole_card: ['H8', 'SA']
+Started the round 6
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.867375++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 975.4731991509041}}]=========
+my_score_after_call: 960.4731991509041 oppo_score_after: 1038.1731991509039 round_count: 6
+my_score_if_fold: 970.4731991509041 oppo_score_if_fold: 1028.1731991509039
+name: b07401120, hole_card: ['DA', 'H7']
+name: b11902140, hole_card: ['H8', 'SA']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['DA', 'H7']
+name: b11902140, hole_card: ['H8', 'SA']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.652++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 975.4731991509041}}]=========
+my_score_after_call: 950.4731991509041 oppo_score_after: 1048.1731991509039 round_count: 6
+my_score_if_fold: 965.4731991509041 oppo_score_if_fold: 1033.1731991509039
+name: b07401120, hole_card: ['DA', 'H7']
+name: b11902140, hole_card: ['H8', 'SA']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['S9', 'D8', 'S8'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.599125++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 960.4731991509041}}]=========
+my_score_after_call: 960.4731991509041 oppo_score_after: 1038.1731991509039 round_count: 6
+my_score_if_fold: 960.4731991509041 oppo_score_if_fold: 1038.1731991509039
+name: b07401120, hole_card: ['DA', 'H7']
+name: b11902140, hole_card: ['H8', 'SA']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['DA', 'H7']
+name: b11902140, hole_card: ['H8', 'SA']
+"b11902140" declared "raise:87.15000000000009"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.447625++++++++++++++++++++
+++++++++++[pot]117.15000000000009++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 87.15000000000009}, {'action': 'raise', 'amount': {'min': 174.30000000000018, 'max': 960.4731991509041}}]=========
+my_score_after_call: 873.323199150904 oppo_score_after: 1125.323199150904 round_count: 6
+my_score_if_fold: 960.4731991509041 oppo_score_if_fold: 1038.1731991509039
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['DA', 'H7']
+name: b11902140, hole_card: ['H8', 'SA']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 6 (stack = {'b07401120': 960.4731991509041, 'b11902140': 1038.0231991509038})
+community cards of this round: ['S8', 'SK', 'ST', 'H4', 'S3']
+name: b07401120, hole_card: ['D3', 'H9']
+name: b11902140, hole_card: ['S4', 'SJ']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['D3', 'H9']
+name: b11902140, hole_card: ['S4', 'SJ']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 7]++++++++++++++++++++
++++++++++++++++++++++++0.564875++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 960.4731991509041}}]=========
+my_score_after_call: 935.4731991509041 oppo_score_after: 1063.0231991509038 round_count: 7
+my_score_if_fold: 950.4731991509041 oppo_score_if_fold: 1048.0231991509038
+name: b07401120, hole_card: ['D3', 'H9']
+name: b11902140, hole_card: ['S4', 'SJ']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['S8', 'SK', 'ST'])
+name: b07401120, hole_card: ['D3', 'H9']
+name: b11902140, hole_card: ['S4', 'SJ']
+"b11902140" declared "raise:62.225000000000136"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 7]++++++++++++++++++++
++++++++++++++++++++++++0.54875++++++++++++++++++++
+++++++++++[pot]92.22500000000014++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 62.225000000000136}, {'action': 'raise', 'amount': {'min': 124.45000000000027, 'max': 945.4731991509041}}]=========
+my_score_after_call: 883.2481991509039 oppo_score_after: 1115.248199150904 round_count: 7
+my_score_if_fold: 945.4731991509041 oppo_score_if_fold: 1053.0231991509038
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['D3', 'H9']
+name: b11902140, hole_card: ['S4', 'SJ']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 7 (stack = {'b07401120': 945.4731991509041, 'b11902140': 1052.7981991509037})
+community cards of this round: ['SA', 'H8', 'D9', 'CQ', 'H2']
+name: b07401120, hole_card: ['H3', 'HT']
+name: b11902140, hole_card: ['ST', 'D4']
+Started the round 8
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.448125++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 945.4731991509041}}]=========
+my_score_after_call: 930.4731991509041 oppo_score_after: 1067.7981991509037 round_count: 8
+my_score_if_fold: 940.4731991509041 oppo_score_if_fold: 1057.7981991509037
+name: b07401120, hole_card: ['H3', 'HT']
+name: b11902140, hole_card: ['ST', 'D4']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['H3', 'HT']
+name: b11902140, hole_card: ['ST', 'D4']
+"b11902140" declared "call:10"
+Street "flop" started. (community card = ['SA', 'H8', 'D9'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.150375++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 935.4731991509041}}]=========
+my_score_after_call: 935.4731991509041 oppo_score_after: 1062.7981991509037 round_count: 8
+my_score_if_fold: 935.4731991509041 oppo_score_if_fold: 1062.7981991509037
+name: b07401120, hole_card: ['H3', 'HT']
+name: b11902140, hole_card: ['ST', 'D4']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['H3', 'HT']
+name: b11902140, hole_card: ['ST', 'D4']
+"b11902140" declared "call:0"
+Street "turn" started. (community card = ['SA', 'H8', 'D9', 'CQ'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.4605++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 935.4731991509041}}]=========
+my_score_after_call: 935.4731991509041 oppo_score_after: 1062.7981991509037 round_count: 8
+my_score_if_fold: 935.4731991509041 oppo_score_if_fold: 1062.7981991509037
+name: b07401120, hole_card: ['H3', 'HT']
+name: b11902140, hole_card: ['ST', 'D4']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['H3', 'HT']
+name: b11902140, hole_card: ['ST', 'D4']
+"b11902140" declared "call:0"
+Street "river" started. (community card = ['SA', 'H8', 'D9', 'CQ', 'H2'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.15275++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 935.4731991509041}}]=========
+my_score_after_call: 935.4731991509041 oppo_score_after: 1062.7981991509037 round_count: 8
+my_score_if_fold: 935.4731991509041 oppo_score_if_fold: 1062.7981991509037
+name: b07401120, hole_card: ['H3', 'HT']
+name: b11902140, hole_card: ['ST', 'D4']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['H3', 'HT']
+name: b11902140, hole_card: ['ST', 'D4']
+"b11902140" declared "call:0"
+"['b11902140']" won the round 8 (stack = {'b07401120': 935.4731991509041, 'b11902140': 1062.7981991509037})
+community cards of this round: ['H2', 'S7', 'HA', 'C3', 'DK']
+name: b07401120, hole_card: ['S4', 'D2']
+name: b11902140, hole_card: ['DJ', 'C6']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['S4', 'D2']
+name: b11902140, hole_card: ['DJ', 'C6']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 9]++++++++++++++++++++
++++++++++++++++++++++++0.429375++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 935.4731991509041}}]=========
+my_score_after_call: 910.4731991509041 oppo_score_after: 1087.7981991509037 round_count: 9
+my_score_if_fold: 925.4731991509041 oppo_score_if_fold: 1072.7981991509037
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['S4', 'D2']
+name: b11902140, hole_card: ['DJ', 'C6']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 9 (stack = {'b07401120': 925.4731991509041, 'b11902140': 1072.7981991509037})
+community cards of this round: ['HT', 'SK', 'HQ', 'CA', 'H5']
+name: b07401120, hole_card: ['C8', 'S6']
+name: b11902140, hole_card: ['H8', 'C6']
+Started the round 10
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 10]++++++++++++++++++++
++++++++++++++++++++++++0.53425++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 925.4731991509041}}]=========
+my_score_after_call: 910.4731991509041 oppo_score_after: 1087.7981991509037 round_count: 10
+my_score_if_fold: 920.4731991509041 oppo_score_if_fold: 1077.7981991509037
+===Now ALLin!!!!===
+name: b07401120, hole_card: ['C8', 'S6']
+name: b11902140, hole_card: ['H8', 'C6']
+"b07401120" declared "raise:915.4731991509041"
+name: b07401120, hole_card: ['C8', 'S6']
+name: b11902140, hole_card: ['H8', 'C6']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 10 (stack = {'b07401120': 935.0, 'b11902140': 1062.7981991509037})
+community cards of this round: ['D4', 'DQ', 'S3', 'C3', 'C9']
+name: b07401120, hole_card: ['ST', 'S7']
+name: b11902140, hole_card: ['C4', 'D2']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['ST', 'S7']
+name: b11902140, hole_card: ['C4', 'D2']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 11 (stack = {'b07401120': 940.0, 'b11902140': 1057.7981991509037})
+community cards of this round: ['HJ', 'SQ', 'HQ', 'CA', 'SJ']
+name: b07401120, hole_card: ['H5', 'H6']
+name: b11902140, hole_card: ['D8', 'H8']
+Started the round 12
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 12]++++++++++++++++++++
++++++++++++++++++++++++0.03275++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 940.0}}]=========
+my_score_after_call: 925.0 oppo_score_after: 1072.7981991509037 round_count: 12
+my_score_if_fold: 935.0 oppo_score_if_fold: 1062.7981991509037
+===Now ALLin!!!!===
+name: b07401120, hole_card: ['H5', 'H6']
+name: b11902140, hole_card: ['D8', 'H8']
+"b07401120" declared "raise:930.0"
+name: b07401120, hole_card: ['H5', 'H6']
+name: b11902140, hole_card: ['D8', 'H8']
+"b11902140" declared "call:930.0"
+Street "flop" started. (community card = ['HJ', 'SQ', 'HQ'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 12]++++++++++++++++++++
++++++++++++++++++++++++0.942++++++++++++++++++++
+++++++++++[pot]1860.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 10.0}}]=========
+name: b07401120, hole_card: ['H5', 'H6']
+name: b11902140, hole_card: ['D8', 'H8']
+"b07401120" declared "raise:10.0"
+name: b07401120, hole_card: ['H5', 'H6']
+name: b11902140, hole_card: ['D8', 'H8']
+"b11902140" declared "call:10.0"
+Street "turn" started. (community card = ['HJ', 'SQ', 'HQ', 'CA'])
+Street "river" started. (community card = ['HJ', 'SQ', 'HQ', 'CA', 'SJ'])
+"['b11902140']" won the round 12 (stack = {'b07401120': 0.0, 'b11902140': 1997.7981991509037})
+b11902140 vs b07401120 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b07401120', 'uuid': 'lwqmzeauqgulmqxdgairyf', 'stack': 0, 'state': 'folded'}, {'name': 'b11902140', 'uuid': 'zwqrdwmkrvemqhihcfduir', 'stack': 1997.7981991509037, 'state': 'participating'}]}
+community cards of this round: ['H6', 'C5', 'DT', 'CK', 'DK']
+name: b11902140, hole_card: ['C3', 'D5']
+name: b07401120, hole_card: ['H9', 'DJ']
+Started the round 1
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 1]++++++++++++++++++++
++++++++++++++++++++++++0.143375++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1000}}]=========
+my_score_after_call: 985 oppo_score_after: 1015 round_count: 1
+my_score_if_fold: 995 oppo_score_if_fold: 1005
+name: b11902140, hole_card: ['C3', 'D5']
+name: b07401120, hole_card: ['H9', 'DJ']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['C3', 'D5']
+name: b07401120, hole_card: ['H9', 'DJ']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 1 (stack = {'b11902140': 990, 'b07401120': 1010})
+community cards of this round: ['HQ', 'S2', 'SJ', 'H8', 'C5']
+name: b11902140, hole_card: ['DQ', 'CT']
+name: b07401120, hole_card: ['C7', 'CA']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['DQ', 'CT']
+name: b07401120, hole_card: ['C7', 'CA']
+"b11902140" declared "raise:24.84848484848485"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.46025++++++++++++++++++++
+++++++++++[pot]34.84848484848485++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 24.84848484848485}, {'action': 'raise', 'amount': {'min': 39.6969696969697, 'max': 1010}}]=========
+my_score_after_call: 975.1515151515151 oppo_score_after: 1024.8484848484848 round_count: 2
+my_score_if_fold: 1000 oppo_score_if_fold: 1000.0
+name: b11902140, hole_card: ['DQ', 'CT']
+name: b07401120, hole_card: ['C7', 'CA']
+"b07401120" declared "call:24.84848484848485"
+Street "flop" started. (community card = ['HQ', 'S2', 'SJ'])
+name: b11902140, hole_card: ['DQ', 'CT']
+name: b07401120, hole_card: ['C7', 'CA']
+"b11902140" declared "raise:141.3030303030303"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.171125++++++++++++++++++++
+++++++++++[pot]191.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 141.3030303030303}, {'action': 'raise', 'amount': {'min': 282.6060606060606, 'max': 985.1515151515151}}]=========
+my_score_after_call: 843.8484848484848 oppo_score_after: 1156.151515151515 round_count: 2
+my_score_if_fold: 985.1515151515151 oppo_score_if_fold: 1014.8484848484848
+===Next ALLin!!!!===
+name: b11902140, hole_card: ['DQ', 'CT']
+name: b07401120, hole_card: ['C7', 'CA']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 2 (stack = {'b11902140': 1014.8484848484848, 'b07401120': 985.1515151515151})
+community cards of this round: ['CT', 'C9', 'C6', 'H9', 'DQ']
+name: b11902140, hole_card: ['D6', 'C5']
+name: b07401120, hole_card: ['H7', 'DJ']
+Started the round 3
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.086125++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 985.1515151515151}}]=========
+my_score_after_call: 970.1515151515151 oppo_score_after: 1029.8484848484848 round_count: 3
+my_score_if_fold: 980.1515151515151 oppo_score_if_fold: 1019.8484848484848
+name: b11902140, hole_card: ['D6', 'C5']
+name: b07401120, hole_card: ['H7', 'DJ']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['D6', 'C5']
+name: b07401120, hole_card: ['H7', 'DJ']
+"b11902140" declared "call:10"
+Street "flop" started. (community card = ['CT', 'C9', 'C6'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.453++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 975.1515151515151}}]=========
+my_score_after_call: 975.1515151515151 oppo_score_after: 1024.8484848484848 round_count: 3
+my_score_if_fold: 975.1515151515151 oppo_score_if_fold: 1024.8484848484848
+name: b11902140, hole_card: ['D6', 'C5']
+name: b07401120, hole_card: ['H7', 'DJ']
+"b07401120" declared "call:0"
+name: b11902140, hole_card: ['D6', 'C5']
+name: b07401120, hole_card: ['H7', 'DJ']
+"b11902140" declared "raise:136.15151515151524"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.089625++++++++++++++++++++
+++++++++++[pot]156.15151515151524++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 136.15151515151524}, {'action': 'raise', 'amount': {'min': 272.3030303030305, 'max': 975.1515151515151}}]=========
+my_score_after_call: 838.9999999999999 oppo_score_after: 1161.0 round_count: 3
+my_score_if_fold: 975.1515151515151 oppo_score_if_fold: 1024.8484848484848
+===Next ALLin!!!!===
+name: b11902140, hole_card: ['D6', 'C5']
+name: b07401120, hole_card: ['H7', 'DJ']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 3 (stack = {'b11902140': 1024.6969696969695, 'b07401120': 975.1515151515151})
+community cards of this round: ['D8', 'D4', 'ST', 'CA', 'S9']
+name: b11902140, hole_card: ['HK', 'D7']
+name: b07401120, hole_card: ['HQ', 'H9']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['HK', 'D7']
+name: b07401120, hole_card: ['HQ', 'H9']
+"b11902140" declared "raise:121.22727272727275"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.909125++++++++++++++++++++
+++++++++++[pot]131.22727272727275++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 121.22727272727275}, {'action': 'raise', 'amount': {'min': 232.4545454545455, 'max': 975.1515151515151}}]=========
+my_score_after_call: 843.9242424242424 oppo_score_after: 1155.9242424242423 round_count: 4
+my_score_if_fold: 965.1515151515151 oppo_score_if_fold: 1034.6969696969695
+===Next ALLin!!!!===
+name: b11902140, hole_card: ['HK', 'D7']
+name: b07401120, hole_card: ['HQ', 'H9']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 4 (stack = {'b11902140': 1034.4696969696968, 'b07401120': 965.1515151515151})
+community cards of this round: ['HT', 'C6', 'D6', 'C3', 'HK']
+name: b11902140, hole_card: ['H5', 'S6']
+name: b07401120, hole_card: ['C8', 'SK']
+Started the round 5
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.784875++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 965.1515151515151}}]=========
+my_score_after_call: 950.1515151515151 oppo_score_after: 1049.4696969696968 round_count: 5
+my_score_if_fold: 960.1515151515151 oppo_score_if_fold: 1039.4696969696968
+name: b11902140, hole_card: ['H5', 'S6']
+name: b07401120, hole_card: ['C8', 'SK']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['H5', 'S6']
+name: b07401120, hole_card: ['C8', 'SK']
+"b11902140" declared "call:10"
+Street "flop" started. (community card = ['HT', 'C6', 'D6'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.36025++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 955.1515151515151}}]=========
+my_score_after_call: 955.1515151515151 oppo_score_after: 1044.4696969696968 round_count: 5
+my_score_if_fold: 955.1515151515151 oppo_score_if_fold: 1044.4696969696968
+name: b11902140, hole_card: ['H5', 'S6']
+name: b07401120, hole_card: ['C8', 'SK']
+"b07401120" declared "call:0"
+name: b11902140, hole_card: ['H5', 'S6']
+name: b07401120, hole_card: ['C8', 'SK']
+"b11902140" declared "raise:96.34090909090924"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.500125++++++++++++++++++++
+++++++++++[pot]116.34090909090924++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 96.34090909090924}, {'action': 'raise', 'amount': {'min': 192.68181818181847, 'max': 955.1515151515151}}]=========
+my_score_after_call: 858.8106060606059 oppo_score_after: 1140.810606060606 round_count: 5
+my_score_if_fold: 955.1515151515151 oppo_score_if_fold: 1044.4696969696968
+===Next ALLin!!!!===
+name: b11902140, hole_card: ['H5', 'S6']
+name: b07401120, hole_card: ['C8', 'SK']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 5 (stack = {'b11902140': 1044.1287878787875, 'b07401120': 955.1515151515151})
+community cards of this round: ['S9', 'D8', 'S8', 'D6', 'C2']
+name: b11902140, hole_card: ['DA', 'H7']
+name: b07401120, hole_card: ['H8', 'SA']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['DA', 'H7']
+name: b07401120, hole_card: ['H8', 'SA']
+"b11902140" declared "raise:81.51136363636374"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.98325++++++++++++++++++++
+++++++++++[pot]91.51136363636374++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 81.51136363636374}, {'action': 'raise', 'amount': {'min': 153.02272727272748, 'max': 955.1515151515151}}]=========
+my_score_after_call: 863.6401515151514 oppo_score_after: 1135.6401515151513 round_count: 6
+my_score_if_fold: 945.1515151515151 oppo_score_if_fold: 1054.1287878787875
+===Next ALLin!!!!===
+name: b11902140, hole_card: ['DA', 'H7']
+name: b07401120, hole_card: ['H8', 'SA']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 6 (stack = {'b11902140': 1053.6174242424238, 'b07401120': 945.1515151515151})
+community cards of this round: ['S8', 'SK', 'ST', 'H4', 'S3']
+name: b11902140, hole_card: ['D3', 'H9']
+name: b07401120, hole_card: ['S4', 'SJ']
+Started the round 7
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 7]++++++++++++++++++++
++++++++++++++++++++++++0.951875++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 945.1515151515151}}]=========
+my_score_after_call: 930.1515151515151 oppo_score_after: 1068.6174242424238 round_count: 7
+my_score_if_fold: 940.1515151515151 oppo_score_if_fold: 1058.6174242424238
+name: b11902140, hole_card: ['D3', 'H9']
+name: b07401120, hole_card: ['S4', 'SJ']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['D3', 'H9']
+name: b07401120, hole_card: ['S4', 'SJ']
+"b11902140" declared "call:10"
+Street "flop" started. (community card = ['S8', 'SK', 'ST'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 7]++++++++++++++++++++
++++++++++++++++++++++++0.826125++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 935.1515151515151}}]=========
+my_score_after_call: 935.1515151515151 oppo_score_after: 1063.6174242424238 round_count: 7
+my_score_if_fold: 935.1515151515151 oppo_score_if_fold: 1063.6174242424238
+name: b11902140, hole_card: ['D3', 'H9']
+name: b07401120, hole_card: ['S4', 'SJ']
+"b07401120" declared "raise:11.0"
+name: b11902140, hole_card: ['D3', 'H9']
+name: b07401120, hole_card: ['S4', 'SJ']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 7 (stack = {'b11902140': 1043.6174242424238, 'b07401120': 955.1515151515151})
+community cards of this round: ['SA', 'H8', 'D9', 'CQ', 'H2']
+name: b11902140, hole_card: ['H3', 'HT']
+name: b07401120, hole_card: ['ST', 'D4']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['H3', 'HT']
+name: b07401120, hole_card: ['ST', 'D4']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.32725++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 955.1515151515151}}]=========
+my_score_after_call: 930.1515151515151 oppo_score_after: 1068.6174242424238 round_count: 8
+my_score_if_fold: 945.1515151515151 oppo_score_if_fold: 1053.6174242424238
+name: b11902140, hole_card: ['H3', 'HT']
+name: b07401120, hole_card: ['ST', 'D4']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['SA', 'H8', 'D9'])
+name: b11902140, hole_card: ['H3', 'HT']
+name: b07401120, hole_card: ['ST', 'D4']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.412375++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 940.1515151515151}}]=========
+my_score_after_call: 940.1515151515151 oppo_score_after: 1058.6174242424238 round_count: 8
+my_score_if_fold: 940.1515151515151 oppo_score_if_fold: 1058.6174242424238
+name: b11902140, hole_card: ['H3', 'HT']
+name: b07401120, hole_card: ['ST', 'D4']
+"b07401120" declared "call:0"
+Street "turn" started. (community card = ['SA', 'H8', 'D9', 'CQ'])
+name: b11902140, hole_card: ['H3', 'HT']
+name: b07401120, hole_card: ['ST', 'D4']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.166125++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 940.1515151515151}}]=========
+my_score_after_call: 940.1515151515151 oppo_score_after: 1058.6174242424238 round_count: 8
+my_score_if_fold: 940.1515151515151 oppo_score_if_fold: 1058.6174242424238
+name: b11902140, hole_card: ['H3', 'HT']
+name: b07401120, hole_card: ['ST', 'D4']
+"b07401120" declared "call:0"
+Street "river" started. (community card = ['SA', 'H8', 'D9', 'CQ', 'H2'])
+name: b11902140, hole_card: ['H3', 'HT']
+name: b07401120, hole_card: ['ST', 'D4']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.16725++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 940.1515151515151}}]=========
+my_score_after_call: 940.1515151515151 oppo_score_after: 1058.6174242424238 round_count: 8
+my_score_if_fold: 940.1515151515151 oppo_score_if_fold: 1058.6174242424238
+name: b11902140, hole_card: ['H3', 'HT']
+name: b07401120, hole_card: ['ST', 'D4']
+"b07401120" declared "call:0"
+"['b07401120']" won the round 8 (stack = {'b11902140': 1028.6174242424238, 'b07401120': 970.1515151515151})
+community cards of this round: ['H2', 'S7', 'HA', 'C3', 'DK']
+name: b11902140, hole_card: ['S4', 'D2']
+name: b07401120, hole_card: ['DJ', 'C6']
+Started the round 9
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 9]++++++++++++++++++++
++++++++++++++++++++++++0.9775++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 970.1515151515151}}]=========
+my_score_after_call: 955.1515151515151 oppo_score_after: 1043.6174242424238 round_count: 9
+my_score_if_fold: 965.1515151515151 oppo_score_if_fold: 1033.6174242424238
+name: b11902140, hole_card: ['S4', 'D2']
+name: b07401120, hole_card: ['DJ', 'C6']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['S4', 'D2']
+name: b07401120, hole_card: ['DJ', 'C6']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 9 (stack = {'b11902140': 1018.6174242424238, 'b07401120': 980.1515151515151})
+community cards of this round: ['HT', 'SK', 'HQ', 'CA', 'H5']
+name: b11902140, hole_card: ['C8', 'S6']
+name: b07401120, hole_card: ['H8', 'C6']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['C8', 'S6']
+name: b07401120, hole_card: ['H8', 'C6']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 10]++++++++++++++++++++
++++++++++++++++++++++++0.720875++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 980.1515151515151}}]=========
+my_score_after_call: 955.1515151515151 oppo_score_after: 1043.6174242424238 round_count: 10
+my_score_if_fold: 970.1515151515151 oppo_score_if_fold: 1028.6174242424238
+name: b11902140, hole_card: ['C8', 'S6']
+name: b07401120, hole_card: ['H8', 'C6']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['HT', 'SK', 'HQ'])
+name: b11902140, hole_card: ['C8', 'S6']
+name: b07401120, hole_card: ['H8', 'C6']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 10]++++++++++++++++++++
++++++++++++++++++++++++0.192875++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 965.1515151515151}}]=========
+my_score_after_call: 965.1515151515151 oppo_score_after: 1033.6174242424238 round_count: 10
+my_score_if_fold: 965.1515151515151 oppo_score_if_fold: 1033.6174242424238
+name: b11902140, hole_card: ['C8', 'S6']
+name: b07401120, hole_card: ['H8', 'C6']
+"b07401120" declared "call:0"
+Street "turn" started. (community card = ['HT', 'SK', 'HQ', 'CA'])
+name: b11902140, hole_card: ['C8', 'S6']
+name: b07401120, hole_card: ['H8', 'C6']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 10]++++++++++++++++++++
++++++++++++++++++++++++0.19825++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 965.1515151515151}}]=========
+my_score_after_call: 965.1515151515151 oppo_score_after: 1033.6174242424238 round_count: 10
+my_score_if_fold: 965.1515151515151 oppo_score_if_fold: 1033.6174242424238
+name: b11902140, hole_card: ['C8', 'S6']
+name: b07401120, hole_card: ['H8', 'C6']
+"b07401120" declared "call:0"
+Street "river" started. (community card = ['HT', 'SK', 'HQ', 'CA', 'H5'])
+name: b11902140, hole_card: ['C8', 'S6']
+name: b07401120, hole_card: ['H8', 'C6']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 10]++++++++++++++++++++
++++++++++++++++++++++++0.176625++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 965.1515151515151}}]=========
+my_score_after_call: 965.1515151515151 oppo_score_after: 1033.6174242424238 round_count: 10
+my_score_if_fold: 965.1515151515151 oppo_score_if_fold: 1033.6174242424238
+name: b11902140, hole_card: ['C8', 'S6']
+name: b07401120, hole_card: ['H8', 'C6']
+"b07401120" declared "call:0"
+"['b11902140', 'b07401120']" won the round 10 (stack = {'b11902140': 1018.6174242424238, 'b07401120': 980.1515151515151})
+community cards of this round: ['D4', 'DQ', 'S3', 'C3', 'C9']
+name: b11902140, hole_card: ['ST', 'S7']
+name: b07401120, hole_card: ['C4', 'D2']
+Started the round 11
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 11]++++++++++++++++++++
++++++++++++++++++++++++0.68425++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 980.1515151515151}}]=========
+my_score_after_call: 965.1515151515151 oppo_score_after: 1033.6174242424238 round_count: 11
+my_score_if_fold: 975.1515151515151 oppo_score_if_fold: 1023.6174242424238
+name: b11902140, hole_card: ['ST', 'S7']
+name: b07401120, hole_card: ['C4', 'D2']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['ST', 'S7']
+name: b07401120, hole_card: ['C4', 'D2']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 11]++++++++++++++++++++
++++++++++++++++++++++++0.030875++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 980.1515151515151}}]=========
+my_score_after_call: 955.1515151515151 oppo_score_after: 1043.6174242424238 round_count: 11
+my_score_if_fold: 970.1515151515151 oppo_score_if_fold: 1028.6174242424238
+name: b11902140, hole_card: ['ST', 'S7']
+name: b07401120, hole_card: ['C4', 'D2']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['D4', 'DQ', 'S3'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 11]++++++++++++++++++++
++++++++++++++++++++++++0.66925++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 965.1515151515151}}]=========
+my_score_after_call: 965.1515151515151 oppo_score_after: 1033.6174242424238 round_count: 11
+my_score_if_fold: 965.1515151515151 oppo_score_if_fold: 1033.6174242424238
+name: b11902140, hole_card: ['ST', 'S7']
+name: b07401120, hole_card: ['C4', 'D2']
+"b07401120" declared "raise:10"
+name: b11902140, hole_card: ['ST', 'S7']
+name: b07401120, hole_card: ['C4', 'D2']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 11 (stack = {'b11902140': 1003.6174242424238, 'b07401120': 995.1515151515151})
+community cards of this round: ['HJ', 'SQ', 'HQ', 'CA', 'SJ']
+name: b11902140, hole_card: ['H5', 'H6']
+name: b07401120, hole_card: ['D8', 'H8']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['H5', 'H6']
+name: b07401120, hole_card: ['D8', 'H8']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 12]++++++++++++++++++++
++++++++++++++++++++++++0.672125++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 995.1515151515151}}]=========
+my_score_after_call: 970.1515151515151 oppo_score_after: 1028.6174242424238 round_count: 12
+my_score_if_fold: 985.1515151515151 oppo_score_if_fold: 1013.6174242424238
+name: b11902140, hole_card: ['H5', 'H6']
+name: b07401120, hole_card: ['D8', 'H8']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['HJ', 'SQ', 'HQ'])
+name: b11902140, hole_card: ['H5', 'H6']
+name: b07401120, hole_card: ['D8', 'H8']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 12]++++++++++++++++++++
++++++++++++++++++++++++0.76175++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 980.1515151515151}}]=========
+my_score_after_call: 980.1515151515151 oppo_score_after: 1018.6174242424238 round_count: 12
+my_score_if_fold: 980.1515151515151 oppo_score_if_fold: 1018.6174242424238
+name: b11902140, hole_card: ['H5', 'H6']
+name: b07401120, hole_card: ['D8', 'H8']
+"b07401120" declared "raise:11.4"
+name: b11902140, hole_card: ['H5', 'H6']
+name: b07401120, hole_card: ['D8', 'H8']
+"b11902140" declared "call:11.4"
+Street "turn" started. (community card = ['HJ', 'SQ', 'HQ', 'CA'])
+name: b11902140, hole_card: ['H5', 'H6']
+name: b07401120, hole_card: ['D8', 'H8']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 12]++++++++++++++++++++
++++++++++++++++++++++++0.401++++++++++++++++++++
+++++++++++[pot]52.8++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 968.7515151515152}}]=========
+my_score_after_call: 968.7515151515152 oppo_score_after: 1030.0174242424239 round_count: 12
+my_score_if_fold: 968.7515151515152 oppo_score_if_fold: 1030.0174242424239
+name: b11902140, hole_card: ['H5', 'H6']
+name: b07401120, hole_card: ['D8', 'H8']
+"b07401120" declared "call:0"
+Street "river" started. (community card = ['HJ', 'SQ', 'HQ', 'CA', 'SJ'])
+name: b11902140, hole_card: ['H5', 'H6']
+name: b07401120, hole_card: ['D8', 'H8']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 12]++++++++++++++++++++
++++++++++++++++++++++++0.321625++++++++++++++++++++
+++++++++++[pot]52.8++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 968.7515151515152}}]=========
+my_score_after_call: 968.7515151515152 oppo_score_after: 1030.0174242424239 round_count: 12
+my_score_if_fold: 968.7515151515152 oppo_score_if_fold: 1030.0174242424239
+name: b11902140, hole_card: ['H5', 'H6']
+name: b07401120, hole_card: ['D8', 'H8']
+"b07401120" declared "call:0"
+"['b07401120']" won the round 12 (stack = {'b11902140': 977.2174242424238, 'b07401120': 1020.7515151515152})
+community cards of this round: ['DQ', 'CK', 'S9', 'H6', 'S5']
+name: b11902140, hole_card: ['D4', 'HT']
+name: b07401120, hole_card: ['DT', 'C6']
+Started the round 13
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 13]++++++++++++++++++++
++++++++++++++++++++++++0.181625++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1020.7515151515152}}]=========
+my_score_after_call: 1005.7515151515152 oppo_score_after: 992.2174242424238 round_count: 13
+my_score_if_fold: 1015.7515151515152 oppo_score_if_fold: 982.2174242424238
+name: b11902140, hole_card: ['D4', 'HT']
+name: b07401120, hole_card: ['DT', 'C6']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['D4', 'HT']
+name: b07401120, hole_card: ['DT', 'C6']
+"b11902140" declared "call:10"
+Street "flop" started. (community card = ['DQ', 'CK', 'S9'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 13]++++++++++++++++++++
++++++++++++++++++++++++0.57175++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 1010.7515151515152}}]=========
+my_score_after_call: 1010.7515151515152 oppo_score_after: 987.2174242424238 round_count: 13
+my_score_if_fold: 1010.7515151515152 oppo_score_if_fold: 987.2174242424238
+name: b11902140, hole_card: ['D4', 'HT']
+name: b07401120, hole_card: ['DT', 'C6']
+"b07401120" declared "call:0"
+name: b11902140, hole_card: ['D4', 'HT']
+name: b07401120, hole_card: ['DT', 'C6']
+"b11902140" declared "call:0"
+Street "turn" started. (community card = ['DQ', 'CK', 'S9', 'H6'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 13]++++++++++++++++++++
++++++++++++++++++++++++0.458125++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 1010.7515151515152}}]=========
+my_score_after_call: 1010.7515151515152 oppo_score_after: 987.2174242424238 round_count: 13
+my_score_if_fold: 1010.7515151515152 oppo_score_if_fold: 987.2174242424238
+name: b11902140, hole_card: ['D4', 'HT']
+name: b07401120, hole_card: ['DT', 'C6']
+"b07401120" declared "call:0"
+name: b11902140, hole_card: ['D4', 'HT']
+name: b07401120, hole_card: ['DT', 'C6']
+"b11902140" declared "call:0"
+Street "river" started. (community card = ['DQ', 'CK', 'S9', 'H6', 'S5'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 13]++++++++++++++++++++
++++++++++++++++++++++++0.556875++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 1010.7515151515152}}]=========
+my_score_after_call: 1010.7515151515152 oppo_score_after: 987.2174242424238 round_count: 13
+my_score_if_fold: 1010.7515151515152 oppo_score_if_fold: 987.2174242424238
+name: b11902140, hole_card: ['D4', 'HT']
+name: b07401120, hole_card: ['DT', 'C6']
+"b07401120" declared "call:0"
+name: b11902140, hole_card: ['D4', 'HT']
+name: b07401120, hole_card: ['DT', 'C6']
+"b11902140" declared "call:0"
+"['b07401120']" won the round 13 (stack = {'b11902140': 967.2174242424238, 'b07401120': 1030.7515151515152})
+community cards of this round: ['CJ', 'C9', 'H2', 'D4', 'D9']
+name: b11902140, hole_card: ['S6', 'DK']
+name: b07401120, hole_card: ['CA', 'DT']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['S6', 'DK']
+name: b07401120, hole_card: ['CA', 'DT']
+"b11902140" declared "raise:46.27438923281619"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 14]++++++++++++++++++++
++++++++++++++++++++++++0.96675++++++++++++++++++++
+++++++++++[pot]56.27438923281619++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 46.27438923281619}, {'action': 'raise', 'amount': {'min': 82.54877846563238, 'max': 1030.7515151515152}}]=========
+my_score_after_call: 974.4771259186989 oppo_score_after: 1023.4918134752402 round_count: 14
+my_score_if_fold: 1020.7515151515152 oppo_score_if_fold: 977.2174242424239
+name: b11902140, hole_card: ['S6', 'DK']
+name: b07401120, hole_card: ['CA', 'DT']
+"b07401120" declared "call:46.27438923281619"
+Street "flop" started. (community card = ['CJ', 'C9', 'H2'])
+name: b11902140, hole_card: ['S6', 'DK']
+name: b07401120, hole_card: ['CA', 'DT']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 14]++++++++++++++++++++
++++++++++++++++++++++++0.357++++++++++++++++++++
+++++++++++[pot]92.54877846563238++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 984.4771259186989}}]=========
+my_score_after_call: 984.4771259186989 oppo_score_after: 1013.4918134752401 round_count: 14
+my_score_if_fold: 984.4771259186989 oppo_score_if_fold: 1013.4918134752401
+name: b11902140, hole_card: ['S6', 'DK']
+name: b07401120, hole_card: ['CA', 'DT']
+"b07401120" declared "call:0"
+Street "turn" started. (community card = ['CJ', 'C9', 'H2', 'D4'])
+name: b11902140, hole_card: ['S6', 'DK']
+name: b07401120, hole_card: ['CA', 'DT']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 14]++++++++++++++++++++
++++++++++++++++++++++++0.345375++++++++++++++++++++
+++++++++++[pot]92.54877846563238++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 984.4771259186989}}]=========
+my_score_after_call: 984.4771259186989 oppo_score_after: 1013.4918134752401 round_count: 14
+my_score_if_fold: 984.4771259186989 oppo_score_if_fold: 1013.4918134752401
+name: b11902140, hole_card: ['S6', 'DK']
+name: b07401120, hole_card: ['CA', 'DT']
+"b07401120" declared "call:0"
+Street "river" started. (community card = ['CJ', 'C9', 'H2', 'D4', 'D9'])
+name: b11902140, hole_card: ['S6', 'DK']
+name: b07401120, hole_card: ['CA', 'DT']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 14]++++++++++++++++++++
++++++++++++++++++++++++0.499125++++++++++++++++++++
+++++++++++[pot]92.54877846563238++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 984.4771259186989}}]=========
+my_score_after_call: 984.4771259186989 oppo_score_after: 1013.4918134752401 round_count: 14
+my_score_if_fold: 984.4771259186989 oppo_score_if_fold: 1013.4918134752401
+name: b11902140, hole_card: ['S6', 'DK']
+name: b07401120, hole_card: ['CA', 'DT']
+"b07401120" declared "call:0"
+"['b07401120']" won the round 14 (stack = {'b11902140': 920.9430350096077, 'b07401120': 1076.477125918699})
+community cards of this round: ['HT', 'D5', 'S9', 'S5', 'D6']
+name: b11902140, hole_card: ['H2', 'D9']
+name: b07401120, hole_card: ['DJ', 'ST']
+===2ALL FOLD!!!!===
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['H2', 'D9']
+name: b07401120, hole_card: ['DJ', 'ST']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 15 (stack = {'b11902140': 925.9430350096077, 'b07401120': 1071.477125918699})
+community cards of this round: ['CA', 'C9', 'C2', 'H5', 'HQ']
+name: b11902140, hole_card: ['D5', 'HT']
+name: b07401120, hole_card: ['S3', 'HA']
+===1ALL FOLD!!!!===
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['D5', 'HT']
+name: b07401120, hole_card: ['S3', 'HA']
+"b11902140" declared "raise:86.5882410999053"
+name: b11902140, hole_card: ['D5', 'HT']
+name: b07401120, hole_card: ['S3', 'HA']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 16 (stack = {'b11902140': 935.3547939097024, 'b07401120': 1061.477125918699})
+community cards of this round: ['C3', 'SJ', 'SA', 'D7', 'C5']
+name: b11902140, hole_card: ['D4', 'DK']
+name: b07401120, hole_card: ['C6', 'D2']
+===2ALL FOLD!!!!===
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['D4', 'DK']
+name: b07401120, hole_card: ['C6', 'D2']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 17 (stack = {'b11902140': 940.3547939097024, 'b07401120': 1056.477125918699})
+community cards of this round: ['DT', 'DQ', 'CQ', 'SK', 'DK']
+name: b11902140, hole_card: ['H5', 'D8']
+name: b07401120, hole_card: ['ST', 'H7']
+===1ALL FOLD!!!!===
+Started the round 18
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['H5', 'D8']
+name: b07401120, hole_card: ['ST', 'H7']
+"b11902140" declared "raise:72.13500760587249"
+name: b11902140, hole_card: ['H5', 'D8']
+name: b07401120, hole_card: ['ST', 'H7']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 18 (stack = {'b11902140': 950.2197863038299, 'b07401120': 1046.477125918699})
+community cards of this round: ['C7', 'D5', 'CJ', 'H5', 'DA']
+name: b11902140, hole_card: ['D4', 'H8']
+name: b07401120, hole_card: ['S5', 'C5']
+===2ALL FOLD!!!!===
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['D4', 'H8']
+name: b07401120, hole_card: ['S5', 'C5']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 19 (stack = {'b11902140': 955.2197863038299, 'b07401120': 1041.477125918699})
+community cards of this round: ['H9', 'C2', 'D7', 'HT', 'CA']
+name: b11902140, hole_card: ['HQ', 'S5']
+name: b07401120, hole_card: ['C8', 'S7']
+===1ALL FOLD!!!!===
+Started the round 20
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['HQ', 'S5']
+name: b07401120, hole_card: ['C8', 'S7']
+"b11902140" declared "raise:44.128669807434505"
+name: b11902140, hole_card: ['HQ', 'S5']
+name: b07401120, hole_card: ['C8', 'S7']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 20 (stack = {'b11902140': 965.0911164963954, 'b07401120': 1031.477125918699})
+b11902140 vs b07401120 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11902140', 'uuid': 'lrobygauhegbitzxkzmbxv', 'stack': 965.0911164963954, 'state': 'participating'}, {'name': 'b07401120', 'uuid': 'eiciukxxhncsqngysxnwcx', 'stack': 1031.477125918699, 'state': 'participating'}]}
+community cards of this round: ['C5', 'C9', 'CQ', 'H3', 'H9']
+name: b07401120, hole_card: ['ST', 'D3']
+name: b11902140, hole_card: ['H2', 'D9']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['ST', 'D3']
+name: b11902140, hole_card: ['H2', 'D9']
+"b11902140" declared "call:10"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 1]++++++++++++++++++++
++++++++++++++++++++++++0.43675++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1000}}]=========
+my_score_after_call: 980 oppo_score_after: 1020 round_count: 1
+my_score_if_fold: 990 oppo_score_if_fold: 1010
+name: b07401120, hole_card: ['ST', 'D3']
+name: b11902140, hole_card: ['H2', 'D9']
+"b07401120" declared "call:10"
+Street "flop" started. (community card = ['C5', 'C9', 'CQ'])
+name: b07401120, hole_card: ['ST', 'D3']
+name: b11902140, hole_card: ['H2', 'D9']
+"b11902140" declared "raise:10.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 1]++++++++++++++++++++
++++++++++++++++++++++++0.657375++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 990}}]=========
+my_score_after_call: 980.0 oppo_score_after: 1020.0 round_count: 1
+my_score_if_fold: 990 oppo_score_if_fold: 1010.0
+name: b07401120, hole_card: ['ST', 'D3']
+name: b11902140, hole_card: ['H2', 'D9']
+"b07401120" declared "raise:20.0"
+name: b07401120, hole_card: ['ST', 'D3']
+name: b11902140, hole_card: ['H2', 'D9']
+"b11902140" declared "call:20.0"
+Street "turn" started. (community card = ['C5', 'C9', 'CQ', 'H3'])
+name: b07401120, hole_card: ['ST', 'D3']
+name: b11902140, hole_card: ['H2', 'D9']
+"b11902140" declared "raise:10.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 1]++++++++++++++++++++
++++++++++++++++++++++++0.38775++++++++++++++++++++
+++++++++++[pot]70.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 970.0}}]=========
+my_score_after_call: 960.0 oppo_score_after: 1040.0 round_count: 1
+my_score_if_fold: 970.0 oppo_score_if_fold: 1030.0
+name: b07401120, hole_card: ['ST', 'D3']
+name: b11902140, hole_card: ['H2', 'D9']
+"b07401120" declared "call:10.0"
+Street "river" started. (community card = ['C5', 'C9', 'CQ', 'H3', 'H9'])
+name: b07401120, hole_card: ['ST', 'D3']
+name: b11902140, hole_card: ['H2', 'D9']
+"b11902140" declared "raise:111.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 1]++++++++++++++++++++
++++++++++++++++++++++++0.560875++++++++++++++++++++
+++++++++++[pot]191.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 111.0}, {'action': 'raise', 'amount': {'min': 222.0, 'max': 960.0}}]=========
+my_score_after_call: 849.0 oppo_score_after: 1151.0 round_count: 1
+my_score_if_fold: 960.0 oppo_score_if_fold: 1040.0
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['ST', 'D3']
+name: b11902140, hole_card: ['H2', 'D9']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 1 (stack = {'b07401120': 960.0, 'b11902140': 1040.0})
+community cards of this round: ['C6', 'H5', 'H3', 'CJ', 'CK']
+name: b07401120, hole_card: ['S7', 'D3']
+name: b11902140, hole_card: ['D9', 'CQ']
+Started the round 2
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.1085++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 960.0}}]=========
+my_score_after_call: 945.0 oppo_score_after: 1055.0 round_count: 2
+my_score_if_fold: 955.0 oppo_score_if_fold: 1045.0
+name: b07401120, hole_card: ['S7', 'D3']
+name: b11902140, hole_card: ['D9', 'CQ']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['S7', 'D3']
+name: b11902140, hole_card: ['D9', 'CQ']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.59725++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 960.0}}]=========
+my_score_after_call: 935.0 oppo_score_after: 1065.0 round_count: 2
+my_score_if_fold: 950.0 oppo_score_if_fold: 1050.0
+name: b07401120, hole_card: ['S7', 'D3']
+name: b11902140, hole_card: ['D9', 'CQ']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['C6', 'H5', 'H3'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.411875++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 945.0}}]=========
+my_score_after_call: 945.0 oppo_score_after: 1055.0 round_count: 2
+my_score_if_fold: 945.0 oppo_score_if_fold: 1055.0
+name: b07401120, hole_card: ['S7', 'D3']
+name: b11902140, hole_card: ['D9', 'CQ']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['S7', 'D3']
+name: b11902140, hole_card: ['D9', 'CQ']
+"b11902140" declared "call:0"
+Street "turn" started. (community card = ['C6', 'H5', 'H3', 'CJ'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.398625++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 945.0}}]=========
+my_score_after_call: 945.0 oppo_score_after: 1055.0 round_count: 2
+my_score_if_fold: 945.0 oppo_score_if_fold: 1055.0
+name: b07401120, hole_card: ['S7', 'D3']
+name: b11902140, hole_card: ['D9', 'CQ']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['S7', 'D3']
+name: b11902140, hole_card: ['D9', 'CQ']
+"b11902140" declared "call:0"
+Street "river" started. (community card = ['C6', 'H5', 'H3', 'CJ', 'CK'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.398125++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 945.0}}]=========
+my_score_after_call: 945.0 oppo_score_after: 1055.0 round_count: 2
+my_score_if_fold: 945.0 oppo_score_if_fold: 1055.0
+name: b07401120, hole_card: ['S7', 'D3']
+name: b11902140, hole_card: ['D9', 'CQ']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['S7', 'D3']
+name: b11902140, hole_card: ['D9', 'CQ']
+"b11902140" declared "call:0"
+"['b07401120']" won the round 2 (stack = {'b07401120': 975.0, 'b11902140': 1025.0})
+community cards of this round: ['C7', 'D6', 'S4', 'S9', 'D9']
+name: b07401120, hole_card: ['H7', 'SQ']
+name: b11902140, hole_card: ['CJ', 'CQ']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['H7', 'SQ']
+name: b11902140, hole_card: ['CJ', 'CQ']
+"b11902140" declared "raise:131.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.252875++++++++++++++++++++
+++++++++++[pot]141.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 131.0}, {'action': 'raise', 'amount': {'min': 252.0, 'max': 975.0}}]=========
+my_score_after_call: 834.0 oppo_score_after: 1166.0 round_count: 3
+my_score_if_fold: 965.0 oppo_score_if_fold: 1035.0
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['H7', 'SQ']
+name: b11902140, hole_card: ['CJ', 'CQ']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 3 (stack = {'b07401120': 965.0, 'b11902140': 1035.0})
+community cards of this round: ['DT', 'H2', 'H7', 'S9', 'C6']
+name: b07401120, hole_card: ['H5', 'CT']
+name: b11902140, hole_card: ['S2', 'D3']
+Started the round 4
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.701875++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 965.0}}]=========
+my_score_after_call: 950.0 oppo_score_after: 1050.0 round_count: 4
+my_score_if_fold: 960.0 oppo_score_if_fold: 1040.0
+name: b07401120, hole_card: ['H5', 'CT']
+name: b11902140, hole_card: ['S2', 'D3']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['H5', 'CT']
+name: b11902140, hole_card: ['S2', 'D3']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 4 (stack = {'b07401120': 975.0, 'b11902140': 1025.0})
+community cards of this round: ['C9', 'SQ', 'SJ', 'C8', 'HJ']
+name: b07401120, hole_card: ['D8', 'H5']
+name: b11902140, hole_card: ['C6', 'C7']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['D8', 'H5']
+name: b11902140, hole_card: ['C6', 'C7']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.30175++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 975.0}}]=========
+my_score_after_call: 950.0 oppo_score_after: 1050.0 round_count: 5
+my_score_if_fold: 965.0 oppo_score_if_fold: 1035.0
+name: b07401120, hole_card: ['D8', 'H5']
+name: b11902140, hole_card: ['C6', 'C7']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['C9', 'SQ', 'SJ'])
+name: b07401120, hole_card: ['D8', 'H5']
+name: b11902140, hole_card: ['C6', 'C7']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.58675++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 960.0}}]=========
+my_score_after_call: 960.0 oppo_score_after: 1040.0 round_count: 5
+my_score_if_fold: 960.0 oppo_score_if_fold: 1040.0
+name: b07401120, hole_card: ['D8', 'H5']
+name: b11902140, hole_card: ['C6', 'C7']
+"b07401120" declared "call:0"
+Street "turn" started. (community card = ['C9', 'SQ', 'SJ', 'C8'])
+name: b07401120, hole_card: ['D8', 'H5']
+name: b11902140, hole_card: ['C6', 'C7']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.37575++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 960.0}}]=========
+my_score_after_call: 960.0 oppo_score_after: 1040.0 round_count: 5
+my_score_if_fold: 960.0 oppo_score_if_fold: 1040.0
+name: b07401120, hole_card: ['D8', 'H5']
+name: b11902140, hole_card: ['C6', 'C7']
+"b07401120" declared "call:0"
+Street "river" started. (community card = ['C9', 'SQ', 'SJ', 'C8', 'HJ'])
+name: b07401120, hole_card: ['D8', 'H5']
+name: b11902140, hole_card: ['C6', 'C7']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.491375++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 960.0}}]=========
+my_score_after_call: 960.0 oppo_score_after: 1040.0 round_count: 5
+my_score_if_fold: 960.0 oppo_score_if_fold: 1040.0
+name: b07401120, hole_card: ['D8', 'H5']
+name: b11902140, hole_card: ['C6', 'C7']
+"b07401120" declared "call:0"
+"['b07401120']" won the round 5 (stack = {'b07401120': 990.0, 'b11902140': 1010.0})
+community cards of this round: ['D6', 'S9', 'H6', 'C3', 'DA']
+name: b07401120, hole_card: ['D2', 'C4']
+name: b11902140, hole_card: ['D9', 'C5']
+Started the round 6
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.561++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 990.0}}]=========
+my_score_after_call: 975.0 oppo_score_after: 1025.0 round_count: 6
+my_score_if_fold: 985.0 oppo_score_if_fold: 1015.0
+name: b07401120, hole_card: ['D2', 'C4']
+name: b11902140, hole_card: ['D9', 'C5']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['D2', 'C4']
+name: b11902140, hole_card: ['D9', 'C5']
+"b11902140" declared "call:10"
+Street "flop" started. (community card = ['D6', 'S9', 'H6'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.538875++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 980.0}}]=========
+my_score_after_call: 980.0 oppo_score_after: 1020.0 round_count: 6
+my_score_if_fold: 980.0 oppo_score_if_fold: 1020.0
+name: b07401120, hole_card: ['D2', 'C4']
+name: b11902140, hole_card: ['D9', 'C5']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['D2', 'C4']
+name: b11902140, hole_card: ['D9', 'C5']
+"b11902140" declared "raise:111.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.02675++++++++++++++++++++
+++++++++++[pot]131.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 111.0}, {'action': 'raise', 'amount': {'min': 222.0, 'max': 980.0}}]=========
+my_score_after_call: 869.0 oppo_score_after: 1131.0 round_count: 6
+my_score_if_fold: 980.0 oppo_score_if_fold: 1020.0
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['D2', 'C4']
+name: b11902140, hole_card: ['D9', 'C5']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 6 (stack = {'b07401120': 980.0, 'b11902140': 1020.0})
+community cards of this round: ['HK', 'DA', 'D5', 'HA', 'S3']
+name: b07401120, hole_card: ['C3', 'S5']
+name: b11902140, hole_card: ['C9', 'SJ']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['C3', 'S5']
+name: b11902140, hole_card: ['C9', 'SJ']
+"b11902140" declared "raise:96.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 7]++++++++++++++++++++
++++++++++++++++++++++++0.97225++++++++++++++++++++
+++++++++++[pot]106.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 96.0}, {'action': 'raise', 'amount': {'min': 182.0, 'max': 980.0}}]=========
+my_score_after_call: 874.0 oppo_score_after: 1126.0 round_count: 7
+my_score_if_fold: 970.0 oppo_score_if_fold: 1030.0
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['C3', 'S5']
+name: b11902140, hole_card: ['C9', 'SJ']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 7 (stack = {'b07401120': 970.0, 'b11902140': 1030.0})
+community cards of this round: ['CA', 'S8', 'C5', 'HT', 'S4']
+name: b07401120, hole_card: ['CK', 'D4']
+name: b11902140, hole_card: ['H5', 'H6']
+Started the round 8
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.709625++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 970.0}}]=========
+my_score_after_call: 955.0 oppo_score_after: 1045.0 round_count: 8
+my_score_if_fold: 965.0 oppo_score_if_fold: 1035.0
+name: b07401120, hole_card: ['CK', 'D4']
+name: b11902140, hole_card: ['H5', 'H6']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['CK', 'D4']
+name: b11902140, hole_card: ['H5', 'H6']
+"b11902140" declared "call:10"
+Street "flop" started. (community card = ['CA', 'S8', 'C5'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.955875++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 960.0}}]=========
+my_score_after_call: 960.0 oppo_score_after: 1040.0 round_count: 8
+my_score_if_fold: 960.0 oppo_score_if_fold: 1040.0
+name: b07401120, hole_card: ['CK', 'D4']
+name: b11902140, hole_card: ['H5', 'H6']
+"b07401120" declared "raise:14.8"
+name: b07401120, hole_card: ['CK', 'D4']
+name: b11902140, hole_card: ['H5', 'H6']
+"b11902140" declared "call:14.8"
+Street "turn" started. (community card = ['CA', 'S8', 'C5', 'HT'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.289875++++++++++++++++++++
+++++++++++[pot]49.6++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 945.2}}]=========
+my_score_after_call: 945.2 oppo_score_after: 1054.8 round_count: 8
+my_score_if_fold: 945.2 oppo_score_if_fold: 1054.8
+name: b07401120, hole_card: ['CK', 'D4']
+name: b11902140, hole_card: ['H5', 'H6']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['CK', 'D4']
+name: b11902140, hole_card: ['H5', 'H6']
+"b11902140" declared "raise:10.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.287875++++++++++++++++++++
+++++++++++[pot]59.599999999999994++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 945.2}}]=========
+my_score_after_call: 935.2 oppo_score_after: 1064.8 round_count: 8
+my_score_if_fold: 945.2 oppo_score_if_fold: 1054.8
+name: b07401120, hole_card: ['CK', 'D4']
+name: b11902140, hole_card: ['H5', 'H6']
+"b07401120" declared "call:10.0"
+Street "river" started. (community card = ['CA', 'S8', 'C5', 'HT', 'S4'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.486375++++++++++++++++++++
+++++++++++[pot]69.6++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 935.2}}]=========
+my_score_after_call: 935.2 oppo_score_after: 1064.8 round_count: 8
+my_score_if_fold: 935.2 oppo_score_if_fold: 1064.8
+name: b07401120, hole_card: ['CK', 'D4']
+name: b11902140, hole_card: ['H5', 'H6']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['CK', 'D4']
+name: b11902140, hole_card: ['H5', 'H6']
+"b11902140" declared "call:0"
+"['b11902140']" won the round 8 (stack = {'b07401120': 935.2, 'b11902140': 1064.2})
+community cards of this round: ['H8', 'H7', 'H4', 'D6', 'H6']
+name: b07401120, hole_card: ['DQ', 'D5']
+name: b11902140, hole_card: ['C8', 'D7']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['DQ', 'D5']
+name: b11902140, hole_card: ['C8', 'D7']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 9]++++++++++++++++++++
++++++++++++++++++++++++0.105625++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 935.2}}]=========
+my_score_after_call: 910.2 oppo_score_after: 1089.2 round_count: 9
+my_score_if_fold: 925.2 oppo_score_if_fold: 1074.2
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['DQ', 'D5']
+name: b11902140, hole_card: ['C8', 'D7']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 9 (stack = {'b07401120': 925.2, 'b11902140': 1074.2})
+community cards of this round: ['H8', 'C7', 'C3', 'SJ', 'S4']
+name: b07401120, hole_card: ['H5', 'CJ']
+name: b11902140, hole_card: ['DK', 'HJ']
+Started the round 10
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 10]++++++++++++++++++++
++++++++++++++++++++++++0.349625++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 925.2}}]=========
+my_score_after_call: 910.2 oppo_score_after: 1089.2 round_count: 10
+my_score_if_fold: 920.2 oppo_score_if_fold: 1079.2
+===Now ALLin!!!!===
+name: b07401120, hole_card: ['H5', 'CJ']
+name: b11902140, hole_card: ['DK', 'HJ']
+"b07401120" declared "raise:915.2"
+name: b07401120, hole_card: ['H5', 'CJ']
+name: b11902140, hole_card: ['DK', 'HJ']
+"b11902140" declared "call:915.2"
+Street "flop" started. (community card = ['H8', 'C7', 'C3'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 10]++++++++++++++++++++
++++++++++++++++++++++++0.17375++++++++++++++++++++
+++++++++++[pot]1830.4++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 10.0}}]=========
+my_score_after_call: 10.0 oppo_score_after: 1989.4 round_count: 10
+my_score_if_fold: 10.0 oppo_score_if_fold: 1989.4
+===Now ALLin!!!!===
+name: b07401120, hole_card: ['H5', 'CJ']
+name: b11902140, hole_card: ['DK', 'HJ']
+"b07401120" declared "raise:10.0"
+name: b07401120, hole_card: ['H5', 'CJ']
+name: b11902140, hole_card: ['DK', 'HJ']
+"b11902140" declared "call:10.0"
+Street "turn" started. (community card = ['H8', 'C7', 'C3', 'SJ'])
+Street "river" started. (community card = ['H8', 'C7', 'C3', 'SJ', 'S4'])
+"['b11902140']" won the round 10 (stack = {'b07401120': 0.0, 'b11902140': 1999.0})
+b11902140 vs b07401120 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b07401120', 'uuid': 'ktglhmimxffmfpqqxhoncn', 'stack': 0, 'state': 'folded'}, {'name': 'b11902140', 'uuid': 'tbiyvvgiqdogwhkctbfjil', 'stack': 1999.0, 'state': 'participating'}]}
+community cards of this round: ['C5', 'C9', 'CQ', 'H3', 'H9']
+name: b11902140, hole_card: ['ST', 'D3']
+name: b07401120, hole_card: ['H2', 'D9']
+Started the round 1
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 1]++++++++++++++++++++
++++++++++++++++++++++++0.07875++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1000}}]=========
+my_score_after_call: 985 oppo_score_after: 1015 round_count: 1
+my_score_if_fold: 995 oppo_score_if_fold: 1005
+name: b11902140, hole_card: ['ST', 'D3']
+name: b07401120, hole_card: ['H2', 'D9']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['ST', 'D3']
+name: b07401120, hole_card: ['H2', 'D9']
+"b11902140" declared "call:10"
+Street "flop" started. (community card = ['C5', 'C9', 'CQ'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 1]++++++++++++++++++++
++++++++++++++++++++++++0.5095++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 990}}]=========
+my_score_after_call: 990 oppo_score_after: 1010 round_count: 1
+my_score_if_fold: 990 oppo_score_if_fold: 1010
+name: b11902140, hole_card: ['ST', 'D3']
+name: b07401120, hole_card: ['H2', 'D9']
+"b07401120" declared "call:0"
+name: b11902140, hole_card: ['ST', 'D3']
+name: b07401120, hole_card: ['H2', 'D9']
+"b11902140" declared "call:0"
+Street "turn" started. (community card = ['C5', 'C9', 'CQ', 'H3'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 1]++++++++++++++++++++
++++++++++++++++++++++++0.6215++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 990}}]=========
+my_score_after_call: 990 oppo_score_after: 1010 round_count: 1
+my_score_if_fold: 990 oppo_score_if_fold: 1010
+name: b11902140, hole_card: ['ST', 'D3']
+name: b07401120, hole_card: ['H2', 'D9']
+"b07401120" declared "raise:12.2"
+name: b11902140, hole_card: ['ST', 'D3']
+name: b07401120, hole_card: ['H2', 'D9']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 1 (stack = {'b11902140': 990, 'b07401120': 1009.8})
+community cards of this round: ['C6', 'H5', 'H3', 'CJ', 'CK']
+name: b11902140, hole_card: ['S7', 'D3']
+name: b07401120, hole_card: ['D9', 'CQ']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['S7', 'D3']
+name: b07401120, hole_card: ['D9', 'CQ']
+"b11902140" declared "call:10"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.342625++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1009.8}}]=========
+my_score_after_call: 989.8 oppo_score_after: 1010 round_count: 2
+my_score_if_fold: 999.8 oppo_score_if_fold: 1000
+name: b11902140, hole_card: ['S7', 'D3']
+name: b07401120, hole_card: ['D9', 'CQ']
+"b07401120" declared "call:10"
+Street "flop" started. (community card = ['C6', 'H5', 'H3'])
+name: b11902140, hole_card: ['S7', 'D3']
+name: b07401120, hole_card: ['D9', 'CQ']
+"b11902140" declared "raise:170.9000000000001"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.961875++++++++++++++++++++
+++++++++++[pot]190.9000000000001++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 170.9000000000001}, {'action': 'raise', 'amount': {'min': 341.8000000000002, 'max': 999.8}}]=========
+===Not Good Raise!===
+my_score_after_call: 828.8999999999999 oppo_score_after: 1170.9 round_count: 2
+my_score_if_fold: 999.8 oppo_score_if_fold: 1000.0
+===Next ALLin!!!!===
+name: b11902140, hole_card: ['S7', 'D3']
+name: b07401120, hole_card: ['D9', 'CQ']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 2 (stack = {'b11902140': 999.0999999999999, 'b07401120': 999.8})
+community cards of this round: ['C7', 'D6', 'S4', 'S9', 'D9']
+name: b11902140, hole_card: ['H7', 'SQ']
+name: b07401120, hole_card: ['CJ', 'CQ']
+Started the round 3
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.1415++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 999.8}}]=========
+my_score_after_call: 984.8 oppo_score_after: 1014.0999999999999 round_count: 3
+my_score_if_fold: 994.8 oppo_score_if_fold: 1004.0999999999999
+name: b11902140, hole_card: ['H7', 'SQ']
+name: b07401120, hole_card: ['CJ', 'CQ']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['H7', 'SQ']
+name: b07401120, hole_card: ['CJ', 'CQ']
+"b11902140" declared "raise:15.344745270743692"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.277125++++++++++++++++++++
+++++++++++[pot]25.344745270743694++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.344745270743692}, {'action': 'raise', 'amount': {'min': 20.689490541487384, 'max': 999.8}}]=========
+my_score_after_call: 974.4552547292562 oppo_score_after: 1024.4447452707436 round_count: 3
+my_score_if_fold: 989.8 oppo_score_if_fold: 1009.0999999999999
+name: b11902140, hole_card: ['H7', 'SQ']
+name: b07401120, hole_card: ['CJ', 'CQ']
+"b07401120" declared "call:15.344745270743692"
+Street "flop" started. (community card = ['C7', 'D6', 'S4'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.075125++++++++++++++++++++
+++++++++++[pot]30.689490541487384++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 984.4552547292562}}]=========
+my_score_after_call: 984.4552547292562 oppo_score_after: 1014.4447452707436 round_count: 3
+my_score_if_fold: 984.4552547292562 oppo_score_if_fold: 1014.4447452707436
+name: b11902140, hole_card: ['H7', 'SQ']
+name: b07401120, hole_card: ['CJ', 'CQ']
+"b07401120" declared "call:0"
+name: b11902140, hole_card: ['H7', 'SQ']
+name: b07401120, hole_card: ['CJ', 'CQ']
+"b11902140" declared "raise:140.66050945851254"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.0665++++++++++++++++++++
+++++++++++[pot]171.3499999999999++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 140.66050945851254}, {'action': 'raise', 'amount': {'min': 281.32101891702507, 'max': 984.4552547292562}}]=========
+my_score_after_call: 843.7947452707438 oppo_score_after: 1155.105254729256 round_count: 3
+my_score_if_fold: 984.4552547292562 oppo_score_if_fold: 1014.4447452707436
+===Next ALLin!!!!===
+name: b11902140, hole_card: ['H7', 'SQ']
+name: b07401120, hole_card: ['CJ', 'CQ']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 3 (stack = {'b11902140': 1014.0947452707437, 'b07401120': 984.4552547292562})
+community cards of this round: ['DT', 'H2', 'H7', 'S9', 'C6']
+name: b11902140, hole_card: ['H5', 'CT']
+name: b07401120, hole_card: ['S2', 'D3']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['H5', 'CT']
+name: b07401120, hole_card: ['S2', 'D3']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.987++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 984.4552547292562}}]=========
+my_score_after_call: 959.4552547292562 oppo_score_after: 1039.0947452707437 round_count: 4
+my_score_if_fold: 974.4552547292562 oppo_score_if_fold: 1024.0947452707437
+name: b11902140, hole_card: ['H5', 'CT']
+name: b07401120, hole_card: ['S2', 'D3']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['DT', 'H2', 'H7'])
+name: b11902140, hole_card: ['H5', 'CT']
+name: b07401120, hole_card: ['S2', 'D3']
+"b11902140" declared "raise:116.18025472925638"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.39775++++++++++++++++++++
+++++++++++[pot]146.18025472925638++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 116.18025472925638}, {'action': 'raise', 'amount': {'min': 232.36050945851275, 'max': 969.4552547292562}}]=========
+my_score_after_call: 853.2749999999999 oppo_score_after: 1145.275 round_count: 4
+my_score_if_fold: 969.4552547292562 oppo_score_if_fold: 1029.0947452707437
+===Next ALLin!!!!===
+name: b11902140, hole_card: ['H5', 'CT']
+name: b07401120, hole_card: ['S2', 'D3']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 4 (stack = {'b11902140': 1028.9144905414873, 'b07401120': 969.4552547292562})
+community cards of this round: ['C9', 'SQ', 'SJ', 'C8', 'HJ']
+name: b11902140, hole_card: ['D8', 'H5']
+name: b07401120, hole_card: ['C6', 'C7']
+Started the round 5
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.575875++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 969.4552547292562}}]=========
+my_score_after_call: 954.4552547292562 oppo_score_after: 1043.9144905414873 round_count: 5
+my_score_if_fold: 964.4552547292562 oppo_score_if_fold: 1033.9144905414873
+name: b11902140, hole_card: ['D8', 'H5']
+name: b07401120, hole_card: ['C6', 'C7']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['D8', 'H5']
+name: b07401120, hole_card: ['C6', 'C7']
+"b11902140" declared "call:10"
+Street "flop" started. (community card = ['C9', 'SQ', 'SJ'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.829125++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 959.4552547292562}}]=========
+my_score_after_call: 959.4552547292562 oppo_score_after: 1038.9144905414873 round_count: 5
+my_score_if_fold: 959.4552547292562 oppo_score_if_fold: 1038.9144905414873
+name: b11902140, hole_card: ['D8', 'H5']
+name: b07401120, hole_card: ['C6', 'C7']
+"b07401120" declared "raise:12.2"
+name: b11902140, hole_card: ['D8', 'H5']
+name: b07401120, hole_card: ['C6', 'C7']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 5 (stack = {'b11902140': 1018.9144905414873, 'b07401120': 979.2552547292562})
+community cards of this round: ['D6', 'S9', 'H6', 'C3', 'DA']
+name: b11902140, hole_card: ['D2', 'C4']
+name: b07401120, hole_card: ['D9', 'C5']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['D2', 'C4']
+name: b07401120, hole_card: ['D9', 'C5']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 6 (stack = {'b11902140': 1013.9144905414873, 'b07401120': 984.2552547292562})
+community cards of this round: ['HK', 'DA', 'D5', 'HA', 'S3']
+name: b11902140, hole_card: ['C3', 'S5']
+name: b07401120, hole_card: ['C9', 'SJ']
+Started the round 7
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 7]++++++++++++++++++++
++++++++++++++++++++++++0.395625++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 984.2552547292562}}]=========
+my_score_after_call: 969.2552547292562 oppo_score_after: 1028.9144905414873 round_count: 7
+my_score_if_fold: 979.2552547292562 oppo_score_if_fold: 1018.9144905414873
+name: b11902140, hole_card: ['C3', 'S5']
+name: b07401120, hole_card: ['C9', 'SJ']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['C3', 'S5']
+name: b07401120, hole_card: ['C9', 'SJ']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 7 (stack = {'b11902140': 1003.9144905414873, 'b07401120': 994.2552547292562})
+community cards of this round: ['CA', 'S8', 'C5', 'HT', 'S4']
+name: b11902140, hole_card: ['CK', 'D4']
+name: b07401120, hole_card: ['H5', 'H6']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['CK', 'D4']
+name: b07401120, hole_card: ['H5', 'H6']
+"b11902140" declared "raise:101.17038209388443"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.070875++++++++++++++++++++
+++++++++++[pot]111.17038209388443++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 101.17038209388443}, {'action': 'raise', 'amount': {'min': 192.34076418776885, 'max': 994.2552547292562}}]=========
+my_score_after_call: 883.0848726353718 oppo_score_after: 1115.0848726353718 round_count: 8
+my_score_if_fold: 984.2552547292562 oppo_score_if_fold: 1013.9144905414873
+===Next ALLin!!!!===
+name: b11902140, hole_card: ['CK', 'D4']
+name: b07401120, hole_card: ['H5', 'H6']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 8 (stack = {'b11902140': 1013.7441084476029, 'b07401120': 984.2552547292562})
+community cards of this round: ['H8', 'H7', 'H4', 'D6', 'H6']
+name: b11902140, hole_card: ['DQ', 'D5']
+name: b07401120, hole_card: ['C8', 'D7']
+Started the round 9
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 9]++++++++++++++++++++
++++++++++++++++++++++++0.053875++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 984.2552547292562}}]=========
+my_score_after_call: 969.2552547292562 oppo_score_after: 1028.744108447603 round_count: 9
+my_score_if_fold: 979.2552547292562 oppo_score_if_fold: 1018.7441084476029
+name: b11902140, hole_card: ['DQ', 'D5']
+name: b07401120, hole_card: ['C8', 'D7']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['DQ', 'D5']
+name: b07401120, hole_card: ['C8', 'D7']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 9]++++++++++++++++++++
++++++++++++++++++++++++0.985++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 984.2552547292562}}]=========
+my_score_after_call: 959.2552547292562 oppo_score_after: 1038.744108447603 round_count: 9
+my_score_if_fold: 974.2552547292562 oppo_score_if_fold: 1023.7441084476029
+name: b11902140, hole_card: ['DQ', 'D5']
+name: b07401120, hole_card: ['C8', 'D7']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['H8', 'H7', 'H4'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 9]++++++++++++++++++++
++++++++++++++++++++++++0.99175++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 969.2552547292562}}]=========
+my_score_after_call: 969.2552547292562 oppo_score_after: 1028.744108447603 round_count: 9
+my_score_if_fold: 969.2552547292562 oppo_score_if_fold: 1028.744108447603
+name: b11902140, hole_card: ['DQ', 'D5']
+name: b07401120, hole_card: ['C8', 'D7']
+"b07401120" declared "raise:10.9"
+name: b11902140, hole_card: ['DQ', 'D5']
+name: b07401120, hole_card: ['C8', 'D7']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 9 (stack = {'b11902140': 998.7441084476029, 'b07401120': 998.3552547292562})
+community cards of this round: ['H8', 'C7', 'C3', 'SJ', 'S4']
+name: b11902140, hole_card: ['H5', 'CJ']
+name: b07401120, hole_card: ['DK', 'HJ']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['H5', 'CJ']
+name: b07401120, hole_card: ['DK', 'HJ']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 10]++++++++++++++++++++
++++++++++++++++++++++++0.86725++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 998.3552547292562}}]=========
+my_score_after_call: 973.3552547292562 oppo_score_after: 1023.7441084476029 round_count: 10
+my_score_if_fold: 988.3552547292562 oppo_score_if_fold: 1008.7441084476029
+name: b11902140, hole_card: ['H5', 'CJ']
+name: b07401120, hole_card: ['DK', 'HJ']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['H8', 'C7', 'C3'])
+name: b11902140, hole_card: ['H5', 'CJ']
+name: b07401120, hole_card: ['DK', 'HJ']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 10]++++++++++++++++++++
++++++++++++++++++++++++0.843++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 983.3552547292562}}]=========
+my_score_after_call: 983.3552547292562 oppo_score_after: 1013.7441084476029 round_count: 10
+my_score_if_fold: 983.3552547292562 oppo_score_if_fold: 1013.7441084476029
+name: b11902140, hole_card: ['H5', 'CJ']
+name: b07401120, hole_card: ['DK', 'HJ']
+"b07401120" declared "raise:10"
+name: b11902140, hole_card: ['H5', 'CJ']
+name: b07401120, hole_card: ['DK', 'HJ']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 10 (stack = {'b11902140': 983.7441084476029, 'b07401120': 1013.3552547292562})
+community cards of this round: ['CJ', 'C4', 'C8', 'S4', 'H5']
+name: b11902140, hole_card: ['S6', 'C9']
+name: b07401120, hole_card: ['H4', 'D4']
+Started the round 11
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 11]++++++++++++++++++++
++++++++++++++++++++++++0.62525++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1013.3552547292562}}]=========
+my_score_after_call: 998.3552547292562 oppo_score_after: 998.7441084476029 round_count: 11
+my_score_if_fold: 1008.3552547292562 oppo_score_if_fold: 988.7441084476029
+name: b11902140, hole_card: ['S6', 'C9']
+name: b07401120, hole_card: ['H4', 'D4']
+"b07401120" declared "call:10"
+name: b11902140, hole_card: ['S6', 'C9']
+name: b07401120, hole_card: ['H4', 'D4']
+"b11902140" declared "raise:29.579819720597424"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 11]++++++++++++++++++++
++++++++++++++++++++++++0.809625++++++++++++++++++++
+++++++++++[pot]39.57981972059743++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 29.579819720597424}, {'action': 'raise', 'amount': {'min': 49.15963944119485, 'max': 1013.3552547292562}}]=========
+my_score_after_call: 973.7754350086587 oppo_score_after: 1023.3239281682004 round_count: 11
+my_score_if_fold: 1003.3552547292562 oppo_score_if_fold: 993.7441084476029
+name: b11902140, hole_card: ['S6', 'C9']
+name: b07401120, hole_card: ['H4', 'D4']
+"b07401120" declared "call:29.579819720597424"
+Street "flop" started. (community card = ['CJ', 'C4', 'C8'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 11]++++++++++++++++++++
++++++++++++++++++++++++0.507125++++++++++++++++++++
+++++++++++[pot]59.15963944119485++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 983.7754350086587}}]=========
+my_score_after_call: 983.7754350086587 oppo_score_after: 1013.3239281682003 round_count: 11
+my_score_if_fold: 983.7754350086587 oppo_score_if_fold: 1013.3239281682003
+name: b11902140, hole_card: ['S6', 'C9']
+name: b07401120, hole_card: ['H4', 'D4']
+"b07401120" declared "call:0"
+name: b11902140, hole_card: ['S6', 'C9']
+name: b07401120, hole_card: ['H4', 'D4']
+"b11902140" declared "call:0"
+Street "turn" started. (community card = ['CJ', 'C4', 'C8', 'S4'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 11]++++++++++++++++++++
++++++++++++++++++++++++0.997875++++++++++++++++++++
+++++++++++[pot]59.15963944119485++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 983.7754350086587}}]=========
+my_score_after_call: 983.7754350086587 oppo_score_after: 1013.3239281682003 round_count: 11
+my_score_if_fold: 983.7754350086587 oppo_score_if_fold: 1013.3239281682003
+name: b11902140, hole_card: ['S6', 'C9']
+name: b07401120, hole_card: ['H4', 'D4']
+"b07401120" declared "raise:30.0"
+name: b11902140, hole_card: ['S6', 'C9']
+name: b07401120, hole_card: ['H4', 'D4']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 11 (stack = {'b11902140': 954.1642887270054, 'b07401120': 1042.7754350086589})
+community cards of this round: ['C3', 'C7', 'H2', 'C2', 'D6']
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+"b11902140" declared "raise:58.60906457834524"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 12]++++++++++++++++++++
++++++++++++++++++++++++0.879125++++++++++++++++++++
+++++++++++[pot]68.60906457834524++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 58.60906457834524}, {'action': 'raise', 'amount': {'min': 107.21812915669048, 'max': 1042.7754350086589}}]=========
+my_score_after_call: 974.1663704303136 oppo_score_after: 1022.7733533053507 round_count: 12
+my_score_if_fold: 1032.7754350086589 oppo_score_if_fold: 964.1642887270054
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+"b07401120" declared "call:58.60906457834524"
+Street "flop" started. (community card = ['C3', 'C7', 'H2'])
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 12]++++++++++++++++++++
++++++++++++++++++++++++0.677625++++++++++++++++++++
+++++++++++[pot]117.21812915669048++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 984.1663704303136}}]=========
+my_score_after_call: 984.1663704303136 oppo_score_after: 1012.7733533053506 round_count: 12
+my_score_if_fold: 984.1663704303136 oppo_score_if_fold: 1012.7733533053506
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+"b07401120" declared "raise:10"
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+"b11902140" declared "call:10"
+Street "turn" started. (community card = ['C3', 'C7', 'H2', 'C2'])
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 12]++++++++++++++++++++
++++++++++++++++++++++++0.8185++++++++++++++++++++
+++++++++++[pot]137.21812915669048++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 974.1663704303136}}]=========
+my_score_after_call: 974.1663704303136 oppo_score_after: 1022.7733533053506 round_count: 12
+my_score_if_fold: 974.1663704303136 oppo_score_if_fold: 1022.7733533053506
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+"b07401120" declared "raise:33.8"
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+"b11902140" declared "call:33.8"
+Street "river" started. (community card = ['C3', 'C7', 'H2', 'C2', 'D6'])
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 12]++++++++++++++++++++
++++++++++++++++++++++++0.818375++++++++++++++++++++
+++++++++++[pot]204.81812915669047++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 940.3663704303136}}]=========
+===Not Good Raise!===
+my_score_after_call: 940.3663704303136 oppo_score_after: 1056.5733533053508 round_count: 12
+my_score_if_fold: 940.3663704303136 oppo_score_if_fold: 1056.5733533053508
+name: b11902140, hole_card: ['H9', 'H8']
+name: b07401120, hole_card: ['HT', 'ST']
+"b07401120" declared "call:0"
+"['b07401120']" won the round 12 (stack = {'b11902140': 851.7552241486602, 'b07401120': 1144.3663704303135})
+community cards of this round: ['C5', 'H7', 'DA', 'ST', 'C8']
+name: b11902140, hole_card: ['D8', 'HA']
+name: b07401120, hole_card: ['S5', 'HT']
+===2ALL FOLD!!!!===
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['D8', 'HA']
+name: b07401120, hole_card: ['S5', 'HT']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 13 (stack = {'b11902140': 856.7552241486602, 'b07401120': 1139.3663704303135})
+community cards of this round: ['CQ', 'S9', 'ST', 'H8', 'DK']
+name: b11902140, hole_card: ['H3', 'D8']
+name: b07401120, hole_card: ['SJ', 'H4']
+===1ALL FOLD!!!!===
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['H3', 'D8']
+name: b07401120, hole_card: ['SJ', 'H4']
+"b11902140" declared "call:10"
+name: b11902140, hole_card: ['H3', 'D8']
+name: b07401120, hole_card: ['SJ', 'H4']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 14 (stack = {'b11902140': 866.7552241486602, 'b07401120': 1129.3663704303135})
+community cards of this round: ['H9', 'C7', 'H6', 'D9', 'D3']
+name: b11902140, hole_card: ['CQ', 'H2']
+name: b07401120, hole_card: ['S2', 'D6']
+===2ALL FOLD!!!!===
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['CQ', 'H2']
+name: b07401120, hole_card: ['S2', 'D6']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 15 (stack = {'b11902140': 871.7552241486602, 'b07401120': 1124.3663704303135})
+community cards of this round: ['C4', 'CQ', 'CK', 'SK', 'H4']
+name: b11902140, hole_card: ['D6', 'H6']
+name: b07401120, hole_card: ['HT', 'S2']
+===1ALL FOLD!!!!===
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['D6', 'H6']
+name: b07401120, hole_card: ['HT', 'S2']
+"b11902140" declared "raise:139.1322754712169"
+name: b11902140, hole_card: ['D6', 'H6']
+name: b07401120, hole_card: ['HT', 'S2']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 16 (stack = {'b11902140': 881.6229486774433, 'b07401120': 1114.3663704303135})
+community cards of this round: ['DK', 'C4', 'H5', 'H9', 'H3']
+name: b11902140, hole_card: ['D9', 'CT']
+name: b07401120, hole_card: ['CJ', 'ST']
+===2ALL FOLD!!!!===
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['D9', 'CT']
+name: b07401120, hole_card: ['CJ', 'ST']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 17 (stack = {'b11902140': 886.6229486774433, 'b07401120': 1109.3663704303135})
+community cards of this round: ['H8', 'CJ', 'S4', 'D4', 'DQ']
+name: b11902140, hole_card: ['D6', 'SK']
+name: b07401120, hole_card: ['C2', 'C3']
+===1ALL FOLD!!!!===
+Started the round 18
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['D6', 'SK']
+name: b07401120, hole_card: ['C2', 'C3']
+"b11902140" declared "raise:124.48751008325857"
+name: b11902140, hole_card: ['D6', 'SK']
+name: b07401120, hole_card: ['C2', 'C3']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 18 (stack = {'b11902140': 896.1354385941847, 'b07401120': 1099.3663704303135})
+community cards of this round: ['S5', 'SA', 'H6', 'H4', 'S8']
+name: b11902140, hole_card: ['SJ', 'D9']
+name: b07401120, hole_card: ['H3', 'S3']
+===2ALL FOLD!!!!===
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['SJ', 'D9']
+name: b07401120, hole_card: ['H3', 'S3']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 19 (stack = {'b11902140': 901.1354385941847, 'b07401120': 1094.3663704303135})
+community cards of this round: ['D8', 'S5', 'HT', 'C8', 'H3']
+name: b11902140, hole_card: ['D7', 'H9']
+name: b07401120, hole_card: ['H5', 'H7']
+===1ALL FOLD!!!!===
+Started the round 20
+Street "preflop" started. (community card = [])
+name: b11902140, hole_card: ['D7', 'H9']
+name: b07401120, hole_card: ['H5', 'H7']
+"b11902140" declared "raise:97.61546591806439"
+name: b11902140, hole_card: ['D7', 'H9']
+name: b07401120, hole_card: ['H5', 'H7']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 20 (stack = {'b11902140': 910.5199726761203, 'b07401120': 1084.3663704303135})
+b11902140 vs b07401120 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11902140', 'uuid': 'vxrfmazuxpmmngbpjmtvid', 'stack': 910.5199726761203, 'state': 'participating'}, {'name': 'b07401120', 'uuid': 'hgdzwpltpiochahgbapknu', 'stack': 1084.3663704303135, 'state': 'participating'}]}
+community cards of this round: ['SQ', 'C6', 'H3', 'SK', 'ST']
+name: b07401120, hole_card: ['D9', 'H5']
+name: b11902140, hole_card: ['S4', 'C2']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['D9', 'H5']
+name: b11902140, hole_card: ['S4', 'C2']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 1 (stack = {'b07401120': 1005, 'b11902140': 995})
+community cards of this round: ['C2', 'HT', 'H8', 'S6', 'D8']
+name: b07401120, hole_card: ['C4', 'S8']
+name: b11902140, hole_card: ['S4', 'DJ']
+Started the round 2
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.09975++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1005}}]=========
+my_score_after_call: 990 oppo_score_after: 1010 round_count: 2
+my_score_if_fold: 1000 oppo_score_if_fold: 1000
+name: b07401120, hole_card: ['C4', 'S8']
+name: b11902140, hole_card: ['S4', 'DJ']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['C4', 'S8']
+name: b11902140, hole_card: ['S4', 'DJ']
+"b11902140" declared "raise:19.924623115577887"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.121375++++++++++++++++++++
+++++++++++[pot]29.924623115577887++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 19.924623115577887}, {'action': 'raise', 'amount': {'min': 29.849246231155774, 'max': 1005}}]=========
+my_score_after_call: 975.0753768844221 oppo_score_after: 1024.9246231155778 round_count: 2
+my_score_if_fold: 995 oppo_score_if_fold: 1005.0
+name: b07401120, hole_card: ['C4', 'S8']
+name: b11902140, hole_card: ['S4', 'DJ']
+"b07401120" declared "call:19.924623115577887"
+Street "flop" started. (community card = ['C2', 'HT', 'H8'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 2]++++++++++++++++++++
++++++++++++++++++++++++0.697375++++++++++++++++++++
+++++++++++[pot]39.849246231155774++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 985.0753768844221}}]=========
+my_score_after_call: 985.0753768844221 oppo_score_after: 1014.9246231155779 round_count: 2
+my_score_if_fold: 985.0753768844221 oppo_score_if_fold: 1014.9246231155779
+name: b07401120, hole_card: ['C4', 'S8']
+name: b11902140, hole_card: ['S4', 'DJ']
+"b07401120" declared "raise:10"
+name: b07401120, hole_card: ['C4', 'S8']
+name: b11902140, hole_card: ['S4', 'DJ']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 2 (stack = {'b07401120': 1024.075376884422, 'b11902140': 975.0753768844221})
+community cards of this round: ['SJ', 'HJ', 'S6', 'C5', 'D4']
+name: b07401120, hole_card: ['DT', 'S3']
+name: b11902140, hole_card: ['HT', 'S9']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['DT', 'S3']
+name: b11902140, hole_card: ['HT', 'S9']
+"b11902140" declared "raise:39.123106060606005"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.33675++++++++++++++++++++
+++++++++++[pot]49.123106060606005++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 39.123106060606005}, {'action': 'raise', 'amount': {'min': 68.24621212121201, 'max': 1024.075376884422}}]=========
+my_score_after_call: 974.952270823816 oppo_score_after: 1024.198482945028 round_count: 3
+my_score_if_fold: 1014.075376884422 oppo_score_if_fold: 985.0753768844221
+name: b07401120, hole_card: ['DT', 'S3']
+name: b11902140, hole_card: ['HT', 'S9']
+"b07401120" declared "call:39.123106060606005"
+Street "flop" started. (community card = ['SJ', 'HJ', 'S6'])
+name: b07401120, hole_card: ['DT', 'S3']
+name: b11902140, hole_card: ['HT', 'S9']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.2325++++++++++++++++++++
+++++++++++[pot]78.24621212121201++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 984.952270823816}}]=========
+my_score_after_call: 984.952270823816 oppo_score_after: 1014.1984829450281 round_count: 3
+my_score_if_fold: 984.952270823816 oppo_score_if_fold: 1014.1984829450281
+name: b07401120, hole_card: ['DT', 'S3']
+name: b11902140, hole_card: ['HT', 'S9']
+"b07401120" declared "call:0"
+Street "turn" started. (community card = ['SJ', 'HJ', 'S6', 'C5'])
+name: b07401120, hole_card: ['DT', 'S3']
+name: b11902140, hole_card: ['HT', 'S9']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.140375++++++++++++++++++++
+++++++++++[pot]78.24621212121201++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 984.952270823816}}]=========
+my_score_after_call: 984.952270823816 oppo_score_after: 1014.1984829450281 round_count: 3
+my_score_if_fold: 984.952270823816 oppo_score_if_fold: 1014.1984829450281
+name: b07401120, hole_card: ['DT', 'S3']
+name: b11902140, hole_card: ['HT', 'S9']
+"b07401120" declared "call:0"
+Street "river" started. (community card = ['SJ', 'HJ', 'S6', 'C5', 'D4'])
+name: b07401120, hole_card: ['DT', 'S3']
+name: b11902140, hole_card: ['HT', 'S9']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 3]++++++++++++++++++++
++++++++++++++++++++++++0.130875++++++++++++++++++++
+++++++++++[pot]78.24621212121201++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 984.952270823816}}]=========
+my_score_after_call: 984.952270823816 oppo_score_after: 1014.1984829450281 round_count: 3
+my_score_if_fold: 984.952270823816 oppo_score_if_fold: 1014.1984829450281
+name: b07401120, hole_card: ['DT', 'S3']
+name: b11902140, hole_card: ['HT', 'S9']
+"b07401120" declared "call:0"
+"['b11902140']" won the round 3 (stack = {'b07401120': 984.952270823816, 'b11902140': 1013.9522708238161})
+community cards of this round: ['C6', 'D9', 'DJ', 'HK', 'H2']
+name: b07401120, hole_card: ['HT', 'C8']
+name: b11902140, hole_card: ['D6', 'DQ']
+Started the round 4
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.606125++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 984.952270823816}}]=========
+my_score_after_call: 969.952270823816 oppo_score_after: 1028.952270823816 round_count: 4
+my_score_if_fold: 979.952270823816 oppo_score_if_fold: 1018.9522708238161
+name: b07401120, hole_card: ['HT', 'C8']
+name: b11902140, hole_card: ['D6', 'DQ']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['HT', 'C8']
+name: b11902140, hole_card: ['D6', 'DQ']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.9865++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 984.952270823816}}]=========
+my_score_after_call: 959.952270823816 oppo_score_after: 1038.952270823816 round_count: 4
+my_score_if_fold: 974.952270823816 oppo_score_if_fold: 1023.9522708238161
+name: b07401120, hole_card: ['HT', 'C8']
+name: b11902140, hole_card: ['D6', 'DQ']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['C6', 'D9', 'DJ'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.288875++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 969.952270823816}}]=========
+my_score_after_call: 969.952270823816 oppo_score_after: 1028.952270823816 round_count: 4
+my_score_if_fold: 969.952270823816 oppo_score_if_fold: 1028.952270823816
+name: b07401120, hole_card: ['HT', 'C8']
+name: b11902140, hole_card: ['D6', 'DQ']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['HT', 'C8']
+name: b11902140, hole_card: ['D6', 'DQ']
+"b11902140" declared "raise:116.49999999999989"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 4]++++++++++++++++++++
++++++++++++++++++++++++0.106125++++++++++++++++++++
+++++++++++[pot]146.4999999999999++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 116.49999999999989}, {'action': 'raise', 'amount': {'min': 232.99999999999977, 'max': 969.952270823816}}]=========
+my_score_after_call: 853.4522708238161 oppo_score_after: 1145.452270823816 round_count: 4
+my_score_if_fold: 969.952270823816 oppo_score_if_fold: 1028.952270823816
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['HT', 'C8']
+name: b11902140, hole_card: ['D6', 'DQ']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 4 (stack = {'b07401120': 969.952270823816, 'b11902140': 1028.4522708238162})
+community cards of this round: ['SA', 'S4', 'SK', 'C9', 'D6']
+name: b07401120, hole_card: ['C4', 'H8']
+name: b11902140, hole_card: ['C7', 'DK']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['C4', 'H8']
+name: b11902140, hole_card: ['C7', 'DK']
+"b11902140" declared "raise:106.74999999999977"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 5]++++++++++++++++++++
++++++++++++++++++++++++0.603375++++++++++++++++++++
+++++++++++[pot]116.74999999999977++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 106.74999999999977}, {'action': 'raise', 'amount': {'min': 203.49999999999955, 'max': 969.952270823816}}]=========
+my_score_after_call: 853.2022708238162 oppo_score_after: 1145.202270823816 round_count: 5
+my_score_if_fold: 959.952270823816 oppo_score_if_fold: 1038.4522708238162
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['C4', 'H8']
+name: b11902140, hole_card: ['C7', 'DK']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 5 (stack = {'b07401120': 959.952270823816, 'b11902140': 1037.7022708238164})
+community cards of this round: ['D7', 'SA', 'CJ', 'H2', 'DK']
+name: b07401120, hole_card: ['C6', 'D9']
+name: b11902140, hole_card: ['DA', 'CT']
+Started the round 6
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.6935++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 959.952270823816}}]=========
+my_score_after_call: 944.952270823816 oppo_score_after: 1052.7022708238164 round_count: 6
+my_score_if_fold: 954.952270823816 oppo_score_if_fold: 1042.7022708238164
+name: b07401120, hole_card: ['C6', 'D9']
+name: b11902140, hole_card: ['DA', 'CT']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['C6', 'D9']
+name: b11902140, hole_card: ['DA', 'CT']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.972++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 959.952270823816}}]=========
+my_score_after_call: 934.952270823816 oppo_score_after: 1062.7022708238164 round_count: 6
+my_score_if_fold: 949.952270823816 oppo_score_if_fold: 1047.7022708238164
+name: b07401120, hole_card: ['C6', 'D9']
+name: b11902140, hole_card: ['DA', 'CT']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['D7', 'SA', 'CJ'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.27625++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 944.952270823816}}]=========
+my_score_after_call: 944.952270823816 oppo_score_after: 1052.7022708238164 round_count: 6
+my_score_if_fold: 944.952270823816 oppo_score_if_fold: 1052.7022708238164
+name: b07401120, hole_card: ['C6', 'D9']
+name: b11902140, hole_card: ['DA', 'CT']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['C6', 'D9']
+name: b11902140, hole_card: ['DA', 'CT']
+"b11902140" declared "raise:72.12499999999977"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 6]++++++++++++++++++++
++++++++++++++++++++++++0.280125++++++++++++++++++++
+++++++++++[pot]102.12499999999977++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 72.12499999999977}, {'action': 'raise', 'amount': {'min': 144.24999999999955, 'max': 944.952270823816}}]=========
+my_score_after_call: 872.8272708238162 oppo_score_after: 1124.8272708238162 round_count: 6
+my_score_if_fold: 944.952270823816 oppo_score_if_fold: 1052.7022708238164
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['C6', 'D9']
+name: b11902140, hole_card: ['DA', 'CT']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 6 (stack = {'b07401120': 944.952270823816, 'b11902140': 1052.5772708238167})
+community cards of this round: ['C8', 'C7', 'SQ', 'DQ', 'CQ']
+name: b07401120, hole_card: ['D6', 'H8']
+name: b11902140, hole_card: ['DK', 'CA']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['D6', 'H8']
+name: b11902140, hole_card: ['DK', 'CA']
+"b11902140" declared "raise:62.18749999999977"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 7]++++++++++++++++++++
++++++++++++++++++++++++0.5475++++++++++++++++++++
+++++++++++[pot]72.18749999999977++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 62.18749999999977}, {'action': 'raise', 'amount': {'min': 114.37499999999955, 'max': 944.952270823816}}]=========
+my_score_after_call: 872.7647708238162 oppo_score_after: 1124.7647708238164 round_count: 7
+my_score_if_fold: 934.952270823816 oppo_score_if_fold: 1062.5772708238167
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['D6', 'H8']
+name: b11902140, hole_card: ['DK', 'CA']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 7 (stack = {'b07401120': 934.952270823816, 'b11902140': 1062.389770823817})
+community cards of this round: ['H5', 'C9', 'D3', 'H6', 'H3']
+name: b07401120, hole_card: ['D8', 'C4']
+name: b11902140, hole_card: ['HQ', 'SA']
+Started the round 8
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.71075++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 934.952270823816}}]=========
+my_score_after_call: 919.952270823816 oppo_score_after: 1077.389770823817 round_count: 8
+my_score_if_fold: 929.952270823816 oppo_score_if_fold: 1067.389770823817
+name: b07401120, hole_card: ['D8', 'C4']
+name: b11902140, hole_card: ['HQ', 'SA']
+"b07401120" declared "call:10"
+name: b07401120, hole_card: ['D8', 'C4']
+name: b11902140, hole_card: ['HQ', 'SA']
+"b11902140" declared "raise:15.0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.920875++++++++++++++++++++
+++++++++++[pot]25.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15.0}, {'action': 'raise', 'amount': {'min': 20.0, 'max': 934.952270823816}}]=========
+my_score_after_call: 909.952270823816 oppo_score_after: 1087.389770823817 round_count: 8
+my_score_if_fold: 924.952270823816 oppo_score_if_fold: 1072.389770823817
+name: b07401120, hole_card: ['D8', 'C4']
+name: b11902140, hole_card: ['HQ', 'SA']
+"b07401120" declared "call:15.0"
+Street "flop" started. (community card = ['H5', 'C9', 'D3'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.038125++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 919.952270823816}}]=========
+my_score_after_call: 919.952270823816 oppo_score_after: 1077.389770823817 round_count: 8
+my_score_if_fold: 919.952270823816 oppo_score_if_fold: 1077.389770823817
+name: b07401120, hole_card: ['D8', 'C4']
+name: b11902140, hole_card: ['HQ', 'SA']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['D8', 'C4']
+name: b11902140, hole_card: ['HQ', 'SA']
+"b11902140" declared "call:0"
+Street "turn" started. (community card = ['H5', 'C9', 'D3', 'H6'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.03375++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 919.952270823816}}]=========
+my_score_after_call: 919.952270823816 oppo_score_after: 1077.389770823817 round_count: 8
+my_score_if_fold: 919.952270823816 oppo_score_if_fold: 1077.389770823817
+name: b07401120, hole_card: ['D8', 'C4']
+name: b11902140, hole_card: ['HQ', 'SA']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['D8', 'C4']
+name: b11902140, hole_card: ['HQ', 'SA']
+"b11902140" declared "call:0"
+Street "river" started. (community card = ['H5', 'C9', 'D3', 'H6', 'H3'])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 8]++++++++++++++++++++
++++++++++++++++++++++++0.035875++++++++++++++++++++
+++++++++++[pot]30.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 919.952270823816}}]=========
+my_score_after_call: 919.952270823816 oppo_score_after: 1077.389770823817 round_count: 8
+my_score_if_fold: 919.952270823816 oppo_score_if_fold: 1077.389770823817
+name: b07401120, hole_card: ['D8', 'C4']
+name: b11902140, hole_card: ['HQ', 'SA']
+"b07401120" declared "call:0"
+name: b07401120, hole_card: ['D8', 'C4']
+name: b11902140, hole_card: ['HQ', 'SA']
+"b11902140" declared "call:0"
+"['b11902140']" won the round 8 (stack = {'b07401120': 919.952270823816, 'b11902140': 1077.389770823817})
+community cards of this round: ['D8', 'DK', 'C2', 'D4', 'DA']
+name: b07401120, hole_card: ['HQ', 'SA']
+name: b11902140, hole_card: ['C8', 'D3']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['HQ', 'SA']
+name: b11902140, hole_card: ['C8', 'D3']
+"b11902140" declared "call:10"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 9]++++++++++++++++++++
++++++++++++++++++++++++0.903875++++++++++++++++++++
+++++++++++[pot]20++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 919.952270823816}}]=========
+my_score_after_call: 899.952270823816 oppo_score_after: 1097.389770823817 round_count: 9
+my_score_if_fold: 909.952270823816 oppo_score_if_fold: 1087.389770823817
+===Now ALLin!!!!===
+name: b07401120, hole_card: ['HQ', 'SA']
+name: b11902140, hole_card: ['C8', 'D3']
+"b07401120" declared "raise:909.952270823816"
+name: b07401120, hole_card: ['HQ', 'SA']
+name: b11902140, hole_card: ['C8', 'D3']
+"b11902140" declared "fold:0"
+"['b07401120']" won the round 9 (stack = {'b07401120': 929.0, 'b11902140': 1067.389770823817})
+community cards of this round: ['S6', 'D8', 'H5', 'S4', 'D5']
+name: b07401120, hole_card: ['HQ', 'H2']
+name: b11902140, hole_card: ['D6', 'DT']
+Started the round 10
+Street "preflop" started. (community card = [])
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 10]++++++++++++++++++++
++++++++++++++++++++++++0.778125++++++++++++++++++++
+++++++++++[pot]15++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][0]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 929.0}}]=========
+my_score_after_call: 914.0 oppo_score_after: 1082.389770823817 round_count: 10
+my_score_if_fold: 924.0 oppo_score_if_fold: 1072.389770823817
+===Next ALLin!!!!===
+name: b07401120, hole_card: ['HQ', 'H2']
+name: b11902140, hole_card: ['D6', 'DT']
+"b07401120" declared "fold:0"
+"['b11902140']" won the round 10 (stack = {'b07401120': 924.0, 'b11902140': 1072.389770823817})
+community cards of this round: ['HT', 'C3', 'D8', 'DQ', 'H6']
+name: b07401120, hole_card: ['DK', 'S8']
+name: b11902140, hole_card: ['CQ', 'DA']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b07401120, hole_card: ['DK', 'S8']
+name: b11902140, hole_card: ['CQ', 'DA']
+"b11902140" declared "raise:15"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 11]++++++++++++++++++++
++++++++++++++++++++++++0.740875++++++++++++++++++++
+++++++++++[pot]25++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 15}, {'action': 'raise', 'amount': {'min': 20, 'max': 924.0}}]=========
+my_score_after_call: 899.0 oppo_score_after: 1097.389770823817 round_count: 11
+my_score_if_fold: 914.0 oppo_score_if_fold: 1082.389770823817
+===Now ALLin!!!!===
+name: b07401120, hole_card: ['DK', 'S8']
+name: b11902140, hole_card: ['CQ', 'DA']
+"b07401120" declared "raise:914.0"
+name: b07401120, hole_card: ['DK', 'S8']
+name: b11902140, hole_card: ['CQ', 'DA']
+"b11902140" declared "call:914.0"
+Street "flop" started. (community card = ['HT', 'C3', 'D8'])
+name: b07401120, hole_card: ['DK', 'S8']
+name: b11902140, hole_card: ['CQ', 'DA']
+"b11902140" declared "call:0"
++++++++++++++++++++++[WIN RATE]++++++++++++++++++++
++++++++++++++++++++++[Round: 11]++++++++++++++++++++
++++++++++++++++++++++++0.705625++++++++++++++++++++
+++++++++++[pot]1828.0++++++++++++++++++++++++++++++
+++++++++[ALL in][0]+++++++++++++++++++++
+++++++++[Next ALL in][1]+++++++++++++++++++++
+++++++++[fold_ratio][0]+++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+==========[{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 10.0}}]=========
+name: b07401120, hole_card: ['DK', 'S8']
+name: b11902140, hole_card: ['CQ', 'DA']
+"b07401120" declared "raise:10.0"
+name: b07401120, hole_card: ['DK', 'S8']
+name: b11902140, hole_card: ['CQ', 'DA']
+"b11902140" declared "call:10.0"
+Street "turn" started. (community card = ['HT', 'C3', 'D8', 'DQ'])
+Street "river" started. (community card = ['HT', 'C3', 'D8', 'DQ', 'H6'])
+"['b11902140']" won the round 11 (stack = {'b07401120': 0.0, 'b11902140': 1996.389770823817})
+b11902140 vs b07401120 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b07401120', 'uuid': 'plxeybogrgiknwmnerdudn', 'stack': 0, 'state': 'folded'}, {'name': 'b11902140', 'uuid': 'wbxdhrhjvnygojotzgthki', 'stack': 1996.389770823817, 'state': 'participating'}]}
+Final Result: b11902140 won 0 games (stack: 8109.031466323733), b07401120 won 5 games (stack: 1875.6110891725157)

@@ -1,0 +1,1285 @@
+2024-06-24 00:10:51.936213: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-06-24 00:10:51.937864: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-06-24 00:10:51.969940: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-06-24 00:10:51.970288: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 AVX_VNNI AMX_TILE AMX_INT8 AMX_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-24 00:10:52.851106: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-06-24 00:11:02.431789: W tensorflow/core/common_runtime/gpu/gpu_device.cc:1956] Cannot dlopen some GPU libraries. Please make sure the missing libraries mentioned above are installed properly if you would like to use GPU. Follow the guide at https://www.tensorflow.org/install/gpu for how to download and setup the required libraries for your platform.
+Skipping registering GPU devices...
+/home/ubitus03/fai_final_project/./b11705031/submit.keras
+Loading model from /home/ubitus03/fai_final_project/./b11705031/submit.keras
+community cards of this round: ['CT', 'DA', 'H9', 'D8', 'S7']
+name: b10902044, hole_card: ['SK', 'D6']
+name: b11705031, hole_card: ['HT', 'D4']
+Started the round 1
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 456ms/step
+name: b10902044, hole_card: ['SK', 'D6']
+name: b11705031, hole_card: ['HT', 'D4']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['SK', 'D6']
+name: b11705031, hole_card: ['HT', 'D4']
+"b10902044" declared "raise:15"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 69ms/step
+name: b10902044, hole_card: ['SK', 'D6']
+name: b11705031, hole_card: ['HT', 'D4']
+"b11705031" declared "raise:118.0"
+name: b10902044, hole_card: ['SK', 'D6']
+name: b11705031, hole_card: ['HT', 'D4']
+"b10902044" declared "raise:221.0"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 56ms/step
+name: b10902044, hole_card: ['SK', 'D6']
+name: b11705031, hole_card: ['HT', 'D4']
+"b11705031" declared "raise:391.6"
+name: b10902044, hole_card: ['SK', 'D6']
+name: b11705031, hole_card: ['HT', 'D4']
+"b10902044" declared "raise:562.2"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 84ms/step
+name: b10902044, hole_card: ['SK', 'D6']
+name: b11705031, hole_card: ['HT', 'D4']
+"b11705031" declared "raise:759.5200000000001"
+name: b10902044, hole_card: ['SK', 'D6']
+name: b11705031, hole_card: ['HT', 'D4']
+"b10902044" declared "raise:956.8400000000001"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 95ms/step
+name: b10902044, hole_card: ['SK', 'D6']
+name: b11705031, hole_card: ['HT', 'D4']
+"b11705031" declared "fold:0"
+"['b10902044']" won the round 1 (stack = {'b10902044': 1759.1599999999999, 'b11705031': 240.4799999999999})
+community cards of this round: ['DA', 'DT', 'C5', 'S6', 'HT']
+name: b10902044, hole_card: ['D3', 'SQ']
+name: b11705031, hole_card: ['S7', 'D6']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['D3', 'SQ']
+name: b11705031, hole_card: ['S7', 'D6']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 2 (stack = {'b10902044': 1754.1599999999999, 'b11705031': 245.4799999999999})
+community cards of this round: ['S7', 'H3', 'HA', 'DJ', 'C9']
+name: b10902044, hole_card: ['D7', 'CQ']
+name: b11705031, hole_card: ['DA', 'S9']
+Started the round 3
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 67ms/step
+name: b10902044, hole_card: ['D7', 'CQ']
+name: b11705031, hole_card: ['DA', 'S9']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['D7', 'CQ']
+name: b11705031, hole_card: ['DA', 'S9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 3 (stack = {'b10902044': 1744.1599999999999, 'b11705031': 255.4799999999999})
+community cards of this round: ['C3', 'CA', 'H3', 'CQ', 'DJ']
+name: b10902044, hole_card: ['H2', 'C6']
+name: b11705031, hole_card: ['HA', 'D5']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['H2', 'C6']
+name: b11705031, hole_card: ['HA', 'D5']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 4 (stack = {'b10902044': 1739.1599999999999, 'b11705031': 260.4799999999999})
+community cards of this round: ['HQ', 'HT', 'C8', 'H9', 'H4']
+name: b10902044, hole_card: ['S2', 'C2']
+name: b11705031, hole_card: ['DT', 'H2']
+Started the round 5
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 112ms/step
+name: b10902044, hole_card: ['S2', 'C2']
+name: b11705031, hole_card: ['DT', 'H2']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['S2', 'C2']
+name: b11705031, hole_card: ['DT', 'H2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 5 (stack = {'b10902044': 1729.1599999999999, 'b11705031': 270.4799999999999})
+community cards of this round: ['C8', 'D8', 'C4', 'D5', 'C7']
+name: b10902044, hole_card: ['CA', 'CT']
+name: b11705031, hole_card: ['S2', 'DA']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['CA', 'CT']
+name: b11705031, hole_card: ['S2', 'DA']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 6 (stack = {'b10902044': 1724.1599999999999, 'b11705031': 275.4799999999999})
+community cards of this round: ['D2', 'D9', 'C9', 'C4', 'C3']
+name: b10902044, hole_card: ['DQ', 'S9']
+name: b11705031, hole_card: ['CQ', 'DJ']
+Started the round 7
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 56ms/step
+name: b10902044, hole_card: ['DQ', 'S9']
+name: b11705031, hole_card: ['CQ', 'DJ']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['DQ', 'S9']
+name: b11705031, hole_card: ['CQ', 'DJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 7 (stack = {'b10902044': 1714.1599999999999, 'b11705031': 285.4799999999999})
+community cards of this round: ['C9', 'C4', 'S4', 'SA', 'D5']
+name: b10902044, hole_card: ['CT', 'C2']
+name: b11705031, hole_card: ['ST', 'SJ']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['CT', 'C2']
+name: b11705031, hole_card: ['ST', 'SJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 8 (stack = {'b10902044': 1709.1599999999999, 'b11705031': 290.4799999999999})
+community cards of this round: ['ST', 'HJ', 'C6', 'D4', 'S8']
+name: b10902044, hole_card: ['DK', 'S6']
+name: b11705031, hole_card: ['C2', 'SQ']
+Started the round 9
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 46ms/step
+name: b10902044, hole_card: ['DK', 'S6']
+name: b11705031, hole_card: ['C2', 'SQ']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['DK', 'S6']
+name: b11705031, hole_card: ['C2', 'SQ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 9 (stack = {'b10902044': 1699.1599999999999, 'b11705031': 300.4799999999999})
+community cards of this round: ['C4', 'C8', 'S6', 'CA', 'S7']
+name: b10902044, hole_card: ['H8', 'CQ']
+name: b11705031, hole_card: ['CT', 'D7']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['H8', 'CQ']
+name: b11705031, hole_card: ['CT', 'D7']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 10 (stack = {'b10902044': 1694.1599999999999, 'b11705031': 305.4799999999999})
+community cards of this round: ['C3', 'H9', 'C7', 'H7', 'D5']
+name: b10902044, hole_card: ['DK', 'C4']
+name: b11705031, hole_card: ['S7', 'HK']
+Started the round 11
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 72ms/step
+name: b10902044, hole_card: ['DK', 'C4']
+name: b11705031, hole_card: ['S7', 'HK']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['DK', 'C4']
+name: b11705031, hole_card: ['S7', 'HK']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 11 (stack = {'b10902044': 1684.1599999999999, 'b11705031': 315.4799999999999})
+community cards of this round: ['S6', 'H5', 'D5', 'C9', 'DA']
+name: b10902044, hole_card: ['CJ', 'S8']
+name: b11705031, hole_card: ['SQ', 'D2']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['CJ', 'S8']
+name: b11705031, hole_card: ['SQ', 'D2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 12 (stack = {'b10902044': 1679.1599999999999, 'b11705031': 320.4799999999999})
+community cards of this round: ['ST', 'C2', 'SA', 'D5', 'C7']
+name: b10902044, hole_card: ['H4', 'H9']
+name: b11705031, hole_card: ['CK', 'C6']
+Started the round 13
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 95ms/step
+name: b10902044, hole_card: ['H4', 'H9']
+name: b11705031, hole_card: ['CK', 'C6']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['H4', 'H9']
+name: b11705031, hole_card: ['CK', 'C6']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 13 (stack = {'b10902044': 1669.1599999999999, 'b11705031': 330.4799999999999})
+community cards of this round: ['HJ', 'S8', 'DK', 'HA', 'C5']
+name: b10902044, hole_card: ['D9', 'HK']
+name: b11705031, hole_card: ['SJ', 'C9']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['D9', 'HK']
+name: b11705031, hole_card: ['SJ', 'C9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 14 (stack = {'b10902044': 1664.1599999999999, 'b11705031': 335.4799999999999})
+community cards of this round: ['S8', 'C6', 'H3', 'CQ', 'CT']
+name: b10902044, hole_card: ['H4', 'CJ']
+name: b11705031, hole_card: ['DJ', 'H5']
+Started the round 15
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 61ms/step
+name: b10902044, hole_card: ['H4', 'CJ']
+name: b11705031, hole_card: ['DJ', 'H5']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['H4', 'CJ']
+name: b11705031, hole_card: ['DJ', 'H5']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 15 (stack = {'b10902044': 1654.1599999999999, 'b11705031': 345.4799999999999})
+community cards of this round: ['DQ', 'S2', 'D5', 'H3', 'CQ']
+name: b10902044, hole_card: ['D7', 'D6']
+name: b11705031, hole_card: ['DK', 'C8']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['D7', 'D6']
+name: b11705031, hole_card: ['DK', 'C8']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 16 (stack = {'b10902044': 1649.1599999999999, 'b11705031': 350.4799999999999})
+community cards of this round: ['H8', 'D6', 'H9', 'D9', 'C6']
+name: b10902044, hole_card: ['H6', 'HJ']
+name: b11705031, hole_card: ['C8', 'D4']
+Started the round 17
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 97ms/step
+name: b10902044, hole_card: ['H6', 'HJ']
+name: b11705031, hole_card: ['C8', 'D4']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['H6', 'HJ']
+name: b11705031, hole_card: ['C8', 'D4']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 17 (stack = {'b10902044': 1639.1599999999999, 'b11705031': 360.4799999999999})
+community cards of this round: ['CA', 'C4', 'D9', 'C6', 'C2']
+name: b10902044, hole_card: ['H7', 'SA']
+name: b11705031, hole_card: ['D2', 'CK']
+Started the round 18
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['H7', 'SA']
+name: b11705031, hole_card: ['D2', 'CK']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 18 (stack = {'b10902044': 1634.1599999999999, 'b11705031': 365.4799999999999})
+community cards of this round: ['D8', 'C9', 'C4', 'C8', 'D9']
+name: b10902044, hole_card: ['CK', 'S6']
+name: b11705031, hole_card: ['HK', 'HQ']
+Started the round 19
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 63ms/step
+name: b10902044, hole_card: ['CK', 'S6']
+name: b11705031, hole_card: ['HK', 'HQ']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['CK', 'S6']
+name: b11705031, hole_card: ['HK', 'HQ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 19 (stack = {'b10902044': 1624.1599999999999, 'b11705031': 375.4799999999999})
+community cards of this round: ['D3', 'C5', 'S9', 'H3', 'DA']
+name: b10902044, hole_card: ['S5', 'DK']
+name: b11705031, hole_card: ['D5', 'CK']
+Started the round 20
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['S5', 'DK']
+name: b11705031, hole_card: ['D5', 'CK']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 20 (stack = {'b10902044': 1619.1599999999999, 'b11705031': 380.4799999999999})
+b11705031 vs b10902044 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902044', 'uuid': 'pojyicsvqwnclyotabqgog', 'stack': 1619.1599999999999, 'state': 'participating'}, {'name': 'b11705031', 'uuid': 'xsyilefxhbrusnsoylddga', 'stack': 380.4799999999999, 'state': 'participating'}]}
+/home/ubitus03/fai_final_project/./b11705031/submit.keras
+Loading model from /home/ubitus03/fai_final_project/./b11705031/submit.keras
+community cards of this round: ['CT', 'DA', 'H9', 'D8', 'S7']
+name: b11705031, hole_card: ['SK', 'D6']
+name: b10902044, hole_card: ['HT', 'D4']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['SK', 'D6']
+name: b10902044, hole_card: ['HT', 'D4']
+"b10902044" declared "raise:15"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+name: b11705031, hole_card: ['SK', 'D6']
+name: b10902044, hole_card: ['HT', 'D4']
+"b11705031" declared "call:15"
+Street "flop" started. (community card = ['CT', 'DA', 'H9'])
+name: b11705031, hole_card: ['SK', 'D6']
+name: b10902044, hole_card: ['HT', 'D4']
+"b10902044" declared "raise:17"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 60ms/step
+name: b11705031, hole_card: ['SK', 'D6']
+name: b10902044, hole_card: ['HT', 'D4']
+"b11705031" declared "call:17"
+Street "turn" started. (community card = ['CT', 'DA', 'H9', 'D8'])
+name: b11705031, hole_card: ['SK', 'D6']
+name: b10902044, hole_card: ['HT', 'D4']
+"b10902044" declared "raise:10"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 94ms/step
+name: b11705031, hole_card: ['SK', 'D6']
+name: b10902044, hole_card: ['HT', 'D4']
+"b11705031" declared "fold:0"
+"['b10902044']" won the round 1 (stack = {'b11705031': 968, 'b10902044': 1032})
+community cards of this round: ['DA', 'DT', 'C5', 'S6', 'HT']
+name: b11705031, hole_card: ['D3', 'SQ']
+name: b10902044, hole_card: ['S7', 'D6']
+Started the round 2
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 104ms/step
+name: b11705031, hole_card: ['D3', 'SQ']
+name: b10902044, hole_card: ['S7', 'D6']
+"b11705031" declared "fold:0"
+"['b10902044']" won the round 2 (stack = {'b11705031': 963, 'b10902044': 1037})
+community cards of this round: ['S7', 'H3', 'HA', 'DJ', 'C9']
+name: b11705031, hole_card: ['D7', 'CQ']
+name: b10902044, hole_card: ['DA', 'S9']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['D7', 'CQ']
+name: b10902044, hole_card: ['DA', 'S9']
+"b10902044" declared "raise:15"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 79ms/step
+name: b11705031, hole_card: ['D7', 'CQ']
+name: b10902044, hole_card: ['DA', 'S9']
+"b11705031" declared "raise:114.30000000000001"
+name: b11705031, hole_card: ['D7', 'CQ']
+name: b10902044, hole_card: ['DA', 'S9']
+"b10902044" declared "raise:213.60000000000002"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 91ms/step
+name: b11705031, hole_card: ['D7', 'CQ']
+name: b10902044, hole_card: ['DA', 'S9']
+"b11705031" declared "raise:377.91"
+name: b11705031, hole_card: ['D7', 'CQ']
+name: b10902044, hole_card: ['DA', 'S9']
+"b10902044" declared "raise:571"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 89ms/step
+name: b11705031, hole_card: ['D7', 'CQ']
+name: b10902044, hole_card: ['DA', 'S9']
+"b11705031" declared "raise:783.9809999999999"
+name: b11705031, hole_card: ['D7', 'CQ']
+name: b10902044, hole_card: ['DA', 'S9']
+"b10902044" declared "raise:1037.0"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 78ms/step
+name: b11705031, hole_card: ['D7', 'CQ']
+name: b10902044, hole_card: ['DA', 'S9']
+"b11705031" declared "fold:0"
+"['b10902044']" won the round 3 (stack = {'b11705031': 179.01900000000018, 'b10902044': 1820.0})
+community cards of this round: ['C3', 'CA', 'H3', 'CQ', 'DJ']
+name: b11705031, hole_card: ['H2', 'C6']
+name: b10902044, hole_card: ['HA', 'D5']
+Started the round 4
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 107ms/step
+name: b11705031, hole_card: ['H2', 'C6']
+name: b10902044, hole_card: ['HA', 'D5']
+"b11705031" declared "call:10"
+name: b11705031, hole_card: ['H2', 'C6']
+name: b10902044, hole_card: ['HA', 'D5']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 4 (stack = {'b11705031': 189.01900000000018, 'b10902044': 1810.0})
+community cards of this round: ['HQ', 'HT', 'C8', 'H9', 'H4']
+name: b11705031, hole_card: ['S2', 'C2']
+name: b10902044, hole_card: ['DT', 'H2']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['S2', 'C2']
+name: b10902044, hole_card: ['DT', 'H2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 5 (stack = {'b11705031': 194.01900000000018, 'b10902044': 1805.0})
+community cards of this round: ['C8', 'D8', 'C4', 'D5', 'C7']
+name: b11705031, hole_card: ['CA', 'CT']
+name: b10902044, hole_card: ['S2', 'DA']
+Started the round 6
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 55ms/step
+name: b11705031, hole_card: ['CA', 'CT']
+name: b10902044, hole_card: ['S2', 'DA']
+"b11705031" declared "call:10"
+name: b11705031, hole_card: ['CA', 'CT']
+name: b10902044, hole_card: ['S2', 'DA']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 6 (stack = {'b11705031': 204.01900000000018, 'b10902044': 1795.0})
+community cards of this round: ['D2', 'D9', 'C9', 'C4', 'C3']
+name: b11705031, hole_card: ['DQ', 'S9']
+name: b10902044, hole_card: ['CQ', 'DJ']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['DQ', 'S9']
+name: b10902044, hole_card: ['CQ', 'DJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 7 (stack = {'b11705031': 209.01900000000018, 'b10902044': 1790.0})
+community cards of this round: ['C9', 'C4', 'S4', 'SA', 'D5']
+name: b11705031, hole_card: ['CT', 'C2']
+name: b10902044, hole_card: ['ST', 'SJ']
+Started the round 8
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 87ms/step
+name: b11705031, hole_card: ['CT', 'C2']
+name: b10902044, hole_card: ['ST', 'SJ']
+"b11705031" declared "raise:34.40190000000002"
+name: b11705031, hole_card: ['CT', 'C2']
+name: b10902044, hole_card: ['ST', 'SJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 8 (stack = {'b11705031': 218.61710000000016, 'b10902044': 1780.0})
+community cards of this round: ['ST', 'HJ', 'C6', 'D4', 'S8']
+name: b11705031, hole_card: ['DK', 'S6']
+name: b10902044, hole_card: ['C2', 'SQ']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['DK', 'S6']
+name: b10902044, hole_card: ['C2', 'SQ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 9 (stack = {'b11705031': 223.61710000000016, 'b10902044': 1775.0})
+community cards of this round: ['C4', 'C8', 'S6', 'CA', 'S7']
+name: b11705031, hole_card: ['H8', 'CQ']
+name: b10902044, hole_card: ['CT', 'D7']
+Started the round 10
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 105ms/step
+name: b11705031, hole_card: ['H8', 'CQ']
+name: b10902044, hole_card: ['CT', 'D7']
+"b11705031" declared "raise:35.861710000000016"
+name: b11705031, hole_card: ['H8', 'CQ']
+name: b10902044, hole_card: ['CT', 'D7']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 10 (stack = {'b11705031': 232.75539000000015, 'b10902044': 1765.0})
+community cards of this round: ['C3', 'H9', 'C7', 'H7', 'D5']
+name: b11705031, hole_card: ['DK', 'C4']
+name: b10902044, hole_card: ['S7', 'HK']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['DK', 'C4']
+name: b10902044, hole_card: ['S7', 'HK']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 11 (stack = {'b11705031': 237.75539000000015, 'b10902044': 1760.0})
+community cards of this round: ['S6', 'H5', 'D5', 'C9', 'DA']
+name: b11705031, hole_card: ['CJ', 'S8']
+name: b10902044, hole_card: ['SQ', 'D2']
+Started the round 12
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 81ms/step
+name: b11705031, hole_card: ['CJ', 'S8']
+name: b10902044, hole_card: ['SQ', 'D2']
+"b11705031" declared "raise:37.275539000000016"
+name: b11705031, hole_card: ['CJ', 'S8']
+name: b10902044, hole_card: ['SQ', 'D2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 12 (stack = {'b11705031': 247.47985100000014, 'b10902044': 1750.0})
+community cards of this round: ['ST', 'C2', 'SA', 'D5', 'C7']
+name: b11705031, hole_card: ['H4', 'H9']
+name: b10902044, hole_card: ['CK', 'C6']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['H4', 'H9']
+name: b10902044, hole_card: ['CK', 'C6']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 13 (stack = {'b11705031': 252.47985100000014, 'b10902044': 1745.0})
+community cards of this round: ['HJ', 'S8', 'DK', 'HA', 'C5']
+name: b11705031, hole_card: ['D9', 'HK']
+name: b10902044, hole_card: ['SJ', 'C9']
+Started the round 14
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 84ms/step
+name: b11705031, hole_card: ['D9', 'HK']
+name: b10902044, hole_card: ['SJ', 'C9']
+"b11705031" declared "call:10"
+name: b11705031, hole_card: ['D9', 'HK']
+name: b10902044, hole_card: ['SJ', 'C9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 14 (stack = {'b11705031': 262.47985100000017, 'b10902044': 1735.0})
+community cards of this round: ['S8', 'C6', 'H3', 'CQ', 'CT']
+name: b11705031, hole_card: ['H4', 'CJ']
+name: b10902044, hole_card: ['DJ', 'H5']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['H4', 'CJ']
+name: b10902044, hole_card: ['DJ', 'H5']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 15 (stack = {'b11705031': 267.47985100000017, 'b10902044': 1730.0})
+community cards of this round: ['DQ', 'S2', 'D5', 'H3', 'CQ']
+name: b11705031, hole_card: ['D7', 'D6']
+name: b10902044, hole_card: ['DK', 'C8']
+Started the round 16
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 113ms/step
+name: b11705031, hole_card: ['D7', 'D6']
+name: b10902044, hole_card: ['DK', 'C8']
+"b11705031" declared "call:10"
+name: b11705031, hole_card: ['D7', 'D6']
+name: b10902044, hole_card: ['DK', 'C8']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 16 (stack = {'b11705031': 277.47985100000017, 'b10902044': 1720.0})
+community cards of this round: ['H8', 'D6', 'H9', 'D9', 'C6']
+name: b11705031, hole_card: ['H6', 'HJ']
+name: b10902044, hole_card: ['C8', 'D4']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['H6', 'HJ']
+name: b10902044, hole_card: ['C8', 'D4']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 17 (stack = {'b11705031': 282.47985100000017, 'b10902044': 1715.0})
+community cards of this round: ['CA', 'C4', 'D9', 'C6', 'C2']
+name: b11705031, hole_card: ['H7', 'SA']
+name: b10902044, hole_card: ['D2', 'CK']
+Started the round 18
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 99ms/step
+name: b11705031, hole_card: ['H7', 'SA']
+name: b10902044, hole_card: ['D2', 'CK']
+"b11705031" declared "raise:41.74798510000002"
+name: b11705031, hole_card: ['H7', 'SA']
+name: b10902044, hole_card: ['D2', 'CK']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 18 (stack = {'b11705031': 291.7318659000001, 'b10902044': 1705.0})
+community cards of this round: ['D8', 'C9', 'C4', 'C8', 'D9']
+name: b11705031, hole_card: ['CK', 'S6']
+name: b10902044, hole_card: ['HK', 'HQ']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['CK', 'S6']
+name: b10902044, hole_card: ['HK', 'HQ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 19 (stack = {'b11705031': 296.7318659000001, 'b10902044': 1700.0})
+community cards of this round: ['D3', 'C5', 'S9', 'H3', 'DA']
+name: b11705031, hole_card: ['S5', 'DK']
+name: b10902044, hole_card: ['D5', 'CK']
+Started the round 20
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 61ms/step
+name: b11705031, hole_card: ['S5', 'DK']
+name: b10902044, hole_card: ['D5', 'CK']
+"b11705031" declared "raise:43.173186590000014"
+name: b11705031, hole_card: ['S5', 'DK']
+name: b10902044, hole_card: ['D5', 'CK']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 20 (stack = {'b11705031': 306.5586793100001, 'b10902044': 1690.0})
+b11705031 vs b10902044 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705031', 'uuid': 'oobxybbpcrzacyuxcuvnbq', 'stack': 306.5586793100001, 'state': 'participating'}, {'name': 'b10902044', 'uuid': 'rtugrjwuvektqsvgyuefsv', 'stack': 1690.0, 'state': 'participating'}]}
+/home/ubitus03/fai_final_project/./b11705031/submit.keras
+Loading model from /home/ubitus03/fai_final_project/./b11705031/submit.keras
+community cards of this round: ['H3', 'CT', 'HK', 'C3', 'SK']
+name: b10902044, hole_card: ['C8', 'SJ']
+name: b11705031, hole_card: ['S8', 'H6']
+Started the round 1
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 269ms/step
+name: b10902044, hole_card: ['C8', 'SJ']
+name: b11705031, hole_card: ['S8', 'H6']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['C8', 'SJ']
+name: b11705031, hole_card: ['S8', 'H6']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 1 (stack = {'b10902044': 990, 'b11705031': 1010})
+community cards of this round: ['SJ', 'H7', 'D8', 'S9', 'SA']
+name: b10902044, hole_card: ['H2', 'S2']
+name: b11705031, hole_card: ['C7', 'CK']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['H2', 'S2']
+name: b11705031, hole_card: ['C7', 'CK']
+"b10902044" declared "raise:15"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 108ms/step
+name: b10902044, hole_card: ['H2', 'S2']
+name: b11705031, hole_card: ['C7', 'CK']
+"b11705031" declared "raise:119.0"
+name: b10902044, hole_card: ['H2', 'S2']
+name: b11705031, hole_card: ['C7', 'CK']
+"b10902044" declared "raise:223.0"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 94ms/step
+name: b10902044, hole_card: ['H2', 'S2']
+name: b11705031, hole_card: ['C7', 'CK']
+"b11705031" declared "raise:395.3"
+name: b10902044, hole_card: ['H2', 'S2']
+name: b11705031, hole_card: ['C7', 'CK']
+"b10902044" declared "raise:567.6"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 89ms/step
+name: b10902044, hole_card: ['H2', 'S2']
+name: b11705031, hole_card: ['C7', 'CK']
+"b11705031" declared "raise:766.9100000000001"
+name: b10902044, hole_card: ['H2', 'S2']
+name: b11705031, hole_card: ['C7', 'CK']
+"b10902044" declared "raise:966.2200000000001"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 111ms/step
+name: b10902044, hole_card: ['H2', 'S2']
+name: b11705031, hole_card: ['C7', 'CK']
+"b11705031" declared "fold:0"
+"['b10902044']" won the round 2 (stack = {'b10902044': 1756.7799999999997, 'b11705031': 243.08999999999997})
+community cards of this round: ['HQ', 'DT', 'HA', 'SJ', 'SK']
+name: b10902044, hole_card: ['C7', 'HJ']
+name: b11705031, hole_card: ['H4', 'S9']
+Started the round 3
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 46ms/step
+name: b10902044, hole_card: ['C7', 'HJ']
+name: b11705031, hole_card: ['H4', 'S9']
+"b11705031" declared "raise:37.809"
+name: b10902044, hole_card: ['C7', 'HJ']
+name: b11705031, hole_card: ['H4', 'S9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 3 (stack = {'b10902044': 1746.7799999999997, 'b11705031': 252.28099999999998})
+community cards of this round: ['S4', 'C4', 'DT', 'C3', 'HQ']
+name: b10902044, hole_card: ['H8', 'H5']
+name: b11705031, hole_card: ['D3', 'H9']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['H8', 'H5']
+name: b11705031, hole_card: ['D3', 'H9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 4 (stack = {'b10902044': 1741.7799999999997, 'b11705031': 257.28099999999995})
+community cards of this round: ['DK', 'H2', 'S9', 'CQ', 'HQ']
+name: b10902044, hole_card: ['H8', 'CK']
+name: b11705031, hole_card: ['D6', 'S7']
+Started the round 5
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 49ms/step
+name: b10902044, hole_card: ['H8', 'CK']
+name: b11705031, hole_card: ['D6', 'S7']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['H8', 'CK']
+name: b11705031, hole_card: ['D6', 'S7']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 5 (stack = {'b10902044': 1731.7799999999997, 'b11705031': 267.28099999999995})
+community cards of this round: ['HT', 'C3', 'D8', 'C6', 'S2']
+name: b10902044, hole_card: ['CQ', 'DK']
+name: b11705031, hole_card: ['S4', 'D6']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['CQ', 'DK']
+name: b11705031, hole_card: ['S4', 'D6']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 6 (stack = {'b10902044': 1726.7799999999997, 'b11705031': 272.28099999999995})
+community cards of this round: ['S9', 'D4', 'D7', 'D2', 'DQ']
+name: b10902044, hole_card: ['S8', 'DK']
+name: b11705031, hole_card: ['D9', 'DJ']
+Started the round 7
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 71ms/step
+name: b10902044, hole_card: ['S8', 'DK']
+name: b11705031, hole_card: ['D9', 'DJ']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['S8', 'DK']
+name: b11705031, hole_card: ['D9', 'DJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 7 (stack = {'b10902044': 1716.7799999999997, 'b11705031': 282.28099999999995})
+community cards of this round: ['S3', 'HA', 'DT', 'C8', 'C4']
+name: b10902044, hole_card: ['C6', 'HT']
+name: b11705031, hole_card: ['CQ', 'CJ']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['C6', 'HT']
+name: b11705031, hole_card: ['CQ', 'CJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 8 (stack = {'b10902044': 1711.7799999999997, 'b11705031': 287.28099999999995})
+community cards of this round: ['DT', 'S3', 'C4', 'D6', 'D5']
+name: b10902044, hole_card: ['DQ', 'S8']
+name: b11705031, hole_card: ['D4', 'H4']
+Started the round 9
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 99ms/step
+name: b10902044, hole_card: ['DQ', 'S8']
+name: b11705031, hole_card: ['D4', 'H4']
+"b11705031" declared "raise:42.2281"
+name: b10902044, hole_card: ['DQ', 'S8']
+name: b11705031, hole_card: ['D4', 'H4']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 9 (stack = {'b10902044': 1701.7799999999997, 'b11705031': 297.05289999999997})
+community cards of this round: ['SK', 'D7', 'ST', 'S3', 'C3']
+name: b10902044, hole_card: ['HJ', 'DQ']
+name: b11705031, hole_card: ['CA', 'DJ']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['HJ', 'DQ']
+name: b11705031, hole_card: ['CA', 'DJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 10 (stack = {'b10902044': 1696.7799999999997, 'b11705031': 302.05289999999997})
+community cards of this round: ['S9', 'CJ', 'D8', 'DQ', 'H5']
+name: b10902044, hole_card: ['SA', 'D2']
+name: b11705031, hole_card: ['C9', 'H9']
+Started the round 11
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 61ms/step
+name: b10902044, hole_card: ['SA', 'D2']
+name: b11705031, hole_card: ['C9', 'H9']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['SA', 'D2']
+name: b11705031, hole_card: ['C9', 'H9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 11 (stack = {'b10902044': 1686.7799999999997, 'b11705031': 312.05289999999997})
+community cards of this round: ['DA', 'H2', 'DJ', 'SK', 'HK']
+name: b10902044, hole_card: ['SJ', 'S9']
+name: b11705031, hole_card: ['D3', 'HQ']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['SJ', 'S9']
+name: b11705031, hole_card: ['D3', 'HQ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 12 (stack = {'b10902044': 1681.7799999999997, 'b11705031': 317.05289999999997})
+community cards of this round: ['C3', 'CJ', 'S4', 'H5', 'S3']
+name: b10902044, hole_card: ['CT', 'D6']
+name: b11705031, hole_card: ['DA', 'S2']
+Started the round 13
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 77ms/step
+name: b10902044, hole_card: ['CT', 'D6']
+name: b11705031, hole_card: ['DA', 'S2']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['CT', 'D6']
+name: b11705031, hole_card: ['DA', 'S2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 13 (stack = {'b10902044': 1671.7799999999997, 'b11705031': 327.05289999999997})
+community cards of this round: ['D9', 'HK', 'DJ', 'HA', 'D7']
+name: b10902044, hole_card: ['CQ', 'H8']
+name: b11705031, hole_card: ['CA', 'SJ']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['CQ', 'H8']
+name: b11705031, hole_card: ['CA', 'SJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 14 (stack = {'b10902044': 1666.7799999999997, 'b11705031': 332.05289999999997})
+community cards of this round: ['HT', 'S9', 'C7', 'DK', 'C2']
+name: b10902044, hole_card: ['SK', 'S4']
+name: b11705031, hole_card: ['S5', 'H8']
+Started the round 15
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 89ms/step
+name: b10902044, hole_card: ['SK', 'S4']
+name: b11705031, hole_card: ['S5', 'H8']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['SK', 'S4']
+name: b11705031, hole_card: ['S5', 'H8']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 15 (stack = {'b10902044': 1656.7799999999997, 'b11705031': 342.05289999999997})
+community cards of this round: ['C9', 'C6', 'HT', 'D7', 'H4']
+name: b10902044, hole_card: ['C4', 'HQ']
+name: b11705031, hole_card: ['H2', 'S7']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['C4', 'HQ']
+name: b11705031, hole_card: ['H2', 'S7']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 16 (stack = {'b10902044': 1651.7799999999997, 'b11705031': 347.05289999999997})
+community cards of this round: ['S4', 'H4', 'C5', 'D6', 'D3']
+name: b10902044, hole_card: ['S8', 'D8']
+name: b11705031, hole_card: ['D7', 'S9']
+Started the round 17
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 93ms/step
+name: b10902044, hole_card: ['S8', 'D8']
+name: b11705031, hole_card: ['D7', 'S9']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['S8', 'D8']
+name: b11705031, hole_card: ['D7', 'S9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 17 (stack = {'b10902044': 1641.7799999999997, 'b11705031': 357.05289999999997})
+community cards of this round: ['H5', 'S3', 'SQ', 'CA', 'D3']
+name: b10902044, hole_card: ['HK', 'DK']
+name: b11705031, hole_card: ['D6', 'H8']
+Started the round 18
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['HK', 'DK']
+name: b11705031, hole_card: ['D6', 'H8']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 18 (stack = {'b10902044': 1636.7799999999997, 'b11705031': 362.05289999999997})
+community cards of this round: ['S2', 'C5', 'H8', 'D5', 'S6']
+name: b10902044, hole_card: ['DQ', 'H2']
+name: b11705031, hole_card: ['C2', 'C4']
+Started the round 19
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 104ms/step
+name: b10902044, hole_card: ['DQ', 'H2']
+name: b11705031, hole_card: ['C2', 'C4']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['DQ', 'H2']
+name: b11705031, hole_card: ['C2', 'C4']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 19 (stack = {'b10902044': 1626.7799999999997, 'b11705031': 372.05289999999997})
+community cards of this round: ['CJ', 'SQ', 'H2', 'H4', 'S5']
+name: b10902044, hole_card: ['SK', 'HJ']
+name: b11705031, hole_card: ['SJ', 'HQ']
+Started the round 20
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['SK', 'HJ']
+name: b11705031, hole_card: ['SJ', 'HQ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 20 (stack = {'b10902044': 1621.7799999999997, 'b11705031': 377.05289999999997})
+b11705031 vs b10902044 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902044', 'uuid': 'yclmxnywgpfghshtovgsxf', 'stack': 1621.7799999999997, 'state': 'participating'}, {'name': 'b11705031', 'uuid': 'rwdxpktijxnvwrcsctempt', 'stack': 377.05289999999997, 'state': 'participating'}]}
+/home/ubitus03/fai_final_project/./b11705031/submit.keras
+Loading model from /home/ubitus03/fai_final_project/./b11705031/submit.keras
+community cards of this round: ['H3', 'CT', 'HK', 'C3', 'SK']
+name: b11705031, hole_card: ['C8', 'SJ']
+name: b10902044, hole_card: ['S8', 'H6']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['C8', 'SJ']
+name: b10902044, hole_card: ['S8', 'H6']
+"b10902044" declared "raise:15"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 131ms/step
+name: b11705031, hole_card: ['C8', 'SJ']
+name: b10902044, hole_card: ['S8', 'H6']
+"b11705031" declared "raise:118.0"
+name: b11705031, hole_card: ['C8', 'SJ']
+name: b10902044, hole_card: ['S8', 'H6']
+"b10902044" declared "raise:221.0"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 56ms/step
+name: b11705031, hole_card: ['C8', 'SJ']
+name: b10902044, hole_card: ['S8', 'H6']
+"b11705031" declared "raise:391.6"
+name: b11705031, hole_card: ['C8', 'SJ']
+name: b10902044, hole_card: ['S8', 'H6']
+"b10902044" declared "raise:562.2"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 44ms/step
+name: b11705031, hole_card: ['C8', 'SJ']
+name: b10902044, hole_card: ['S8', 'H6']
+"b11705031" declared "raise:759.5200000000001"
+name: b11705031, hole_card: ['C8', 'SJ']
+name: b10902044, hole_card: ['S8', 'H6']
+"b10902044" declared "raise:956.8400000000001"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 62ms/step
+name: b11705031, hole_card: ['C8', 'SJ']
+name: b10902044, hole_card: ['S8', 'H6']
+"b11705031" declared "fold:0"
+"['b10902044']" won the round 1 (stack = {'b11705031': 240.4799999999999, 'b10902044': 1759.1599999999999})
+community cards of this round: ['SJ', 'H7', 'D8', 'S9', 'SA']
+name: b11705031, hole_card: ['H2', 'S2']
+name: b10902044, hole_card: ['C7', 'CK']
+Started the round 2
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 107ms/step
+name: b11705031, hole_card: ['H2', 'S2']
+name: b10902044, hole_card: ['C7', 'CK']
+"b11705031" declared "raise:37.54799999999999"
+name: b11705031, hole_card: ['H2', 'S2']
+name: b10902044, hole_card: ['C7', 'CK']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 2 (stack = {'b11705031': 249.9319999999999, 'b10902044': 1749.1599999999999})
+community cards of this round: ['HQ', 'DT', 'HA', 'SJ', 'SK']
+name: b11705031, hole_card: ['C7', 'HJ']
+name: b10902044, hole_card: ['H4', 'S9']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['C7', 'HJ']
+name: b10902044, hole_card: ['H4', 'S9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 3 (stack = {'b11705031': 254.9319999999999, 'b10902044': 1744.1599999999999})
+community cards of this round: ['S4', 'C4', 'DT', 'C3', 'HQ']
+name: b11705031, hole_card: ['H8', 'H5']
+name: b10902044, hole_card: ['D3', 'H9']
+Started the round 4
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 70ms/step
+name: b11705031, hole_card: ['H8', 'H5']
+name: b10902044, hole_card: ['D3', 'H9']
+"b11705031" declared "raise:38.99319999999999"
+name: b11705031, hole_card: ['H8', 'H5']
+name: b10902044, hole_card: ['D3', 'H9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 4 (stack = {'b11705031': 263.9387999999999, 'b10902044': 1734.1599999999999})
+community cards of this round: ['DK', 'H2', 'S9', 'CQ', 'HQ']
+name: b11705031, hole_card: ['H8', 'CK']
+name: b10902044, hole_card: ['D6', 'S7']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['H8', 'CK']
+name: b10902044, hole_card: ['D6', 'S7']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 5 (stack = {'b11705031': 268.9387999999999, 'b10902044': 1729.1599999999999})
+community cards of this round: ['HT', 'C3', 'D8', 'C6', 'S2']
+name: b11705031, hole_card: ['CQ', 'DK']
+name: b10902044, hole_card: ['S4', 'D6']
+Started the round 6
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 106ms/step
+name: b11705031, hole_card: ['CQ', 'DK']
+name: b10902044, hole_card: ['S4', 'D6']
+"b11705031" declared "raise:40.393879999999996"
+name: b11705031, hole_card: ['CQ', 'DK']
+name: b10902044, hole_card: ['S4', 'D6']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 6 (stack = {'b11705031': 278.54491999999993, 'b10902044': 1719.1599999999999})
+community cards of this round: ['S9', 'D4', 'D7', 'D2', 'DQ']
+name: b11705031, hole_card: ['S8', 'DK']
+name: b10902044, hole_card: ['D9', 'DJ']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['S8', 'DK']
+name: b10902044, hole_card: ['D9', 'DJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 7 (stack = {'b11705031': 283.54491999999993, 'b10902044': 1714.1599999999999})
+community cards of this round: ['S3', 'HA', 'DT', 'C8', 'C4']
+name: b11705031, hole_card: ['C6', 'HT']
+name: b10902044, hole_card: ['CQ', 'CJ']
+Started the round 8
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 90ms/step
+name: b11705031, hole_card: ['C6', 'HT']
+name: b10902044, hole_card: ['CQ', 'CJ']
+"b11705031" declared "call:10"
+name: b11705031, hole_card: ['C6', 'HT']
+name: b10902044, hole_card: ['CQ', 'CJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 8 (stack = {'b11705031': 293.54491999999993, 'b10902044': 1704.1599999999999})
+community cards of this round: ['DT', 'S3', 'C4', 'D6', 'D5']
+name: b11705031, hole_card: ['DQ', 'S8']
+name: b10902044, hole_card: ['D4', 'H4']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['DQ', 'S8']
+name: b10902044, hole_card: ['D4', 'H4']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 9 (stack = {'b11705031': 298.54491999999993, 'b10902044': 1699.1599999999999})
+community cards of this round: ['SK', 'D7', 'ST', 'S3', 'C3']
+name: b11705031, hole_card: ['HJ', 'DQ']
+name: b10902044, hole_card: ['CA', 'DJ']
+Started the round 10
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 153ms/step
+name: b11705031, hole_card: ['HJ', 'DQ']
+name: b10902044, hole_card: ['CA', 'DJ']
+"b11705031" declared "raise:43.35449199999999"
+name: b11705031, hole_card: ['HJ', 'DQ']
+name: b10902044, hole_card: ['CA', 'DJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 10 (stack = {'b11705031': 308.19042799999994, 'b10902044': 1689.1599999999999})
+community cards of this round: ['S9', 'CJ', 'D8', 'DQ', 'H5']
+name: b11705031, hole_card: ['SA', 'D2']
+name: b10902044, hole_card: ['C9', 'H9']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['SA', 'D2']
+name: b10902044, hole_card: ['C9', 'H9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 11 (stack = {'b11705031': 313.19042799999994, 'b10902044': 1684.1599999999999})
+community cards of this round: ['DA', 'H2', 'DJ', 'SK', 'HK']
+name: b11705031, hole_card: ['SJ', 'S9']
+name: b10902044, hole_card: ['D3', 'HQ']
+Started the round 12
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 88ms/step
+name: b11705031, hole_card: ['SJ', 'S9']
+name: b10902044, hole_card: ['D3', 'HQ']
+"b11705031" declared "call:10"
+name: b11705031, hole_card: ['SJ', 'S9']
+name: b10902044, hole_card: ['D3', 'HQ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 12 (stack = {'b11705031': 323.19042799999994, 'b10902044': 1674.1599999999999})
+community cards of this round: ['C3', 'CJ', 'S4', 'H5', 'S3']
+name: b11705031, hole_card: ['CT', 'D6']
+name: b10902044, hole_card: ['DA', 'S2']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['CT', 'D6']
+name: b10902044, hole_card: ['DA', 'S2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 13 (stack = {'b11705031': 328.19042799999994, 'b10902044': 1669.1599999999999})
+community cards of this round: ['D9', 'HK', 'DJ', 'HA', 'D7']
+name: b11705031, hole_card: ['CQ', 'H8']
+name: b10902044, hole_card: ['CA', 'SJ']
+Started the round 14
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 69ms/step
+name: b11705031, hole_card: ['CQ', 'H8']
+name: b10902044, hole_card: ['CA', 'SJ']
+"b11705031" declared "call:10"
+name: b11705031, hole_card: ['CQ', 'H8']
+name: b10902044, hole_card: ['CA', 'SJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 14 (stack = {'b11705031': 338.19042799999994, 'b10902044': 1659.1599999999999})
+community cards of this round: ['HT', 'S9', 'C7', 'DK', 'C2']
+name: b11705031, hole_card: ['SK', 'S4']
+name: b10902044, hole_card: ['S5', 'H8']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['SK', 'S4']
+name: b10902044, hole_card: ['S5', 'H8']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 15 (stack = {'b11705031': 343.19042799999994, 'b10902044': 1654.1599999999999})
+community cards of this round: ['C9', 'C6', 'HT', 'D7', 'H4']
+name: b11705031, hole_card: ['C4', 'HQ']
+name: b10902044, hole_card: ['H2', 'S7']
+Started the round 16
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 84ms/step
+name: b11705031, hole_card: ['C4', 'HQ']
+name: b10902044, hole_card: ['H2', 'S7']
+"b11705031" declared "raise:47.8190428"
+name: b11705031, hole_card: ['C4', 'HQ']
+name: b10902044, hole_card: ['H2', 'S7']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 16 (stack = {'b11705031': 352.37138519999996, 'b10902044': 1644.1599999999999})
+community cards of this round: ['S4', 'H4', 'C5', 'D6', 'D3']
+name: b11705031, hole_card: ['S8', 'D8']
+name: b10902044, hole_card: ['D7', 'S9']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['S8', 'D8']
+name: b10902044, hole_card: ['D7', 'S9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 17 (stack = {'b11705031': 357.37138519999996, 'b10902044': 1639.1599999999999})
+community cards of this round: ['H5', 'S3', 'SQ', 'CA', 'D3']
+name: b11705031, hole_card: ['HK', 'DK']
+name: b10902044, hole_card: ['D6', 'H8']
+Started the round 18
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 66ms/step
+name: b11705031, hole_card: ['HK', 'DK']
+name: b10902044, hole_card: ['D6', 'H8']
+"b11705031" declared "call:10"
+name: b11705031, hole_card: ['HK', 'DK']
+name: b10902044, hole_card: ['D6', 'H8']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 18 (stack = {'b11705031': 367.37138519999996, 'b10902044': 1629.1599999999999})
+community cards of this round: ['S2', 'C5', 'H8', 'D5', 'S6']
+name: b11705031, hole_card: ['DQ', 'H2']
+name: b10902044, hole_card: ['C2', 'C4']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11705031, hole_card: ['DQ', 'H2']
+name: b10902044, hole_card: ['C2', 'C4']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 19 (stack = {'b11705031': 372.37138519999996, 'b10902044': 1624.1599999999999})
+community cards of this round: ['CJ', 'SQ', 'H2', 'H4', 'S5']
+name: b11705031, hole_card: ['SK', 'HJ']
+name: b10902044, hole_card: ['SJ', 'HQ']
+Started the round 20
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 95ms/step
+name: b11705031, hole_card: ['SK', 'HJ']
+name: b10902044, hole_card: ['SJ', 'HQ']
+"b11705031" declared "raise:50.737138519999995"
+name: b11705031, hole_card: ['SK', 'HJ']
+name: b10902044, hole_card: ['SJ', 'HQ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 20 (stack = {'b11705031': 381.63424668, 'b10902044': 1614.1599999999999})
+b11705031 vs b10902044 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705031', 'uuid': 'gwcmhkunloirsdpvgzhbud', 'stack': 381.63424668, 'state': 'participating'}, {'name': 'b10902044', 'uuid': 'rnztrcgswudtxxkpvebuao', 'stack': 1614.1599999999999, 'state': 'participating'}]}
+/home/ubitus03/fai_final_project/./b11705031/submit.keras
+Loading model from /home/ubitus03/fai_final_project/./b11705031/submit.keras
+community cards of this round: ['HA', 'H9', 'H2', 'DQ', 'D2']
+name: b10902044, hole_card: ['S3', 'H8']
+name: b11705031, hole_card: ['S4', 'S2']
+Started the round 1
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 96ms/step
+name: b10902044, hole_card: ['S3', 'H8']
+name: b11705031, hole_card: ['S4', 'S2']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['S3', 'H8']
+name: b11705031, hole_card: ['S4', 'S2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 1 (stack = {'b10902044': 990, 'b11705031': 1010})
+community cards of this round: ['DK', 'S7', 'CQ', 'H4', 'HT']
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b10902044" declared "raise:15"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 103ms/step
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b11705031" declared "call:15"
+Street "flop" started. (community card = ['DK', 'S7', 'CQ'])
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b10902044" declared "raise:17"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 64ms/step
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b11705031" declared "raise:130.10000000000002"
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b10902044" declared "raise:243.20000000000005"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 108ms/step
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b11705031" declared "raise:420.1700000000001"
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b10902044" declared "raise:597.1400000000001"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 112ms/step
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b11705031" declared "raise:796.1990000000001"
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b10902044" declared "call:796.1990000000001"
+Street "turn" started. (community card = ['DK', 'S7', 'CQ', 'H4'])
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b10902044" declared "raise:10"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b11705031" declared "raise:37.8801"
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b10902044" declared "raise:178.80099999999993"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 83ms/step
+name: b10902044, hole_card: ['S4', 'SQ']
+name: b11705031, hole_card: ['DT', 'H9']
+"b11705031" declared "fold:0"
+"['b10902044']" won the round 2 (stack = {'b10902044': 1839.0, 'b11705031': 160.92089999999993})
+community cards of this round: ['SK', 'HA', 'H6', 'C7', 'D5']
+name: b10902044, hole_card: ['CQ', 'CT']
+name: b11705031, hole_card: ['S5', 'SA']
+Started the round 3
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 75ms/step
+name: b10902044, hole_card: ['CQ', 'CT']
+name: b11705031, hole_card: ['S5', 'SA']
+"b11705031" declared "raise:29.592089999999992"
+name: b10902044, hole_card: ['CQ', 'CT']
+name: b11705031, hole_card: ['S5', 'SA']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 3 (stack = {'b10902044': 1829.0, 'b11705031': 170.32880999999995})
+community cards of this round: ['S8', 'H9', 'S4', 'C4', 'DT']
+name: b10902044, hole_card: ['S6', 'S7']
+name: b11705031, hole_card: ['C3', 'D3']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['S6', 'S7']
+name: b11705031, hole_card: ['C3', 'D3']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 4 (stack = {'b10902044': 1824.0, 'b11705031': 175.32880999999995})
+community cards of this round: ['SK', 'H7', 'HA', 'DT', 'DK']
+name: b10902044, hole_card: ['D2', 'D8']
+name: b11705031, hole_card: ['D4', 'S2']
+Started the round 5
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 60ms/step
+name: b10902044, hole_card: ['D2', 'D8']
+name: b11705031, hole_card: ['D4', 'S2']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['D2', 'D8']
+name: b11705031, hole_card: ['D4', 'S2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 5 (stack = {'b10902044': 1814.0, 'b11705031': 185.32880999999995})
+community cards of this round: ['D2', 'HT', 'HA', 'CA', 'C2']
+name: b10902044, hole_card: ['C7', 'SJ']
+name: b11705031, hole_card: ['C8', 'S9']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['C7', 'SJ']
+name: b11705031, hole_card: ['C8', 'S9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 6 (stack = {'b10902044': 1809.0, 'b11705031': 190.32880999999995})
+community cards of this round: ['HQ', 'DA', 'D2', 'S5', 'C2']
+name: b10902044, hole_card: ['SK', 'HK']
+name: b11705031, hole_card: ['D9', 'S4']
+Started the round 7
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 78ms/step
+name: b10902044, hole_card: ['SK', 'HK']
+name: b11705031, hole_card: ['D9', 'S4']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['SK', 'HK']
+name: b11705031, hole_card: ['D9', 'S4']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 7 (stack = {'b10902044': 1799.0, 'b11705031': 200.32880999999995})
+community cards of this round: ['DQ', 'DJ', 'CA', 'C2', 'SA']
+name: b10902044, hole_card: ['H9', 'S6']
+name: b11705031, hole_card: ['HT', 'H7']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['H9', 'S6']
+name: b11705031, hole_card: ['HT', 'H7']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 8 (stack = {'b10902044': 1794.0, 'b11705031': 205.32880999999995})
+community cards of this round: ['H8', 'C2', 'SJ', 'C6', 'HA']
+name: b10902044, hole_card: ['DQ', 'S7']
+name: b11705031, hole_card: ['H5', 'D6']
+Started the round 9
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 87ms/step
+name: b10902044, hole_card: ['DQ', 'S7']
+name: b11705031, hole_card: ['H5', 'D6']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['DQ', 'S7']
+name: b11705031, hole_card: ['H5', 'D6']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 9 (stack = {'b10902044': 1784.0, 'b11705031': 215.32880999999995})
+community cards of this round: ['H9', 'CT', 'C5', 'SQ', 'HT']
+name: b10902044, hole_card: ['C8', 'DT']
+name: b11705031, hole_card: ['SK', 'D2']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['C8', 'DT']
+name: b11705031, hole_card: ['SK', 'D2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 10 (stack = {'b10902044': 1779.0, 'b11705031': 220.32880999999995})
+community cards of this round: ['S7', 'S3', 'HK', 'CJ', 'SK']
+name: b10902044, hole_card: ['S5', 'HQ']
+name: b11705031, hole_card: ['D5', 'DK']
+Started the round 11
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 167ms/step
+name: b10902044, hole_card: ['S5', 'HQ']
+name: b11705031, hole_card: ['D5', 'DK']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['S5', 'HQ']
+name: b11705031, hole_card: ['D5', 'DK']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 11 (stack = {'b10902044': 1769.0, 'b11705031': 230.32880999999995})
+community cards of this round: ['C5', 'H4', 'D5', 'H8', 'H7']
+name: b10902044, hole_card: ['C7', 'D4']
+name: b11705031, hole_card: ['D9', 'ST']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['C7', 'D4']
+name: b11705031, hole_card: ['D9', 'ST']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 12 (stack = {'b10902044': 1764.0, 'b11705031': 235.32880999999995})
+community cards of this round: ['C5', 'CJ', 'S2', 'HJ', 'C8']
+name: b10902044, hole_card: ['HQ', 'CQ']
+name: b11705031, hole_card: ['C3', 'ST']
+Started the round 13
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 152ms/step
+name: b10902044, hole_card: ['HQ', 'CQ']
+name: b11705031, hole_card: ['C3', 'ST']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['HQ', 'CQ']
+name: b11705031, hole_card: ['C3', 'ST']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 13 (stack = {'b10902044': 1754.0, 'b11705031': 245.32880999999995})
+community cards of this round: ['D9', 'DA', 'CA', 'CQ', 'HA']
+name: b10902044, hole_card: ['DQ', 'D4']
+name: b11705031, hole_card: ['S5', 'H2']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['DQ', 'D4']
+name: b11705031, hole_card: ['S5', 'H2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 14 (stack = {'b10902044': 1749.0, 'b11705031': 250.32880999999995})
+community cards of this round: ['CJ', 'SQ', 'H8', 'CT', 'C3']
+name: b10902044, hole_card: ['CQ', 'H2']
+name: b11705031, hole_card: ['D3', 'C9']
+Started the round 15
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 96ms/step
+name: b10902044, hole_card: ['CQ', 'H2']
+name: b11705031, hole_card: ['D3', 'C9']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['CQ', 'H2']
+name: b11705031, hole_card: ['D3', 'C9']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 15 (stack = {'b10902044': 1739.0, 'b11705031': 260.32881})
+community cards of this round: ['DK', 'S5', 'S6', 'CJ', 'C6']
+name: b10902044, hole_card: ['HA', 'D6']
+name: b11705031, hole_card: ['HQ', 'SA']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['HA', 'D6']
+name: b11705031, hole_card: ['HQ', 'SA']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 16 (stack = {'b10902044': 1734.0, 'b11705031': 265.32881})
+community cards of this round: ['S9', 'C8', 'ST', 'CK', 'SJ']
+name: b10902044, hole_card: ['H7', 'S6']
+name: b11705031, hole_card: ['DQ', 'HA']
+Started the round 17
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 106ms/step
+name: b10902044, hole_card: ['H7', 'S6']
+name: b11705031, hole_card: ['DQ', 'HA']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['H7', 'S6']
+name: b11705031, hole_card: ['DQ', 'HA']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 17 (stack = {'b10902044': 1724.0, 'b11705031': 275.32881})
+community cards of this round: ['D2', 'H5', 'H3', 'S8', 'S4']
+name: b10902044, hole_card: ['CK', 'D9']
+name: b11705031, hole_card: ['H8', 'C2']
+Started the round 18
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['CK', 'D9']
+name: b11705031, hole_card: ['H8', 'C2']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 18 (stack = {'b10902044': 1719.0, 'b11705031': 280.32881})
+community cards of this round: ['S4', 'C2', 'D4', 'S7', 'C9']
+name: b10902044, hole_card: ['D6', 'HQ']
+name: b11705031, hole_card: ['H7', 'DJ']
+Started the round 19
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 123ms/step
+name: b10902044, hole_card: ['D6', 'HQ']
+name: b11705031, hole_card: ['H7', 'DJ']
+"b11705031" declared "call:10"
+name: b10902044, hole_card: ['D6', 'HQ']
+name: b11705031, hole_card: ['H7', 'DJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 19 (stack = {'b10902044': 1709.0, 'b11705031': 290.32881})
+community cards of this round: ['S3', 'HQ', 'H2', 'C6', 'S5']
+name: b10902044, hole_card: ['C4', 'S8']
+name: b11705031, hole_card: ['CK', 'SJ']
+Started the round 20
+Street "preflop" started. (community card = [])
+name: b10902044, hole_card: ['C4', 'S8']
+name: b11705031, hole_card: ['CK', 'SJ']
+"b10902044" declared "fold:0"
+"['b11705031']" won the round 20 (stack = {'b10902044': 1704.0, 'b11705031': 295.32881})
+b11705031 vs b10902044 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902044', 'uuid': 'ieipnmkbcewrdyforhxgdf', 'stack': 1704.0, 'state': 'participating'}, {'name': 'b11705031', 'uuid': 'cyrfoqyxwfvqcsolmsmixd', 'stack': 295.32881, 'state': 'participating'}]}
+Final Result: b11705031 won 3 games (stack: 8249.099999999999), b10902044 won 2 games (stack: 1741.05463599)

@@ -1,0 +1,70 @@
+community cards of this round: ['CJ', 'CK', 'D7', 'SK', 'DT']
+name: b10902037, hole_card: ['H8', 'H5']
+name: b10902110, hole_card: ['C9', 'C5']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b10902037, hole_card: ['H8', 'H5']
+name: b10902110, hole_card: ['C9', 'C5']
+"b10902110" declared "fold:0"
+"['b10902037']" won the round 1 (stack = {'b10902037': 1005, 'b10902110': 995})
+community cards of this round: ['CT', 'H2', 'DK', 'D8', 'SA']
+name: b10902037, hole_card: ['H6', 'S4']
+name: b10902110, hole_card: ['D6', 'S6']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b10902037, hole_card: ['H6', 'S4']
+name: b10902110, hole_card: ['D6', 'S6']
+"b10902037" declared "fold:0"
+"['b10902110']" won the round 2 (stack = {'b10902037': 1000, 'b10902110': 1000})
+community cards of this round: ['H5', 'CT', 'D3', 'C8', 'D7']
+name: b10902037, hole_card: ['DQ', 'CA']
+name: b10902110, hole_card: ['C9', 'S2']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b10902037, hole_card: ['DQ', 'CA']
+name: b10902110, hole_card: ['C9', 'S2']
+"b10902110" declared "fold:0"
+"['b10902037']" won the round 3 (stack = {'b10902037': 1005, 'b10902110': 995})
+community cards of this round: ['C6', 'D6', 'SQ', 'D4', 'DQ']
+name: b10902037, hole_card: ['HK', 'ST']
+name: b10902110, hole_card: ['DK', 'DJ']
+Traceback (most recent call last):
+  File "pk.py", line 115, in <module>
+    main(args.student1_id, args.student2_id)
+  File "pk.py", line 91, in main
+    game_results = play_games(student1_id, student1_ai, student2_id, student2_ai)
+  File "pk.py", line 60, in play_games
+    game_result = start_poker(config, verbose=1, decks=decks[j])
+  File "/home/ubitus03/fai_final_project/game/game.py", line 16, in start_poker
+    result_message = dealer.start_game(config.max_round, decks)
+  File "/home/ubitus03/fai_final_project/game/engine/dealer.py", line 44, in start_game
+    table = self.play_round(round_count, sb_amount, ante, table)
+  File "/home/ubitus03/fai_final_project/game/engine/dealer.py", line 55, in play_round
+    action, bet_amount = self.__publish_messages(msgs)
+  File "/home/ubitus03/fai_final_project/game/engine/dealer.py", line 118, in __publish_messages
+    self.message_handler.process_message(address, msg)
+  File "/home/ubitus03/fai_final_project/game/engine/dealer.py", line 229, in process_message
+    receiver.receive_notification(msg["message"])
+  File "/home/ubitus03/fai_final_project/game/players.py", line 81, in receive_notification
+    self.receive_street_start_message(street, state)
+  File "/home/ubitus03/fai_final_project/./b10902037/agent.py", line 149, in receive_street_start_message
+    self.win_rate = get_win_rate(self.hole, self.community, self.players, 10000)
+  File "/home/ubitus03/fai_final_project/./b10902037/agent.py", line 29, in get_win_rate
+    result[mc(hole_card, community_card, players)] += 1
+  File "/home/ubitus03/fai_final_project/./b10902037/agent.py", line 21, in mc
+    my_score = HandEvaluator.eval_hand(hole_card, community_card)
+  File "/home/ubitus03/fai_final_project/game/engine/hand_evaluator.py", line 48, in eval_hand
+    hand_flg = self.__calc_hand_info_flg(hole, community) << 8
+  File "/home/ubitus03/fai_final_project/game/engine/hand_evaluator.py", line 68, in __calc_hand_info_flg
+    if self.__is_fourcard(cards):
+  File "/home/ubitus03/fai_final_project/game/engine/hand_evaluator.py", line 213, in __is_fourcard
+    return self.__eval_fourcard(cards) != 0
+  File "/home/ubitus03/fai_final_project/game/engine/hand_evaluator.py", line 217, in __eval_fourcard
+    rank = self.__search_fourcard(cards)
+  File "/home/ubitus03/fai_final_project/game/engine/hand_evaluator.py", line 224, in __search_fourcard
+    g = list(group_obj)
+  File "/home/ubitus03/fai_final_project/game/engine/hand_evaluator.py", line 222, in <lambda>
+    fetch_rank = lambda card: card.rank
+  File "/home/ubitus03/fai_final_project/game/players.py", line 8, in timeout_handler
+    raise Exception(f'block timedout after {duration} seconds')
+Exception: block timedout after 5 seconds

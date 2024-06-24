@@ -1,0 +1,700 @@
+/home/ubitus03/fai_final_project/./b09602017/poker_odds.json
+/home/ubitus03/fai_final_project/./b09602017/poker_odds.json
+Game start message: {'player_num': 2, 'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1000, 'state': 'participating'}]}
+community cards of this round: ['D9', 'SK', 'HQ', 'DA', 'D5']
+name: b11705051, hole_card: ['SQ', 'H6']
+name: b09602017, hole_card: ['H3', 'CT']
+Round start message - Round count: 1, Hole card: ['H3', 'CT'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Started the round 1
+Street "preflop" started. (community card = [])
+hole card: 3/T/u
+winning_rate: 40.16%
+150
+name: b11705051, hole_card: ['SQ', 'H6']
+name: b09602017, hole_card: ['H3', 'CT']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 1 (stack = {'b11705051': 1005, 'b09602017': 995})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.5
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['D9', 'SK', 'HQ', 'DA', 'D5'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+community cards of this round: ['D6', 'C8', 'C4', 'CK', 'H9']
+name: b11705051, hole_card: ['SQ', 'S3']
+name: b09602017, hole_card: ['S5', 'S6']
+Round start message - Round count: 2, Hole card: ['S5', 'S6'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+Started the round 2
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['SQ', 'S3'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 50.0
+name: b11705051, hole_card: ['SQ', 'S3']
+name: b09602017, hole_card: ['S5', 'S6']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b09602017']" won the round 2 (stack = {'b11705051': 1000, 'b09602017': 1000})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.25
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1000, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['D6', 'C8', 'C4', 'CK', 'H9'], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1000, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+community cards of this round: ['S8', 'H3', 'ST', 'H9', 'CK']
+name: b11705051, hole_card: ['D4', 'C7']
+name: b09602017, hole_card: ['S5', 'C8']
+Round start message - Round count: 3, Hole card: ['S5', 'C8'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Started the round 3
+Street "preflop" started. (community card = [])
+hole card: 5/8/u
+winning_rate: 38.74%
+135
+name: b11705051, hole_card: ['D4', 'C7']
+name: b09602017, hole_card: ['S5', 'C8']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 3 (stack = {'b11705051': 1005, 'b09602017': 995})
+Learning: Reward = 1, TD error = 0.5, Q-value updated: {'fold': 0, 'call': 0.75, 'raise': 0}
+Exploration rate updated: 0.125
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['S8', 'H3', 'ST', 'H9', 'CK'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+community cards of this round: ['DA', 'HQ', 'ST', 'DK', 'H4']
+name: b11705051, hole_card: ['D8', 'S6']
+name: b09602017, hole_card: ['D3', 'H5']
+Round start message - Round count: 4, Hole card: ['D3', 'H5'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+Started the round 4
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['D8', 'S6'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b11705051, hole_card: ['D8', 'S6']
+name: b09602017, hole_card: ['D3', 'H5']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 10}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 995, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:10"
+hole card: 3/5/u
+winning_rate: 33.16%
+125
+name: b11705051, hole_card: ['D8', 'S6']
+name: b09602017, hole_card: ['D3', 'H5']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 995, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 4 (stack = {'b11705051': 1015, 'b09602017': 985})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': -0.5, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.0625
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1015, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['DA', 'HQ', 'ST', 'DK', 'H4'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1015, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+community cards of this round: ['DT', 'D6', 'HQ', 'H4', 'ST']
+name: b11705051, hole_card: ['S9', 'DA']
+name: b09602017, hole_card: ['C8', 'D8']
+Round start message - Round count: 5, Hole card: ['C8', 'D8'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 980, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 980, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Started the round 5
+Street "preflop" started. (community card = [])
+hole card: 8/8/u
+winning_rate: 68.72%
+120
+name: b11705051, hole_card: ['S9', 'DA']
+name: b09602017, hole_card: ['C8', 'D8']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'raise', 'amount': 985}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 995}, 'side': [{'amount': 0, 'eligibles': ['tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 985, 'paid': 980, 'add_amount': 975, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "raise:985"
+Declared Started:
+Computing win rate for state: (['S9', 'DA'], [])
+First round win rate: 56.00000000000001
+Exploiting: Win rate = 56.00000000000001, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 56.00000000000001
+name: b11705051, hole_card: ['S9', 'DA']
+name: b09602017, hole_card: ['C8', 'D8']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 995}, 'side': [{'amount': 0, 'eligibles': ['tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 985, 'paid': 980, 'add_amount': 975, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b09602017']" won the round 5 (stack = {'b11705051': 1005, 'b09602017': 995})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.03125
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'allin'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 995}, 'side': [{'amount': 0, 'eligibles': ['tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': ['DT', 'D6', 'HQ', 'H4', 'ST'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 985, 'paid': 980, 'add_amount': 975, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+community cards of this round: ['H7', 'H2', 'SQ', 'HA', 'DA']
+name: b11705051, hole_card: ['HQ', 'D2']
+name: b09602017, hole_card: ['D4', 'DT']
+Round start message - Round count: 6, Hole card: ['D4', 'DT'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+Started the round 6
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['HQ', 'D2'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b11705051, hole_card: ['HQ', 'D2']
+name: b09602017, hole_card: ['D4', 'DT']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 10}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 995, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:10"
+hole card: 4/T/s
+winning_rate: 44.2%
+110
+name: b11705051, hole_card: ['HQ', 'D2']
+name: b09602017, hole_card: ['D4', 'DT']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 995, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 6 (stack = {'b11705051': 1015, 'b09602017': 985})
+Learning: Reward = 1, TD error = 0.5, Q-value updated: {'fold': -0.5, 'call': 0.75, 'raise': 0}
+Exploration rate updated: 0.015625
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1015, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['H7', 'H2', 'SQ', 'HA', 'DA'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1015, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+community cards of this round: ['HA', 'HJ', 'S3', 'DA', 'DT']
+name: b11705051, hole_card: ['H3', 'C4']
+name: b09602017, hole_card: ['D7', 'SA']
+Round start message - Round count: 7, Hole card: ['D7', 'SA'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 980, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 7, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 980, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Started the round 7
+Street "preflop" started. (community card = [])
+hole card: 7/A/u
+winning_rate: 57.17%
+105
+name: b11705051, hole_card: ['H3', 'C4']
+name: b09602017, hole_card: ['D7', 'SA']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'raise', 'amount': 985}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 995}, 'side': [{'amount': 0, 'eligibles': ['tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 7, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 985, 'paid': 980, 'add_amount': 975, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "raise:985"
+Declared Started:
+Computing win rate for state: (['H3', 'C4'], [])
+First round win rate: 39.0
+Exploiting: Win rate = 39.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 39.0
+name: b11705051, hole_card: ['H3', 'C4']
+name: b09602017, hole_card: ['D7', 'SA']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 995}, 'side': [{'amount': 0, 'eligibles': ['tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 7, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 985, 'paid': 980, 'add_amount': 975, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "fold:0"
+"['b09602017']" won the round 7 (stack = {'b11705051': 1005, 'b09602017': 995})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.0078125
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'allin'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 995}, 'side': [{'amount': 0, 'eligibles': ['tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': ['HA', 'HJ', 'S3', 'DA', 'DT'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 7, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1005, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 995, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 985, 'paid': 980, 'add_amount': 975, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+community cards of this round: ['D6', 'H5', 'HQ', 'D8', 'H7']
+name: b11705051, hole_card: ['C9', 'H3']
+name: b09602017, hole_card: ['SK', 'CK']
+Round start message - Round count: 8, Hole card: ['SK', 'CK'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+Started the round 8
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['C9', 'H3'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b11705051, hole_card: ['C9', 'H3']
+name: b09602017, hole_card: ['SK', 'CK']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 10}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 995, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:10"
+hole card: K/K/u
+winning_rate: 82.12%
+95
+name: b11705051, hole_card: ['C9', 'H3']
+name: b09602017, hole_card: ['SK', 'CK']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'raise', 'amount': 995}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 1005}, 'side': [{'amount': 0, 'eligibles': ['tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 995, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 995, 'paid': 985, 'add_amount': 985, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "raise:995"
+Declared Started:
+Computing win rate for state: (['C9', 'H3'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 50.0
+name: b11705051, hole_card: ['C9', 'H3']
+name: b09602017, hole_card: ['SK', 'CK']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 1005}, 'side': [{'amount': 0, 'eligibles': ['tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 995, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 995, 'paid': 985, 'add_amount': 985, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b09602017']" won the round 8 (stack = {'b11705051': 995, 'b09602017': 1005})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.00390625
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1005, 'state': 'allin'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 1005}, 'side': [{'amount': 0, 'eligibles': ['tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': ['D6', 'H5', 'HQ', 'D8', 'H7'], 'dealer_btn': 1, 'next_player': 'not_found', 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 995, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1005, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 995, 'paid': 985, 'add_amount': 985, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+community cards of this round: ['D4', 'D8', 'D2', 'H9', 'HQ']
+name: b11705051, hole_card: ['H4', 'DJ']
+name: b09602017, hole_card: ['CT', 'D5']
+Round start message - Round count: 9, Hole card: ['CT', 'D5'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 985, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1000, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 985, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1000, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Started the round 9
+Street "preflop" started. (community card = [])
+hole card: 5/T/u
+winning_rate: 41.86%
+90
+name: b11705051, hole_card: ['H4', 'DJ']
+name: b09602017, hole_card: ['CT', 'D5']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 985, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1000, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 9 (stack = {'b11705051': 1000, 'b09602017': 1000})
+Learning: Reward = 1, TD error = 0.25, Q-value updated: {'fold': 0, 'call': 0.875, 'raise': 0}
+Exploration rate updated: 0.001953125
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['D4', 'D8', 'D2', 'H9', 'HQ'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1000, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+community cards of this round: ['HJ', 'C7', 'D7', 'SA', 'S2']
+name: b11705051, hole_card: ['DQ', 'H8']
+name: b09602017, hole_card: ['D6', 'D5']
+Round start message - Round count: 10, Hole card: ['D6', 'D5'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 995, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 990, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 10, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 995, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 990, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+Started the round 10
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['DQ', 'H8'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b11705051, hole_card: ['DQ', 'H8']
+name: b09602017, hole_card: ['D6', 'D5']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 10}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 10, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 990, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:10"
+hole card: 5/6/s
+winning_rate: 40.35%
+80
+name: b11705051, hole_card: ['DQ', 'H8']
+name: b09602017, hole_card: ['D6', 'D5']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 10, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 990, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 10 (stack = {'b11705051': 1010, 'b09602017': 990})
+Learning: Reward = 1, TD error = 0.25, Q-value updated: {'fold': -0.5, 'call': 0.875, 'raise': 0}
+Exploration rate updated: 0.0009765625
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1010, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['HJ', 'C7', 'D7', 'SA', 'S2'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 10, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1010, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 990, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+community cards of this round: ['CA', 'H7', 'D3', 'S2', 'SA']
+name: b11705051, hole_card: ['CJ', 'H5']
+name: b09602017, hole_card: ['D4', 'H3']
+Round start message - Round count: 11, Hole card: ['D4', 'H3'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 11, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Started the round 11
+Street "preflop" started. (community card = [])
+hole card: 3/4/u
+winning_rate: 32.07%
+75
+name: b11705051, hole_card: ['CJ', 'H5']
+name: b09602017, hole_card: ['D4', 'H3']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 11, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 11 (stack = {'b11705051': 1015, 'b09602017': 985})
+Learning: Reward = 1, TD error = 0.125, Q-value updated: {'fold': 0, 'call': 0.9375, 'raise': 0}
+Exploration rate updated: 0.00048828125
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1015, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['CA', 'H7', 'D3', 'S2', 'SA'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 11, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1015, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+community cards of this round: ['CQ', 'DJ', 'C8', 'CA', 'H6']
+name: b11705051, hole_card: ['H9', 'CT']
+name: b09602017, hole_card: ['HQ', 'H7']
+Round start message - Round count: 12, Hole card: ['HQ', 'H7'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1010, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 975, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1010, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 975, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+Started the round 12
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['H9', 'CT'], [])
+First round win rate: 45.0
+Exploiting: Win rate = 45.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 45.0
+name: b11705051, hole_card: ['H9', 'CT']
+name: b09602017, hole_card: ['HQ', 'H7']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1010, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 975, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b09602017']" won the round 12 (stack = {'b11705051': 1010, 'b09602017': 990})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.000244140625
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 990, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['CQ', 'DJ', 'C8', 'CA', 'H6'], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1010, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 990, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+community cards of this round: ['C7', 'C5', 'S2', 'S6', 'S7']
+name: b11705051, hole_card: ['D2', 'S8']
+name: b09602017, hole_card: ['HK', 'H5']
+Round start message - Round count: 13, Hole card: ['HK', 'H5'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Started the round 13
+Street "preflop" started. (community card = [])
+hole card: 5/K/s
+winning_rate: 53.83%
+60
+name: b11705051, hole_card: ['D2', 'S8']
+name: b09602017, hole_card: ['HK', 'H5']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'raise', 'amount': 990}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 1000}, 'side': [{'amount': 0, 'eligibles': ['tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 990, 'paid': 985, 'add_amount': 980, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "raise:990"
+Declared Started:
+Computing win rate for state: (['D2', 'S8'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 990, Win rate = 50.0
+name: b11705051, hole_card: ['D2', 'S8']
+name: b09602017, hole_card: ['HK', 'H5']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 990}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 1980}, 'side': [{'amount': 0, 'eligibles': ['eyscauxrzdohrpwsiuxdrx', 'tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 990, 'paid': 985, 'add_amount': 980, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 990, 'paid': 980, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Street start message - Street: flop, Round state: {'street': 'flop', 'pot': {'main': {'amount': 1980}, 'side': [{'amount': 0, 'eligibles': ['eyscauxrzdohrpwsiuxdrx', 'tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': ['C7', 'C5', 'S2'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 990, 'paid': 985, 'add_amount': 980, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 990, 'paid': 980, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+Street start message - Street: turn, Round state: {'street': 'turn', 'pot': {'main': {'amount': 1980}, 'side': [{'amount': 0, 'eligibles': ['eyscauxrzdohrpwsiuxdrx', 'tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': ['C7', 'C5', 'S2', 'S6'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 990, 'paid': 985, 'add_amount': 980, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 990, 'paid': 980, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+Street start message - Street: river, Round state: {'street': 'river', 'pot': {'main': {'amount': 1980}, 'side': [{'amount': 0, 'eligibles': ['eyscauxrzdohrpwsiuxdrx', 'tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': ['C7', 'C5', 'S2', 'S6', 'S7'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 990, 'paid': 985, 'add_amount': 980, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 990, 'paid': 980, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+"b11705051" declared "call:990"
+Street "flop" started. (community card = ['C7', 'C5', 'S2'])
+Street "turn" started. (community card = ['C7', 'C5', 'S2', 'S6'])
+Street "river" started. (community card = ['C7', 'C5', 'S2', 'S6', 'S7'])
+"['b09602017']" won the round 13 (stack = {'b11705051': 20, 'b09602017': 1980})
+Learning: Reward = -1, TD error = -1.875, Q-value updated: {'fold': -0.5, 'call': -0.0625, 'raise': 0}
+Exploration rate updated: 0.0001220703125
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'allin'}], Hand info: [{'uuid': 'eyscauxrzdohrpwsiuxdrx', 'hand': {'hand': {'strength': 'TWOPAIR', 'high': 7, 'low': 2}, 'hole': {'high': 8, 'low': 2}}}, {'uuid': 'tlhmfnsgqeptqzwlumkogh', 'hand': {'hand': {'strength': 'TWOPAIR', 'high': 7, 'low': 5}, 'hole': {'high': 13, 'low': 5}}}], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 1980}, 'side': [{'amount': 0, 'eligibles': ['eyscauxrzdohrpwsiuxdrx', 'tlhmfnsgqeptqzwlumkogh']}]}, 'community_card': ['C7', 'C5', 'S2', 'S6', 'S7'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'RAISE', 'amount': 990, 'paid': 985, 'add_amount': 980, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 990, 'paid': 980, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+community cards of this round: ['HK', 'H3', 'D3', 'C8', 'S4']
+name: b11705051, hole_card: ['D9', 'SJ']
+name: b09602017, hole_card: ['CA', 'C7']
+Round start message - Round count: 14, Hole card: ['CA', 'C7'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 14, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+Started the round 14
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['D9', 'SJ'], [])
+First round win rate: 46.0
+Exploiting: Win rate = 46.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 46.0
+name: b11705051, hole_card: ['D9', 'SJ']
+name: b09602017, hole_card: ['CA', 'C7']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 14, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b09602017']" won the round 14 (stack = {'b11705051': 15, 'b09602017': 1985})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 6.103515625e-05
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1985, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['HK', 'H3', 'D3', 'C8', 'S4'], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 14, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+community cards of this round: ['S6', 'DQ', 'H4', 'SK', 'C7']
+name: b11705051, hole_card: ['S9', 'S3']
+name: b09602017, hole_card: ['HQ', 'C8']
+Round start message - Round count: 15, Hole card: ['HQ', 'C8'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 5, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 5, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Started the round 15
+Street "preflop" started. (community card = [])
+hole card: 8/Q/u
+winning_rate: 51.93%
+45
+5 1980 45
+name: b11705051, hole_card: ['S9', 'S3']
+name: b09602017, hole_card: ['HQ', 'C8']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 5, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 15 (stack = {'b11705051': 20, 'b09602017': 1980})
+Learning: Reward = 1, TD error = 0.0625, Q-value updated: {'fold': 0, 'call': 0.96875, 'raise': 0}
+Exploration rate updated: 3.0517578125e-05
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['S6', 'DQ', 'H4', 'SK', 'C7'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+community cards of this round: ['S6', 'H7', 'D2', 'S8', 'H8']
+name: b11705051, hole_card: ['CK', 'SA']
+name: b09602017, hole_card: ['D9', 'H2']
+Round start message - Round count: 16, Hole card: ['D9', 'H2'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 16, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+Started the round 16
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['CK', 'SA'], [])
+First round win rate: 64.0
+Exploiting: Win rate = 64.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 64.0
+name: b11705051, hole_card: ['CK', 'SA']
+name: b09602017, hole_card: ['D9', 'H2']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 16, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b09602017']" won the round 16 (stack = {'b11705051': 15, 'b09602017': 1985})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 1.52587890625e-05
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1985, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['S6', 'H7', 'D2', 'S8', 'H8'], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 16, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+community cards of this round: ['S4', 'S2', 'C8', 'D9', 'SA']
+name: b11705051, hole_card: ['SQ', 'C5']
+name: b09602017, hole_card: ['C6', 'HQ']
+Round start message - Round count: 17, Hole card: ['C6', 'HQ'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 5, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 17, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 5, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Started the round 17
+Street "preflop" started. (community card = [])
+hole card: 6/Q/u
+winning_rate: 49.0%
+30
+5 1980 30
+name: b11705051, hole_card: ['SQ', 'C5']
+name: b09602017, hole_card: ['C6', 'HQ']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 17, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 5, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 17 (stack = {'b11705051': 20, 'b09602017': 1980})
+Learning: Reward = 1, TD error = 0.03125, Q-value updated: {'fold': 0, 'call': 0.984375, 'raise': 0}
+Exploration rate updated: 7.62939453125e-06
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['S4', 'S2', 'C8', 'D9', 'SA'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 17, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+community cards of this round: ['S3', 'C7', 'H5', 'HK', 'S9']
+name: b11705051, hole_card: ['SJ', 'H2']
+name: b09602017, hole_card: ['SQ', 'SA']
+Round start message - Round count: 18, Hole card: ['SQ', 'SA'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 18, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+Started the round 18
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['SJ', 'H2'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: raise
+Action declared: Action = raise, Amount = 250.0, Win rate = 50.0
+name: b11705051, hole_card: ['SJ', 'H2']
+name: b09602017, hole_card: ['SQ', 'SA']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'raise', 'amount': 250.0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 18, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "raise:250.0", Invalid action. Treat as fold...
+"['b09602017']" won the round 18 (stack = {'b11705051': 15, 'b09602017': 1985})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': -0.0625, 'raise': -0.5}
+Exploration rate updated: 3.814697265625e-06
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1985, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['S3', 'C7', 'H5', 'HK', 'S9'], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 18, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'FOLD', 'uuid': 'eyscauxrzdohrpwsiuxdrx'}], 'flop': []}}
+community cards of this round: ['CT', 'DT', 'S4', 'S5', 'SJ']
+name: b11705051, hole_card: ['SA', 'S9']
+name: b09602017, hole_card: ['S7', 'C7']
+Round start message - Round count: 19, Hole card: ['S7', 'C7'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 5, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 19, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 5, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+Started the round 19
+Street "preflop" started. (community card = [])
+hole card: 7/7/u
+winning_rate: 65.73%
+15
+5 1980 15
+name: b11705051, hole_card: ['SA', 'S9']
+name: b09602017, hole_card: ['S7', 'C7']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 19, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 5, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 19 (stack = {'b11705051': 20, 'b09602017': 1980})
+Learning: Reward = 1, TD error = 0.015625, Q-value updated: {'fold': 0, 'call': 0.9921875, 'raise': 0}
+Exploration rate updated: 1.9073486328125e-06
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['CT', 'DT', 'S4', 'S5', 'SJ'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 19, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 20, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1980, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+community cards of this round: ['SK', 'D6', 'D4', 'S3', 'DQ']
+name: b11705051, hole_card: ['H8', 'S5']
+name: b09602017, hole_card: ['C9', 'CT']
+Round start message - Round count: 20, Hole card: ['C9', 'CT'], Seats: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 20, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 15, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+Started the round 20
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['H8', 'S5'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b11705051, hole_card: ['H8', 'S5']
+name: b09602017, hole_card: ['C9', 'CT']
+Game update message - Action: {'player_uuid': 'eyscauxrzdohrpwsiuxdrx', 'action': 'call', 'amount': 10}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 20, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 10, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}]}}
+"b11705051" declared "call:10"
+hole card: 9/T/s
+winning_rate: 52.38%
+5
+10 1970 5
+name: b11705051, hole_card: ['H8', 'S5']
+name: b09602017, hole_card: ['C9', 'CT']
+Game update message - Action: {'player_uuid': 'tlhmfnsgqeptqzwlumkogh', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 20, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 10, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 20 (stack = {'b11705051': 30, 'b09602017': 1970})
+Learning: Reward = 1, TD error = 1.0625, Q-value updated: {'fold': -0.5, 'call': 0.46875, 'raise': -0.5}
+Exploration rate updated: 9.5367431640625e-07
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 30, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['SK', 'D6', 'D4', 'S3', 'DQ'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 20, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 30, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'tlhmfnsgqeptqzwlumkogh'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'eyscauxrzdohrpwsiuxdrx'}, {'action': 'FOLD', 'uuid': 'tlhmfnsgqeptqzwlumkogh'}], 'flop': []}}
+b09602017 vs b11705051 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705051', 'uuid': 'eyscauxrzdohrpwsiuxdrx', 'stack': 30, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'tlhmfnsgqeptqzwlumkogh', 'stack': 1970, 'state': 'participating'}]}
+Game start message: {'player_num': 2, 'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'seats': [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 1000, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 1000, 'state': 'participating'}]}
+community cards of this round: ['D9', 'SK', 'HQ', 'DA', 'D5']
+name: b09602017, hole_card: ['SQ', 'H6']
+name: b11705051, hole_card: ['H3', 'CT']
+Round start message - Round count: 1, Hole card: ['SQ', 'H6'], Seats: [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 990, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 995, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 990, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 995, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}]}}
+Started the round 1
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['H3', 'CT'], [])
+First round win rate: 50.0
+Exploring: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b09602017, hole_card: ['SQ', 'H6']
+name: b11705051, hole_card: ['H3', 'CT']
+Game update message - Action: {'player_uuid': 'gpczplaoclfbqejyvbeszr', 'action': 'call', 'amount': 10}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 990, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 990, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}]}}
+"b11705051" declared "call:10"
+hole card: 6/Q/u
+winning_rate: 49.0%
+150
+name: b09602017, hole_card: ['SQ', 'H6']
+name: b11705051, hole_card: ['H3', 'CT']
+Game update message - Action: {'player_uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'action': 'raise', 'amount': 1000}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 1010}, 'side': [{'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 990, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}]}}
+"b09602017" declared "raise:1000"
+Declared Started:
+Computing win rate for state: (['H3', 'CT'], [])
+First round win rate: 50.0
+Exploring: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 1000, Win rate = 50.0
+name: b09602017, hole_card: ['SQ', 'H6']
+name: b11705051, hole_card: ['H3', 'CT']
+Game update message - Action: {'player_uuid': 'gpczplaoclfbqejyvbeszr', 'action': 'call', 'amount': 1000}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm', 'gpczplaoclfbqejyvbeszr']}, {'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm', 'gpczplaoclfbqejyvbeszr']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'gpczplaoclfbqejyvbeszr'}]}}
+Street start message - Street: flop, Round state: {'street': 'flop', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm', 'gpczplaoclfbqejyvbeszr']}, {'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm', 'gpczplaoclfbqejyvbeszr']}]}, 'community_card': ['D9', 'SK', 'HQ'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'gpczplaoclfbqejyvbeszr'}], 'flop': []}}
+Street start message - Street: turn, Round state: {'street': 'turn', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm', 'gpczplaoclfbqejyvbeszr']}, {'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm', 'gpczplaoclfbqejyvbeszr']}]}, 'community_card': ['D9', 'SK', 'HQ', 'DA'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'gpczplaoclfbqejyvbeszr'}], 'flop': []}}
+Street start message - Street: river, Round state: {'street': 'river', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm', 'gpczplaoclfbqejyvbeszr']}, {'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm', 'gpczplaoclfbqejyvbeszr']}]}, 'community_card': ['D9', 'SK', 'HQ', 'DA', 'D5'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'gpczplaoclfbqejyvbeszr'}], 'flop': []}}
+"b11705051" declared "call:1000"
+Street "flop" started. (community card = ['D9', 'SK', 'HQ'])
+Street "turn" started. (community card = ['D9', 'SK', 'HQ', 'DA'])
+Street "river" started. (community card = ['D9', 'SK', 'HQ', 'DA', 'D5'])
+"['b09602017']" won the round 1 (stack = {'b09602017': 2000, 'b11705051': 0})
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 2000, 'state': 'allin'}], Hand info: [{'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'hand': {'hand': {'strength': 'ONEPAIR', 'high': 12, 'low': 0}, 'hole': {'high': 12, 'low': 6}}}, {'uuid': 'gpczplaoclfbqejyvbeszr', 'hand': {'hand': {'strength': 'HIGHCARD', 'high': 10, 'low': 3}, 'hole': {'high': 10, 'low': 3}}}], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm', 'gpczplaoclfbqejyvbeszr']}, {'amount': 0, 'eligibles': ['gqkwnvxwkihpkyhuyrrmkm', 'gpczplaoclfbqejyvbeszr']}]}, 'community_card': ['D9', 'SK', 'HQ', 'DA', 'D5'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 2000, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'gpczplaoclfbqejyvbeszr'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'gqkwnvxwkihpkyhuyrrmkm'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'gpczplaoclfbqejyvbeszr'}], 'flop': []}}
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': 0, 'call': -0.5, 'raise': 0}
+Exploration rate updated: 0.5
+b09602017 vs b11705051 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b09602017', 'uuid': 'gqkwnvxwkihpkyhuyrrmkm', 'stack': 2000, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'gpczplaoclfbqejyvbeszr', 'stack': 0, 'state': 'folded'}]}
+Game start message: {'player_num': 2, 'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 1000, 'state': 'participating'}]}
+community cards of this round: ['SQ', 'C9', 'CA', 'D8', 'H2']
+name: b11705051, hole_card: ['D7', 'SK']
+name: b09602017, hole_card: ['S5', 'S2']
+Round start message - Round count: 1, Hole card: ['S5', 'S2'], Seats: [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 995, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 995, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}]}}
+Started the round 1
+Street "preflop" started. (community card = [])
+hole card: 2/5/s
+winning_rate: 34.93%
+150
+name: b11705051, hole_card: ['D7', 'SK']
+name: b09602017, hole_card: ['S5', 'S2']
+Game update message - Action: {'player_uuid': 'fpxbczmwsstnlisovdyhrg', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 995, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'FOLD', 'uuid': 'fpxbczmwsstnlisovdyhrg'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 1 (stack = {'b11705051': 1005, 'b09602017': 995})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.5
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1005, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['SQ', 'C9', 'CA', 'D8', 'H2'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1005, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 995, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'FOLD', 'uuid': 'fpxbczmwsstnlisovdyhrg'}], 'flop': []}}
+community cards of this round: ['CJ', 'ST', 'DK', 'S2', 'D3']
+name: b11705051, hole_card: ['H6', 'SA']
+name: b09602017, hole_card: ['CA', 'HQ']
+Round start message - Round count: 2, Hole card: ['CA', 'HQ'], Seats: [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 985, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}]}}
+Started the round 2
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['H6', 'SA'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 50.0
+name: b11705051, hole_card: ['H6', 'SA']
+name: b09602017, hole_card: ['CA', 'HQ']
+Game update message - Action: {'player_uuid': 'kjobluufungdxdmlkaeehg', 'action': 'call', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1000, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'FOLD', 'uuid': 'kjobluufungdxdmlkaeehg'}]}}
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b09602017']" won the round 2 (stack = {'b11705051': 1000, 'b09602017': 1000})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.25
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 1000, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['CJ', 'ST', 'DK', 'S2', 'D3'], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1000, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 1000, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'FOLD', 'uuid': 'kjobluufungdxdmlkaeehg'}], 'flop': []}}
+community cards of this round: ['CT', 'H5', 'S7', 'CA', 'HJ']
+name: b11705051, hole_card: ['H2', 'HA']
+name: b09602017, hole_card: ['S2', 'H9']
+Round start message - Round count: 3, Hole card: ['S2', 'H9'], Seats: [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 995, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 995, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}]}}
+Started the round 3
+Street "preflop" started. (community card = [])
+hole card: 2/9/u
+winning_rate: 36.52%
+135
+name: b11705051, hole_card: ['H2', 'HA']
+name: b09602017, hole_card: ['S2', 'H9']
+Game update message - Action: {'player_uuid': 'fpxbczmwsstnlisovdyhrg', 'action': 'fold', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 995, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'FOLD', 'uuid': 'fpxbczmwsstnlisovdyhrg'}]}}
+"b09602017" declared "fold:0"
+"['b11705051']" won the round 3 (stack = {'b11705051': 1005, 'b09602017': 995})
+Learning: Reward = 1, TD error = 0.5, Q-value updated: {'fold': 0, 'call': 0.75, 'raise': 0}
+Exploration rate updated: 0.125
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1005, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['CT', 'H5', 'S7', 'CA', 'HJ'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1005, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 995, 'state': 'folded'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'FOLD', 'uuid': 'fpxbczmwsstnlisovdyhrg'}], 'flop': []}}
+community cards of this round: ['HT', 'D4', 'C7', 'H7', 'CT']
+name: b11705051, hole_card: ['DK', 'HQ']
+name: b09602017, hole_card: ['S9', 'CK']
+Round start message - Round count: 4, Hole card: ['S9', 'CK'], Seats: [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 985, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}]}}
+Started the round 4
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['DK', 'HQ'], [])
+First round win rate: 51.0
+Exploiting: Win rate = 51.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 51.0
+name: b11705051, hole_card: ['DK', 'HQ']
+name: b09602017, hole_card: ['S9', 'CK']
+Game update message - Action: {'player_uuid': 'kjobluufungdxdmlkaeehg', 'action': 'call', 'amount': 0}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1000, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'FOLD', 'uuid': 'kjobluufungdxdmlkaeehg'}]}}
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b09602017']" won the round 4 (stack = {'b11705051': 1000, 'b09602017': 1000})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.0625
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 1000, 'state': 'participating'}], Hand info: [], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': ['HT', 'D4', 'C7', 'H7', 'CT'], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 1000, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 1000, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'FOLD', 'uuid': 'kjobluufungdxdmlkaeehg'}], 'flop': []}}
+community cards of this round: ['SK', 'CA', 'H3', 'DJ', 'H2']
+name: b11705051, hole_card: ['S9', 'S6']
+name: b09602017, hole_card: ['SJ', 'DQ']
+Round start message - Round count: 5, Hole card: ['SJ', 'DQ'], Seats: [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 995, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 995, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}]}}
+Started the round 5
+Street "preflop" started. (community card = [])
+hole card: J/Q/u
+winning_rate: 56.91%
+120
+name: b11705051, hole_card: ['S9', 'S6']
+name: b09602017, hole_card: ['SJ', 'DQ']
+Game update message - Action: {'player_uuid': 'fpxbczmwsstnlisovdyhrg', 'action': 'raise', 'amount': 1000}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 1010}, 'side': [{'amount': 0, 'eligibles': ['fpxbczmwsstnlisovdyhrg']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'fpxbczmwsstnlisovdyhrg'}]}}
+"b09602017" declared "raise:1000"
+Declared Started:
+Computing win rate for state: (['S9', 'S6'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 1000, Win rate = 50.0
+name: b11705051, hole_card: ['S9', 'S6']
+name: b09602017, hole_card: ['SJ', 'DQ']
+Game update message - Action: {'player_uuid': 'kjobluufungdxdmlkaeehg', 'action': 'call', 'amount': 1000}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['kjobluufungdxdmlkaeehg', 'fpxbczmwsstnlisovdyhrg']}, {'amount': 0, 'eligibles': ['kjobluufungdxdmlkaeehg', 'fpxbczmwsstnlisovdyhrg']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 0, 'state': 'allin'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'kjobluufungdxdmlkaeehg'}]}}
+Street start message - Street: flop, Round state: {'street': 'flop', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['kjobluufungdxdmlkaeehg', 'fpxbczmwsstnlisovdyhrg']}, {'amount': 0, 'eligibles': ['kjobluufungdxdmlkaeehg', 'fpxbczmwsstnlisovdyhrg']}]}, 'community_card': ['SK', 'CA', 'H3'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 0, 'state': 'allin'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'kjobluufungdxdmlkaeehg'}], 'flop': []}}
+Street start message - Street: turn, Round state: {'street': 'turn', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['kjobluufungdxdmlkaeehg', 'fpxbczmwsstnlisovdyhrg']}, {'amount': 0, 'eligibles': ['kjobluufungdxdmlkaeehg', 'fpxbczmwsstnlisovdyhrg']}]}, 'community_card': ['SK', 'CA', 'H3', 'DJ'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 0, 'state': 'allin'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'kjobluufungdxdmlkaeehg'}], 'flop': []}}
+Street start message - Street: river, Round state: {'street': 'river', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['kjobluufungdxdmlkaeehg', 'fpxbczmwsstnlisovdyhrg']}, {'amount': 0, 'eligibles': ['kjobluufungdxdmlkaeehg', 'fpxbczmwsstnlisovdyhrg']}]}, 'community_card': ['SK', 'CA', 'H3', 'DJ', 'H2'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 0, 'state': 'allin'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'kjobluufungdxdmlkaeehg'}], 'flop': []}}
+"b11705051" declared "call:1000"
+Street "flop" started. (community card = ['SK', 'CA', 'H3'])
+Street "turn" started. (community card = ['SK', 'CA', 'H3', 'DJ'])
+Street "river" started. (community card = ['SK', 'CA', 'H3', 'DJ', 'H2'])
+"['b09602017']" won the round 5 (stack = {'b11705051': 0, 'b09602017': 2000})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': -0.5, 'raise': 0}
+Exploration rate updated: 0.03125
+Round result message - Winners: [{'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 2000, 'state': 'allin'}], Hand info: [{'uuid': 'kjobluufungdxdmlkaeehg', 'hand': {'hand': {'strength': 'HIGHCARD', 'high': 9, 'low': 6}, 'hole': {'high': 9, 'low': 6}}}, {'uuid': 'fpxbczmwsstnlisovdyhrg', 'hand': {'hand': {'strength': 'ONEPAIR', 'high': 11, 'low': 0}, 'hole': {'high': 12, 'low': 11}}}], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['kjobluufungdxdmlkaeehg', 'fpxbczmwsstnlisovdyhrg']}, {'amount': 0, 'eligibles': ['kjobluufungdxdmlkaeehg', 'fpxbczmwsstnlisovdyhrg']}]}, 'community_card': ['SK', 'CA', 'H3', 'DJ', 'H2'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 0, 'state': 'allin'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 2000, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'kjobluufungdxdmlkaeehg'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'fpxbczmwsstnlisovdyhrg'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'kjobluufungdxdmlkaeehg'}], 'flop': []}}
+b09602017 vs b11705051 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705051', 'uuid': 'kjobluufungdxdmlkaeehg', 'stack': 0, 'state': 'folded'}, {'name': 'b09602017', 'uuid': 'fpxbczmwsstnlisovdyhrg', 'stack': 2000, 'state': 'participating'}]}
+Game start message: {'player_num': 2, 'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'seats': [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 1000, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 1000, 'state': 'participating'}]}
+community cards of this round: ['SQ', 'C9', 'CA', 'D8', 'H2']
+name: b09602017, hole_card: ['D7', 'SK']
+name: b11705051, hole_card: ['S5', 'S2']
+Round start message - Round count: 1, Hole card: ['D7', 'SK'], Seats: [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 990, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 995, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 990, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 995, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xqxjaphiegmuonbrviaccl'}]}}
+Started the round 1
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['S5', 'S2'], [])
+First round win rate: 50.0
+Exploring: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b09602017, hole_card: ['D7', 'SK']
+name: b11705051, hole_card: ['S5', 'S2']
+Game update message - Action: {'player_uuid': 'yggfuunaqpvplhregiceey', 'action': 'call', 'amount': 10}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 990, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 990, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'yggfuunaqpvplhregiceey'}]}}
+"b11705051" declared "call:10"
+hole card: 7/K/u
+winning_rate: 53.42%
+150
+name: b09602017, hole_card: ['D7', 'SK']
+name: b11705051, hole_card: ['S5', 'S2']
+Game update message - Action: {'player_uuid': 'xqxjaphiegmuonbrviaccl', 'action': 'raise', 'amount': 1000}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 1010}, 'side': [{'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 990, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'xqxjaphiegmuonbrviaccl'}]}}
+"b09602017" declared "raise:1000"
+Declared Started:
+Computing win rate for state: (['S5', 'S2'], [])
+First round win rate: 50.0
+Exploring: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 1000, Win rate = 50.0
+name: b09602017, hole_card: ['D7', 'SK']
+name: b11705051, hole_card: ['S5', 'S2']
+Game update message - Action: {'player_uuid': 'yggfuunaqpvplhregiceey', 'action': 'call', 'amount': 1000}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl', 'yggfuunaqpvplhregiceey']}, {'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl', 'yggfuunaqpvplhregiceey']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'yggfuunaqpvplhregiceey'}]}}
+Street start message - Street: flop, Round state: {'street': 'flop', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl', 'yggfuunaqpvplhregiceey']}, {'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl', 'yggfuunaqpvplhregiceey']}]}, 'community_card': ['SQ', 'C9', 'CA'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'yggfuunaqpvplhregiceey'}], 'flop': []}}
+Street start message - Street: turn, Round state: {'street': 'turn', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl', 'yggfuunaqpvplhregiceey']}, {'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl', 'yggfuunaqpvplhregiceey']}]}, 'community_card': ['SQ', 'C9', 'CA', 'D8'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'yggfuunaqpvplhregiceey'}], 'flop': []}}
+Street start message - Street: river, Round state: {'street': 'river', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl', 'yggfuunaqpvplhregiceey']}, {'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl', 'yggfuunaqpvplhregiceey']}]}, 'community_card': ['SQ', 'C9', 'CA', 'D8', 'H2'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'yggfuunaqpvplhregiceey'}], 'flop': []}}
+"b11705051" declared "call:1000"
+Street "flop" started. (community card = ['SQ', 'C9', 'CA'])
+Street "turn" started. (community card = ['SQ', 'C9', 'CA', 'D8'])
+Street "river" started. (community card = ['SQ', 'C9', 'CA', 'D8', 'H2'])
+"['b11705051']" won the round 1 (stack = {'b09602017': 0, 'b11705051': 2000})
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 2000, 'state': 'allin'}], Hand info: [{'uuid': 'xqxjaphiegmuonbrviaccl', 'hand': {'hand': {'strength': 'HIGHCARD', 'high': 13, 'low': 7}, 'hole': {'high': 13, 'low': 7}}}, {'uuid': 'yggfuunaqpvplhregiceey', 'hand': {'hand': {'strength': 'ONEPAIR', 'high': 2, 'low': 0}, 'hole': {'high': 5, 'low': 2}}}], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl', 'yggfuunaqpvplhregiceey']}, {'amount': 0, 'eligibles': ['xqxjaphiegmuonbrviaccl', 'yggfuunaqpvplhregiceey']}]}, 'community_card': ['SQ', 'C9', 'CA', 'D8', 'H2'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 0, 'state': 'allin'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 2000, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'yggfuunaqpvplhregiceey'}, {'action': 'RAISE', 'amount': 1000, 'paid': 990, 'add_amount': 990, 'uuid': 'xqxjaphiegmuonbrviaccl'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'yggfuunaqpvplhregiceey'}], 'flop': []}}
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.5
+b09602017 vs b11705051 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b09602017', 'uuid': 'xqxjaphiegmuonbrviaccl', 'stack': 0, 'state': 'folded'}, {'name': 'b11705051', 'uuid': 'yggfuunaqpvplhregiceey', 'stack': 2000, 'state': 'participating'}]}
+Game start message: {'player_num': 2, 'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'seats': [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 1000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'ohillognzszqmrvlgkuehu', 'stack': 1000, 'state': 'participating'}]}
+community cards of this round: ['S9', 'C5', 'S6', 'HK', 'D8']
+name: b11705051, hole_card: ['HQ', 'DK']
+name: b09602017, hole_card: ['D2', 'SK']
+Round start message - Round count: 1, Hole card: ['D2', 'SK'], Seats: [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'ohillognzszqmrvlgkuehu', 'stack': 995, 'state': 'participating'}]
+Street start message - Street: preflop, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'ohillognzszqmrvlgkuehu', 'stack': 995, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}]}}
+Started the round 1
+Street "preflop" started. (community card = [])
+hole card: 2/K/u
+winning_rate: 48.42%
+150
+name: b11705051, hole_card: ['HQ', 'DK']
+name: b09602017, hole_card: ['D2', 'SK']
+Game update message - Action: {'player_uuid': 'ohillognzszqmrvlgkuehu', 'action': 'raise', 'amount': 1000}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 1010}, 'side': [{'amount': 0, 'eligibles': ['ohillognzszqmrvlgkuehu']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 990, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'ohillognzszqmrvlgkuehu', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'ohillognzszqmrvlgkuehu'}]}}
+"b09602017" declared "raise:1000"
+Declared Started:
+Computing win rate for state: (['HQ', 'DK'], [])
+First round win rate: 51.0
+Exploring: Win rate = 51.0, Choosing action: call
+Action declared: Action = call, Amount = 1000, Win rate = 51.0
+name: b11705051, hole_card: ['HQ', 'DK']
+name: b09602017, hole_card: ['D2', 'SK']
+Game update message - Action: {'player_uuid': 'qmnjdkjgikvgvjjjyfiaks', 'action': 'call', 'amount': 1000}, Round state: {'street': 'preflop', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['qmnjdkjgikvgvjjjyfiaks', 'ohillognzszqmrvlgkuehu']}, {'amount': 0, 'eligibles': ['qmnjdkjgikvgvjjjyfiaks', 'ohillognzszqmrvlgkuehu']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 0, 'state': 'allin'}, {'name': 'b09602017', 'uuid': 'ohillognzszqmrvlgkuehu', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}]}}
+Street start message - Street: flop, Round state: {'street': 'flop', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['qmnjdkjgikvgvjjjyfiaks', 'ohillognzszqmrvlgkuehu']}, {'amount': 0, 'eligibles': ['qmnjdkjgikvgvjjjyfiaks', 'ohillognzszqmrvlgkuehu']}]}, 'community_card': ['S9', 'C5', 'S6'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 0, 'state': 'allin'}, {'name': 'b09602017', 'uuid': 'ohillognzszqmrvlgkuehu', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}], 'flop': []}}
+Street start message - Street: turn, Round state: {'street': 'turn', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['qmnjdkjgikvgvjjjyfiaks', 'ohillognzszqmrvlgkuehu']}, {'amount': 0, 'eligibles': ['qmnjdkjgikvgvjjjyfiaks', 'ohillognzszqmrvlgkuehu']}]}, 'community_card': ['S9', 'C5', 'S6', 'HK'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 0, 'state': 'allin'}, {'name': 'b09602017', 'uuid': 'ohillognzszqmrvlgkuehu', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}], 'flop': []}}
+Street start message - Street: river, Round state: {'street': 'river', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['qmnjdkjgikvgvjjjyfiaks', 'ohillognzszqmrvlgkuehu']}, {'amount': 0, 'eligibles': ['qmnjdkjgikvgvjjjyfiaks', 'ohillognzszqmrvlgkuehu']}]}, 'community_card': ['S9', 'C5', 'S6', 'HK', 'D8'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 0, 'state': 'allin'}, {'name': 'b09602017', 'uuid': 'ohillognzszqmrvlgkuehu', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}], 'flop': []}}
+"b11705051" declared "call:1000"
+Street "flop" started. (community card = ['S9', 'C5', 'S6'])
+Street "turn" started. (community card = ['S9', 'C5', 'S6', 'HK'])
+Street "river" started. (community card = ['S9', 'C5', 'S6', 'HK', 'D8'])
+"['b11705051']" won the round 1 (stack = {'b11705051': 2000, 'b09602017': 0})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.5
+Round result message - Winners: [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 2000, 'state': 'allin'}], Hand info: [{'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'hand': {'hand': {'strength': 'ONEPAIR', 'high': 13, 'low': 0}, 'hole': {'high': 13, 'low': 12}}}, {'uuid': 'ohillognzszqmrvlgkuehu', 'hand': {'hand': {'strength': 'ONEPAIR', 'high': 13, 'low': 0}, 'hole': {'high': 13, 'low': 2}}}], Round state: {'street': 'showdown', 'pot': {'main': {'amount': 2000}, 'side': [{'amount': 0, 'eligibles': ['qmnjdkjgikvgvjjjyfiaks', 'ohillognzszqmrvlgkuehu']}, {'amount': 0, 'eligibles': ['qmnjdkjgikvgvjjjyfiaks', 'ohillognzszqmrvlgkuehu']}]}, 'community_card': ['S9', 'C5', 'S6', 'HK', 'D8'], 'dealer_btn': 0, 'next_player': 'not_found', 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 2000, 'state': 'allin'}, {'name': 'b09602017', 'uuid': 'ohillognzszqmrvlgkuehu', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}, {'action': 'RAISE', 'amount': 1000, 'paid': 995, 'add_amount': 990, 'uuid': 'ohillognzszqmrvlgkuehu'}, {'action': 'CALL', 'amount': 1000, 'paid': 990, 'uuid': 'qmnjdkjgikvgvjjjyfiaks'}], 'flop': []}}
+b09602017 vs b11705051 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705051', 'uuid': 'qmnjdkjgikvgvjjjyfiaks', 'stack': 2000, 'state': 'participating'}, {'name': 'b09602017', 'uuid': 'ohillognzszqmrvlgkuehu', 'stack': 0, 'state': 'folded'}]}
+Final Result: b09602017 won 2 games (stack: 9970), b11705051 won 3 games (stack: 30)

@@ -1,0 +1,1165 @@
+2024-06-24 00:11:05.510229: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-06-24 00:11:05.513982: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-06-24 00:11:05.669798: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-06-24 00:11:05.670651: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 AVX_VNNI AMX_TILE AMX_INT8 AMX_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-24 00:11:08.613200: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-06-24 00:11:23.795825: W tensorflow/core/common_runtime/gpu/gpu_device.cc:1956] Cannot dlopen some GPU libraries. Please make sure the missing libraries mentioned above are installed properly if you would like to use GPU. Follow the guide at https://www.tensorflow.org/install/gpu for how to download and setup the required libraries for your platform.
+Skipping registering GPU devices...
+2024-06-24 00:11:24.831065: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:11:24.832705: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:11:24.834208: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+2024-06-24 00:11:30.152392: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:11:30.153755: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:11:30.154918: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+community cards of this round: ['ST', 'HQ', 'D7', 'H8', 'C7']
+name: b11705022, hole_card: ['D8', 'DJ']
+name: r12922098, hole_card: ['SA', 'S4']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['D8', 'DJ']
+name: r12922098, hole_card: ['SA', 'S4']
+"r12922098" declared "raise:100.73333333333332"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 2s 2s/step
+name: b11705022, hole_card: ['D8', 'DJ']
+name: r12922098, hole_card: ['SA', 'S4']
+"b11705022" declared "raise:191.46666666666664"
+name: b11705022, hole_card: ['D8', 'DJ']
+name: r12922098, hole_card: ['SA', 'S4']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 1 (stack = {'b11705022': 1100.5333333333333, 'r12922098': 899.2666666666667})
+community cards of this round: ['H9', 'C4', 'D4', 'S8', 'CT']
+name: b11705022, hole_card: ['H3', 'DJ']
+name: r12922098, hole_card: ['D7', 'D2']
+Started the round 2
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 181ms/step
+name: b11705022, hole_card: ['H3', 'DJ']
+name: r12922098, hole_card: ['D7', 'D2']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 2 (stack = {'b11705022': 1095.5333333333333, 'r12922098': 904.2666666666667})
+community cards of this round: ['DJ', 'D5', 'C2', 'SJ', 'H3']
+name: b11705022, hole_card: ['HJ', 'D4']
+name: r12922098, hole_card: ['D8', 'DQ']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['HJ', 'D4']
+name: r12922098, hole_card: ['D8', 'DQ']
+"r12922098" declared "raise:90.05593777777776"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 94ms/step
+name: b11705022, hole_card: ['HJ', 'D4']
+name: r12922098, hole_card: ['D8', 'DQ']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 3 (stack = {'b11705022': 1085.5333333333333, 'r12922098': 914.2107288888889})
+community cards of this round: ['HA', 'S3', 'D4', 'HT', 'C7']
+name: b11705022, hole_card: ['CJ', 'CT']
+name: r12922098, hole_card: ['DQ', 'C5']
+Started the round 4
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 106ms/step
+name: b11705022, hole_card: ['CJ', 'CT']
+name: r12922098, hole_card: ['DQ', 'C5']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 4 (stack = {'b11705022': 1080.5333333333333, 'r12922098': 919.2107288888889})
+community cards of this round: ['C7', 'C3', 'D3', 'HJ', 'CQ']
+name: b11705022, hole_card: ['SA', 'DA']
+name: r12922098, hole_card: ['D5', 'S8']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['SA', 'DA']
+name: r12922098, hole_card: ['D5', 'S8']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 5 (stack = {'b11705022': 1085.5333333333333, 'r12922098': 914.2107288888889})
+community cards of this round: ['CJ', 'H4', 'H8', 'CA', 'D7']
+name: b11705022, hole_card: ['DK', 'C9']
+name: r12922098, hole_card: ['S4', 'D6']
+Started the round 6
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 87ms/step
+name: b11705022, hole_card: ['DK', 'C9']
+name: r12922098, hole_card: ['S4', 'D6']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 6 (stack = {'b11705022': 1080.5333333333333, 'r12922098': 919.2107288888889})
+community cards of this round: ['CA', 'DJ', 'H5', 'C5', 'CK']
+name: b11705022, hole_card: ['CQ', 'H7']
+name: r12922098, hole_card: ['SQ', 'DK']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['CQ', 'H7']
+name: r12922098, hole_card: ['SQ', 'DK']
+"r12922098" declared "raise:96.05625525599999"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 108ms/step
+name: b11705022, hole_card: ['CQ', 'H7']
+name: r12922098, hole_card: ['SQ', 'DK']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 7 (stack = {'b11705022': 1070.5333333333333, 'r12922098': 929.1544736328889})
+community cards of this round: ['SJ', 'C5', 'DA', 'H2', 'C7']
+name: b11705022, hole_card: ['CA', 'CJ']
+name: r12922098, hole_card: ['HK', 'S2']
+Started the round 8
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 72ms/step
+name: b11705022, hole_card: ['CA', 'CJ']
+name: r12922098, hole_card: ['HK', 'S2']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 8 (stack = {'b11705022': 1065.5333333333333, 'r12922098': 934.1544736328889})
+community cards of this round: ['C3', 'D3', 'D4', 'ST', 'H4']
+name: b11705022, hole_card: ['C9', 'C4']
+name: r12922098, hole_card: ['S4', 'D6']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['C9', 'C4']
+name: r12922098, hole_card: ['S4', 'D6']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 9 (stack = {'b11705022': 1070.5333333333333, 'r12922098': 929.1544736328889})
+community cards of this round: ['C6', 'C3', 'HQ', 'S8', 'SJ']
+name: b11705022, hole_card: ['S2', 'S7']
+name: r12922098, hole_card: ['S9', 'DK']
+Started the round 10
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 81ms/step
+name: b11705022, hole_card: ['S2', 'S7']
+name: r12922098, hole_card: ['S9', 'DK']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 10 (stack = {'b11705022': 1065.5333333333333, 'r12922098': 934.1544736328889})
+community cards of this round: ['SQ', 'C6', 'HJ', 'H8', 'HA']
+name: b11705022, hole_card: ['C7', 'DK']
+name: r12922098, hole_card: ['ST', 'S2']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['C7', 'DK']
+name: r12922098, hole_card: ['ST', 'S2']
+"r12922098" declared "raise:76.02250420703643"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 103ms/step
+name: b11705022, hole_card: ['C7', 'DK']
+name: r12922098, hole_card: ['ST', 'S2']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 11 (stack = {'b11705022': 1055.5333333333333, 'r12922098': 944.1319694258525})
+community cards of this round: ['CK', 'S7', 'H3', 'SJ', 'D4']
+name: b11705022, hole_card: ['H7', 'H9']
+name: r12922098, hole_card: ['SA', 'C3']
+Started the round 12
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 104ms/step
+name: b11705022, hole_card: ['H7', 'H9']
+name: r12922098, hole_card: ['SA', 'C3']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 12 (stack = {'b11705022': 1050.5333333333333, 'r12922098': 949.1319694258525})
+community cards of this round: ['CJ', 'HK', 'D6', 'DJ', 'HT']
+name: b11705022, hole_card: ['D8', 'D2']
+name: r12922098, hole_card: ['C4', 'H6']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['D8', 'D2']
+name: r12922098, hole_card: ['C4', 'H6']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 13 (stack = {'b11705022': 1055.5333333333333, 'r12922098': 944.1319694258525})
+community cards of this round: ['H9', 'SA', 'DJ', 'H8', 'DK']
+name: b11705022, hole_card: ['D8', 'H7']
+name: r12922098, hole_card: ['H6', 'H5']
+Started the round 14
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 43ms/step
+name: b11705022, hole_card: ['D8', 'H7']
+name: r12922098, hole_card: ['H6', 'H5']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 14 (stack = {'b11705022': 1050.5333333333333, 'r12922098': 949.1319694258525})
+community cards of this round: ['HK', 'DQ', 'D7', 'SJ', 'DT']
+name: b11705022, hole_card: ['DJ', 'H2']
+name: r12922098, hole_card: ['S9', 'H5']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['DJ', 'H2']
+name: r12922098, hole_card: ['S9', 'H5']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 15 (stack = {'b11705022': 1055.5333333333333, 'r12922098': 944.1319694258525})
+community cards of this round: ['DA', 'HT', 'CT', 'DJ', 'D7']
+name: b11705022, hole_card: ['D9', 'SA']
+name: r12922098, hole_card: ['S3', 'S4']
+Started the round 16
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 87ms/step
+name: b11705022, hole_card: ['D9', 'SA']
+name: r12922098, hole_card: ['S3', 'S4']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 16 (stack = {'b11705022': 1050.5333333333333, 'r12922098': 949.1319694258525})
+community cards of this round: ['H5', 'DJ', 'H6', 'CK', 'DK']
+name: b11705022, hole_card: ['S4', 'DQ']
+name: r12922098, hole_card: ['SK', 'S8']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['S4', 'DQ']
+name: r12922098, hole_card: ['SK', 'S8']
+"r12922098" declared "raise:97.66877538981316"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 95ms/step
+name: b11705022, hole_card: ['S4', 'DQ']
+name: r12922098, hole_card: ['SK', 'S8']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 17 (stack = {'b11705022': 1040.5333333333333, 'r12922098': 958.4631940360393})
+community cards of this round: ['D7', 'H9', 'SQ', 'H2', 'CA']
+name: b11705022, hole_card: ['H5', 'C2']
+name: r12922098, hole_card: ['D9', 'C8']
+Started the round 18
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 57ms/step
+name: b11705022, hole_card: ['H5', 'C2']
+name: r12922098, hole_card: ['D9', 'C8']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 18 (stack = {'b11705022': 1035.5333333333333, 'r12922098': 963.4631940360393})
+community cards of this round: ['S3', 'D4', 'SQ', 'H8', 'S5']
+name: b11705022, hole_card: ['S9', 'D9']
+name: r12922098, hole_card: ['H6', 'HT']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['S9', 'D9']
+name: r12922098, hole_card: ['H6', 'HT']
+"r12922098" declared "raise:84.75973955270294"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 91ms/step
+name: b11705022, hole_card: ['S9', 'D9']
+name: r12922098, hole_card: ['H6', 'HT']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 19 (stack = {'b11705022': 1025.5333333333333, 'r12922098': 972.7034544833364})
+community cards of this round: ['D6', 'DA', 'HK', 'HT', 'CA']
+name: b11705022, hole_card: ['C5', 'CT']
+name: r12922098, hole_card: ['D9', 'C9']
+Started the round 20
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 84ms/step
+2024-06-24 00:12:07.012624: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:12:07.013825: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:12:07.014831: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+2024-06-24 00:12:07.597425: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:12:07.598988: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:12:07.600323: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+name: b11705022, hole_card: ['C5', 'CT']
+name: r12922098, hole_card: ['D9', 'C9']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 20 (stack = {'b11705022': 1020.5333333333333, 'r12922098': 977.7034544833364})
+r12922098 vs b11705022 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705022', 'uuid': 'aroxqgsjrrxrapgoddqciv', 'stack': 1020.5333333333333, 'state': 'participating'}, {'name': 'r12922098', 'uuid': 'hghusjufzsxklxxcrrpvnk', 'stack': 977.7034544833364, 'state': 'participating'}]}
+community cards of this round: ['ST', 'HQ', 'D7', 'H8', 'C7']
+name: r12922098, hole_card: ['D8', 'DJ']
+name: b11705022, hole_card: ['SA', 'S4']
+Started the round 1
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 1s 1s/step
+2024-06-24 00:12:12.254593: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:12:12.256388: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:12:12.257805: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+name: r12922098, hole_card: ['D8', 'DJ']
+name: b11705022, hole_card: ['SA', 'S4']
+"b11705022" declared "raise:94.24145519733429"
+name: r12922098, hole_card: ['D8', 'DJ']
+name: b11705022, hole_card: ['SA', 'S4']
+"r12922098" declared "raise:230.26909199555715"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 1s 997ms/step
+name: r12922098, hole_card: ['D8', 'DJ']
+name: b11705022, hole_card: ['SA', 'S4']
+"b11705022" declared "raise:366.29672879378"
+name: r12922098, hole_card: ['D8', 'DJ']
+name: b11705022, hole_card: ['SA', 'S4']
+"r12922098" declared "call:366.29672879378"
+Street "flop" started. (community card = ['ST', 'HQ', 'D7'])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 111ms/step
+name: r12922098, hole_card: ['D8', 'DJ']
+name: b11705022, hole_card: ['SA', 'S4']
+"b11705022" declared "raise:45.59025945570817"
+name: r12922098, hole_card: ['D8', 'DJ']
+name: b11705022, hole_card: ['SA', 'S4']
+"r12922098" declared "raise:235.2064035576558"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 78ms/step
+name: r12922098, hole_card: ['D8', 'DJ']
+name: b11705022, hole_card: ['SA', 'S4']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 1 (stack = {'r12922098': 1411.4968676485641, 'b11705022': 588.1130117505119})
+community cards of this round: ['H9', 'C4', 'D4', 'S8', 'CT']
+name: r12922098, hole_card: ['H3', 'DJ']
+name: b11705022, hole_card: ['D7', 'D2']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['H3', 'DJ']
+name: b11705022, hole_card: ['D7', 'D2']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 2 (stack = {'r12922098': 1406.4968676485641, 'b11705022': 593.1130117505119})
+community cards of this round: ['DJ', 'D5', 'C2', 'SJ', 'H3']
+name: r12922098, hole_card: ['HJ', 'D4']
+name: b11705022, hole_card: ['D8', 'DQ']
+Started the round 3
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 82ms/step
+name: r12922098, hole_card: ['HJ', 'D4']
+name: b11705022, hole_card: ['D8', 'DQ']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 3 (stack = {'r12922098': 1411.4968676485641, 'b11705022': 588.1130117505119})
+community cards of this round: ['HA', 'S3', 'D4', 'HT', 'C7']
+name: r12922098, hole_card: ['CJ', 'CT']
+name: b11705022, hole_card: ['DQ', 'C5']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['CJ', 'CT']
+name: b11705022, hole_card: ['DQ', 'C5']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 4 (stack = {'r12922098': 1406.4968676485641, 'b11705022': 593.1130117505119})
+community cards of this round: ['C7', 'C3', 'D3', 'HJ', 'CQ']
+name: r12922098, hole_card: ['SA', 'DA']
+name: b11705022, hole_card: ['D5', 'S8']
+Started the round 5
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 74ms/step
+name: r12922098, hole_card: ['SA', 'DA']
+name: b11705022, hole_card: ['D5', 'S8']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 5 (stack = {'r12922098': 1411.4968676485641, 'b11705022': 588.1130117505119})
+community cards of this round: ['CJ', 'H4', 'H8', 'CA', 'D7']
+name: r12922098, hole_card: ['DK', 'C9']
+name: b11705022, hole_card: ['S4', 'D6']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['DK', 'C9']
+name: b11705022, hole_card: ['S4', 'D6']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 6 (stack = {'r12922098': 1406.4968676485641, 'b11705022': 593.1130117505119})
+community cards of this round: ['CA', 'DJ', 'H5', 'C5', 'CK']
+name: r12922098, hole_card: ['CQ', 'H7']
+name: b11705022, hole_card: ['SQ', 'DK']
+Started the round 7
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 95ms/step
+name: r12922098, hole_card: ['CQ', 'H7']
+name: b11705022, hole_card: ['SQ', 'DK']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 7 (stack = {'r12922098': 1411.4968676485641, 'b11705022': 588.1130117505119})
+community cards of this round: ['SJ', 'C5', 'DA', 'H2', 'C7']
+name: r12922098, hole_card: ['CA', 'CJ']
+name: b11705022, hole_card: ['HK', 'S2']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['CA', 'CJ']
+name: b11705022, hole_card: ['HK', 'S2']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 8 (stack = {'r12922098': 1406.4968676485641, 'b11705022': 593.1130117505119})
+community cards of this round: ['C3', 'D3', 'D4', 'ST', 'H4']
+name: r12922098, hole_card: ['C9', 'C4']
+name: b11705022, hole_card: ['S4', 'D6']
+Started the round 9
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 153ms/step
+name: r12922098, hole_card: ['C9', 'C4']
+name: b11705022, hole_card: ['S4', 'D6']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 9 (stack = {'r12922098': 1411.4968676485641, 'b11705022': 588.1130117505119})
+community cards of this round: ['C6', 'C3', 'HQ', 'S8', 'SJ']
+name: r12922098, hole_card: ['S2', 'S7']
+name: b11705022, hole_card: ['S9', 'DK']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['S2', 'S7']
+name: b11705022, hole_card: ['S9', 'DK']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 10 (stack = {'r12922098': 1406.4968676485641, 'b11705022': 593.1130117505119})
+community cards of this round: ['SQ', 'C6', 'HJ', 'H8', 'HA']
+name: r12922098, hole_card: ['C7', 'DK']
+name: b11705022, hole_card: ['ST', 'S2']
+Started the round 11
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 156ms/step
+name: r12922098, hole_card: ['C7', 'DK']
+name: b11705022, hole_card: ['ST', 'S2']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 11 (stack = {'r12922098': 1411.4968676485641, 'b11705022': 588.1130117505119})
+community cards of this round: ['CK', 'S7', 'H3', 'SJ', 'D4']
+name: r12922098, hole_card: ['H7', 'H9']
+name: b11705022, hole_card: ['SA', 'C3']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['H7', 'H9']
+name: b11705022, hole_card: ['SA', 'C3']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 12 (stack = {'r12922098': 1406.4968676485641, 'b11705022': 593.1130117505119})
+community cards of this round: ['CJ', 'HK', 'D6', 'DJ', 'HT']
+name: r12922098, hole_card: ['D8', 'D2']
+name: b11705022, hole_card: ['C4', 'H6']
+Started the round 13
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 148ms/step
+name: r12922098, hole_card: ['D8', 'D2']
+name: b11705022, hole_card: ['C4', 'H6']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 13 (stack = {'r12922098': 1411.4968676485641, 'b11705022': 588.1130117505119})
+community cards of this round: ['H9', 'SA', 'DJ', 'H8', 'DK']
+name: r12922098, hole_card: ['D8', 'H7']
+name: b11705022, hole_card: ['H6', 'H5']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['D8', 'H7']
+name: b11705022, hole_card: ['H6', 'H5']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 14 (stack = {'r12922098': 1406.4968676485641, 'b11705022': 593.1130117505119})
+community cards of this round: ['HK', 'DQ', 'D7', 'SJ', 'DT']
+name: r12922098, hole_card: ['DJ', 'H2']
+name: b11705022, hole_card: ['S9', 'H5']
+Started the round 15
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 96ms/step
+name: r12922098, hole_card: ['DJ', 'H2']
+name: b11705022, hole_card: ['S9', 'H5']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 15 (stack = {'r12922098': 1411.4968676485641, 'b11705022': 588.1130117505119})
+community cards of this round: ['DA', 'HT', 'CT', 'DJ', 'D7']
+name: r12922098, hole_card: ['D9', 'SA']
+name: b11705022, hole_card: ['S3', 'S4']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['D9', 'SA']
+name: b11705022, hole_card: ['S3', 'S4']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 16 (stack = {'r12922098': 1406.4968676485641, 'b11705022': 593.1130117505119})
+community cards of this round: ['H5', 'DJ', 'H6', 'CK', 'DK']
+name: r12922098, hole_card: ['S4', 'DQ']
+name: b11705022, hole_card: ['SK', 'S8']
+Started the round 17
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 99ms/step
+name: r12922098, hole_card: ['S4', 'DQ']
+name: b11705022, hole_card: ['SK', 'S8']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 17 (stack = {'r12922098': 1411.4968676485641, 'b11705022': 588.1130117505119})
+community cards of this round: ['D7', 'H9', 'SQ', 'H2', 'CA']
+name: r12922098, hole_card: ['H5', 'C2']
+name: b11705022, hole_card: ['D9', 'C8']
+Started the round 18
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['H5', 'C2']
+name: b11705022, hole_card: ['D9', 'C8']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 18 (stack = {'r12922098': 1406.4968676485641, 'b11705022': 593.1130117505119})
+community cards of this round: ['S3', 'D4', 'SQ', 'H8', 'S5']
+name: r12922098, hole_card: ['S9', 'D9']
+name: b11705022, hole_card: ['H6', 'HT']
+Started the round 19
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 88ms/step
+2024-06-24 00:12:23.032778: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:12:23.034447: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:12:23.035688: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+2024-06-24 00:12:26.226110: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:12:26.237882: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:12:26.239382: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+name: r12922098, hole_card: ['S9', 'D9']
+name: b11705022, hole_card: ['H6', 'HT']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 19 (stack = {'r12922098': 1411.4968676485641, 'b11705022': 588.1130117505119})
+community cards of this round: ['D6', 'DA', 'HK', 'HT', 'CA']
+name: r12922098, hole_card: ['C5', 'CT']
+name: b11705022, hole_card: ['D9', 'C9']
+Started the round 20
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['C5', 'CT']
+name: b11705022, hole_card: ['D9', 'C9']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 20 (stack = {'r12922098': 1406.4968676485641, 'b11705022': 593.1130117505119})
+r12922098 vs b11705022 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'r12922098', 'uuid': 'mtmgndyjxkzphtcbijddoo', 'stack': 1406.4968676485641, 'state': 'participating'}, {'name': 'b11705022', 'uuid': 'gtpsudecytsdgviyjijqve', 'stack': 593.1130117505119, 'state': 'participating'}]}
+community cards of this round: ['HK', 'S3', 'C8', 'C6', 'H5']
+name: b11705022, hole_card: ['H8', 'ST']
+name: r12922098, hole_card: ['DT', 'CK']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['H8', 'ST']
+name: r12922098, hole_card: ['DT', 'CK']
+"r12922098" declared "raise:106.16666666666666"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 1s 918ms/step
+name: b11705022, hole_card: ['H8', 'ST']
+name: r12922098, hole_card: ['DT', 'CK']
+"b11705022" declared "raise:202.33333333333331"
+name: b11705022, hole_card: ['H8', 'ST']
+name: r12922098, hole_card: ['DT', 'CK']
+"r12922098" declared "raise:339.48333333333335"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 96ms/step
+name: b11705022, hole_card: ['H8', 'ST']
+name: r12922098, hole_card: ['DT', 'CK']
+"b11705022" declared "raise:476.6333333333334"
+name: b11705022, hole_card: ['H8', 'ST']
+name: r12922098, hole_card: ['DT', 'CK']
+"r12922098" declared "call:476.6333333333334"
+Street "flop" started. (community card = ['HK', 'S3', 'C8'])
+name: b11705022, hole_card: ['H8', 'ST']
+name: r12922098, hole_card: ['DT', 'CK']
+"r12922098" declared "raise:294.5345466666666"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 80ms/step
+name: b11705022, hole_card: ['H8', 'ST']
+name: r12922098, hole_card: ['DT', 'CK']
+"b11705022" declared "raise:-0.07651349157094955", Invalid action. Treat as fold...
+"['r12922098']" won the round 1 (stack = {'b11705022': 523.3666666666667, 'r12922098': 1475.83212})
+community cards of this round: ['CT', 'H8', 'S3', 'SK', 'H2']
+name: b11705022, hole_card: ['DJ', 'S5']
+name: r12922098, hole_card: ['H9', 'HJ']
+Started the round 2
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 98ms/step
+name: b11705022, hole_card: ['DJ', 'S5']
+name: r12922098, hole_card: ['H9', 'HJ']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 2 (stack = {'b11705022': 518.3666666666667, 'r12922098': 1480.83212})
+community cards of this round: ['H2', 'C2', 'C3', 'DK', 'D2']
+name: b11705022, hole_card: ['H5', 'HJ']
+name: r12922098, hole_card: ['HA', 'D9']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['H5', 'HJ']
+name: r12922098, hole_card: ['HA', 'D9']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 3 (stack = {'b11705022': 523.3666666666667, 'r12922098': 1475.83212})
+community cards of this round: ['C2', 'S5', 'DJ', 'D3', 'D2']
+name: b11705022, hole_card: ['SJ', 'D4']
+name: r12922098, hole_card: ['D8', 'C6']
+Started the round 4
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 128ms/step
+name: b11705022, hole_card: ['SJ', 'D4']
+name: r12922098, hole_card: ['D8', 'C6']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 4 (stack = {'b11705022': 518.3666666666667, 'r12922098': 1480.83212})
+community cards of this round: ['ST', 'S8', 'C4', 'D4', 'HQ']
+name: b11705022, hole_card: ['SJ', 'S5']
+name: r12922098, hole_card: ['DT', 'S4']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['SJ', 'S5']
+name: r12922098, hole_card: ['DT', 'S4']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 5 (stack = {'b11705022': 523.3666666666667, 'r12922098': 1475.83212})
+community cards of this round: ['CQ', 'D5', 'CK', 'C7', 'CJ']
+name: b11705022, hole_card: ['S5', 'HQ']
+name: r12922098, hole_card: ['CA', 'SA']
+Started the round 6
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 54ms/step
+name: b11705022, hole_card: ['S5', 'HQ']
+name: r12922098, hole_card: ['CA', 'SA']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 6 (stack = {'b11705022': 518.3666666666667, 'r12922098': 1480.83212})
+community cards of this round: ['DJ', 'DT', 'D6', 'CQ', 'S5']
+name: b11705022, hole_card: ['H5', 'H4']
+name: r12922098, hole_card: ['HT', 'C8']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['H5', 'H4']
+name: r12922098, hole_card: ['HT', 'C8']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 7 (stack = {'b11705022': 523.3666666666667, 'r12922098': 1475.83212})
+community cards of this round: ['H4', 'H9', 'H3', 'C5', 'H5']
+name: b11705022, hole_card: ['HK', 'DQ']
+name: r12922098, hole_card: ['D3', 'D9']
+Started the round 8
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 83ms/step
+name: b11705022, hole_card: ['HK', 'DQ']
+name: r12922098, hole_card: ['D3', 'D9']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 8 (stack = {'b11705022': 518.3666666666667, 'r12922098': 1480.83212})
+community cards of this round: ['DQ', 'D5', 'C3', 'C6', 'SJ']
+name: b11705022, hole_card: ['HT', 'H9']
+name: r12922098, hole_card: ['HA', 'HK']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['HT', 'H9']
+name: r12922098, hole_card: ['HA', 'HK']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 9 (stack = {'b11705022': 523.3666666666667, 'r12922098': 1475.83212})
+community cards of this round: ['H4', 'D7', 'D8', 'DT', 'D4']
+name: b11705022, hole_card: ['H5', 'H9']
+name: r12922098, hole_card: ['DQ', 'H7']
+Started the round 10
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 86ms/step
+name: b11705022, hole_card: ['H5', 'H9']
+name: r12922098, hole_card: ['DQ', 'H7']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 10 (stack = {'b11705022': 518.3666666666667, 'r12922098': 1480.83212})
+community cards of this round: ['C9', 'C4', 'CT', 'HK', 'H3']
+name: b11705022, hole_card: ['D9', 'H6']
+name: r12922098, hole_card: ['D7', 'D2']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['D9', 'H6']
+name: r12922098, hole_card: ['D7', 'D2']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 11 (stack = {'b11705022': 523.3666666666667, 'r12922098': 1475.83212})
+community cards of this round: ['H5', 'DJ', 'H3', 'HK', 'HJ']
+name: b11705022, hole_card: ['S9', 'DQ']
+name: r12922098, hole_card: ['S5', 'S7']
+Started the round 12
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 52ms/step
+name: b11705022, hole_card: ['S9', 'DQ']
+name: r12922098, hole_card: ['S5', 'S7']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 12 (stack = {'b11705022': 518.3666666666667, 'r12922098': 1480.83212})
+community cards of this round: ['HJ', 'H2', 'S3', 'DJ', 'CT']
+name: b11705022, hole_card: ['DQ', 'H5']
+name: r12922098, hole_card: ['S2', 'H3']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['DQ', 'H5']
+name: r12922098, hole_card: ['S2', 'H3']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 13 (stack = {'b11705022': 523.3666666666667, 'r12922098': 1475.83212})
+community cards of this round: ['C4', 'S2', 'SJ', 'D9', 'SA']
+name: b11705022, hole_card: ['H5', 'D8']
+name: r12922098, hole_card: ['CK', 'CT']
+Started the round 14
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 140ms/step
+name: b11705022, hole_card: ['H5', 'D8']
+name: r12922098, hole_card: ['CK', 'CT']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 14 (stack = {'b11705022': 518.3666666666667, 'r12922098': 1480.83212})
+community cards of this round: ['DK', 'HQ', 'DQ', 'C8', 'S6']
+name: b11705022, hole_card: ['HA', 'S8']
+name: r12922098, hole_card: ['H7', 'H6']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['HA', 'S8']
+name: r12922098, hole_card: ['H7', 'H6']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 15 (stack = {'b11705022': 523.3666666666667, 'r12922098': 1475.83212})
+community cards of this round: ['H9', 'D5', 'C7', 'D3', 'S9']
+name: b11705022, hole_card: ['SA', 'H7']
+name: r12922098, hole_card: ['C8', 'HJ']
+Started the round 16
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 82ms/step
+name: b11705022, hole_card: ['SA', 'H7']
+name: r12922098, hole_card: ['C8', 'HJ']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 16 (stack = {'b11705022': 518.3666666666667, 'r12922098': 1480.83212})
+community cards of this round: ['ST', 'H4', 'CK', 'SJ', 'S3']
+name: b11705022, hole_card: ['HK', 'D9']
+name: r12922098, hole_card: ['SA', 'H8']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['HK', 'D9']
+name: r12922098, hole_card: ['SA', 'H8']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 17 (stack = {'b11705022': 523.3666666666667, 'r12922098': 1475.83212})
+community cards of this round: ['H9', 'S8', 'C5', 'H2', 'HK']
+name: b11705022, hole_card: ['CT', 'DA']
+name: r12922098, hole_card: ['H6', 'H5']
+Started the round 18
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 88ms/step
+name: b11705022, hole_card: ['CT', 'DA']
+name: r12922098, hole_card: ['H6', 'H5']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 18 (stack = {'b11705022': 518.3666666666667, 'r12922098': 1480.83212})
+community cards of this round: ['HT', 'SA', 'SQ', 'C9', 'S9']
+name: b11705022, hole_card: ['DJ', 'H8']
+name: r12922098, hole_card: ['H7', 'H9']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['DJ', 'H8']
+name: r12922098, hole_card: ['H7', 'H9']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 19 (stack = {'b11705022': 523.3666666666667, 'r12922098': 1475.83212})
+community cards of this round: ['DJ', 'H5', 'C2', 'CJ', 'CQ']
+name: b11705022, hole_card: ['C9', 'SA']
+name: r12922098, hole_card: ['C3', 'DQ']
+Started the round 20
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 58ms/step
+2024-06-24 00:12:36.134014: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:12:36.135436: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:12:36.140802: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+2024-06-24 00:12:36.677427: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:12:36.678760: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:12:36.692192: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+name: b11705022, hole_card: ['C9', 'SA']
+name: r12922098, hole_card: ['C3', 'DQ']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 20 (stack = {'b11705022': 518.3666666666667, 'r12922098': 1480.83212})
+r12922098 vs b11705022 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705022', 'uuid': 'wzzjwmkbjzzdgazxdzhfhw', 'stack': 518.3666666666667, 'state': 'participating'}, {'name': 'r12922098', 'uuid': 'dhyanoobaixdbknwisltsi', 'stack': 1480.83212, 'state': 'participating'}]}
+community cards of this round: ['HK', 'S3', 'C8', 'C6', 'H5']
+name: r12922098, hole_card: ['H8', 'ST']
+name: b11705022, hole_card: ['DT', 'CK']
+Started the round 1
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 1s 783ms/step
+2024-06-24 00:12:39.512248: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:12:39.513985: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:12:39.515453: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+name: r12922098, hole_card: ['H8', 'ST']
+name: b11705022, hole_card: ['DT', 'CK']
+"b11705022" declared "raise:94.24226731061935"
+name: r12922098, hole_card: ['H8', 'ST']
+name: b11705022, hole_card: ['DT', 'CK']
+"r12922098" declared "raise:227.8371121843656"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 1s 620ms/step
+name: r12922098, hole_card: ['H8', 'ST']
+name: b11705022, hole_card: ['DT', 'CK']
+"b11705022" declared "raise:361.43195705811183"
+name: r12922098, hole_card: ['H8', 'ST']
+name: b11705022, hole_card: ['DT', 'CK']
+"r12922098" declared "call:361.43195705811183"
+Street "flop" started. (community card = ['HK', 'S3', 'C8'])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 61ms/step
+name: r12922098, hole_card: ['H8', 'ST']
+name: b11705022, hole_card: ['DT', 'CK']
+"b11705022" declared "raise:47.26042062366955"
+name: r12922098, hole_card: ['H8', 'ST']
+name: b11705022, hole_card: ['DT', 'CK']
+"r12922098" declared "raise:329.50536712199414"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 50ms/step
+name: r12922098, hole_card: ['H8', 'ST']
+name: b11705022, hole_card: ['DT', 'CK']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 1 (stack = {'r12922098': 1408.062675819894, 'b11705022': 591.3076223182186})
+community cards of this round: ['CT', 'H8', 'S3', 'SK', 'H2']
+name: r12922098, hole_card: ['DJ', 'S5']
+name: b11705022, hole_card: ['H9', 'HJ']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['DJ', 'S5']
+name: b11705022, hole_card: ['H9', 'HJ']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 2 (stack = {'r12922098': 1403.062675819894, 'b11705022': 596.3076223182186})
+community cards of this round: ['H2', 'C2', 'C3', 'DK', 'D2']
+name: r12922098, hole_card: ['H5', 'HJ']
+name: b11705022, hole_card: ['HA', 'D9']
+Started the round 3
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 83ms/step
+name: r12922098, hole_card: ['H5', 'HJ']
+name: b11705022, hole_card: ['HA', 'D9']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 3 (stack = {'r12922098': 1408.062675819894, 'b11705022': 591.3076223182186})
+community cards of this round: ['C2', 'S5', 'DJ', 'D3', 'D2']
+name: r12922098, hole_card: ['SJ', 'D4']
+name: b11705022, hole_card: ['D8', 'C6']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['SJ', 'D4']
+name: b11705022, hole_card: ['D8', 'C6']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 4 (stack = {'r12922098': 1403.062675819894, 'b11705022': 596.3076223182186})
+community cards of this round: ['ST', 'S8', 'C4', 'D4', 'HQ']
+name: r12922098, hole_card: ['SJ', 'S5']
+name: b11705022, hole_card: ['DT', 'S4']
+Started the round 5
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 81ms/step
+name: r12922098, hole_card: ['SJ', 'S5']
+name: b11705022, hole_card: ['DT', 'S4']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 5 (stack = {'r12922098': 1408.062675819894, 'b11705022': 591.3076223182186})
+community cards of this round: ['CQ', 'D5', 'CK', 'C7', 'CJ']
+name: r12922098, hole_card: ['S5', 'HQ']
+name: b11705022, hole_card: ['CA', 'SA']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['S5', 'HQ']
+name: b11705022, hole_card: ['CA', 'SA']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 6 (stack = {'r12922098': 1403.062675819894, 'b11705022': 596.3076223182186})
+community cards of this round: ['DJ', 'DT', 'D6', 'CQ', 'S5']
+name: r12922098, hole_card: ['H5', 'H4']
+name: b11705022, hole_card: ['HT', 'C8']
+Started the round 7
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 30ms/step
+name: r12922098, hole_card: ['H5', 'H4']
+name: b11705022, hole_card: ['HT', 'C8']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 7 (stack = {'r12922098': 1408.062675819894, 'b11705022': 591.3076223182186})
+community cards of this round: ['H4', 'H9', 'H3', 'C5', 'H5']
+name: r12922098, hole_card: ['HK', 'DQ']
+name: b11705022, hole_card: ['D3', 'D9']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['HK', 'DQ']
+name: b11705022, hole_card: ['D3', 'D9']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 8 (stack = {'r12922098': 1403.062675819894, 'b11705022': 596.3076223182186})
+community cards of this round: ['DQ', 'D5', 'C3', 'C6', 'SJ']
+name: r12922098, hole_card: ['HT', 'H9']
+name: b11705022, hole_card: ['HA', 'HK']
+Started the round 9
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 28ms/step
+name: r12922098, hole_card: ['HT', 'H9']
+name: b11705022, hole_card: ['HA', 'HK']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 9 (stack = {'r12922098': 1408.062675819894, 'b11705022': 591.3076223182186})
+community cards of this round: ['H4', 'D7', 'D8', 'DT', 'D4']
+name: r12922098, hole_card: ['H5', 'H9']
+name: b11705022, hole_card: ['DQ', 'H7']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['H5', 'H9']
+name: b11705022, hole_card: ['DQ', 'H7']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 10 (stack = {'r12922098': 1403.062675819894, 'b11705022': 596.3076223182186})
+community cards of this round: ['C9', 'C4', 'CT', 'HK', 'H3']
+name: r12922098, hole_card: ['D9', 'H6']
+name: b11705022, hole_card: ['D7', 'D2']
+Started the round 11
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 39ms/step
+name: r12922098, hole_card: ['D9', 'H6']
+name: b11705022, hole_card: ['D7', 'D2']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 11 (stack = {'r12922098': 1408.062675819894, 'b11705022': 591.3076223182186})
+community cards of this round: ['H5', 'DJ', 'H3', 'HK', 'HJ']
+name: r12922098, hole_card: ['S9', 'DQ']
+name: b11705022, hole_card: ['S5', 'S7']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['S9', 'DQ']
+name: b11705022, hole_card: ['S5', 'S7']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 12 (stack = {'r12922098': 1403.062675819894, 'b11705022': 596.3076223182186})
+community cards of this round: ['HJ', 'H2', 'S3', 'DJ', 'CT']
+name: r12922098, hole_card: ['DQ', 'H5']
+name: b11705022, hole_card: ['S2', 'H3']
+Started the round 13
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 59ms/step
+name: r12922098, hole_card: ['DQ', 'H5']
+name: b11705022, hole_card: ['S2', 'H3']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 13 (stack = {'r12922098': 1408.062675819894, 'b11705022': 591.3076223182186})
+community cards of this round: ['C4', 'S2', 'SJ', 'D9', 'SA']
+name: r12922098, hole_card: ['H5', 'D8']
+name: b11705022, hole_card: ['CK', 'CT']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['H5', 'D8']
+name: b11705022, hole_card: ['CK', 'CT']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 14 (stack = {'r12922098': 1403.062675819894, 'b11705022': 596.3076223182186})
+community cards of this round: ['DK', 'HQ', 'DQ', 'C8', 'S6']
+name: r12922098, hole_card: ['HA', 'S8']
+name: b11705022, hole_card: ['H7', 'H6']
+Started the round 15
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 53ms/step
+name: r12922098, hole_card: ['HA', 'S8']
+name: b11705022, hole_card: ['H7', 'H6']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 15 (stack = {'r12922098': 1408.062675819894, 'b11705022': 591.3076223182186})
+community cards of this round: ['H9', 'D5', 'C7', 'D3', 'S9']
+name: r12922098, hole_card: ['SA', 'H7']
+name: b11705022, hole_card: ['C8', 'HJ']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['SA', 'H7']
+name: b11705022, hole_card: ['C8', 'HJ']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 16 (stack = {'r12922098': 1403.062675819894, 'b11705022': 596.3076223182186})
+community cards of this round: ['ST', 'H4', 'CK', 'SJ', 'S3']
+name: r12922098, hole_card: ['HK', 'D9']
+name: b11705022, hole_card: ['SA', 'H8']
+Started the round 17
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 33ms/step
+name: r12922098, hole_card: ['HK', 'D9']
+name: b11705022, hole_card: ['SA', 'H8']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 17 (stack = {'r12922098': 1408.062675819894, 'b11705022': 591.3076223182186})
+community cards of this round: ['H9', 'S8', 'C5', 'H2', 'HK']
+name: r12922098, hole_card: ['CT', 'DA']
+name: b11705022, hole_card: ['H6', 'H5']
+Started the round 18
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['CT', 'DA']
+name: b11705022, hole_card: ['H6', 'H5']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 18 (stack = {'r12922098': 1403.062675819894, 'b11705022': 596.3076223182186})
+community cards of this round: ['HT', 'SA', 'SQ', 'C9', 'S9']
+name: r12922098, hole_card: ['DJ', 'H8']
+name: b11705022, hole_card: ['H7', 'H9']
+Started the round 19
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 47ms/step
+2024-06-24 00:12:45.411116: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:12:45.412912: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:12:45.414457: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+2024-06-24 00:12:47.327015: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_2_grad/concat/split_2/split_dim' with dtype int32
+	 [[{{node gradients/split_2_grad/concat/split_2/split_dim}}]]
+2024-06-24 00:12:47.328483: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_grad/concat/split/split_dim' with dtype int32
+	 [[{{node gradients/split_grad/concat/split/split_dim}}]]
+2024-06-24 00:12:47.329698: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'gradients/split_1_grad/concat/split_1/split_dim' with dtype int32
+	 [[{{node gradients/split_1_grad/concat/split_1/split_dim}}]]
+name: r12922098, hole_card: ['DJ', 'H8']
+name: b11705022, hole_card: ['H7', 'H9']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 19 (stack = {'r12922098': 1408.062675819894, 'b11705022': 591.3076223182186})
+community cards of this round: ['DJ', 'H5', 'C2', 'CJ', 'CQ']
+name: r12922098, hole_card: ['C9', 'SA']
+name: b11705022, hole_card: ['C3', 'DQ']
+Started the round 20
+Street "preflop" started. (community card = [])
+name: r12922098, hole_card: ['C9', 'SA']
+name: b11705022, hole_card: ['C3', 'DQ']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 20 (stack = {'r12922098': 1403.062675819894, 'b11705022': 596.3076223182186})
+r12922098 vs b11705022 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'r12922098', 'uuid': 'fvwtwrqexhbukscuxvxneu', 'stack': 1403.062675819894, 'state': 'participating'}, {'name': 'b11705022', 'uuid': 'fvbqvxwibpoucioeysrdgq', 'stack': 596.3076223182186, 'state': 'participating'}]}
+community cards of this round: ['CA', 'SK', 'S8', 'CQ', 'S9']
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+"r12922098" declared "raise:85.43333333333332"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 1s 592ms/step
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+"b11705022" declared "raise:160.86666666666665"
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+"r12922098" declared "raise:269.5833333333333"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 40ms/step
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+"b11705022" declared "raise:378.29999999999995"
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+"r12922098" declared "call:378.29999999999995"
+Street "flop" started. (community card = ['CA', 'SK', 'S8'])
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+"r12922098" declared "raise:300.17436"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 38ms/step
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+"b11705022" declared "raise:600.34872"
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+"r12922098" declared "call:600.34872"
+Street "turn" started. (community card = ['CA', 'SK', 'S8', 'CQ'])
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+"r12922098" declared "raise:14.263921866666717"
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 36ms/step
+name: b11705022, hole_card: ['D8', 'C7']
+name: r12922098, hole_card: ['DK', 'H2']
+"b11705022" declared "raise:-0.002998153679072857", Invalid action. Treat as fold...
+"['r12922098']" won the round 1 (stack = {'b11705022': 21.351280000000088, 'r12922098': 1978.0873581333333})
+community cards of this round: ['C7', 'D7', 'C4', 'D9', 'S2']
+name: b11705022, hole_card: ['HK', 'D3']
+name: r12922098, hole_card: ['SA', 'SJ']
+Started the round 2
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 30ms/step
+name: b11705022, hole_card: ['HK', 'D3']
+name: r12922098, hole_card: ['SA', 'SJ']
+"b11705022" declared "raise:15"
+name: b11705022, hole_card: ['HK', 'D3']
+name: r12922098, hole_card: ['SA', 'SJ']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 2 (stack = {'b11705022': 31.351280000000088, 'r12922098': 1968.0873581333333})
+community cards of this round: ['C7', 'HJ', 'S5', 'D4', 'DA']
+name: b11705022, hole_card: ['SA', 'SJ']
+name: r12922098, hole_card: ['H6', 'H2']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['SA', 'SJ']
+name: r12922098, hole_card: ['H6', 'H2']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 3 (stack = {'b11705022': 36.35128000000009, 'r12922098': 1963.0873581333333})
+community cards of this round: ['DK', 'C5', 'D9', 'CJ', 'S7']
+name: b11705022, hole_card: ['S2', 'ST']
+name: r12922098, hole_card: ['SJ', 'S9']
+Started the round 4
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 28ms/step
+name: b11705022, hole_card: ['S2', 'ST']
+name: r12922098, hole_card: ['SJ', 'S9']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 4 (stack = {'b11705022': 31.351280000000088, 'r12922098': 1968.0873581333333})
+community cards of this round: ['H3', 'H2', 'H6', 'HJ', 'CK']
+name: b11705022, hole_card: ['D4', 'S6']
+name: r12922098, hole_card: ['S9', 'DT']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['D4', 'S6']
+name: r12922098, hole_card: ['S9', 'DT']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 5 (stack = {'b11705022': 36.35128000000009, 'r12922098': 1963.0873581333333})
+community cards of this round: ['C2', 'HQ', 'D7', 'H5', 'HA']
+name: b11705022, hole_card: ['DQ', 'C6']
+name: r12922098, hole_card: ['S6', 'DA']
+Started the round 6
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 31ms/step
+name: b11705022, hole_card: ['DQ', 'C6']
+name: r12922098, hole_card: ['S6', 'DA']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 6 (stack = {'b11705022': 31.351280000000088, 'r12922098': 1968.0873581333333})
+community cards of this round: ['H7', 'C7', 'HT', 'S4', 'CT']
+name: b11705022, hole_card: ['D8', 'D9']
+name: r12922098, hole_card: ['H5', 'H3']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['D8', 'D9']
+name: r12922098, hole_card: ['H5', 'H3']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 7 (stack = {'b11705022': 36.35128000000009, 'r12922098': 1963.0873581333333})
+community cards of this round: ['C2', 'CA', 'DJ', 'D9', 'S6']
+name: b11705022, hole_card: ['SK', 'C3']
+name: r12922098, hole_card: ['C5', 'HK']
+Started the round 8
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 34ms/step
+name: b11705022, hole_card: ['SK', 'C3']
+name: r12922098, hole_card: ['C5', 'HK']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 8 (stack = {'b11705022': 31.351280000000088, 'r12922098': 1968.0873581333333})
+community cards of this round: ['C7', 'D4', 'DJ', 'HT', 'CJ']
+name: b11705022, hole_card: ['H3', 'C9']
+name: r12922098, hole_card: ['CT', 'D7']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['H3', 'C9']
+name: r12922098, hole_card: ['CT', 'D7']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 9 (stack = {'b11705022': 36.35128000000009, 'r12922098': 1963.0873581333333})
+community cards of this round: ['SA', 'DJ', 'HQ', 'HA', 'D4']
+name: b11705022, hole_card: ['C3', 'S3']
+name: r12922098, hole_card: ['CA', 'H3']
+Started the round 10
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 91ms/step
+name: b11705022, hole_card: ['C3', 'S3']
+name: r12922098, hole_card: ['CA', 'H3']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 10 (stack = {'b11705022': 31.351280000000088, 'r12922098': 1968.0873581333333})
+community cards of this round: ['D4', 'H5', 'HA', 'H4', 'H8']
+name: b11705022, hole_card: ['D6', 'D5']
+name: r12922098, hole_card: ['D3', 'DA']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['D6', 'D5']
+name: r12922098, hole_card: ['D3', 'DA']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 11 (stack = {'b11705022': 36.35128000000009, 'r12922098': 1963.0873581333333})
+community cards of this round: ['C2', 'HK', 'C7', 'CQ', 'SJ']
+name: b11705022, hole_card: ['S2', 'C3']
+name: r12922098, hole_card: ['S7', 'D3']
+Started the round 12
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 55ms/step
+name: b11705022, hole_card: ['S2', 'C3']
+name: r12922098, hole_card: ['S7', 'D3']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 12 (stack = {'b11705022': 31.351280000000088, 'r12922098': 1968.0873581333333})
+community cards of this round: ['S6', 'CK', 'H6', 'HA', 'DT']
+name: b11705022, hole_card: ['HQ', 'H7']
+name: r12922098, hole_card: ['D8', 'DQ']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['HQ', 'H7']
+name: r12922098, hole_card: ['D8', 'DQ']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 13 (stack = {'b11705022': 36.35128000000009, 'r12922098': 1963.0873581333333})
+community cards of this round: ['D3', 'CJ', 'S9', 'S3', 'CT']
+name: b11705022, hole_card: ['D4', 'H2']
+name: r12922098, hole_card: ['SK', 'S4']
+Started the round 14
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 24ms/step
+name: b11705022, hole_card: ['D4', 'H2']
+name: r12922098, hole_card: ['SK', 'S4']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 14 (stack = {'b11705022': 31.351280000000088, 'r12922098': 1968.0873581333333})
+community cards of this round: ['C6', 'ST', 'D5', 'SK', 'S4']
+name: b11705022, hole_card: ['C2', 'C7']
+name: r12922098, hole_card: ['S5', 'D6']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['C2', 'C7']
+name: r12922098, hole_card: ['S5', 'D6']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 15 (stack = {'b11705022': 36.35128000000009, 'r12922098': 1963.0873581333333})
+community cards of this round: ['CJ', 'S8', 'C3', 'ST', 'C4']
+name: b11705022, hole_card: ['CK', 'H8']
+name: r12922098, hole_card: ['SQ', 'SK']
+Started the round 16
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 27ms/step
+name: b11705022, hole_card: ['CK', 'H8']
+name: r12922098, hole_card: ['SQ', 'SK']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 16 (stack = {'b11705022': 31.351280000000088, 'r12922098': 1968.0873581333333})
+community cards of this round: ['S8', 'S9', 'D8', 'D7', 'CT']
+name: b11705022, hole_card: ['DK', 'ST']
+name: r12922098, hole_card: ['DA', 'D4']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['DK', 'ST']
+name: r12922098, hole_card: ['DA', 'D4']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 17 (stack = {'b11705022': 36.35128000000009, 'r12922098': 1963.0873581333333})
+community cards of this round: ['S5', 'H2', 'H7', 'DA', 'SJ']
+name: b11705022, hole_card: ['C2', 'D2']
+name: r12922098, hole_card: ['S4', 'C4']
+Started the round 18
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 28ms/step
+name: b11705022, hole_card: ['C2', 'D2']
+name: r12922098, hole_card: ['S4', 'C4']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 18 (stack = {'b11705022': 31.351280000000088, 'r12922098': 1968.0873581333333})
+community cards of this round: ['C4', 'S2', 'C3', 'H2', 'H9']
+name: b11705022, hole_card: ['S4', 'D7']
+name: r12922098, hole_card: ['DQ', 'H4']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11705022, hole_card: ['S4', 'D7']
+name: r12922098, hole_card: ['DQ', 'H4']
+"r12922098" declared "fold:0"
+"['b11705022']" won the round 19 (stack = {'b11705022': 36.35128000000009, 'r12922098': 1963.0873581333333})
+community cards of this round: ['D7', 'C4', 'ST', 'S2', 'CJ']
+name: b11705022, hole_card: ['CQ', 'DJ']
+name: r12922098, hole_card: ['HT', 'S4']
+Started the round 20
+Street "preflop" started. (community card = [])
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 62ms/step
+name: b11705022, hole_card: ['CQ', 'DJ']
+name: r12922098, hole_card: ['HT', 'S4']
+"b11705022" declared "fold:0"
+"['r12922098']" won the round 20 (stack = {'b11705022': 31.351280000000088, 'r12922098': 1968.0873581333333})
+r12922098 vs b11705022 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705022', 'uuid': 'kdfkgqylxkcqoxkcodlkrd', 'stack': 31.351280000000088, 'state': 'participating'}, {'name': 'r12922098', 'uuid': 'xeejdnffvtcryzuhmgfthc', 'stack': 1968.0873581333333, 'state': 'participating'}]}
+Final Result: r12922098 won 3 games (stack: 7279.012354935125), b11705022 won 2 games (stack: 2716.842035218733)

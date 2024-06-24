@@ -1,0 +1,2774 @@
+Training data loaded.
+Trained model loaded successfully.
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986522911051213
+Training score: 1.0
+community cards of this round: ['CA', 'SQ', 'C5', 'CJ', 'C4']
+name: b11705043, hole_card: ['H5', 'SJ']
+name: b10902087, hole_card: ['C9', 'C6']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['H5', 'SJ']
+name: b10902087, hole_card: ['C9', 'C6']
+"b10902087" declared "raise:5", Invalid action. Treat as fold...
+"['b11705043']" won the round 1 (stack = {'b11705043': 1005, 'b10902087': 995})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986522911051213
+Training score: 1.0
+community cards of this round: ['C4', 'SK', 'H2', 'SJ', 'SQ']
+name: b11705043, hole_card: ['DK', 'D3']
+name: b10902087, hole_card: ['HQ', 'H5']
+Started the round 2
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['DK', 'D3']
+name: b10902087, hole_card: ['HQ', 'H5']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['DK', 'D3']
+name: b10902087, hole_card: ['HQ', 'H5']
+"b10902087" declared "raise:69"
+Training data saved successfully.
+name: b11705043, hole_card: ['DK', 'D3']
+name: b10902087, hole_card: ['HQ', 'H5']
+"b11705043" declared "call:69"
+Street "flop" started. (community card = ['C4', 'SK', 'H2'])
+Training data saved successfully.
+name: b11705043, hole_card: ['DK', 'D3']
+name: b10902087, hole_card: ['HQ', 'H5']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['DK', 'D3']
+name: b10902087, hole_card: ['HQ', 'H5']
+"b10902087" declared "call:0"
+Street "turn" started. (community card = ['C4', 'SK', 'H2', 'SJ'])
+Training data saved successfully.
+name: b11705043, hole_card: ['DK', 'D3']
+name: b10902087, hole_card: ['HQ', 'H5']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['DK', 'D3']
+name: b10902087, hole_card: ['HQ', 'H5']
+"b10902087" declared "call:0"
+Street "river" started. (community card = ['C4', 'SK', 'H2', 'SJ', 'SQ'])
+Training data saved successfully.
+name: b11705043, hole_card: ['DK', 'D3']
+name: b10902087, hole_card: ['HQ', 'H5']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['DK', 'D3']
+name: b10902087, hole_card: ['HQ', 'H5']
+"b10902087" declared "call:0"
+"['b11705043']" won the round 2 (stack = {'b11705043': 1074, 'b10902087': 926})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.997979797979798
+Training score: 1.0
+community cards of this round: ['DK', 'H2', 'C7', 'DA', 'H7']
+name: b11705043, hole_card: ['C3', 'HK']
+name: b10902087, hole_card: ['D8', 'H9']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['C3', 'HK']
+name: b10902087, hole_card: ['D8', 'H9']
+"b10902087" declared "raise:10", Invalid action. Treat as fold...
+"['b11705043']" won the round 3 (stack = {'b11705043': 1079, 'b10902087': 921})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.997979797979798
+Training score: 1.0
+community cards of this round: ['H8', 'H6', 'H5', 'S8', 'C5']
+name: b11705043, hole_card: ['ST', 'C2']
+name: b10902087, hole_card: ['CA', 'CJ']
+Started the round 4
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['ST', 'C2']
+name: b10902087, hole_card: ['CA', 'CJ']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['ST', 'C2']
+name: b10902087, hole_card: ['CA', 'CJ']
+"b10902087" declared "raise:133"
+Training data saved successfully.
+name: b11705043, hole_card: ['ST', 'C2']
+name: b10902087, hole_card: ['CA', 'CJ']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 4 (stack = {'b11705043': 1069, 'b10902087': 931})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986541049798116
+Training score: 1.0
+community cards of this round: ['SJ', 'CT', 'H4', 'HA', 'S2']
+name: b11705043, hole_card: ['C2', 'H2']
+name: b10902087, hole_card: ['C3', 'DQ']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['C2', 'H2']
+name: b10902087, hole_card: ['C3', 'DQ']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['C2', 'H2']
+name: b10902087, hole_card: ['C3', 'DQ']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['SJ', 'CT', 'H4'])
+name: b11705043, hole_card: ['C2', 'H2']
+name: b10902087, hole_card: ['C3', 'DQ']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['C2', 'H2']
+name: b10902087, hole_card: ['C3', 'DQ']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['SJ', 'CT', 'H4', 'HA'])
+name: b11705043, hole_card: ['C2', 'H2']
+name: b10902087, hole_card: ['C3', 'DQ']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['C2', 'H2']
+name: b10902087, hole_card: ['C3', 'DQ']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['SJ', 'CT', 'H4', 'HA', 'S2'])
+name: b11705043, hole_card: ['C2', 'H2']
+name: b10902087, hole_card: ['C3', 'DQ']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 5 (stack = {'b11705043': 1079, 'b10902087': 921})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9973082099596231
+Training score: 1.0
+community cards of this round: ['SQ', 'D2', 'H8', 'D4', 'DT']
+name: b11705043, hole_card: ['HK', 'CJ']
+name: b10902087, hole_card: ['C9', 'HA']
+Started the round 6
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['HK', 'CJ']
+name: b10902087, hole_card: ['C9', 'HA']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['HK', 'CJ']
+name: b10902087, hole_card: ['C9', 'HA']
+"b10902087" declared "raise:1", Invalid action. Treat as fold...
+"['b11705043']" won the round 6 (stack = {'b11705043': 1089, 'b10902087': 911})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986550100874243
+Training score: 1.0
+community cards of this round: ['HQ', 'CJ', 'HT', 'CT', 'CA']
+name: b11705043, hole_card: ['C7', 'H2']
+name: b10902087, hole_card: ['HK', 'D2']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['C7', 'H2']
+name: b10902087, hole_card: ['HK', 'D2']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'H2']
+name: b10902087, hole_card: ['HK', 'D2']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['HQ', 'CJ', 'HT'])
+name: b11705043, hole_card: ['C7', 'H2']
+name: b10902087, hole_card: ['HK', 'D2']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'H2']
+name: b10902087, hole_card: ['HK', 'D2']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['HQ', 'CJ', 'HT', 'CT'])
+name: b11705043, hole_card: ['C7', 'H2']
+name: b10902087, hole_card: ['HK', 'D2']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'H2']
+name: b10902087, hole_card: ['HK', 'D2']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['HQ', 'CJ', 'HT', 'CT', 'CA'])
+name: b11705043, hole_card: ['C7', 'H2']
+name: b10902087, hole_card: ['HK', 'D2']
+"b10902087" declared "raise:163"
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'H2']
+name: b10902087, hole_card: ['HK', 'D2']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 7 (stack = {'b11705043': 1079, 'b10902087': 921})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979825151311366
+Training score: 1.0
+community cards of this round: ['D7', 'CT', 'C9', 'HA', 'C8']
+name: b11705043, hole_card: ['C2', 'C6']
+name: b10902087, hole_card: ['DT', 'HJ']
+Started the round 8
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['C2', 'C6']
+name: b10902087, hole_card: ['DT', 'HJ']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['C2', 'C6']
+name: b10902087, hole_card: ['DT', 'HJ']
+"b10902087" declared "raise:153"
+Training data saved successfully.
+name: b11705043, hole_card: ['C2', 'C6']
+name: b10902087, hole_card: ['DT', 'HJ']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 8 (stack = {'b11705043': 1069, 'b10902087': 931})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979838709677419
+Training score: 1.0
+community cards of this round: ['H8', 'H7', 'SJ', 'H6', 'S5']
+name: b11705043, hole_card: ['DQ', 'S4']
+name: b10902087, hole_card: ['S6', 'CJ']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['DQ', 'S4']
+name: b10902087, hole_card: ['S6', 'CJ']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['DQ', 'S4']
+name: b10902087, hole_card: ['S6', 'CJ']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['H8', 'H7', 'SJ'])
+name: b11705043, hole_card: ['DQ', 'S4']
+name: b10902087, hole_card: ['S6', 'CJ']
+"b10902087" declared "raise:67"
+Training data saved successfully.
+name: b11705043, hole_card: ['DQ', 'S4']
+name: b10902087, hole_card: ['S6', 'CJ']
+"b11705043" declared "call:67"
+Street "turn" started. (community card = ['H8', 'H7', 'SJ', 'H6'])
+name: b11705043, hole_card: ['DQ', 'S4']
+name: b10902087, hole_card: ['S6', 'CJ']
+"b10902087" declared "raise:40"
+Training data saved successfully.
+name: b11705043, hole_card: ['DQ', 'S4']
+name: b10902087, hole_card: ['S6', 'CJ']
+"b11705043" declared "call:40"
+Street "river" started. (community card = ['H8', 'H7', 'SJ', 'H6', 'S5'])
+name: b11705043, hole_card: ['DQ', 'S4']
+name: b10902087, hole_card: ['S6', 'CJ']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['DQ', 'S4']
+name: b10902087, hole_card: ['S6', 'CJ']
+"b11705043" declared "raise:150"
+name: b11705043, hole_card: ['DQ', 'S4']
+name: b10902087, hole_card: ['S6', 'CJ']
+"b10902087" declared "call:150"
+"['b11705043']" won the round 9 (stack = {'b11705043': 1336, 'b10902087': 664})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986568166554735
+Training score: 1.0
+community cards of this round: ['SK', 'S8', 'H3', 'H8', 'ST']
+name: b11705043, hole_card: ['S7', 'CK']
+name: b10902087, hole_card: ['C6', 'DT']
+Started the round 10
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['S7', 'CK']
+name: b10902087, hole_card: ['C6', 'DT']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['S7', 'CK']
+name: b10902087, hole_card: ['C6', 'DT']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['SK', 'S8', 'H3'])
+Training data saved successfully.
+name: b11705043, hole_card: ['S7', 'CK']
+name: b10902087, hole_card: ['C6', 'DT']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['S7', 'CK']
+name: b10902087, hole_card: ['C6', 'DT']
+"b10902087" declared "call:0"
+Street "turn" started. (community card = ['SK', 'S8', 'H3', 'H8'])
+Training data saved successfully.
+name: b11705043, hole_card: ['S7', 'CK']
+name: b10902087, hole_card: ['C6', 'DT']
+"b11705043" declared "raise:50"
+name: b11705043, hole_card: ['S7', 'CK']
+name: b10902087, hole_card: ['C6', 'DT']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 10 (stack = {'b11705043': 1346, 'b10902087': 654})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986568166554735
+Training score: 1.0
+community cards of this round: ['SK', 'H9', 'H7', 'CJ', 'C8']
+name: b11705043, hole_card: ['HQ', 'H2']
+name: b10902087, hole_card: ['S6', 'C7']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['HQ', 'H2']
+name: b10902087, hole_card: ['S6', 'C7']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['HQ', 'H2']
+name: b10902087, hole_card: ['S6', 'C7']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['SK', 'H9', 'H7'])
+name: b11705043, hole_card: ['HQ', 'H2']
+name: b10902087, hole_card: ['S6', 'C7']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['HQ', 'H2']
+name: b10902087, hole_card: ['S6', 'C7']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['SK', 'H9', 'H7', 'CJ'])
+name: b11705043, hole_card: ['HQ', 'H2']
+name: b10902087, hole_card: ['S6', 'C7']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['HQ', 'H2']
+name: b10902087, hole_card: ['S6', 'C7']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['SK', 'H9', 'H7', 'CJ', 'C8'])
+name: b11705043, hole_card: ['HQ', 'H2']
+name: b10902087, hole_card: ['S6', 'C7']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['HQ', 'H2']
+name: b10902087, hole_card: ['S6', 'C7']
+"b11705043" declared "call:0"
+"['b10902087']" won the round 11 (stack = {'b11705043': 1336, 'b10902087': 664})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986577181208054
+Training score: 1.0
+community cards of this round: ['H9', 'D7', 'D4', 'C4', 'DA']
+name: b11705043, hole_card: ['C7', 'H6']
+name: b10902087, hole_card: ['SA', 'S4']
+Started the round 12
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'H6']
+name: b10902087, hole_card: ['SA', 'S4']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['C7', 'H6']
+name: b10902087, hole_card: ['SA', 'S4']
+"b10902087" declared "raise:110"
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'H6']
+name: b10902087, hole_card: ['SA', 'S4']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 12 (stack = {'b11705043': 1326, 'b10902087': 674})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986577181208054
+Training score: 1.0
+community cards of this round: ['D7', 'C4', 'C8', 'SQ', 'S9']
+name: b11705043, hole_card: ['CJ', 'D3']
+name: b10902087, hole_card: ['DJ', 'HA']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['CJ', 'D3']
+name: b10902087, hole_card: ['DJ', 'HA']
+"b10902087" declared "raise:60"
+Training data saved successfully.
+name: b11705043, hole_card: ['CJ', 'D3']
+name: b10902087, hole_card: ['DJ', 'HA']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 13 (stack = {'b11705043': 1316, 'b10902087': 684})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986586183769283
+Training score: 1.0
+community cards of this round: ['D3', 'SA', 'C9', 'H2', 'D7']
+name: b11705043, hole_card: ['HK', 'C4']
+name: b10902087, hole_card: ['S3', 'D9']
+Started the round 14
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['HK', 'C4']
+name: b10902087, hole_card: ['S3', 'D9']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['HK', 'C4']
+name: b10902087, hole_card: ['S3', 'D9']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['D3', 'SA', 'C9'])
+Training data saved successfully.
+name: b11705043, hole_card: ['HK', 'C4']
+name: b10902087, hole_card: ['S3', 'D9']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['HK', 'C4']
+name: b10902087, hole_card: ['S3', 'D9']
+"b10902087" declared "raise:447"
+Training data saved successfully.
+name: b11705043, hole_card: ['HK', 'C4']
+name: b10902087, hole_card: ['S3', 'D9']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 14 (stack = {'b11705043': 1306, 'b10902087': 694})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979879275653923
+Training score: 1.0
+community cards of this round: ['C5', 'H4', 'HQ', 'C4', 'SA']
+name: b11705043, hole_card: ['SJ', 'S5']
+name: b10902087, hole_card: ['C2', 'C9']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['SJ', 'S5']
+name: b10902087, hole_card: ['C2', 'C9']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['SJ', 'S5']
+name: b10902087, hole_card: ['C2', 'C9']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['C5', 'H4', 'HQ'])
+name: b11705043, hole_card: ['SJ', 'S5']
+name: b10902087, hole_card: ['C2', 'C9']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['SJ', 'S5']
+name: b10902087, hole_card: ['C2', 'C9']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['C5', 'H4', 'HQ', 'C4'])
+name: b11705043, hole_card: ['SJ', 'S5']
+name: b10902087, hole_card: ['C2', 'C9']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['SJ', 'S5']
+name: b10902087, hole_card: ['C2', 'C9']
+"b11705043" declared "raise:50"
+name: b11705043, hole_card: ['SJ', 'S5']
+name: b10902087, hole_card: ['C2', 'C9']
+"b10902087" declared "call:50"
+Street "river" started. (community card = ['C5', 'H4', 'HQ', 'C4', 'SA'])
+name: b11705043, hole_card: ['SJ', 'S5']
+name: b10902087, hole_card: ['C2', 'C9']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 15 (stack = {'b11705043': 1366, 'b10902087': 634})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986595174262735
+Training score: 1.0
+community cards of this round: ['H5', 'DQ', 'C2', 'C6', 'D4']
+name: b11705043, hole_card: ['C8', 'H4']
+name: b10902087, hole_card: ['SQ', 'D3']
+Started the round 16
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['C8', 'H4']
+name: b10902087, hole_card: ['SQ', 'D3']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['C8', 'H4']
+name: b10902087, hole_card: ['SQ', 'D3']
+"b10902087" declared "raise:14", Invalid action. Treat as fold...
+"['b11705043']" won the round 16 (stack = {'b11705043': 1376, 'b10902087': 624})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986595174262735
+Training score: 1.0
+community cards of this round: ['C7', 'S4', 'CK', 'S9', 'ST']
+name: b11705043, hole_card: ['H3', 'C6']
+name: b10902087, hole_card: ['HQ', 'SK']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['H3', 'C6']
+name: b10902087, hole_card: ['HQ', 'SK']
+"b10902087" declared "raise:96"
+Training data saved successfully.
+name: b11705043, hole_card: ['H3', 'C6']
+name: b10902087, hole_card: ['HQ', 'SK']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 17 (stack = {'b11705043': 1366, 'b10902087': 634})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979892761394102
+Training score: 1.0
+community cards of this round: ['CA', 'C5', 'S7', 'CQ', 'C9']
+name: b11705043, hole_card: ['D5', 'ST']
+name: b10902087, hole_card: ['SQ', 'S6']
+Started the round 18
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['D5', 'ST']
+name: b10902087, hole_card: ['SQ', 'S6']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['D5', 'ST']
+name: b10902087, hole_card: ['SQ', 'S6']
+"b10902087" declared "raise:94"
+Training data saved successfully.
+name: b11705043, hole_card: ['D5', 'ST']
+name: b10902087, hole_card: ['SQ', 'S6']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 18 (stack = {'b11705043': 1356, 'b10902087': 644})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986604152712659
+Training score: 1.0
+community cards of this round: ['DT', 'C9', 'HT', 'S8', 'S2']
+name: b11705043, hole_card: ['H2', 'D5']
+name: b10902087, hole_card: ['H6', 'D2']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['H2', 'D5']
+name: b10902087, hole_card: ['H6', 'D2']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['H2', 'D5']
+name: b10902087, hole_card: ['H6', 'D2']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['DT', 'C9', 'HT'])
+name: b11705043, hole_card: ['H2', 'D5']
+name: b10902087, hole_card: ['H6', 'D2']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['H2', 'D5']
+name: b10902087, hole_card: ['H6', 'D2']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['DT', 'C9', 'HT', 'S8'])
+name: b11705043, hole_card: ['H2', 'D5']
+name: b10902087, hole_card: ['H6', 'D2']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['H2', 'D5']
+name: b10902087, hole_card: ['H6', 'D2']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['DT', 'C9', 'HT', 'S8', 'S2'])
+name: b11705043, hole_card: ['H2', 'D5']
+name: b10902087, hole_card: ['H6', 'D2']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['H2', 'D5']
+name: b10902087, hole_card: ['H6', 'D2']
+"b11705043" declared "call:0"
+"['b10902087']" won the round 19 (stack = {'b11705043': 1346, 'b10902087': 654})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979906229068989
+Training score: 1.0
+community cards of this round: ['HJ', 'HK', 'H7', 'C9', 'HQ']
+name: b11705043, hole_card: ['D4', 'CJ']
+name: b10902087, hole_card: ['H4', 'DJ']
+Started the round 20
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['D4', 'CJ']
+name: b10902087, hole_card: ['H4', 'DJ']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['D4', 'CJ']
+name: b10902087, hole_card: ['H4', 'DJ']
+"b10902087" declared "raise:7", Invalid action. Treat as fold...
+"['b11705043']" won the round 20 (stack = {'b11705043': 1356, 'b10902087': 644})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9973226238286479
+Training score: 1.0
+b10902087 vs b11705043 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705043', 'uuid': 'tjosdkkllxpzvkyecowozx', 'stack': 1356, 'state': 'participating'}, {'name': 'b10902087', 'uuid': 'odabwtglwxenninjaczjsd', 'stack': 644, 'state': 'participating'}]}
+Training data loaded.
+Trained model loaded successfully.
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979892761394102
+Training score: 1.0
+community cards of this round: ['CA', 'SQ', 'C5', 'CJ', 'C4']
+name: b10902087, hole_card: ['H5', 'SJ']
+name: b11705043, hole_card: ['C9', 'C6']
+Started the round 1
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['H5', 'SJ']
+name: b11705043, hole_card: ['C9', 'C6']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['H5', 'SJ']
+name: b11705043, hole_card: ['C9', 'C6']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['CA', 'SQ', 'C5'])
+Training data saved successfully.
+name: b10902087, hole_card: ['H5', 'SJ']
+name: b11705043, hole_card: ['C9', 'C6']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['H5', 'SJ']
+name: b11705043, hole_card: ['C9', 'C6']
+"b10902087" declared "raise:17"
+Training data saved successfully.
+name: b10902087, hole_card: ['H5', 'SJ']
+name: b11705043, hole_card: ['C9', 'C6']
+"b11705043" declared "call:17"
+Street "turn" started. (community card = ['CA', 'SQ', 'C5', 'CJ'])
+Training data saved successfully.
+name: b10902087, hole_card: ['H5', 'SJ']
+name: b11705043, hole_card: ['C9', 'C6']
+"b11705043" declared "raise:150"
+name: b10902087, hole_card: ['H5', 'SJ']
+name: b11705043, hole_card: ['C9', 'C6']
+"b10902087" declared "raise:83", Invalid action. Treat as fold...
+"['b11705043']" won the round 1 (stack = {'b10902087': 973, 'b11705043': 1027})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979906229068989
+Training score: 1.0
+community cards of this round: ['C4', 'SK', 'H2', 'SJ', 'SQ']
+name: b10902087, hole_card: ['DK', 'D3']
+name: b11705043, hole_card: ['HQ', 'H5']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['DK', 'D3']
+name: b11705043, hole_card: ['HQ', 'H5']
+"b10902087" declared "raise:56"
+Training data saved successfully.
+name: b10902087, hole_card: ['DK', 'D3']
+name: b11705043, hole_card: ['HQ', 'H5']
+"b11705043" declared "call:56"
+Street "flop" started. (community card = ['C4', 'SK', 'H2'])
+name: b10902087, hole_card: ['DK', 'D3']
+name: b11705043, hole_card: ['HQ', 'H5']
+"b10902087" declared "raise:404"
+Training data saved successfully.
+name: b10902087, hole_card: ['DK', 'D3']
+name: b11705043, hole_card: ['HQ', 'H5']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 2 (stack = {'b10902087': 1029, 'b11705043': 971})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979906229068989
+Training score: 1.0
+community cards of this round: ['DK', 'H2', 'C7', 'DA', 'H7']
+name: b10902087, hole_card: ['C3', 'HK']
+name: b11705043, hole_card: ['D8', 'H9']
+Started the round 3
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['C3', 'HK']
+name: b11705043, hole_card: ['D8', 'H9']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['C3', 'HK']
+name: b11705043, hole_card: ['D8', 'H9']
+"b10902087" declared "raise:13", Invalid action. Treat as fold...
+"['b11705043']" won the round 3 (stack = {'b10902087': 1019, 'b11705043': 981})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9973226238286479
+Training score: 1.0
+community cards of this round: ['H8', 'H6', 'H5', 'S8', 'C5']
+name: b10902087, hole_card: ['ST', 'C2']
+name: b11705043, hole_card: ['CA', 'CJ']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['ST', 'C2']
+name: b11705043, hole_card: ['CA', 'CJ']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b10902087, hole_card: ['ST', 'C2']
+name: b11705043, hole_card: ['CA', 'CJ']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['H8', 'H6', 'H5'])
+name: b10902087, hole_card: ['ST', 'C2']
+name: b11705043, hole_card: ['CA', 'CJ']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 4 (stack = {'b10902087': 1009, 'b11705043': 991})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998661311914324
+Training score: 1.0
+community cards of this round: ['SJ', 'CT', 'H4', 'HA', 'S2']
+name: b10902087, hole_card: ['C2', 'H2']
+name: b11705043, hole_card: ['C3', 'DQ']
+Started the round 5
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['C2', 'H2']
+name: b11705043, hole_card: ['C3', 'DQ']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['C2', 'H2']
+name: b11705043, hole_card: ['C3', 'DQ']
+"b10902087" declared "raise:9", Invalid action. Treat as fold...
+"['b11705043']" won the round 5 (stack = {'b10902087': 999, 'b11705043': 1001})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998661311914324
+Training score: 1.0
+community cards of this round: ['SQ', 'D2', 'H8', 'D4', 'DT']
+name: b10902087, hole_card: ['HK', 'CJ']
+name: b11705043, hole_card: ['C9', 'HA']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['HK', 'CJ']
+name: b11705043, hole_card: ['C9', 'HA']
+"b10902087" declared "raise:26"
+Training data saved successfully.
+name: b10902087, hole_card: ['HK', 'CJ']
+name: b11705043, hole_card: ['C9', 'HA']
+"b11705043" declared "call:26"
+Street "flop" started. (community card = ['SQ', 'D2', 'H8'])
+name: b10902087, hole_card: ['HK', 'CJ']
+name: b11705043, hole_card: ['C9', 'HA']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['HK', 'CJ']
+name: b11705043, hole_card: ['C9', 'HA']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['SQ', 'D2', 'H8', 'D4'])
+name: b10902087, hole_card: ['HK', 'CJ']
+name: b11705043, hole_card: ['C9', 'HA']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['HK', 'CJ']
+name: b11705043, hole_card: ['C9', 'HA']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['SQ', 'D2', 'H8', 'D4', 'DT'])
+name: b10902087, hole_card: ['HK', 'CJ']
+name: b11705043, hole_card: ['C9', 'HA']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 6 (stack = {'b10902087': 973, 'b11705043': 1027})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986622073578595
+Training score: 1.0
+community cards of this round: ['HQ', 'CJ', 'HT', 'CT', 'CA']
+name: b10902087, hole_card: ['C7', 'H2']
+name: b11705043, hole_card: ['HK', 'D2']
+Started the round 7
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['C7', 'H2']
+name: b11705043, hole_card: ['HK', 'D2']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['C7', 'H2']
+name: b11705043, hole_card: ['HK', 'D2']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 7 (stack = {'b10902087': 963, 'b11705043': 1037})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979933110367893
+Training score: 1.0
+community cards of this round: ['D7', 'CT', 'C9', 'HA', 'C8']
+name: b10902087, hole_card: ['C2', 'C6']
+name: b11705043, hole_card: ['DT', 'HJ']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['C2', 'C6']
+name: b11705043, hole_card: ['DT', 'HJ']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b10902087, hole_card: ['C2', 'C6']
+name: b11705043, hole_card: ['DT', 'HJ']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['D7', 'CT', 'C9'])
+name: b10902087, hole_card: ['C2', 'C6']
+name: b11705043, hole_card: ['DT', 'HJ']
+"b10902087" declared "raise:64"
+Training data saved successfully.
+name: b10902087, hole_card: ['C2', 'C6']
+name: b11705043, hole_card: ['DT', 'HJ']
+"b11705043" declared "call:64"
+Street "turn" started. (community card = ['D7', 'CT', 'C9', 'HA'])
+name: b10902087, hole_card: ['C2', 'C6']
+name: b11705043, hole_card: ['DT', 'HJ']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C2', 'C6']
+name: b11705043, hole_card: ['DT', 'HJ']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['D7', 'CT', 'C9', 'HA', 'C8'])
+name: b10902087, hole_card: ['C2', 'C6']
+name: b11705043, hole_card: ['DT', 'HJ']
+"b10902087" declared "raise:532"
+Training data saved successfully.
+name: b10902087, hole_card: ['C2', 'C6']
+name: b11705043, hole_card: ['DT', 'HJ']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 8 (stack = {'b10902087': 1037, 'b11705043': 963})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979946524064172
+Training score: 1.0
+community cards of this round: ['H8', 'H7', 'SJ', 'H6', 'S5']
+name: b10902087, hole_card: ['DQ', 'S4']
+name: b11705043, hole_card: ['S6', 'CJ']
+Started the round 9
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['DQ', 'S4']
+name: b11705043, hole_card: ['S6', 'CJ']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['DQ', 'S4']
+name: b11705043, hole_card: ['S6', 'CJ']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['H8', 'H7', 'SJ'])
+Training data saved successfully.
+name: b10902087, hole_card: ['DQ', 'S4']
+name: b11705043, hole_card: ['S6', 'CJ']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['DQ', 'S4']
+name: b11705043, hole_card: ['S6', 'CJ']
+"b10902087" declared "call:0"
+Street "turn" started. (community card = ['H8', 'H7', 'SJ', 'H6'])
+Training data saved successfully.
+name: b10902087, hole_card: ['DQ', 'S4']
+name: b11705043, hole_card: ['S6', 'CJ']
+"b11705043" declared "raise:50"
+name: b10902087, hole_card: ['DQ', 'S4']
+name: b11705043, hole_card: ['S6', 'CJ']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 9 (stack = {'b10902087': 1027, 'b11705043': 973})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9973262032085561
+Training score: 1.0
+community cards of this round: ['SK', 'S8', 'H3', 'H8', 'ST']
+name: b10902087, hole_card: ['S7', 'CK']
+name: b11705043, hole_card: ['C6', 'DT']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['S7', 'CK']
+name: b11705043, hole_card: ['C6', 'DT']
+"b10902087" declared "raise:100"
+Training data saved successfully.
+name: b10902087, hole_card: ['S7', 'CK']
+name: b11705043, hole_card: ['C6', 'DT']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 10 (stack = {'b10902087': 1037, 'b11705043': 963})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986631016042781
+Training score: 1.0
+community cards of this round: ['SK', 'H9', 'H7', 'CJ', 'C8']
+name: b10902087, hole_card: ['HQ', 'H2']
+name: b11705043, hole_card: ['S6', 'C7']
+Started the round 11
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['HQ', 'H2']
+name: b11705043, hole_card: ['S6', 'C7']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['HQ', 'H2']
+name: b11705043, hole_card: ['S6', 'C7']
+"b10902087" declared "raise:18"
+Training data saved successfully.
+name: b10902087, hole_card: ['HQ', 'H2']
+name: b11705043, hole_card: ['S6', 'C7']
+"b11705043" declared "call:18"
+Street "flop" started. (community card = ['SK', 'H9', 'H7'])
+Training data saved successfully.
+name: b10902087, hole_card: ['HQ', 'H2']
+name: b11705043, hole_card: ['S6', 'C7']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['HQ', 'H2']
+name: b11705043, hole_card: ['S6', 'C7']
+"b10902087" declared "raise:169"
+Training data saved successfully.
+name: b10902087, hole_card: ['HQ', 'H2']
+name: b11705043, hole_card: ['S6', 'C7']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 11 (stack = {'b10902087': 1055, 'b11705043': 945})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9979959919839679
+Training score: 1.0
+community cards of this round: ['H9', 'D7', 'D4', 'C4', 'DA']
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['H9', 'D7', 'D4'])
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+"b10902087" declared "raise:152"
+Training data saved successfully.
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+"b11705043" declared "call:152"
+Street "turn" started. (community card = ['H9', 'D7', 'D4', 'C4'])
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+"b11705043" declared "raise:100"
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+"b10902087" declared "call:100"
+Street "river" started. (community card = ['H9', 'D7', 'D4', 'C4', 'DA'])
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+"b11705043" declared "raise:200"
+name: b10902087, hole_card: ['C7', 'H6']
+name: b11705043, hole_card: ['SA', 'S4']
+"b10902087" declared "call:200"
+"['b11705043']" won the round 12 (stack = {'b10902087': 593, 'b11705043': 1407})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986648865153538
+Training score: 1.0
+community cards of this round: ['D7', 'C4', 'C8', 'SQ', 'S9']
+name: b10902087, hole_card: ['CJ', 'D3']
+name: b11705043, hole_card: ['DJ', 'HA']
+Started the round 13
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['CJ', 'D3']
+name: b11705043, hole_card: ['DJ', 'HA']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['CJ', 'D3']
+name: b11705043, hole_card: ['DJ', 'HA']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['D7', 'C4', 'C8'])
+Training data saved successfully.
+name: b10902087, hole_card: ['CJ', 'D3']
+name: b11705043, hole_card: ['DJ', 'HA']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['CJ', 'D3']
+name: b11705043, hole_card: ['DJ', 'HA']
+"b10902087" declared "call:0"
+Street "turn" started. (community card = ['D7', 'C4', 'C8', 'SQ'])
+Training data saved successfully.
+name: b10902087, hole_card: ['CJ', 'D3']
+name: b11705043, hole_card: ['DJ', 'HA']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['CJ', 'D3']
+name: b11705043, hole_card: ['DJ', 'HA']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 13 (stack = {'b10902087': 583, 'b11705043': 1417})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986657771847899
+Training score: 1.0
+community cards of this round: ['D3', 'SA', 'C9', 'H2', 'D7']
+name: b10902087, hole_card: ['HK', 'C4']
+name: b11705043, hole_card: ['S3', 'D9']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['HK', 'C4']
+name: b11705043, hole_card: ['S3', 'D9']
+"b10902087" declared "raise:14", Invalid action. Treat as fold...
+"['b11705043']" won the round 14 (stack = {'b10902087': 578, 'b11705043': 1422})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986657771847899
+Training score: 1.0
+community cards of this round: ['C5', 'H4', 'HQ', 'C4', 'SA']
+name: b10902087, hole_card: ['SJ', 'S5']
+name: b11705043, hole_card: ['C2', 'C9']
+Started the round 15
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['SJ', 'S5']
+name: b11705043, hole_card: ['C2', 'C9']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['SJ', 'S5']
+name: b11705043, hole_card: ['C2', 'C9']
+"b10902087" declared "raise:10", Invalid action. Treat as fold...
+"['b11705043']" won the round 15 (stack = {'b10902087': 568, 'b11705043': 1432})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9973315543695798
+Training score: 1.0
+community cards of this round: ['H5', 'DQ', 'C2', 'C6', 'D4']
+name: b10902087, hole_card: ['C8', 'H4']
+name: b11705043, hole_card: ['SQ', 'D3']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['C8', 'H4']
+name: b11705043, hole_card: ['SQ', 'D3']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b10902087, hole_card: ['C8', 'H4']
+name: b11705043, hole_card: ['SQ', 'D3']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['H5', 'DQ', 'C2'])
+name: b10902087, hole_card: ['C8', 'H4']
+name: b11705043, hole_card: ['SQ', 'D3']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C8', 'H4']
+name: b11705043, hole_card: ['SQ', 'D3']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['H5', 'DQ', 'C2', 'C6'])
+name: b10902087, hole_card: ['C8', 'H4']
+name: b11705043, hole_card: ['SQ', 'D3']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C8', 'H4']
+name: b11705043, hole_card: ['SQ', 'D3']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['H5', 'DQ', 'C2', 'C6', 'D4'])
+name: b10902087, hole_card: ['C8', 'H4']
+name: b11705043, hole_card: ['SQ', 'D3']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C8', 'H4']
+name: b11705043, hole_card: ['SQ', 'D3']
+"b11705043" declared "raise:150"
+name: b10902087, hole_card: ['C8', 'H4']
+name: b11705043, hole_card: ['SQ', 'D3']
+"b10902087" declared "call:150"
+"['b11705043']" won the round 16 (stack = {'b10902087': 408, 'b11705043': 1592})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998
+Training score: 1.0
+community cards of this round: ['C7', 'S4', 'CK', 'S9', 'ST']
+name: b10902087, hole_card: ['H3', 'C6']
+name: b11705043, hole_card: ['HQ', 'SK']
+Started the round 17
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['H3', 'C6']
+name: b11705043, hole_card: ['HQ', 'SK']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['H3', 'C6']
+name: b11705043, hole_card: ['HQ', 'SK']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['C7', 'S4', 'CK'])
+Training data saved successfully.
+name: b10902087, hole_card: ['H3', 'C6']
+name: b11705043, hole_card: ['HQ', 'SK']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['H3', 'C6']
+name: b11705043, hole_card: ['HQ', 'SK']
+"b10902087" declared "call:0"
+Street "turn" started. (community card = ['C7', 'S4', 'CK', 'S9'])
+Training data saved successfully.
+name: b10902087, hole_card: ['H3', 'C6']
+name: b11705043, hole_card: ['HQ', 'SK']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['H3', 'C6']
+name: b11705043, hole_card: ['HQ', 'SK']
+"b10902087" declared "call:0"
+Street "river" started. (community card = ['C7', 'S4', 'CK', 'S9', 'ST'])
+Training data saved successfully.
+name: b10902087, hole_card: ['H3', 'C6']
+name: b11705043, hole_card: ['HQ', 'SK']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['H3', 'C6']
+name: b11705043, hole_card: ['HQ', 'SK']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 17 (stack = {'b10902087': 398, 'b11705043': 1602})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986666666666667
+Training score: 1.0
+community cards of this round: ['CA', 'C5', 'S7', 'CQ', 'C9']
+name: b10902087, hole_card: ['D5', 'ST']
+name: b11705043, hole_card: ['SQ', 'S6']
+Started the round 18
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['D5', 'ST']
+name: b11705043, hole_card: ['SQ', 'S6']
+"b10902087" declared "raise:0", Invalid action. Treat as fold...
+"['b11705043']" won the round 18 (stack = {'b10902087': 393, 'b11705043': 1607})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986666666666667
+Training score: 1.0
+community cards of this round: ['DT', 'C9', 'HT', 'S8', 'S2']
+name: b10902087, hole_card: ['H2', 'D5']
+name: b11705043, hole_card: ['H6', 'D2']
+Started the round 19
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['H2', 'D5']
+name: b11705043, hole_card: ['H6', 'D2']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['H2', 'D5']
+name: b11705043, hole_card: ['H6', 'D2']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['DT', 'C9', 'HT'])
+Training data saved successfully.
+name: b10902087, hole_card: ['H2', 'D5']
+name: b11705043, hole_card: ['H6', 'D2']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['H2', 'D5']
+name: b11705043, hole_card: ['H6', 'D2']
+"b10902087" declared "call:0"
+Street "turn" started. (community card = ['DT', 'C9', 'HT', 'S8'])
+Training data saved successfully.
+name: b10902087, hole_card: ['H2', 'D5']
+name: b11705043, hole_card: ['H6', 'D2']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['H2', 'D5']
+name: b11705043, hole_card: ['H6', 'D2']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 19 (stack = {'b10902087': 383, 'b11705043': 1617})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986675549633578
+Training score: 1.0
+community cards of this round: ['HJ', 'HK', 'H7', 'C9', 'HQ']
+name: b10902087, hole_card: ['D4', 'CJ']
+name: b11705043, hole_card: ['H4', 'DJ']
+Started the round 20
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['D4', 'CJ']
+name: b11705043, hole_card: ['H4', 'DJ']
+"b10902087" declared "raise:5", Invalid action. Treat as fold...
+"['b11705043']" won the round 20 (stack = {'b10902087': 378, 'b11705043': 1622})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986675549633578
+Training score: 1.0
+b10902087 vs b11705043 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902087', 'uuid': 'bsvejhwxtdqtzvriubczke', 'stack': 378, 'state': 'participating'}, {'name': 'b11705043', 'uuid': 'tvnsguondvjyhuogjuqzor', 'stack': 1622, 'state': 'participating'}]}
+Training data loaded.
+Trained model loaded successfully.
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986675549633578
+Training score: 1.0
+community cards of this round: ['D8', 'H3', 'H4', 'ST', 'DQ']
+name: b11705043, hole_card: ['SA', 'C9']
+name: b10902087, hole_card: ['HA', 'D2']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['SA', 'C9']
+name: b10902087, hole_card: ['HA', 'D2']
+"b10902087" declared "raise:70"
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'C9']
+name: b10902087, hole_card: ['HA', 'D2']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 1 (stack = {'b11705043': 990, 'b10902087': 1010})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986675549633578
+Training score: 1.0
+community cards of this round: ['C3', 'DT', 'C9', 'H9', 'D9']
+name: b11705043, hole_card: ['HA', 'SK']
+name: b10902087, hole_card: ['C4', 'S4']
+Started the round 2
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['HA', 'SK']
+name: b10902087, hole_card: ['C4', 'S4']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['HA', 'SK']
+name: b10902087, hole_card: ['C4', 'S4']
+"b10902087" declared "raise:123"
+Training data saved successfully.
+name: b11705043, hole_card: ['HA', 'SK']
+name: b10902087, hole_card: ['C4', 'S4']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 2 (stack = {'b11705043': 980, 'b10902087': 1020})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980026631158455
+Training score: 1.0
+community cards of this round: ['S6', 'SA', 'H6', 'HT', 'C5']
+name: b11705043, hole_card: ['H2', 'S5']
+name: b10902087, hole_card: ['S7', 'H7']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['H2', 'S5']
+name: b10902087, hole_card: ['S7', 'H7']
+"b10902087" declared "raise:133"
+Training data saved successfully.
+name: b11705043, hole_card: ['H2', 'S5']
+name: b10902087, hole_card: ['S7', 'H7']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 3 (stack = {'b11705043': 970, 'b10902087': 1030})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980026631158455
+Training score: 1.0
+community cards of this round: ['S8', 'HA', 'S9', 'CJ', 'HJ']
+name: b11705043, hole_card: ['D8', 'HT']
+name: b10902087, hole_card: ['S5', 'S7']
+Started the round 4
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['D8', 'HT']
+name: b10902087, hole_card: ['S5', 'S7']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['D8', 'HT']
+name: b10902087, hole_card: ['S5', 'S7']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['S8', 'HA', 'S9'])
+Training data saved successfully.
+name: b11705043, hole_card: ['D8', 'HT']
+name: b10902087, hole_card: ['S5', 'S7']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['D8', 'HT']
+name: b10902087, hole_card: ['S5', 'S7']
+"b10902087" declared "raise:13"
+Training data saved successfully.
+name: b11705043, hole_card: ['D8', 'HT']
+name: b10902087, hole_card: ['S5', 'S7']
+"b11705043" declared "call:13"
+Street "turn" started. (community card = ['S8', 'HA', 'S9', 'CJ'])
+Training data saved successfully.
+name: b11705043, hole_card: ['D8', 'HT']
+name: b10902087, hole_card: ['S5', 'S7']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['D8', 'HT']
+name: b10902087, hole_card: ['S5', 'S7']
+"b10902087" declared "call:0"
+Street "river" started. (community card = ['S8', 'HA', 'S9', 'CJ', 'HJ'])
+Training data saved successfully.
+name: b11705043, hole_card: ['D8', 'HT']
+name: b10902087, hole_card: ['S5', 'S7']
+"b11705043" declared "raise:50"
+name: b11705043, hole_card: ['D8', 'HT']
+name: b10902087, hole_card: ['S5', 'S7']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 4 (stack = {'b11705043': 993, 'b10902087': 1007})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998003992015968
+Training score: 1.0
+community cards of this round: ['D3', 'S2', 'H3', 'SJ', 'HT']
+name: b11705043, hole_card: ['DA', 'H6']
+name: b10902087, hole_card: ['DQ', 'SA']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['DA', 'H6']
+name: b10902087, hole_card: ['DQ', 'SA']
+"b10902087" declared "raise:106"
+Training data saved successfully.
+name: b11705043, hole_card: ['DA', 'H6']
+name: b10902087, hole_card: ['DQ', 'SA']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 5 (stack = {'b11705043': 983, 'b10902087': 1017})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998003992015968
+Training score: 1.0
+community cards of this round: ['H7', 'S6', 'C9', 'C7', 'HJ']
+name: b11705043, hole_card: ['DJ', 'DK']
+name: b10902087, hole_card: ['H8', 'S8']
+Started the round 6
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['DJ', 'DK']
+name: b10902087, hole_card: ['H8', 'S8']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['DJ', 'DK']
+name: b10902087, hole_card: ['H8', 'S8']
+"b10902087" declared "raise:205"
+Training data saved successfully.
+name: b11705043, hole_card: ['DJ', 'DK']
+name: b10902087, hole_card: ['H8', 'S8']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 6 (stack = {'b11705043': 973, 'b10902087': 1027})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9973386560212908
+Training score: 1.0
+community cards of this round: ['S4', 'HK', 'H3', 'S9', 'S8']
+name: b11705043, hole_card: ['HT', 'H7']
+name: b10902087, hole_card: ['SQ', 'DK']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['HT', 'H7']
+name: b10902087, hole_card: ['SQ', 'DK']
+"b10902087" declared "raise:70"
+Training data saved successfully.
+name: b11705043, hole_card: ['HT', 'H7']
+name: b10902087, hole_card: ['SQ', 'DK']
+"b11705043" declared "call:70"
+Street "flop" started. (community card = ['S4', 'HK', 'H3'])
+name: b11705043, hole_card: ['HT', 'H7']
+name: b10902087, hole_card: ['SQ', 'DK']
+"b10902087" declared "raise:439"
+Training data saved successfully.
+name: b11705043, hole_card: ['HT', 'H7']
+name: b10902087, hole_card: ['SQ', 'DK']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 7 (stack = {'b11705043': 903, 'b10902087': 1097})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986702127659575
+Training score: 1.0
+community cards of this round: ['CT', 'H8', 'H4', 'C8', 'D6']
+name: b11705043, hole_card: ['C6', 'D5']
+name: b10902087, hole_card: ['C5', 'HK']
+Started the round 8
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['C6', 'D5']
+name: b10902087, hole_card: ['C5', 'HK']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['C6', 'D5']
+name: b10902087, hole_card: ['C5', 'HK']
+"b10902087" declared "raise:34"
+Training data saved successfully.
+name: b11705043, hole_card: ['C6', 'D5']
+name: b10902087, hole_card: ['C5', 'HK']
+"b11705043" declared "call:34"
+Street "flop" started. (community card = ['CT', 'H8', 'H4'])
+Training data saved successfully.
+name: b11705043, hole_card: ['C6', 'D5']
+name: b10902087, hole_card: ['C5', 'HK']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['C6', 'D5']
+name: b10902087, hole_card: ['C5', 'HK']
+"b10902087" declared "call:0"
+Street "turn" started. (community card = ['CT', 'H8', 'H4', 'C8'])
+Training data saved successfully.
+name: b11705043, hole_card: ['C6', 'D5']
+name: b10902087, hole_card: ['C5', 'HK']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['C6', 'D5']
+name: b10902087, hole_card: ['C5', 'HK']
+"b10902087" declared "call:0"
+Street "river" started. (community card = ['CT', 'H8', 'H4', 'C8', 'D6'])
+Training data saved successfully.
+name: b11705043, hole_card: ['C6', 'D5']
+name: b10902087, hole_card: ['C5', 'HK']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['C6', 'D5']
+name: b10902087, hole_card: ['C5', 'HK']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 8 (stack = {'b11705043': 937, 'b10902087': 1063})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998671096345515
+Training score: 1.0
+community cards of this round: ['HQ', 'D9', 'HT', 'D7', 'SQ']
+name: b11705043, hole_card: ['CT', 'HA']
+name: b10902087, hole_card: ['C9', 'D8']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['CT', 'HA']
+name: b10902087, hole_card: ['C9', 'D8']
+"b10902087" declared "raise:22"
+Training data saved successfully.
+name: b11705043, hole_card: ['CT', 'HA']
+name: b10902087, hole_card: ['C9', 'D8']
+"b11705043" declared "call:22"
+Street "flop" started. (community card = ['HQ', 'D9', 'HT'])
+name: b11705043, hole_card: ['CT', 'HA']
+name: b10902087, hole_card: ['C9', 'D8']
+"b10902087" declared "raise:65"
+Training data saved successfully.
+name: b11705043, hole_card: ['CT', 'HA']
+name: b10902087, hole_card: ['C9', 'D8']
+"b11705043" declared "call:65"
+Street "turn" started. (community card = ['HQ', 'D9', 'HT', 'D7'])
+name: b11705043, hole_card: ['CT', 'HA']
+name: b10902087, hole_card: ['C9', 'D8']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['CT', 'HA']
+name: b10902087, hole_card: ['C9', 'D8']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['HQ', 'D9', 'HT', 'D7', 'SQ'])
+name: b11705043, hole_card: ['CT', 'HA']
+name: b10902087, hole_card: ['C9', 'D8']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['CT', 'HA']
+name: b10902087, hole_card: ['C9', 'D8']
+"b11705043" declared "raise:50"
+name: b11705043, hole_card: ['CT', 'HA']
+name: b10902087, hole_card: ['C9', 'D8']
+"b10902087" declared "call:50"
+"['b11705043']" won the round 9 (stack = {'b11705043': 1074, 'b10902087': 926})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.99867197875166
+Training score: 1.0
+community cards of this round: ['S4', 'S6', 'HT', 'HQ', 'CJ']
+name: b11705043, hole_card: ['C7', 'S3']
+name: b10902087, hole_card: ['SJ', 'DK']
+Started the round 10
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'S3']
+name: b10902087, hole_card: ['SJ', 'DK']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['C7', 'S3']
+name: b10902087, hole_card: ['SJ', 'DK']
+"b10902087" declared "raise:50"
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'S3']
+name: b10902087, hole_card: ['SJ', 'DK']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 10 (stack = {'b11705043': 1064, 'b10902087': 936})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.99867197875166
+Training score: 1.0
+community cards of this round: ['D6', 'S6', 'H5', 'C8', 'CQ']
+name: b11705043, hole_card: ['H8', 'SA']
+name: b10902087, hole_card: ['C3', 'HJ']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['H8', 'SA']
+name: b10902087, hole_card: ['C3', 'HJ']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['H8', 'SA']
+name: b10902087, hole_card: ['C3', 'HJ']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['D6', 'S6', 'H5'])
+name: b11705043, hole_card: ['H8', 'SA']
+name: b10902087, hole_card: ['C3', 'HJ']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['H8', 'SA']
+name: b10902087, hole_card: ['C3', 'HJ']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['D6', 'S6', 'H5', 'C8'])
+name: b11705043, hole_card: ['H8', 'SA']
+name: b10902087, hole_card: ['C3', 'HJ']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 11 (stack = {'b11705043': 1074, 'b10902087': 926})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.99800796812749
+Training score: 1.0
+community cards of this round: ['D9', 'SK', 'D8', 'H4', 'SA']
+name: b11705043, hole_card: ['H3', 'S4']
+name: b10902087, hole_card: ['SQ', 'CQ']
+Started the round 12
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['H3', 'S4']
+name: b10902087, hole_card: ['SQ', 'CQ']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['H3', 'S4']
+name: b10902087, hole_card: ['SQ', 'CQ']
+"b10902087" declared "raise:462"
+Training data saved successfully.
+name: b11705043, hole_card: ['H3', 'S4']
+name: b10902087, hole_card: ['SQ', 'CQ']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 12 (stack = {'b11705043': 1064, 'b10902087': 936})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986728599867286
+Training score: 1.0
+community cards of this round: ['ST', 'D4', 'C9', 'SJ', 'D3']
+name: b11705043, hole_card: ['C2', 'S4']
+name: b10902087, hole_card: ['H9', 'H3']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['C2', 'S4']
+name: b10902087, hole_card: ['H9', 'H3']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['C2', 'S4']
+name: b10902087, hole_card: ['H9', 'H3']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['ST', 'D4', 'C9'])
+name: b11705043, hole_card: ['C2', 'S4']
+name: b10902087, hole_card: ['H9', 'H3']
+"b10902087" declared "raise:19"
+Training data saved successfully.
+name: b11705043, hole_card: ['C2', 'S4']
+name: b10902087, hole_card: ['H9', 'H3']
+"b11705043" declared "call:19"
+Street "turn" started. (community card = ['ST', 'D4', 'C9', 'SJ'])
+name: b11705043, hole_card: ['C2', 'S4']
+name: b10902087, hole_card: ['H9', 'H3']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['C2', 'S4']
+name: b10902087, hole_card: ['H9', 'H3']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['ST', 'D4', 'C9', 'SJ', 'D3'])
+name: b11705043, hole_card: ['C2', 'S4']
+name: b10902087, hole_card: ['H9', 'H3']
+"b10902087" declared "raise:233"
+Training data saved successfully.
+name: b11705043, hole_card: ['C2', 'S4']
+name: b10902087, hole_card: ['H9', 'H3']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 13 (stack = {'b11705043': 1035, 'b10902087': 965})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9973474801061007
+Training score: 1.0
+community cards of this round: ['SJ', 'C5', 'S4', 'SK', 'H5']
+name: b11705043, hole_card: ['H6', 'S3']
+name: b10902087, hole_card: ['C6', 'S9']
+Started the round 14
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['H6', 'S3']
+name: b10902087, hole_card: ['C6', 'S9']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['H6', 'S3']
+name: b10902087, hole_card: ['C6', 'S9']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['SJ', 'C5', 'S4'])
+Training data saved successfully.
+name: b11705043, hole_card: ['H6', 'S3']
+name: b10902087, hole_card: ['C6', 'S9']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['H6', 'S3']
+name: b10902087, hole_card: ['C6', 'S9']
+"b10902087" declared "call:0"
+Street "turn" started. (community card = ['SJ', 'C5', 'S4', 'SK'])
+Training data saved successfully.
+name: b11705043, hole_card: ['H6', 'S3']
+name: b10902087, hole_card: ['C6', 'S9']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['H6', 'S3']
+name: b10902087, hole_card: ['C6', 'S9']
+"b10902087" declared "call:0"
+Street "river" started. (community card = ['SJ', 'C5', 'S4', 'SK', 'H5'])
+Training data saved successfully.
+name: b11705043, hole_card: ['H6', 'S3']
+name: b10902087, hole_card: ['C6', 'S9']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['H6', 'S3']
+name: b10902087, hole_card: ['C6', 'S9']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 14 (stack = {'b11705043': 1045, 'b10902087': 955})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986737400530504
+Training score: 1.0
+community cards of this round: ['H3', 'D9', 'HQ', 'D4', 'DT']
+name: b11705043, hole_card: ['H6', 'DQ']
+name: b10902087, hole_card: ['CJ', 'C9']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['H6', 'DQ']
+name: b10902087, hole_card: ['CJ', 'C9']
+"b10902087" declared "raise:164"
+Training data saved successfully.
+name: b11705043, hole_card: ['H6', 'DQ']
+name: b10902087, hole_card: ['CJ', 'C9']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 15 (stack = {'b11705043': 1035, 'b10902087': 965})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998674618952949
+Training score: 1.0
+community cards of this round: ['HK', 'DA', 'C5', 'C8', 'H3']
+name: b11705043, hole_card: ['HQ', 'H5']
+name: b10902087, hole_card: ['CQ', 'H8']
+Started the round 16
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['HQ', 'H5']
+name: b10902087, hole_card: ['CQ', 'H8']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['HQ', 'H5']
+name: b10902087, hole_card: ['CQ', 'H8']
+"b10902087" declared "raise:132"
+Training data saved successfully.
+name: b11705043, hole_card: ['HQ', 'H5']
+name: b10902087, hole_card: ['CQ', 'H8']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 16 (stack = {'b11705043': 1025, 'b10902087': 975})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980119284294234
+Training score: 1.0
+community cards of this round: ['SJ', 'S3', 'C8', 'C3', 'D2']
+name: b11705043, hole_card: ['D9', 'DQ']
+name: b10902087, hole_card: ['SK', 'HA']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['D9', 'DQ']
+name: b10902087, hole_card: ['SK', 'HA']
+"b10902087" declared "raise:218"
+Training data saved successfully.
+name: b11705043, hole_card: ['D9', 'DQ']
+name: b10902087, hole_card: ['SK', 'HA']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 17 (stack = {'b11705043': 1015, 'b10902087': 985})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980119284294234
+Training score: 1.0
+community cards of this round: ['D6', 'CQ', 'S2', 'D5', 'HK']
+name: b11705043, hole_card: ['SA', 'C8']
+name: b10902087, hole_card: ['DK', 'CT']
+Started the round 18
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'C8']
+name: b10902087, hole_card: ['DK', 'CT']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['SA', 'C8']
+name: b10902087, hole_card: ['DK', 'CT']
+"b10902087" declared "raise:99"
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'C8']
+name: b10902087, hole_card: ['DK', 'CT']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 18 (stack = {'b11705043': 1005, 'b10902087': 995})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986754966887417
+Training score: 1.0
+community cards of this round: ['CQ', 'CJ', 'H7', 'H5', 'D4']
+name: b11705043, hole_card: ['SQ', 'D7']
+name: b10902087, hole_card: ['ST', 'S5']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['SQ', 'D7']
+name: b10902087, hole_card: ['ST', 'S5']
+"b10902087" declared "raise:64"
+Training data saved successfully.
+name: b11705043, hole_card: ['SQ', 'D7']
+name: b10902087, hole_card: ['ST', 'S5']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 19 (stack = {'b11705043': 995, 'b10902087': 1005})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986754966887417
+Training score: 1.0
+community cards of this round: ['D8', 'DJ', 'CJ', 'D2', 'H5']
+name: b11705043, hole_card: ['C7', 'S8']
+name: b10902087, hole_card: ['CT', 'H2']
+Started the round 20
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'S8']
+name: b10902087, hole_card: ['CT', 'H2']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['C7', 'S8']
+name: b10902087, hole_card: ['CT', 'H2']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['D8', 'DJ', 'CJ'])
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'S8']
+name: b10902087, hole_card: ['CT', 'H2']
+"b11705043" declared "raise:100"
+name: b11705043, hole_card: ['C7', 'S8']
+name: b10902087, hole_card: ['CT', 'H2']
+"b10902087" declared "call:100"
+Street "turn" started. (community card = ['D8', 'DJ', 'CJ', 'D2'])
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'S8']
+name: b10902087, hole_card: ['CT', 'H2']
+"b11705043" declared "raise:100"
+name: b11705043, hole_card: ['C7', 'S8']
+name: b10902087, hole_card: ['CT', 'H2']
+"b10902087" declared "call:100"
+Street "river" started. (community card = ['D8', 'DJ', 'CJ', 'D2', 'H5'])
+Training data saved successfully.
+name: b11705043, hole_card: ['C7', 'S8']
+name: b10902087, hole_card: ['CT', 'H2']
+"b11705043" declared "raise:100"
+name: b11705043, hole_card: ['C7', 'S8']
+name: b10902087, hole_card: ['CT', 'H2']
+"b10902087" declared "call:100"
+"['b11705043']" won the round 20 (stack = {'b11705043': 1305, 'b10902087': 695})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.99867637326274
+Training score: 1.0
+b10902087 vs b11705043 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705043', 'uuid': 'vzqvznirxvsmrqxfssspkx', 'stack': 1305, 'state': 'participating'}, {'name': 'b10902087', 'uuid': 'nwiznvflmawmxvvadiejjk', 'stack': 695, 'state': 'participating'}]}
+Training data loaded.
+Trained model loaded successfully.
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.99867637326274
+Training score: 1.0
+community cards of this round: ['D8', 'H3', 'H4', 'ST', 'DQ']
+name: b10902087, hole_card: ['SA', 'C9']
+name: b11705043, hole_card: ['HA', 'D2']
+Started the round 1
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['SA', 'C9']
+name: b11705043, hole_card: ['HA', 'D2']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['SA', 'C9']
+name: b11705043, hole_card: ['HA', 'D2']
+"b10902087" declared "raise:187"
+Training data saved successfully.
+name: b10902087, hole_card: ['SA', 'C9']
+name: b11705043, hole_card: ['HA', 'D2']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 1 (stack = {'b10902087': 1010, 'b11705043': 990})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.99867637326274
+Training score: 1.0
+community cards of this round: ['C3', 'DT', 'C9', 'H9', 'D9']
+name: b10902087, hole_card: ['HA', 'SK']
+name: b11705043, hole_card: ['C4', 'S4']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['HA', 'SK']
+name: b11705043, hole_card: ['C4', 'S4']
+"b10902087" declared "raise:153"
+Training data saved successfully.
+name: b10902087, hole_card: ['HA', 'SK']
+name: b11705043, hole_card: ['C4', 'S4']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 2 (stack = {'b10902087': 1020, 'b11705043': 980})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.99867637326274
+Training score: 1.0
+community cards of this round: ['S6', 'SA', 'H6', 'HT', 'C5']
+name: b10902087, hole_card: ['H2', 'S5']
+name: b11705043, hole_card: ['S7', 'H7']
+Started the round 3
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['H2', 'S5']
+name: b11705043, hole_card: ['S7', 'H7']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['H2', 'S5']
+name: b11705043, hole_card: ['S7', 'H7']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 3 (stack = {'b10902087': 1010, 'b11705043': 990})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.99867637326274
+Training score: 1.0
+community cards of this round: ['S8', 'HA', 'S9', 'CJ', 'HJ']
+name: b10902087, hole_card: ['D8', 'HT']
+name: b11705043, hole_card: ['S5', 'S7']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['D8', 'HT']
+name: b11705043, hole_card: ['S5', 'S7']
+"b10902087" declared "raise:49"
+Training data saved successfully.
+name: b10902087, hole_card: ['D8', 'HT']
+name: b11705043, hole_card: ['S5', 'S7']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 4 (stack = {'b10902087': 1020, 'b11705043': 980})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986772486772487
+Training score: 1.0
+community cards of this round: ['D3', 'S2', 'H3', 'SJ', 'HT']
+name: b10902087, hole_card: ['DA', 'H6']
+name: b11705043, hole_card: ['DQ', 'SA']
+Started the round 5
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['DA', 'H6']
+name: b11705043, hole_card: ['DQ', 'SA']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['DA', 'H6']
+name: b11705043, hole_card: ['DQ', 'SA']
+"b10902087" declared "raise:127"
+Training data saved successfully.
+name: b10902087, hole_card: ['DA', 'H6']
+name: b11705043, hole_card: ['DQ', 'SA']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 5 (stack = {'b10902087': 1030, 'b11705043': 970})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986772486772487
+Training score: 1.0
+community cards of this round: ['H7', 'S6', 'C9', 'C7', 'HJ']
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+"b10902087" declared "raise:99"
+Training data saved successfully.
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+"b11705043" declared "call:99"
+Street "flop" started. (community card = ['H7', 'S6', 'C9'])
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['H7', 'S6', 'C9', 'C7'])
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+"b11705043" declared "raise:50"
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+"b10902087" declared "call:50"
+Street "river" started. (community card = ['H7', 'S6', 'C9', 'C7', 'HJ'])
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+"b10902087" declared "raise:96"
+Training data saved successfully.
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+"b11705043" declared "raise:821"
+name: b10902087, hole_card: ['DJ', 'DK']
+name: b11705043, hole_card: ['H8', 'S8']
+"b10902087" declared "raise:0", Invalid action. Treat as fold...
+"['b11705043']" won the round 6 (stack = {'b10902087': 785, 'b11705043': 1215})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998678122934567
+Training score: 1.0
+community cards of this round: ['S4', 'HK', 'H3', 'S9', 'S8']
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+Started the round 7
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+"b10902087" declared "raise:40"
+Training data saved successfully.
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+"b11705043" declared "call:40"
+Street "flop" started. (community card = ['S4', 'HK', 'H3'])
+Training data saved successfully.
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+"b10902087" declared "raise:131"
+Training data saved successfully.
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+"b11705043" declared "call:131"
+Street "turn" started. (community card = ['S4', 'HK', 'H3', 'S9'])
+Training data saved successfully.
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+"b10902087" declared "call:0"
+Street "river" started. (community card = ['S4', 'HK', 'H3', 'S9', 'S8'])
+Training data saved successfully.
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['HT', 'H7']
+name: b11705043, hole_card: ['SQ', 'DK']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 7 (stack = {'b10902087': 614, 'b11705043': 1386})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986789960369881
+Training score: 1.0
+community cards of this round: ['CT', 'H8', 'H4', 'C8', 'D6']
+name: b10902087, hole_card: ['C6', 'D5']
+name: b11705043, hole_card: ['C5', 'HK']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['C6', 'D5']
+name: b11705043, hole_card: ['C5', 'HK']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b10902087, hole_card: ['C6', 'D5']
+name: b11705043, hole_card: ['C5', 'HK']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['CT', 'H8', 'H4'])
+name: b10902087, hole_card: ['C6', 'D5']
+name: b11705043, hole_card: ['C5', 'HK']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C6', 'D5']
+name: b11705043, hole_card: ['C5', 'HK']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['CT', 'H8', 'H4', 'C8'])
+name: b10902087, hole_card: ['C6', 'D5']
+name: b11705043, hole_card: ['C5', 'HK']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C6', 'D5']
+name: b11705043, hole_card: ['C5', 'HK']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['CT', 'H8', 'H4', 'C8', 'D6'])
+name: b10902087, hole_card: ['C6', 'D5']
+name: b11705043, hole_card: ['C5', 'HK']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C6', 'D5']
+name: b11705043, hole_card: ['C5', 'HK']
+"b11705043" declared "call:0"
+"['b10902087']" won the round 8 (stack = {'b10902087': 624, 'b11705043': 1376})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998019801980198
+Training score: 1.0
+community cards of this round: ['HQ', 'D9', 'HT', 'D7', 'SQ']
+name: b10902087, hole_card: ['CT', 'HA']
+name: b11705043, hole_card: ['C9', 'D8']
+Started the round 9
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['CT', 'HA']
+name: b11705043, hole_card: ['C9', 'D8']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['CT', 'HA']
+name: b11705043, hole_card: ['C9', 'D8']
+"b10902087" declared "raise:50"
+Training data saved successfully.
+name: b10902087, hole_card: ['CT', 'HA']
+name: b11705043, hole_card: ['C9', 'D8']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 9 (stack = {'b10902087': 634, 'b11705043': 1366})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986798679867986
+Training score: 1.0
+community cards of this round: ['S4', 'S6', 'HT', 'HQ', 'CJ']
+name: b10902087, hole_card: ['C7', 'S3']
+name: b11705043, hole_card: ['SJ', 'DK']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['C7', 'S3']
+name: b11705043, hole_card: ['SJ', 'DK']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b10902087, hole_card: ['C7', 'S3']
+name: b11705043, hole_card: ['SJ', 'DK']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['S4', 'S6', 'HT'])
+name: b10902087, hole_card: ['C7', 'S3']
+name: b11705043, hole_card: ['SJ', 'DK']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C7', 'S3']
+name: b11705043, hole_card: ['SJ', 'DK']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['S4', 'S6', 'HT', 'HQ'])
+name: b10902087, hole_card: ['C7', 'S3']
+name: b11705043, hole_card: ['SJ', 'DK']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['C7', 'S3']
+name: b11705043, hole_card: ['SJ', 'DK']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['S4', 'S6', 'HT', 'HQ', 'CJ'])
+name: b10902087, hole_card: ['C7', 'S3']
+name: b11705043, hole_card: ['SJ', 'DK']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 10 (stack = {'b10902087': 624, 'b11705043': 1376})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980211081794196
+Training score: 1.0
+community cards of this round: ['D6', 'S6', 'H5', 'C8', 'CQ']
+name: b10902087, hole_card: ['H8', 'SA']
+name: b11705043, hole_card: ['C3', 'HJ']
+Started the round 11
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['H8', 'SA']
+name: b11705043, hole_card: ['C3', 'HJ']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['H8', 'SA']
+name: b11705043, hole_card: ['C3', 'HJ']
+"b10902087" declared "raise:115"
+Training data saved successfully.
+name: b10902087, hole_card: ['H8', 'SA']
+name: b11705043, hole_card: ['C3', 'HJ']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 11 (stack = {'b10902087': 634, 'b11705043': 1366})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986807387862797
+Training score: 1.0
+community cards of this round: ['D9', 'SK', 'D8', 'H4', 'SA']
+name: b10902087, hole_card: ['H3', 'S4']
+name: b11705043, hole_card: ['SQ', 'CQ']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['H3', 'S4']
+name: b11705043, hole_card: ['SQ', 'CQ']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b10902087, hole_card: ['H3', 'S4']
+name: b11705043, hole_card: ['SQ', 'CQ']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['D9', 'SK', 'D8'])
+name: b10902087, hole_card: ['H3', 'S4']
+name: b11705043, hole_card: ['SQ', 'CQ']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 12 (stack = {'b10902087': 624, 'b11705043': 1376})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986807387862797
+Training score: 1.0
+community cards of this round: ['ST', 'D4', 'C9', 'SJ', 'D3']
+name: b10902087, hole_card: ['C2', 'S4']
+name: b11705043, hole_card: ['H9', 'H3']
+Started the round 13
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['C2', 'S4']
+name: b11705043, hole_card: ['H9', 'H3']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['C2', 'S4']
+name: b11705043, hole_card: ['H9', 'H3']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 13 (stack = {'b10902087': 614, 'b11705043': 1386})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998681608437706
+Training score: 1.0
+community cards of this round: ['SJ', 'C5', 'S4', 'SK', 'H5']
+name: b10902087, hole_card: ['H6', 'S3']
+name: b11705043, hole_card: ['C6', 'S9']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['H6', 'S3']
+name: b11705043, hole_card: ['C6', 'S9']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b10902087, hole_card: ['H6', 'S3']
+name: b11705043, hole_card: ['C6', 'S9']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['SJ', 'C5', 'S4'])
+name: b10902087, hole_card: ['H6', 'S3']
+name: b11705043, hole_card: ['C6', 'S9']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['H6', 'S3']
+name: b11705043, hole_card: ['C6', 'S9']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['SJ', 'C5', 'S4', 'SK'])
+name: b10902087, hole_card: ['H6', 'S3']
+name: b11705043, hole_card: ['C6', 'S9']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['H6', 'S3']
+name: b11705043, hole_card: ['C6', 'S9']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['SJ', 'C5', 'S4', 'SK', 'H5'])
+name: b10902087, hole_card: ['H6', 'S3']
+name: b11705043, hole_card: ['C6', 'S9']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 14 (stack = {'b10902087': 604, 'b11705043': 1396})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998022412656559
+Training score: 1.0
+community cards of this round: ['H3', 'D9', 'HQ', 'D4', 'DT']
+name: b10902087, hole_card: ['H6', 'DQ']
+name: b11705043, hole_card: ['CJ', 'C9']
+Started the round 15
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['H6', 'DQ']
+name: b11705043, hole_card: ['CJ', 'C9']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['H6', 'DQ']
+name: b11705043, hole_card: ['CJ', 'C9']
+"b10902087" declared "raise:9", Invalid action. Treat as fold...
+"['b11705043']" won the round 15 (stack = {'b10902087': 594, 'b11705043': 1406})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.998022412656559
+Training score: 1.0
+community cards of this round: ['HK', 'DA', 'C5', 'C8', 'H3']
+name: b10902087, hole_card: ['HQ', 'H5']
+name: b11705043, hole_card: ['CQ', 'H8']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['HQ', 'H5']
+name: b11705043, hole_card: ['CQ', 'H8']
+"b10902087" declared "raise:93"
+Training data saved successfully.
+name: b10902087, hole_card: ['HQ', 'H5']
+name: b11705043, hole_card: ['CQ', 'H8']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 16 (stack = {'b10902087': 604, 'b11705043': 1396})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9967061923583662
+Training score: 1.0
+community cards of this round: ['SJ', 'S3', 'C8', 'C3', 'D2']
+name: b10902087, hole_card: ['D9', 'DQ']
+name: b11705043, hole_card: ['SK', 'HA']
+Started the round 17
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['D9', 'DQ']
+name: b11705043, hole_card: ['SK', 'HA']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['D9', 'DQ']
+name: b11705043, hole_card: ['SK', 'HA']
+"b10902087" declared "raise:36"
+Training data saved successfully.
+name: b10902087, hole_card: ['D9', 'DQ']
+name: b11705043, hole_card: ['SK', 'HA']
+"b11705043" declared "call:36"
+Street "flop" started. (community card = ['SJ', 'S3', 'C8'])
+Training data saved successfully.
+name: b10902087, hole_card: ['D9', 'DQ']
+name: b11705043, hole_card: ['SK', 'HA']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['D9', 'DQ']
+name: b11705043, hole_card: ['SK', 'HA']
+"b10902087" declared "call:0"
+Street "turn" started. (community card = ['SJ', 'S3', 'C8', 'C3'])
+Training data saved successfully.
+name: b10902087, hole_card: ['D9', 'DQ']
+name: b11705043, hole_card: ['SK', 'HA']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['D9', 'DQ']
+name: b11705043, hole_card: ['SK', 'HA']
+"b10902087" declared "call:0"
+Street "river" started. (community card = ['SJ', 'S3', 'C8', 'C3', 'D2'])
+Training data saved successfully.
+name: b10902087, hole_card: ['D9', 'DQ']
+name: b11705043, hole_card: ['SK', 'HA']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['D9', 'DQ']
+name: b11705043, hole_card: ['SK', 'HA']
+"b10902087" declared "call:0"
+"['b11705043']" won the round 17 (stack = {'b10902087': 568, 'b11705043': 1432})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986833443054641
+Training score: 1.0
+community cards of this round: ['D6', 'CQ', 'S2', 'D5', 'HK']
+name: b10902087, hole_card: ['SA', 'C8']
+name: b11705043, hole_card: ['DK', 'CT']
+Started the round 18
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['SA', 'C8']
+name: b11705043, hole_card: ['DK', 'CT']
+"b10902087" declared "raise:37"
+Training data saved successfully.
+name: b10902087, hole_card: ['SA', 'C8']
+name: b11705043, hole_card: ['DK', 'CT']
+"b11705043" declared "call:37"
+Street "flop" started. (community card = ['D6', 'CQ', 'S2'])
+name: b10902087, hole_card: ['SA', 'C8']
+name: b11705043, hole_card: ['DK', 'CT']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['SA', 'C8']
+name: b11705043, hole_card: ['DK', 'CT']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['D6', 'CQ', 'S2', 'D5'])
+name: b10902087, hole_card: ['SA', 'C8']
+name: b11705043, hole_card: ['DK', 'CT']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['SA', 'C8']
+name: b11705043, hole_card: ['DK', 'CT']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['D6', 'CQ', 'S2', 'D5', 'HK'])
+name: b10902087, hole_card: ['SA', 'C8']
+name: b11705043, hole_card: ['DK', 'CT']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b10902087, hole_card: ['SA', 'C8']
+name: b11705043, hole_card: ['DK', 'CT']
+"b11705043" declared "call:0"
+"['b11705043']" won the round 18 (stack = {'b10902087': 531, 'b11705043': 1469})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9967083607636603
+Training score: 1.0
+community cards of this round: ['CQ', 'CJ', 'H7', 'H5', 'D4']
+name: b10902087, hole_card: ['SQ', 'D7']
+name: b11705043, hole_card: ['ST', 'S5']
+Started the round 19
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b10902087, hole_card: ['SQ', 'D7']
+name: b11705043, hole_card: ['ST', 'S5']
+"b11705043" declared "call:10"
+name: b10902087, hole_card: ['SQ', 'D7']
+name: b11705043, hole_card: ['ST', 'S5']
+"b10902087" declared "raise:69"
+Training data saved successfully.
+name: b10902087, hole_card: ['SQ', 'D7']
+name: b11705043, hole_card: ['ST', 'S5']
+"b11705043" declared "call:69"
+Street "flop" started. (community card = ['CQ', 'CJ', 'H7'])
+Training data saved successfully.
+name: b10902087, hole_card: ['SQ', 'D7']
+name: b11705043, hole_card: ['ST', 'S5']
+"b11705043" declared "call:0"
+name: b10902087, hole_card: ['SQ', 'D7']
+name: b11705043, hole_card: ['ST', 'S5']
+"b10902087" declared "raise:336"
+Training data saved successfully.
+name: b10902087, hole_card: ['SQ', 'D7']
+name: b11705043, hole_card: ['ST', 'S5']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 19 (stack = {'b10902087': 600, 'b11705043': 1400})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980263157894737
+Training score: 1.0
+community cards of this round: ['D8', 'DJ', 'CJ', 'D2', 'H5']
+name: b10902087, hole_card: ['C7', 'S8']
+name: b11705043, hole_card: ['CT', 'H2']
+Started the round 20
+Street "preflop" started. (community card = [])
+name: b10902087, hole_card: ['C7', 'S8']
+name: b11705043, hole_card: ['CT', 'H2']
+"b10902087" declared "raise:41"
+Training data saved successfully.
+name: b10902087, hole_card: ['C7', 'S8']
+name: b11705043, hole_card: ['CT', 'H2']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 20 (stack = {'b10902087': 610, 'b11705043': 1390})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986842105263158
+Training score: 1.0
+b10902087 vs b11705043 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902087', 'uuid': 'eywwkyxmcuzashiotcezjn', 'stack': 610, 'state': 'participating'}, {'name': 'b11705043', 'uuid': 'fffsvhrjuhxurpmxdspmty', 'stack': 1390, 'state': 'participating'}]}
+Training data loaded.
+Trained model loaded successfully.
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986842105263158
+Training score: 1.0
+community cards of this round: ['C6', 'S9', 'D2', 'D4', 'H6']
+name: b11705043, hole_card: ['C3', 'S3']
+name: b10902087, hole_card: ['H5', 'D9']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['C3', 'S3']
+name: b10902087, hole_card: ['H5', 'D9']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['C3', 'S3']
+name: b10902087, hole_card: ['H5', 'D9']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['C6', 'S9', 'D2'])
+name: b11705043, hole_card: ['C3', 'S3']
+name: b10902087, hole_card: ['H5', 'D9']
+"b10902087" declared "raise:186"
+Training data saved successfully.
+name: b11705043, hole_card: ['C3', 'S3']
+name: b10902087, hole_card: ['H5', 'D9']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 1 (stack = {'b11705043': 990, 'b10902087': 1010})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986850756081526
+Training score: 1.0
+community cards of this round: ['HK', 'D2', 'H5', 'D3', 'D9']
+name: b11705043, hole_card: ['CT', 'C9']
+name: b10902087, hole_card: ['DK', 'HQ']
+Started the round 2
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['CT', 'C9']
+name: b10902087, hole_card: ['DK', 'HQ']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['CT', 'C9']
+name: b10902087, hole_card: ['DK', 'HQ']
+"b10902087" declared "raise:70"
+Training data saved successfully.
+name: b11705043, hole_card: ['CT', 'C9']
+name: b10902087, hole_card: ['DK', 'HQ']
+"b11705043" declared "call:70"
+Street "flop" started. (community card = ['HK', 'D2', 'H5'])
+Training data saved successfully.
+name: b11705043, hole_card: ['CT', 'C9']
+name: b10902087, hole_card: ['DK', 'HQ']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['CT', 'C9']
+name: b10902087, hole_card: ['DK', 'HQ']
+"b10902087" declared "raise:527"
+Training data saved successfully.
+name: b11705043, hole_card: ['CT', 'C9']
+name: b10902087, hole_card: ['DK', 'HQ']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 2 (stack = {'b11705043': 920, 'b10902087': 1080})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986859395532195
+Training score: 1.0
+community cards of this round: ['S4', 'S9', 'C3', 'S2', 'CJ']
+name: b11705043, hole_card: ['SA', 'H4']
+name: b10902087, hole_card: ['H7', 'SJ']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['SA', 'H4']
+name: b10902087, hole_card: ['H7', 'SJ']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'H4']
+name: b10902087, hole_card: ['H7', 'SJ']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['S4', 'S9', 'C3'])
+name: b11705043, hole_card: ['SA', 'H4']
+name: b10902087, hole_card: ['H7', 'SJ']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'H4']
+name: b10902087, hole_card: ['H7', 'SJ']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['S4', 'S9', 'C3', 'S2'])
+name: b11705043, hole_card: ['SA', 'H4']
+name: b10902087, hole_card: ['H7', 'SJ']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'H4']
+name: b10902087, hole_card: ['H7', 'SJ']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['S4', 'S9', 'C3', 'S2', 'CJ'])
+name: b11705043, hole_card: ['SA', 'H4']
+name: b10902087, hole_card: ['H7', 'SJ']
+"b10902087" declared "raise:125"
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'H4']
+name: b10902087, hole_card: ['H7', 'SJ']
+"b11705043" declared "call:125"
+"['b10902087']" won the round 3 (stack = {'b11705043': 785, 'b10902087': 1215})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980289093298291
+Training score: 1.0
+community cards of this round: ['D6', 'CA', 'S6', 'C6', 'CQ']
+name: b11705043, hole_card: ['SA', 'SJ']
+name: b10902087, hole_card: ['H2', 'D8']
+Started the round 4
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'SJ']
+name: b10902087, hole_card: ['H2', 'D8']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['SA', 'SJ']
+name: b10902087, hole_card: ['H2', 'D8']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['D6', 'CA', 'S6'])
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'SJ']
+name: b10902087, hole_card: ['H2', 'D8']
+"b11705043" declared "raise:50"
+name: b11705043, hole_card: ['SA', 'SJ']
+name: b10902087, hole_card: ['H2', 'D8']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 4 (stack = {'b11705043': 795, 'b10902087': 1205})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9973736047275115
+Training score: 1.0
+community cards of this round: ['H6', 'S4', 'D8', 'SA', 'DQ']
+name: b11705043, hole_card: ['H2', 'D6']
+name: b10902087, hole_card: ['DT', 'H8']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['H2', 'D6']
+name: b10902087, hole_card: ['DT', 'H8']
+"b10902087" declared "raise:42"
+Training data saved successfully.
+name: b11705043, hole_card: ['H2', 'D6']
+name: b10902087, hole_card: ['DT', 'H8']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 5 (stack = {'b11705043': 785, 'b10902087': 1215})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9973736047275115
+Training score: 1.0
+community cards of this round: ['DJ', 'C8', 'C7', 'HQ', 'S2']
+name: b11705043, hole_card: ['H4', 'H9']
+name: b10902087, hole_card: ['DA', 'D5']
+Started the round 6
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['H4', 'H9']
+name: b10902087, hole_card: ['DA', 'D5']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['H4', 'H9']
+name: b10902087, hole_card: ['DA', 'D5']
+"b10902087" declared "raise:237"
+Training data saved successfully.
+name: b11705043, hole_card: ['H4', 'H9']
+name: b10902087, hole_card: ['DA', 'D5']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 6 (stack = {'b11705043': 775, 'b10902087': 1225})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986868023637557
+Training score: 1.0
+community cards of this round: ['S2', 'D6', 'DT', 'DQ', 'HQ']
+name: b11705043, hole_card: ['D8', 'C7']
+name: b10902087, hole_card: ['C5', 'S4']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['D8', 'C7']
+name: b10902087, hole_card: ['C5', 'S4']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['D8', 'C7']
+name: b10902087, hole_card: ['C5', 'S4']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['S2', 'D6', 'DT'])
+name: b11705043, hole_card: ['D8', 'C7']
+name: b10902087, hole_card: ['C5', 'S4']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['D8', 'C7']
+name: b10902087, hole_card: ['C5', 'S4']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['S2', 'D6', 'DT', 'DQ'])
+name: b11705043, hole_card: ['D8', 'C7']
+name: b10902087, hole_card: ['C5', 'S4']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 7 (stack = {'b11705043': 785, 'b10902087': 1215})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986876640419947
+Training score: 1.0
+community cards of this round: ['S5', 'D3', 'S2', 'SK', 'DK']
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+Started the round 8
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['S5', 'D3', 'S2'])
+Training data saved successfully.
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+"b10902087" declared "raise:32"
+Training data saved successfully.
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+"b11705043" declared "call:32"
+Street "turn" started. (community card = ['S5', 'D3', 'S2', 'SK'])
+Training data saved successfully.
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+"b10902087" declared "raise:97"
+Training data saved successfully.
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+"b11705043" declared "call:97"
+Street "river" started. (community card = ['S5', 'D3', 'S2', 'SK', 'DK'])
+Training data saved successfully.
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+"b11705043" declared "raise:50"
+name: b11705043, hole_card: ['DJ', 'D5']
+name: b10902087, hole_card: ['C5', 'S6']
+"b10902087" declared "call:50"
+"['b11705043']" won the round 8 (stack = {'b11705043': 974, 'b10902087': 1026})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986885245901639
+Training score: 1.0
+community cards of this round: ['S6', 'CA', 'H5', 'CQ', 'D3']
+name: b11705043, hole_card: ['HT', 'DQ']
+name: b10902087, hole_card: ['HK', 'S8']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['HT', 'DQ']
+name: b10902087, hole_card: ['HK', 'S8']
+"b10902087" declared "raise:103"
+Training data saved successfully.
+name: b11705043, hole_card: ['HT', 'DQ']
+name: b10902087, hole_card: ['HK', 'S8']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 9 (stack = {'b11705043': 964, 'b10902087': 1036})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980327868852459
+Training score: 1.0
+community cards of this round: ['H3', 'DA', 'CK', 'H5', 'SJ']
+name: b11705043, hole_card: ['C3', 'C2']
+name: b10902087, hole_card: ['C7', 'D2']
+Started the round 10
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['C3', 'C2']
+name: b10902087, hole_card: ['C7', 'D2']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['C3', 'C2']
+name: b10902087, hole_card: ['C7', 'D2']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 10 (stack = {'b11705043': 974, 'b10902087': 1026})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980327868852459
+Training score: 1.0
+community cards of this round: ['H3', 'D9', 'HK', 'S5', 'H7']
+name: b11705043, hole_card: ['S4', 'DK']
+name: b10902087, hole_card: ['S6', 'C6']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['S4', 'DK']
+name: b10902087, hole_card: ['S6', 'C6']
+"b10902087" declared "raise:68"
+Training data saved successfully.
+name: b11705043, hole_card: ['S4', 'DK']
+name: b10902087, hole_card: ['S6', 'C6']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 11 (stack = {'b11705043': 964, 'b10902087': 1036})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986893840104849
+Training score: 1.0
+community cards of this round: ['HJ', 'C3', 'H3', 'S3', 'D2']
+name: b11705043, hole_card: ['CQ', 'S5']
+name: b10902087, hole_card: ['S7', 'SQ']
+Started the round 12
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['CQ', 'S5']
+name: b10902087, hole_card: ['S7', 'SQ']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['CQ', 'S5']
+name: b10902087, hole_card: ['S7', 'SQ']
+"b10902087" declared "raise:99"
+Training data saved successfully.
+name: b11705043, hole_card: ['CQ', 'S5']
+name: b10902087, hole_card: ['S7', 'SQ']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 12 (stack = {'b11705043': 954, 'b10902087': 1046})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980340760157274
+Training score: 1.0
+community cards of this round: ['SJ', 'S4', 'S6', 'S3', 'C3']
+name: b11705043, hole_card: ['CQ', 'CA']
+name: b10902087, hole_card: ['H7', 'D7']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['CQ', 'CA']
+name: b10902087, hole_card: ['H7', 'D7']
+"b10902087" declared "raise:121"
+Training data saved successfully.
+name: b11705043, hole_card: ['CQ', 'CA']
+name: b10902087, hole_card: ['H7', 'D7']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 13 (stack = {'b11705043': 944, 'b10902087': 1056})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980340760157274
+Training score: 1.0
+community cards of this round: ['C9', 'H7', 'S2', 'HQ', 'S9']
+name: b11705043, hole_card: ['SK', 'D6']
+name: b10902087, hole_card: ['HT', 'H5']
+Started the round 14
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['SK', 'D6']
+name: b10902087, hole_card: ['HT', 'H5']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['SK', 'D6']
+name: b10902087, hole_card: ['HT', 'H5']
+"b10902087" declared "call:10"
+Street "flop" started. (community card = ['C9', 'H7', 'S2'])
+Training data saved successfully.
+name: b11705043, hole_card: ['SK', 'D6']
+name: b10902087, hole_card: ['HT', 'H5']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['SK', 'D6']
+name: b10902087, hole_card: ['HT', 'H5']
+"b10902087" declared "call:0"
+Street "turn" started. (community card = ['C9', 'H7', 'S2', 'HQ'])
+Training data saved successfully.
+name: b11705043, hole_card: ['SK', 'D6']
+name: b10902087, hole_card: ['HT', 'H5']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['SK', 'D6']
+name: b10902087, hole_card: ['HT', 'H5']
+"b10902087" declared "call:0"
+Street "river" started. (community card = ['C9', 'H7', 'S2', 'HQ', 'S9'])
+Training data saved successfully.
+name: b11705043, hole_card: ['SK', 'D6']
+name: b10902087, hole_card: ['HT', 'H5']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['SK', 'D6']
+name: b10902087, hole_card: ['HT', 'H5']
+"b10902087" declared "fold:0"
+"['b11705043']" won the round 14 (stack = {'b11705043': 954, 'b10902087': 1046})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980353634577603
+Training score: 1.0
+community cards of this round: ['C8', 'DT', 'HJ', 'D6', 'D5']
+name: b11705043, hole_card: ['H3', 'H6']
+name: b10902087, hole_card: ['S8', 'C3']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['H3', 'H6']
+name: b10902087, hole_card: ['S8', 'C3']
+"b10902087" declared "call:10"
+Training data saved successfully.
+name: b11705043, hole_card: ['H3', 'H6']
+name: b10902087, hole_card: ['S8', 'C3']
+"b11705043" declared "call:10"
+Street "flop" started. (community card = ['C8', 'DT', 'HJ'])
+name: b11705043, hole_card: ['H3', 'H6']
+name: b10902087, hole_card: ['S8', 'C3']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['H3', 'H6']
+name: b10902087, hole_card: ['S8', 'C3']
+"b11705043" declared "call:0"
+Street "turn" started. (community card = ['C8', 'DT', 'HJ', 'D6'])
+name: b11705043, hole_card: ['H3', 'H6']
+name: b10902087, hole_card: ['S8', 'C3']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['H3', 'H6']
+name: b10902087, hole_card: ['S8', 'C3']
+"b11705043" declared "call:0"
+Street "river" started. (community card = ['C8', 'DT', 'HJ', 'D6', 'D5'])
+name: b11705043, hole_card: ['H3', 'H6']
+name: b10902087, hole_card: ['S8', 'C3']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['H3', 'H6']
+name: b10902087, hole_card: ['S8', 'C3']
+"b11705043" declared "call:0"
+"['b10902087']" won the round 15 (stack = {'b11705043': 944, 'b10902087': 1056})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986910994764397
+Training score: 1.0
+community cards of this round: ['HJ', 'CT', 'H6', 'C8', 'HQ']
+name: b11705043, hole_card: ['D7', 'H7']
+name: b10902087, hole_card: ['S4', 'DK']
+Started the round 16
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['D7', 'H7']
+name: b10902087, hole_card: ['S4', 'DK']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['D7', 'H7']
+name: b10902087, hole_card: ['S4', 'DK']
+"b10902087" declared "raise:107"
+Training data saved successfully.
+name: b11705043, hole_card: ['D7', 'H7']
+name: b10902087, hole_card: ['S4', 'DK']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 16 (stack = {'b11705043': 934, 'b10902087': 1066})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9973821989528796
+Training score: 1.0
+community cards of this round: ['H8', 'S9', 'DT', 'C9', 'D5']
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+"b10902087" declared "raise:130"
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+"b11705043" declared "call:130"
+Street "flop" started. (community card = ['H8', 'S9', 'DT'])
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+"b10902087" declared "raise:152"
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+"b11705043" declared "call:152"
+Street "turn" started. (community card = ['H8', 'S9', 'DT', 'C9'])
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+"b11705043" declared "raise:50"
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+"b10902087" declared "call:50"
+Street "river" started. (community card = ['H8', 'S9', 'DT', 'C9', 'D5'])
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+"b10902087" declared "call:0"
+Training data saved successfully.
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+"b11705043" declared "raise:50"
+name: b11705043, hole_card: ['SA', 'DA']
+name: b10902087, hole_card: ['CK', 'DJ']
+"b10902087" declared "call:50"
+"['b11705043']" won the round 17 (stack = {'b11705043': 1316, 'b10902087': 684})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980379332897319
+Training score: 1.0
+community cards of this round: ['H9', 'SA', 'H7', 'S2', 'D7']
+name: b11705043, hole_card: ['C8', 'H6']
+name: b10902087, hole_card: ['D3', 'SK']
+Started the round 18
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['C8', 'H6']
+name: b10902087, hole_card: ['D3', 'SK']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['C8', 'H6']
+name: b10902087, hole_card: ['D3', 'SK']
+"b10902087" declared "raise:55"
+Training data saved successfully.
+name: b11705043, hole_card: ['C8', 'H6']
+name: b10902087, hole_card: ['D3', 'SK']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 18 (stack = {'b11705043': 1306, 'b10902087': 694})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980379332897319
+Training score: 1.0
+community cards of this round: ['D2', 'H7', 'C9', 'H4', 'HJ']
+name: b11705043, hole_card: ['C8', 'C7']
+name: b10902087, hole_card: ['S7', 'SA']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11705043, hole_card: ['C8', 'C7']
+name: b10902087, hole_card: ['S7', 'SA']
+"b10902087" declared "raise:80"
+Training data saved successfully.
+name: b11705043, hole_card: ['C8', 'C7']
+name: b10902087, hole_card: ['S7', 'SA']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 19 (stack = {'b11705043': 1296, 'b10902087': 704})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9980392156862745
+Training score: 1.0
+community cards of this round: ['HK', 'H8', 'DJ', 'CA', 'S7']
+name: b11705043, hole_card: ['S5', 'S8']
+name: b10902087, hole_card: ['H4', 'H7']
+Started the round 20
+Street "preflop" started. (community card = [])
+Training data saved successfully.
+name: b11705043, hole_card: ['S5', 'S8']
+name: b10902087, hole_card: ['H4', 'H7']
+"b11705043" declared "call:10"
+name: b11705043, hole_card: ['S5', 'S8']
+name: b10902087, hole_card: ['H4', 'H7']
+"b10902087" declared "raise:28"
+Training data saved successfully.
+name: b11705043, hole_card: ['S5', 'S8']
+name: b10902087, hole_card: ['H4', 'H7']
+"b11705043" declared "call:28"
+Street "flop" started. (community card = ['HK', 'H8', 'DJ'])
+Training data saved successfully.
+name: b11705043, hole_card: ['S5', 'S8']
+name: b10902087, hole_card: ['H4', 'H7']
+"b11705043" declared "call:0"
+name: b11705043, hole_card: ['S5', 'S8']
+name: b10902087, hole_card: ['H4', 'H7']
+"b10902087" declared "raise:107"
+Training data saved successfully.
+name: b11705043, hole_card: ['S5', 'S8']
+name: b10902087, hole_card: ['H4', 'H7']
+"b11705043" declared "fold:0"
+"['b10902087']" won the round 20 (stack = {'b11705043': 1268, 'b10902087': 732})
+Using Gradient Boosting model.
+Trained model saved successfully.
+Test score: 0.9986928104575163
+Training score: 1.0
+b10902087 vs b11705043 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705043', 'uuid': 'ayvtjazmpuwtyexpeaovde', 'stack': 1268, 'state': 'participating'}, {'name': 'b10902087', 'uuid': 'fmvuxzuxlmjddmpobdabaq', 'stack': 732, 'state': 'participating'}]}
+Final Result: b10902087 won 3 games (stack: 6941), b11705043 won 2 games (stack: 3059)

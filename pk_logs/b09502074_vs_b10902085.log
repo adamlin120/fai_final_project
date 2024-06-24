@@ -1,0 +1,1700 @@
+{'player_num': 2, 'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 1000, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 1000, 'state': 'participating'}]}
+----------------receive_game_start_message-----------
+community cards of this round: ['H7', 'SQ', 'C2', 'CJ', 'D3']
+name: b10902085, hole_card: ['HA', 'DJ']
+name: b09502074, hole_card: ['S2', 'C9']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['HA', 'DJ']
+name: b09502074, hole_card: ['S2', 'C9']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 1000}}] Hole_card: ['HA', 'DJ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 990, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 955, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['HA', 'DJ'] 0.6328
+35 35
+1000 0
+1145 898
+name: b10902085, hole_card: ['HA', 'DJ']
+name: b09502074, hole_card: ['S2', 'C9']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 1 (stack = {'b10902085': 990, 'b09502074': 1010})
+-------------round result: 135.0 1010 ok -------------
+community cards of this round: ['HK', 'H6', 'H3', 'D9', 'D2']
+name: b10902085, hole_card: ['H9', 'S3']
+name: b09502074, hole_card: ['C8', 'D3']
+Started the round 2
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 990}}] Hole_card: ['H9', 'S3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 985, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 1000, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['H9', 'S3'] 0.39625
+5 5
+990 0
+1135 906
+name: b10902085, hole_card: ['H9', 'S3']
+name: b09502074, hole_card: ['C8', 'D3']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 2 (stack = {'b10902085': 985, 'b09502074': 1015})
+-------------round result: 130.0 1015 ok -------------
+community cards of this round: ['DQ', 'H6', 'D3', 'DJ', 'H5']
+name: b10902085, hole_card: ['C8', 'HT']
+name: b09502074, hole_card: ['D4', 'S9']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['C8', 'HT']
+name: b09502074, hole_card: ['D4', 'S9']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 985}}] Hole_card: ['C8', 'HT'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 975, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['C8', 'HT'] 0.5034
+35 35
+985 0
+1130 909
+name: b10902085, hole_card: ['C8', 'HT']
+name: b09502074, hole_card: ['D4', 'S9']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 3 (stack = {'b10902085': 975, 'b09502074': 1025})
+-------------round result: 120.0 1025 ok -------------
+community cards of this round: ['C7', 'CJ', 'C2', 'HA', 'CT']
+name: b10902085, hole_card: ['S7', 'S3']
+name: b09502074, hole_card: ['DT', 'S5']
+Started the round 4
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 975}}] Hole_card: ['S7', 'S3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 970, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 1015, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['S7', 'S3'] 0.39855
+5 5
+975 0
+1120 917
+name: b10902085, hole_card: ['S7', 'S3']
+name: b09502074, hole_card: ['DT', 'S5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 4 (stack = {'b10902085': 970, 'b09502074': 1030})
+-------------round result: 115.0 1030 ok -------------
+community cards of this round: ['HQ', 'D8', 'D9', 'H3', 'CK']
+name: b10902085, hole_card: ['S2', 'C2']
+name: b09502074, hole_card: ['S5', 'D3']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['S2', 'C2']
+name: b09502074, hole_card: ['S5', 'D3']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 970}}] Hole_card: ['S2', 'C2'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 960, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['S2', 'C2'] 0.491
+35 35
+970 0
+1115 920
+name: b10902085, hole_card: ['S2', 'C2']
+name: b09502074, hole_card: ['S5', 'D3']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 5 (stack = {'b10902085': 960, 'b09502074': 1040})
+-------------round result: 105.0 1040 ok -------------
+community cards of this round: ['CK', 'CA', 'SQ', 'HQ', 'DK']
+name: b10902085, hole_card: ['S9', 'CJ']
+name: b09502074, hole_card: ['C8', 'DA']
+Started the round 6
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 960}}] Hole_card: ['S9', 'CJ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 955, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 1030, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['S9', 'CJ'] 0.5285
+5 5
+960 0
+1105 928
+name: b10902085, hole_card: ['S9', 'CJ']
+name: b09502074, hole_card: ['C8', 'DA']
+"b10902085" declared "call:10"
+name: b10902085, hole_card: ['S9', 'CJ']
+name: b09502074, hole_card: ['C8', 'DA']
+"b09502074" declared "call:10"
+Street "flop" started. (community card = ['CK', 'CA', 'SQ'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 950}}] Hole_card: ['S9', 'CJ'] State: {'street': 'flop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['CK', 'CA', 'SQ'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 950, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 1030, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'oseitowgwgldwksgedozza'}], 'flop': []}}
+['S9', 'CJ'] 0.5171
+0 0
+955 10
+1105 928
+name: b10902085, hole_card: ['S9', 'CJ']
+name: b09502074, hole_card: ['C8', 'DA']
+"b10902085" declared "call:0"
+name: b10902085, hole_card: ['S9', 'CJ']
+name: b09502074, hole_card: ['C8', 'DA']
+"b09502074" declared "raise:10"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 20, 'max': 950}}] Hole_card: ['S9', 'CJ'] State: {'street': 'flop', 'pot': {'main': {'amount': 30}, 'side': []}, 'community_card': ['CK', 'CA', 'SQ'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 950, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 1020, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'oseitowgwgldwksgedozza'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['S9', 'CJ'] 0.5171
+10 10
+955 10
+1105 928
+name: b10902085, hole_card: ['S9', 'CJ']
+name: b09502074, hole_card: ['C8', 'DA']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 6 (stack = {'b10902085': 950, 'b09502074': 1050})
+-------------round result: 100.0 1050 ok -------------
+community cards of this round: ['CQ', 'D7', 'CT', 'H7', 'CA']
+name: b10902085, hole_card: ['D5', 'D3']
+name: b09502074, hole_card: ['H6', 'C3']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['D5', 'D3']
+name: b09502074, hole_card: ['H6', 'C3']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 950}}] Hole_card: ['D5', 'D3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 7, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 940, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 1005, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['D5', 'D3'] 0.40465
+35 35
+950 0
+1100 931
+name: b10902085, hole_card: ['D5', 'D3']
+name: b09502074, hole_card: ['H6', 'C3']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 7 (stack = {'b10902085': 940, 'b09502074': 1060})
+-------------round result: 90.0 1060 ok -------------
+community cards of this round: ['H4', 'H8', 'H2', 'D3', 'SQ']
+name: b10902085, hole_card: ['H6', 'H7']
+name: b09502074, hole_card: ['D4', 'HQ']
+Started the round 8
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 940}}] Hole_card: ['H6', 'H7'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 935, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 1050, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['H6', 'H7'] 0.45125
+5 5
+940 0
+1090 939
+name: b10902085, hole_card: ['H6', 'H7']
+name: b09502074, hole_card: ['D4', 'HQ']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 8 (stack = {'b10902085': 935, 'b09502074': 1065})
+-------------round result: 85.0 1065 ok -------------
+community cards of this round: ['H4', 'S2', 'SQ', 'HQ', 'HK']
+name: b10902085, hole_card: ['D5', 'DJ']
+name: b09502074, hole_card: ['SA', 'S4']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['D5', 'DJ']
+name: b09502074, hole_card: ['SA', 'S4']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 935}}] Hole_card: ['D5', 'DJ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 925, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 1020, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['D5', 'DJ'] 0.4948
+35 35
+935 0
+1085 942
+name: b10902085, hole_card: ['D5', 'DJ']
+name: b09502074, hole_card: ['SA', 'S4']
+"b10902085" declared "call:45"
+Street "flop" started. (community card = ['H4', 'S2', 'SQ'])
+name: b10902085, hole_card: ['D5', 'DJ']
+name: b09502074, hole_card: ['SA', 'S4']
+"b09502074" declared "raise:22"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 22}, {'action': 'raise', 'amount': {'min': 44, 'max': 890}}] Hole_card: ['D5', 'DJ'] State: {'street': 'flop', 'pot': {'main': {'amount': 112}, 'side': []}, 'community_card': ['H4', 'S2', 'SQ'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 890, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 998, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'CALL', 'amount': 45, 'paid': 35, 'uuid': 'gnskovrernapskkatpjbdv'}], 'flop': [{'action': 'RAISE', 'amount': 22, 'paid': 22, 'add_amount': 22, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['D5', 'DJ'] 0.34405
+22 22
+900 45
+1085 942
+name: b10902085, hole_card: ['D5', 'DJ']
+name: b09502074, hole_card: ['SA', 'S4']
+"b10902085" declared "call:22"
+Street "turn" started. (community card = ['H4', 'S2', 'SQ', 'HQ'])
+name: b10902085, hole_card: ['D5', 'DJ']
+name: b09502074, hole_card: ['SA', 'S4']
+"b09502074" declared "raise:504"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 504}, {'action': 'raise', 'amount': {'min': -1, 'max': -1}}] Hole_card: ['D5', 'DJ'] State: {'street': 'turn', 'pot': {'main': {'amount': 638}, 'side': []}, 'community_card': ['H4', 'S2', 'SQ', 'HQ'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 868, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 494, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'CALL', 'amount': 45, 'paid': 35, 'uuid': 'gnskovrernapskkatpjbdv'}], 'flop': [{'action': 'RAISE', 'amount': 22, 'paid': 22, 'add_amount': 22, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'CALL', 'amount': 22, 'paid': 22, 'uuid': 'gnskovrernapskkatpjbdv'}], 'turn': [{'action': 'RAISE', 'amount': 504, 'paid': 504, 'add_amount': 504, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['D5', 'DJ'] 0.3454
+504 504
+878 67
+1085 942
+name: b10902085, hole_card: ['D5', 'DJ']
+name: b09502074, hole_card: ['SA', 'S4']
+"b10902085" declared "call:504"
+Street "river" started. (community card = ['H4', 'S2', 'SQ', 'HQ', 'HK'])
+name: b10902085, hole_card: ['D5', 'DJ']
+name: b09502074, hole_card: ['SA', 'S4']
+"b09502074" declared "raise:494"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 494}, {'action': 'raise', 'amount': {'min': -1, 'max': -1}}] Hole_card: ['D5', 'DJ'] State: {'street': 'river', 'pot': {'main': {'amount': 1636}, 'side': [{'amount': 0, 'eligibles': ['oseitowgwgldwksgedozza']}]}, 'community_card': ['H4', 'S2', 'SQ', 'HQ', 'HK'], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 364, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gnskovrernapskkatpjbdv'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'CALL', 'amount': 45, 'paid': 35, 'uuid': 'gnskovrernapskkatpjbdv'}], 'flop': [{'action': 'RAISE', 'amount': 22, 'paid': 22, 'add_amount': 22, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'CALL', 'amount': 22, 'paid': 22, 'uuid': 'gnskovrernapskkatpjbdv'}], 'turn': [{'action': 'RAISE', 'amount': 504, 'paid': 504, 'add_amount': 504, 'uuid': 'oseitowgwgldwksgedozza'}, {'action': 'CALL', 'amount': 504, 'paid': 504, 'uuid': 'gnskovrernapskkatpjbdv'}], 'river': [{'action': 'RAISE', 'amount': 494, 'paid': 494, 'add_amount': 494, 'uuid': 'oseitowgwgldwksgedozza'}]}}
+['D5', 'DJ'] 0.2964
+494 494
+374 571
+1085 942
+name: b10902085, hole_card: ['D5', 'DJ']
+name: b09502074, hole_card: ['SA', 'S4']
+"b10902085" declared "call:494"
+"['b09502074']" won the round 9 (stack = {'b10902085': 0, 'b09502074': 2000})
+-------------round result: 85.0 2000 stop -------------
+b09502074 vs b10902085 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902085', 'uuid': 'gnskovrernapskkatpjbdv', 'stack': 0, 'state': 'folded'}, {'name': 'b09502074', 'uuid': 'oseitowgwgldwksgedozza', 'stack': 2000, 'state': 'participating'}]}
+----------------receive_game_start_message-----------
+{'player_num': 2, 'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 1000, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 1000, 'state': 'participating'}]}
+community cards of this round: ['H7', 'SQ', 'C2', 'CJ', 'D3']
+name: b09502074, hole_card: ['HA', 'DJ']
+name: b10902085, hole_card: ['S2', 'C9']
+Started the round 1
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1000}}] Hole_card: ['S2', 'C9'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 990, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 995, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['S2', 'C9'] 0.39135
+5 5
+1000 0
+1145 898
+name: b09502074, hole_card: ['HA', 'DJ']
+name: b10902085, hole_card: ['S2', 'C9']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 1 (stack = {'b09502074': 1005, 'b10902085': 995})
+-------------round result: 135.0 1005 ok -------------
+community cards of this round: ['HK', 'H6', 'H3', 'D9', 'D2']
+name: b09502074, hole_card: ['H9', 'S3']
+name: b10902085, hole_card: ['C8', 'D3']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['H9', 'S3']
+name: b10902085, hole_card: ['C8', 'D3']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 995}}] Hole_card: ['C8', 'D3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 960, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['C8', 'D3'] 0.37665
+35 35
+995 0
+1135 906
+name: b09502074, hole_card: ['H9', 'S3']
+name: b10902085, hole_card: ['C8', 'D3']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 2 (stack = {'b09502074': 1015, 'b10902085': 985})
+-------------round result: 125.0 1015 ok -------------
+community cards of this round: ['DQ', 'H6', 'D3', 'DJ', 'H5']
+name: b09502074, hole_card: ['C8', 'HT']
+name: b10902085, hole_card: ['D4', 'S9']
+Started the round 3
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 985}}] Hole_card: ['D4', 'S9'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 1005, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 980, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['D4', 'S9'] 0.40685
+5 5
+985 0
+1130 909
+name: b09502074, hole_card: ['C8', 'HT']
+name: b10902085, hole_card: ['D4', 'S9']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 3 (stack = {'b09502074': 1020, 'b10902085': 980})
+-------------round result: 120.0 1020 ok -------------
+community cards of this round: ['C7', 'CJ', 'C2', 'HA', 'CT']
+name: b09502074, hole_card: ['S7', 'S3']
+name: b10902085, hole_card: ['DT', 'S5']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['S7', 'S3']
+name: b10902085, hole_card: ['DT', 'S5']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 980}}] Hole_card: ['DT', 'S5'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 975, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['DT', 'S5'] 0.437
+35 35
+980 0
+1120 917
+name: b09502074, hole_card: ['S7', 'S3']
+name: b10902085, hole_card: ['DT', 'S5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 4 (stack = {'b09502074': 1030, 'b10902085': 970})
+-------------round result: 110.0 1030 ok -------------
+community cards of this round: ['HQ', 'D8', 'D9', 'H3', 'CK']
+name: b09502074, hole_card: ['S2', 'C2']
+name: b10902085, hole_card: ['S5', 'D3']
+Started the round 5
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 970}}] Hole_card: ['S5', 'D3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 1020, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 965, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['S5', 'D3'] 0.3639
+5 5
+970 0
+1115 920
+name: b09502074, hole_card: ['S2', 'C2']
+name: b10902085, hole_card: ['S5', 'D3']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 5 (stack = {'b09502074': 1035, 'b10902085': 965})
+-------------round result: 105.0 1035 ok -------------
+community cards of this round: ['CK', 'CA', 'SQ', 'HQ', 'DK']
+name: b09502074, hole_card: ['S9', 'CJ']
+name: b10902085, hole_card: ['C8', 'DA']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['S9', 'CJ']
+name: b10902085, hole_card: ['C8', 'DA']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 965}}] Hole_card: ['C8', 'DA'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 990, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 955, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['C8', 'DA'] 0.59635
+35 35
+965 0
+1105 928
+name: b09502074, hole_card: ['S9', 'CJ']
+name: b10902085, hole_card: ['C8', 'DA']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 6 (stack = {'b09502074': 1045, 'b10902085': 955})
+-------------round result: 95.0 1045 ok -------------
+community cards of this round: ['CQ', 'D7', 'CT', 'H7', 'CA']
+name: b09502074, hole_card: ['D5', 'D3']
+name: b10902085, hole_card: ['H6', 'C3']
+Started the round 7
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 955}}] Hole_card: ['H6', 'C3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 7, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 1035, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 950, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['H6', 'C3'] 0.36575
+5 5
+955 0
+1100 931
+name: b09502074, hole_card: ['D5', 'D3']
+name: b10902085, hole_card: ['H6', 'C3']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 7 (stack = {'b09502074': 1050, 'b10902085': 950})
+-------------round result: 90.0 1050 ok -------------
+community cards of this round: ['H4', 'H8', 'H2', 'D3', 'SQ']
+name: b09502074, hole_card: ['H6', 'H7']
+name: b10902085, hole_card: ['D4', 'HQ']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['H6', 'H7']
+name: b10902085, hole_card: ['D4', 'HQ']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 950}}] Hole_card: ['D4', 'HQ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 1005, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 940, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['D4', 'HQ'] 0.4932
+35 35
+950 0
+1090 939
+name: b09502074, hole_card: ['H6', 'H7']
+name: b10902085, hole_card: ['D4', 'HQ']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 8 (stack = {'b09502074': 1060, 'b10902085': 940})
+-------------round result: 80.0 1060 ok -------------
+community cards of this round: ['H4', 'S2', 'SQ', 'HQ', 'HK']
+name: b09502074, hole_card: ['D5', 'DJ']
+name: b10902085, hole_card: ['SA', 'S4']
+Started the round 9
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 940}}] Hole_card: ['SA', 'S4'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 1050, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 935, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['SA', 'S4'] 0.58855
+5 5
+940 0
+1085 942
+name: b09502074, hole_card: ['D5', 'DJ']
+name: b10902085, hole_card: ['SA', 'S4']
+"b10902085" declared "call:10"
+name: b09502074, hole_card: ['D5', 'DJ']
+name: b10902085, hole_card: ['SA', 'S4']
+"b09502074" declared "call:10"
+Street "flop" started. (community card = ['H4', 'S2', 'SQ'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 930}}] Hole_card: ['SA', 'S4'] State: {'street': 'flop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['H4', 'S2', 'SQ'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 1050, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 930, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'umyrhelgmnawkwyogwhmmv'}], 'flop': []}}
+['SA', 'S4'] 0.8029
+0 0
+935 10
+1085 942
+name: b09502074, hole_card: ['D5', 'DJ']
+name: b10902085, hole_card: ['SA', 'S4']
+"b10902085" declared "raise:25"
+name: b09502074, hole_card: ['D5', 'DJ']
+name: b10902085, hole_card: ['SA', 'S4']
+"b09502074" declared "fold:0"
+"['b10902085']" won the round 9 (stack = {'b09502074': 1050, 'b10902085': 950})
+-------------round result: 75.0 1050 ok -------------
+community cards of this round: ['SA', 'CA', 'S9', 'SQ', 'C7']
+name: b09502074, hole_card: ['DK', 'D5']
+name: b10902085, hole_card: ['CK', 'ST']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['DK', 'D5']
+name: b10902085, hole_card: ['CK', 'ST']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 950}}] Hole_card: ['CK', 'ST'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 10, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 1005, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 940, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['CK', 'ST'] 0.593
+35 35
+950 0
+1075 950
+name: b09502074, hole_card: ['DK', 'D5']
+name: b10902085, hole_card: ['CK', 'ST']
+"b10902085" declared "call:45"
+Street "flop" started. (community card = ['SA', 'CA', 'S9'])
+name: b09502074, hole_card: ['DK', 'D5']
+name: b10902085, hole_card: ['CK', 'ST']
+"b09502074" declared "raise:22"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 22}, {'action': 'raise', 'amount': {'min': 44, 'max': 905}}] Hole_card: ['CK', 'ST'] State: {'street': 'flop', 'pot': {'main': {'amount': 112}, 'side': []}, 'community_card': ['SA', 'CA', 'S9'], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 10, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 983, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 905, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'CALL', 'amount': 45, 'paid': 35, 'uuid': 'sftihmahqzhathbzndonoc'}], 'flop': [{'action': 'RAISE', 'amount': 22, 'paid': 22, 'add_amount': 22, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['CK', 'ST'] 0.6137
+22 22
+915 45
+1075 950
+name: b09502074, hole_card: ['DK', 'D5']
+name: b10902085, hole_card: ['CK', 'ST']
+"b10902085" declared "call:22"
+Street "turn" started. (community card = ['SA', 'CA', 'S9', 'SQ'])
+name: b09502074, hole_card: ['DK', 'D5']
+name: b10902085, hole_card: ['CK', 'ST']
+"b09502074" declared "fold:0"
+"['b10902085']" won the round 10 (stack = {'b09502074': 983, 'b10902085': 1017})
+-------------round result: 65.0 983 ok -------------
+community cards of this round: ['D6', 'DK', 'S6', 'HQ', 'H5']
+name: b09502074, hole_card: ['D7', 'D4']
+name: b10902085, hole_card: ['S9', 'H7']
+Started the round 11
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1017}}] Hole_card: ['S9', 'H7'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 11, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 973, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 1012, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['S9', 'H7'] 0.4656
+5 5
+1017 0
+1070 953
+name: b09502074, hole_card: ['D7', 'D4']
+name: b10902085, hole_card: ['S9', 'H7']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 11 (stack = {'b09502074': 988, 'b10902085': 1012})
+-------------round result: 60.0 988 ok -------------
+community cards of this round: ['C6', 'D8', 'S7', 'DQ', 'H2']
+name: b09502074, hole_card: ['C7', 'SJ']
+name: b10902085, hole_card: ['C3', 'SQ']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['C7', 'SJ']
+name: b10902085, hole_card: ['C3', 'SQ']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 1012}}] Hole_card: ['C3', 'SQ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 943, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 1002, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['C3', 'SQ'] 0.4891
+35 35
+1012 0
+1060 961
+name: b09502074, hole_card: ['C7', 'SJ']
+name: b10902085, hole_card: ['C3', 'SQ']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 12 (stack = {'b09502074': 998, 'b10902085': 1002})
+-------------round result: 50.0 998 ok -------------
+community cards of this round: ['C7', 'S5', 'D4', 'D3', 'S9']
+name: b09502074, hole_card: ['S6', 'SJ']
+name: b10902085, hole_card: ['S7', 'S3']
+Started the round 13
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1002}}] Hole_card: ['S7', 'S3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 988, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 997, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['S7', 'S3'] 0.39835
+5 5
+1002 0
+1055 964
+name: b09502074, hole_card: ['S6', 'SJ']
+name: b10902085, hole_card: ['S7', 'S3']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 13 (stack = {'b09502074': 1003, 'b10902085': 997})
+-------------round result: 45.0 1003 ok -------------
+community cards of this round: ['C6', 'C5', 'SQ', 'C8', 'HJ']
+name: b09502074, hole_card: ['H9', 'CJ']
+name: b10902085, hole_card: ['DQ', 'S3']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['H9', 'CJ']
+name: b10902085, hole_card: ['DQ', 'S3']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 997}}] Hole_card: ['DQ', 'S3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 14, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 958, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 987, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['DQ', 'S3'] 0.49195
+35 35
+997 0
+1045 972
+name: b09502074, hole_card: ['H9', 'CJ']
+name: b10902085, hole_card: ['DQ', 'S3']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 14 (stack = {'b09502074': 1013, 'b10902085': 987})
+-------------round result: 35.0 1013 ok -------------
+community cards of this round: ['D4', 'CK', 'H2', 'H9', 'C9']
+name: b09502074, hole_card: ['H4', 'H6']
+name: b10902085, hole_card: ['D8', 'DK']
+Started the round 15
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 987}}] Hole_card: ['D8', 'DK'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 1003, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 982, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['D8', 'DK'] 0.5795
+5 5
+987 0
+1040 975
+name: b09502074, hole_card: ['H4', 'H6']
+name: b10902085, hole_card: ['D8', 'DK']
+"b10902085" declared "call:10"
+name: b09502074, hole_card: ['H4', 'H6']
+name: b10902085, hole_card: ['D8', 'DK']
+"b09502074" declared "call:10"
+Street "flop" started. (community card = ['D4', 'CK', 'H2'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 977}}] Hole_card: ['D8', 'DK'] State: {'street': 'flop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['D4', 'CK', 'H2'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 1003, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 977, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'umyrhelgmnawkwyogwhmmv'}], 'flop': []}}
+['D8', 'DK'] 0.8417
+0 0
+982 10
+1040 975
+name: b09502074, hole_card: ['H4', 'H6']
+name: b10902085, hole_card: ['D8', 'DK']
+"b10902085" declared "raise:33"
+name: b09502074, hole_card: ['H4', 'H6']
+name: b10902085, hole_card: ['D8', 'DK']
+"b09502074" declared "raise:66"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 66}, {'action': 'raise', 'amount': {'min': 99, 'max': 977}}] Hole_card: ['D8', 'DK'] State: {'street': 'flop', 'pot': {'main': {'amount': 119}, 'side': []}, 'community_card': ['D4', 'CK', 'H2'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 937, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 944, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'umyrhelgmnawkwyogwhmmv'}], 'flop': [{'action': 'RAISE', 'amount': 33, 'paid': 33, 'add_amount': 33, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 66, 'paid': 66, 'add_amount': 33, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['D8', 'DK'] 0.8417
+33 33
+949 10
+1040 975
+name: b09502074, hole_card: ['H4', 'H6']
+name: b10902085, hole_card: ['D8', 'DK']
+"b10902085" declared "call:66"
+Street "turn" started. (community card = ['D4', 'CK', 'H2', 'H9'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 911}}] Hole_card: ['D8', 'DK'] State: {'street': 'turn', 'pot': {'main': {'amount': 152}, 'side': []}, 'community_card': ['D4', 'CK', 'H2', 'H9'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 937, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 911, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'umyrhelgmnawkwyogwhmmv'}], 'flop': [{'action': 'RAISE', 'amount': 33, 'paid': 33, 'add_amount': 33, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 66, 'paid': 66, 'add_amount': 33, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'CALL', 'amount': 66, 'paid': 33, 'uuid': 'sftihmahqzhathbzndonoc'}], 'turn': []}}
+['D8', 'DK'] 0.84755
+0 0
+916 76
+1040 975
+name: b09502074, hole_card: ['H4', 'H6']
+name: b10902085, hole_card: ['D8', 'DK']
+"b10902085" declared "call:0"
+name: b09502074, hole_card: ['H4', 'H6']
+name: b10902085, hole_card: ['D8', 'DK']
+"b09502074" declared "raise:937"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 937}, {'action': 'raise', 'amount': {'min': -1, 'max': -1}}] Hole_card: ['D8', 'DK'] State: {'street': 'turn', 'pot': {'main': {'amount': 1089}, 'side': [{'amount': 0, 'eligibles': ['umyrhelgmnawkwyogwhmmv']}]}, 'community_card': ['D4', 'CK', 'H2', 'H9'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 0, 'state': 'allin'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 911, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'umyrhelgmnawkwyogwhmmv'}], 'flop': [{'action': 'RAISE', 'amount': 33, 'paid': 33, 'add_amount': 33, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 66, 'paid': 66, 'add_amount': 33, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'CALL', 'amount': 66, 'paid': 33, 'uuid': 'sftihmahqzhathbzndonoc'}], 'turn': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 937, 'paid': 937, 'add_amount': 937, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['D8', 'DK'] 0.84755
+937 937
+916 76
+1040 975
+name: b09502074, hole_card: ['H4', 'H6']
+name: b10902085, hole_card: ['D8', 'DK']
+"b10902085" declared "call:937"
+Street "river" started. (community card = ['D4', 'CK', 'H2', 'H9', 'C9'])
+"['b10902085']" won the round 15 (stack = {'b09502074': 26, 'b10902085': 1974})
+-------------round result: 30.0 26 ok -------------
+community cards of this round: ['C2', 'CQ', 'S2', 'DJ', 'H4']
+name: b09502074, hole_card: ['HA', 'D6']
+name: b10902085, hole_card: ['H5', 'SQ']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['HA', 'D6']
+name: b10902085, hole_card: ['H5', 'SQ']
+"b09502074" declared "raise:26"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 26}, {'action': 'raise', 'amount': {'min': 42, 'max': 1974}}] Hole_card: ['H5', 'SQ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 36}, 'side': [{'amount': 0, 'eligibles': ['umyrhelgmnawkwyogwhmmv']}]}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 16, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 0, 'state': 'allin'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 1964, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 26, 'paid': 21, 'add_amount': 16, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['H5', 'SQ'] 0.5
+16 16
+1974 0
+1030 983
+name: b09502074, hole_card: ['HA', 'D6']
+name: b10902085, hole_card: ['H5', 'SQ']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 16 (stack = {'b09502074': 36, 'b10902085': 1964})
+-------------round result: 20.0 36 ok -------------
+community cards of this round: ['H4', 'H9', 'S5', 'SQ', 'SA']
+name: b09502074, hole_card: ['C6', 'S3']
+name: b10902085, hole_card: ['CT', 'H6']
+Started the round 17
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1964}}] Hole_card: ['CT', 'H6'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 17, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 26, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 1959, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['CT', 'H6'] 0.45965
+5 5
+1964 0
+1025 986
+name: b09502074, hole_card: ['C6', 'S3']
+name: b10902085, hole_card: ['CT', 'H6']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 17 (stack = {'b09502074': 41, 'b10902085': 1959})
+-------------round result: 15.0 41 ok -------------
+community cards of this round: ['S2', 'S3', 'CT', 'H9', 'SK']
+name: b09502074, hole_card: ['C7', 'ST']
+name: b10902085, hole_card: ['H2', 'CQ']
+Started the round 18
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['C7', 'ST']
+name: b10902085, hole_card: ['H2', 'CQ']
+"b09502074" declared "raise:41"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 41}, {'action': 'raise', 'amount': {'min': 72, 'max': 1959}}] Hole_card: ['H2', 'CQ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 51}, 'side': [{'amount': 0, 'eligibles': ['umyrhelgmnawkwyogwhmmv']}]}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 18, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 0, 'state': 'allin'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 1949, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 41, 'paid': 36, 'add_amount': 31, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['H2', 'CQ'] 0.4672
+31 31
+1959 0
+1015 994
+name: b09502074, hole_card: ['C7', 'ST']
+name: b10902085, hole_card: ['H2', 'CQ']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 18 (stack = {'b09502074': 51, 'b10902085': 1949})
+-------------round result: 5.0 51 ok -------------
+community cards of this round: ['C5', 'DQ', 'HJ', 'C4', 'D4']
+name: b09502074, hole_card: ['HA', 'C6']
+name: b10902085, hole_card: ['D2', 'H5']
+Started the round 19
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1949}}] Hole_card: ['D2', 'H5'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 19, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 41, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 1944, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['D2', 'H5'] 0.34455
+5 5
+1949 0
+1010 997
+name: b09502074, hole_card: ['HA', 'C6']
+name: b10902085, hole_card: ['D2', 'H5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 19 (stack = {'b09502074': 56, 'b10902085': 1944})
+-------------round result: 0.0 56 ok -------------
+community cards of this round: ['SA', 'H5', 'H3', 'C4', 'CA']
+name: b09502074, hole_card: ['CK', 'S8']
+name: b10902085, hole_card: ['DA', 'S3']
+Started the round 20
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['CK', 'S8']
+name: b10902085, hole_card: ['DA', 'S3']
+"b09502074" declared "raise:56"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 56}, {'action': 'raise', 'amount': {'min': 102, 'max': 1944}}] Hole_card: ['DA', 'S3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 66}, 'side': [{'amount': 0, 'eligibles': ['umyrhelgmnawkwyogwhmmv']}]}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 20, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 0, 'state': 'allin'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 1934, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'umyrhelgmnawkwyogwhmmv'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'sftihmahqzhathbzndonoc'}, {'action': 'RAISE', 'amount': 56, 'paid': 51, 'add_amount': 46, 'uuid': 'umyrhelgmnawkwyogwhmmv'}]}}
+['DA', 'S3'] 0.55225
+46 46
+1944 0
+1000 1005
+name: b09502074, hole_card: ['CK', 'S8']
+name: b10902085, hole_card: ['DA', 'S3']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 20 (stack = {'b09502074': 66, 'b10902085': 1934})
+-------------round result: -10.0 66 ok -------------
+b09502074 vs b10902085 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b09502074', 'uuid': 'umyrhelgmnawkwyogwhmmv', 'stack': 66, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'sftihmahqzhathbzndonoc', 'stack': 1934, 'state': 'participating'}]}
+{'player_num': 2, 'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 1000, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 1000, 'state': 'participating'}]}
+----------------receive_game_start_message-----------
+community cards of this round: ['DK', 'S7', 'D7', 'S6', 'H3']
+name: b10902085, hole_card: ['D4', 'CJ']
+name: b09502074, hole_card: ['D8', 'H6']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['D4', 'CJ']
+name: b09502074, hole_card: ['D8', 'H6']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 1000}}] Hole_card: ['D4', 'CJ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 990, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 955, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['D4', 'CJ'] 0.4681
+35 35
+1000 0
+1145 898
+name: b10902085, hole_card: ['D4', 'CJ']
+name: b09502074, hole_card: ['D8', 'H6']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 1 (stack = {'b10902085': 990, 'b09502074': 1010})
+-------------round result: 135.0 1010 ok -------------
+community cards of this round: ['HT', 'S6', 'D4', 'D2', 'CJ']
+name: b10902085, hole_card: ['HK', 'CK']
+name: b09502074, hole_card: ['C8', 'S3']
+Started the round 2
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 990}}] Hole_card: ['HK', 'CK'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 985, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 1000, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['HK', 'CK'] 0.82045
+5 5
+990 0
+1135 906
+name: b10902085, hole_card: ['HK', 'CK']
+name: b09502074, hole_card: ['C8', 'S3']
+"b10902085" declared "raise:26"
+name: b10902085, hole_card: ['HK', 'CK']
+name: b09502074, hole_card: ['C8', 'S3']
+"b09502074" declared "call:26"
+Street "flop" started. (community card = ['HT', 'S6', 'D4'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 964}}] Hole_card: ['HK', 'CK'] State: {'street': 'flop', 'pot': {'main': {'amount': 52}, 'side': []}, 'community_card': ['HT', 'S6', 'D4'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 964, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 984, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'RAISE', 'amount': 26, 'paid': 21, 'add_amount': 16, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'CALL', 'amount': 26, 'paid': 16, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}], 'flop': []}}
+['HK', 'CK'] 0.82315
+0 0
+969 26
+1135 906
+name: b10902085, hole_card: ['HK', 'CK']
+name: b09502074, hole_card: ['C8', 'S3']
+"b10902085" declared "raise:79"
+name: b10902085, hole_card: ['HK', 'CK']
+name: b09502074, hole_card: ['C8', 'S3']
+"b09502074" declared "fold:0"
+"['b10902085']" won the round 2 (stack = {'b10902085': 1016, 'b09502074': 984})
+-------------round result: 130.0 984 ok -------------
+community cards of this round: ['D3', 'S8', 'ST', 'H9', 'H3']
+name: b10902085, hole_card: ['D7', 'CT']
+name: b09502074, hole_card: ['C8', 'D2']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['D7', 'CT']
+name: b09502074, hole_card: ['C8', 'D2']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 1016}}] Hole_card: ['D7', 'CT'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 1006, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 939, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['D7', 'CT'] 0.4839
+35 35
+1016 0
+1130 909
+name: b10902085, hole_card: ['D7', 'CT']
+name: b09502074, hole_card: ['C8', 'D2']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 3 (stack = {'b10902085': 1006, 'b09502074': 994})
+-------------round result: 120.0 994 ok -------------
+community cards of this round: ['C5', 'C9', 'S8', 'H3', 'DJ']
+name: b10902085, hole_card: ['D9', 'D2']
+name: b09502074, hole_card: ['D7', 'DA']
+Started the round 4
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1006}}] Hole_card: ['D9', 'D2'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 1001, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 984, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['D9', 'D2'] 0.42415
+5 5
+1006 0
+1120 917
+name: b10902085, hole_card: ['D9', 'D2']
+name: b09502074, hole_card: ['D7', 'DA']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 4 (stack = {'b10902085': 1001, 'b09502074': 999})
+-------------round result: 115.0 999 ok -------------
+community cards of this round: ['C9', 'CK', 'H6', 'H2', 'C3']
+name: b10902085, hole_card: ['HQ', 'D5']
+name: b09502074, hole_card: ['HA', 'S6']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['HQ', 'D5']
+name: b09502074, hole_card: ['HA', 'S6']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 1001}}] Hole_card: ['HQ', 'D5'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 991, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 954, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['HQ', 'D5'] 0.5042
+35 35
+1001 0
+1115 920
+name: b10902085, hole_card: ['HQ', 'D5']
+name: b09502074, hole_card: ['HA', 'S6']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 5 (stack = {'b10902085': 991, 'b09502074': 1009})
+-------------round result: 105.0 1009 ok -------------
+community cards of this round: ['S5', 'C4', 'DJ', 'C3', 'S2']
+name: b10902085, hole_card: ['C8', 'CT']
+name: b09502074, hole_card: ['D7', 'S6']
+Started the round 6
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 991}}] Hole_card: ['C8', 'CT'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 986, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 999, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['C8', 'CT'] 0.52485
+5 5
+991 0
+1105 928
+name: b10902085, hole_card: ['C8', 'CT']
+name: b09502074, hole_card: ['D7', 'S6']
+"b10902085" declared "call:10"
+name: b10902085, hole_card: ['C8', 'CT']
+name: b09502074, hole_card: ['D7', 'S6']
+"b09502074" declared "call:10"
+Street "flop" started. (community card = ['S5', 'C4', 'DJ'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 981}}] Hole_card: ['C8', 'CT'] State: {'street': 'flop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['S5', 'C4', 'DJ'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 981, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 999, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}], 'flop': []}}
+['C8', 'CT'] 0.3629
+0 0
+986 10
+1105 928
+name: b10902085, hole_card: ['C8', 'CT']
+name: b09502074, hole_card: ['D7', 'S6']
+"b10902085" declared "call:0"
+name: b10902085, hole_card: ['C8', 'CT']
+name: b09502074, hole_card: ['D7', 'S6']
+"b09502074" declared "raise:10"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 20, 'max': 981}}] Hole_card: ['C8', 'CT'] State: {'street': 'flop', 'pot': {'main': {'amount': 30}, 'side': []}, 'community_card': ['S5', 'C4', 'DJ'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 981, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 989, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['C8', 'CT'] 0.3629
+10 10
+986 10
+1105 928
+name: b10902085, hole_card: ['C8', 'CT']
+name: b09502074, hole_card: ['D7', 'S6']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 6 (stack = {'b10902085': 981, 'b09502074': 1019})
+-------------round result: 100.0 1019 ok -------------
+community cards of this round: ['D9', 'SQ', 'H4', 'H5', 'C5']
+name: b10902085, hole_card: ['C3', 'DK']
+name: b09502074, hole_card: ['S7', 'S9']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['C3', 'DK']
+name: b09502074, hole_card: ['S7', 'S9']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 981}}] Hole_card: ['C3', 'DK'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 7, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 971, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 974, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['C3', 'DK'] 0.50235
+35 35
+981 0
+1100 931
+name: b10902085, hole_card: ['C3', 'DK']
+name: b09502074, hole_card: ['S7', 'S9']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 7 (stack = {'b10902085': 971, 'b09502074': 1029})
+-------------round result: 90.0 1029 ok -------------
+community cards of this round: ['SQ', 'S6', 'S4', 'S2', 'S9']
+name: b10902085, hole_card: ['HJ', 'H8']
+name: b09502074, hole_card: ['C5', 'S5']
+Started the round 8
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 971}}] Hole_card: ['HJ', 'H8'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 966, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 1019, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['HJ', 'H8'] 0.54275
+5 5
+971 0
+1090 939
+name: b10902085, hole_card: ['HJ', 'H8']
+name: b09502074, hole_card: ['C5', 'S5']
+"b10902085" declared "call:10"
+name: b10902085, hole_card: ['HJ', 'H8']
+name: b09502074, hole_card: ['C5', 'S5']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 971}}] Hole_card: ['HJ', 'H8'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 961, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 984, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 45, 'paid': 35, 'add_amount': 35, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['HJ', 'H8'] 0.54275
+35 35
+966 0
+1090 939
+name: b10902085, hole_card: ['HJ', 'H8']
+name: b09502074, hole_card: ['C5', 'S5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 8 (stack = {'b10902085': 961, 'b09502074': 1039})
+-------------round result: 85.0 1039 ok -------------
+community cards of this round: ['D6', 'DA', 'ST', 'C6', 'D5']
+name: b10902085, hole_card: ['D2', 'SK']
+name: b09502074, hole_card: ['SA', 'C5']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['D2', 'SK']
+name: b09502074, hole_card: ['SA', 'C5']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 961}}] Hole_card: ['D2', 'SK'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 951, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 994, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['D2', 'SK'] 0.5079
+35 35
+961 0
+1085 942
+name: b10902085, hole_card: ['D2', 'SK']
+name: b09502074, hole_card: ['SA', 'C5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 9 (stack = {'b10902085': 951, 'b09502074': 1049})
+-------------round result: 75.0 1049 ok -------------
+community cards of this round: ['HJ', 'SA', 'D6', 'CA', 'D2']
+name: b10902085, hole_card: ['S2', 'HA']
+name: b09502074, hole_card: ['C5', 'C6']
+Started the round 10
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 951}}] Hole_card: ['S2', 'HA'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 10, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 946, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 1039, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['S2', 'HA'] 0.54905
+5 5
+951 0
+1075 950
+name: b10902085, hole_card: ['S2', 'HA']
+name: b09502074, hole_card: ['C5', 'C6']
+"b10902085" declared "call:10"
+name: b10902085, hole_card: ['S2', 'HA']
+name: b09502074, hole_card: ['C5', 'C6']
+"b09502074" declared "call:10"
+Street "flop" started. (community card = ['HJ', 'SA', 'D6'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 941}}] Hole_card: ['S2', 'HA'] State: {'street': 'flop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['HJ', 'SA', 'D6'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 10, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 941, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 1039, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}], 'flop': []}}
+['S2', 'HA'] 0.85195
+0 0
+946 10
+1075 950
+name: b10902085, hole_card: ['S2', 'HA']
+name: b09502074, hole_card: ['C5', 'C6']
+"b10902085" declared "raise:35"
+name: b10902085, hole_card: ['S2', 'HA']
+name: b09502074, hole_card: ['C5', 'C6']
+"b09502074" declared "fold:0"
+"['b10902085']" won the round 10 (stack = {'b10902085': 961, 'b09502074': 1039})
+-------------round result: 70.0 1039 ok -------------
+community cards of this round: ['DT', 'DJ', 'HA', 'S8', 'D3']
+name: b10902085, hole_card: ['CA', 'C7']
+name: b09502074, hole_card: ['S6', 'D7']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['CA', 'C7']
+name: b09502074, hole_card: ['S6', 'D7']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 961}}] Hole_card: ['CA', 'C7'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 11, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 951, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 994, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['CA', 'C7'] 0.6071
+35 35
+961 0
+1070 953
+name: b10902085, hole_card: ['CA', 'C7']
+name: b09502074, hole_card: ['S6', 'D7']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 11 (stack = {'b10902085': 951, 'b09502074': 1049})
+-------------round result: 60.0 1049 ok -------------
+community cards of this round: ['DQ', 'HA', 'D5', 'S7', 'S2']
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+Started the round 12
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 951}}] Hole_card: ['C8', 'C3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 946, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 1039, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['C8', 'C3'] 0.41265
+5 5
+951 0
+1060 961
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b10902085" declared "call:10"
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b09502074" declared "call:10"
+Street "flop" started. (community card = ['DQ', 'HA', 'D5'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 941}}] Hole_card: ['C8', 'C3'] State: {'street': 'flop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['DQ', 'HA', 'D5'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 941, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 1039, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}], 'flop': []}}
+['C8', 'C3'] 0.2303
+0 0
+946 10
+1060 961
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b10902085" declared "call:0"
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b09502074" declared "raise:10"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 20, 'max': 941}}] Hole_card: ['C8', 'C3'] State: {'street': 'flop', 'pot': {'main': {'amount': 30}, 'side': []}, 'community_card': ['DQ', 'HA', 'D5'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 941, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 1029, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['C8', 'C3'] 0.2303
+10 10
+946 10
+1060 961
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b10902085" declared "call:10"
+Street "turn" started. (community card = ['DQ', 'HA', 'D5', 'S7'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 931}}] Hole_card: ['C8', 'C3'] State: {'street': 'turn', 'pot': {'main': {'amount': 40}, 'side': []}, 'community_card': ['DQ', 'HA', 'D5', 'S7'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 931, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 1029, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 10, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}], 'turn': []}}
+['C8', 'C3'] 0.13955
+0 0
+936 20
+1060 961
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b10902085" declared "call:0"
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b09502074" declared "raise:519"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 519}, {'action': 'raise', 'amount': {'min': -1, 'max': -1}}] Hole_card: ['C8', 'C3'] State: {'street': 'turn', 'pot': {'main': {'amount': 559}, 'side': []}, 'community_card': ['DQ', 'HA', 'D5', 'S7'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 931, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 510, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 10, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}], 'turn': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 519, 'paid': 519, 'add_amount': 519, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['C8', 'C3'] 0.13955
+519 519
+936 20
+1060 961
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b10902085" declared "call:519"
+Street "river" started. (community card = ['DQ', 'HA', 'D5', 'S7', 'S2'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 412}}] Hole_card: ['C8', 'C3'] State: {'street': 'river', 'pot': {'main': {'amount': 1078}, 'side': []}, 'community_card': ['DQ', 'HA', 'D5', 'S7', 'S2'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 412, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 510, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 10, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}], 'turn': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 519, 'paid': 519, 'add_amount': 519, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 519, 'paid': 519, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}], 'river': []}}
+['C8', 'C3'] 0.0379
+0 0
+417 539
+1060 961
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b10902085" declared "call:0"
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b09502074" declared "raise:510"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 510}, {'action': 'raise', 'amount': {'min': -1, 'max': -1}}] Hole_card: ['C8', 'C3'] State: {'street': 'river', 'pot': {'main': {'amount': 1588}, 'side': [{'amount': 0, 'eligibles': ['gwzpwhnxsrvukfdmgjnlyp']}]}, 'community_card': ['DQ', 'HA', 'D5', 'S7', 'S2'], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 412, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 10, 'paid': 10, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}], 'turn': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 519, 'paid': 519, 'add_amount': 519, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}, {'action': 'CALL', 'amount': 519, 'paid': 519, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}], 'river': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'ttxhajhbocfloxxrkmhrgj'}, {'action': 'RAISE', 'amount': 510, 'paid': 510, 'add_amount': 510, 'uuid': 'gwzpwhnxsrvukfdmgjnlyp'}]}}
+['C8', 'C3'] 0.0379
+510 510
+417 539
+1060 961
+name: b10902085, hole_card: ['C8', 'C3']
+name: b09502074, hole_card: ['C5', 'H4']
+"b10902085" declared "call:510"
+"['b09502074']" won the round 12 (stack = {'b10902085': 0, 'b09502074': 2000})
+-------------round result: 60.0 2000 stop -------------
+b09502074 vs b10902085 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902085', 'uuid': 'ttxhajhbocfloxxrkmhrgj', 'stack': 0, 'state': 'folded'}, {'name': 'b09502074', 'uuid': 'gwzpwhnxsrvukfdmgjnlyp', 'stack': 2000, 'state': 'participating'}]}
+----------------receive_game_start_message-----------
+{'player_num': 2, 'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1000, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 1000, 'state': 'participating'}]}
+community cards of this round: ['DK', 'S7', 'D7', 'S6', 'H3']
+name: b09502074, hole_card: ['D4', 'CJ']
+name: b10902085, hole_card: ['D8', 'H6']
+Started the round 1
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1000}}] Hole_card: ['D8', 'H6'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 990, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 995, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['D8', 'H6'] 0.43135
+5 5
+1000 0
+1145 898
+name: b09502074, hole_card: ['D4', 'CJ']
+name: b10902085, hole_card: ['D8', 'H6']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 1 (stack = {'b09502074': 1005, 'b10902085': 995})
+-------------round result: 135.0 1005 ok -------------
+community cards of this round: ['HT', 'S6', 'D4', 'D2', 'CJ']
+name: b09502074, hole_card: ['HK', 'CK']
+name: b10902085, hole_card: ['C8', 'S3']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['HK', 'CK']
+name: b10902085, hole_card: ['C8', 'S3']
+"b09502074" declared "raise:60"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 60}, {'action': 'raise', 'amount': {'min': 110, 'max': 995}}] Hole_card: ['C8', 'S3'] State: {'street': 'preflop', 'pot': {'main': {'amount': 70}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 945, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 60, 'paid': 55, 'add_amount': 50, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C8', 'S3'] 0.3732
+50 50
+995 0
+1135 906
+name: b09502074, hole_card: ['HK', 'CK']
+name: b10902085, hole_card: ['C8', 'S3']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 2 (stack = {'b09502074': 1015, 'b10902085': 985})
+-------------round result: 125.0 1015 ok -------------
+community cards of this round: ['D3', 'S8', 'ST', 'H9', 'H3']
+name: b09502074, hole_card: ['D7', 'CT']
+name: b10902085, hole_card: ['C8', 'D2']
+Started the round 3
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 985}}] Hole_card: ['C8', 'D2'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1005, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 980, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C8', 'D2'] 0.3713
+5 5
+985 0
+1130 909
+name: b09502074, hole_card: ['D7', 'CT']
+name: b10902085, hole_card: ['C8', 'D2']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 3 (stack = {'b09502074': 1020, 'b10902085': 980})
+-------------round result: 120.0 1020 ok -------------
+community cards of this round: ['C5', 'C9', 'S8', 'H3', 'DJ']
+name: b09502074, hole_card: ['D9', 'D2']
+name: b10902085, hole_card: ['D7', 'DA']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['D9', 'D2']
+name: b10902085, hole_card: ['D7', 'DA']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 980}}] Hole_card: ['D7', 'DA'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 975, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['D7', 'DA'] 0.6078
+35 35
+980 0
+1120 917
+name: b09502074, hole_card: ['D9', 'D2']
+name: b10902085, hole_card: ['D7', 'DA']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 4 (stack = {'b09502074': 1030, 'b10902085': 970})
+-------------round result: 110.0 1030 ok -------------
+community cards of this round: ['C9', 'CK', 'H6', 'H2', 'C3']
+name: b09502074, hole_card: ['HQ', 'D5']
+name: b10902085, hole_card: ['HA', 'S6']
+Started the round 5
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 970}}] Hole_card: ['HA', 'S6'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1020, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 965, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['HA', 'S6'] 0.5721
+5 5
+970 0
+1115 920
+name: b09502074, hole_card: ['HQ', 'D5']
+name: b10902085, hole_card: ['HA', 'S6']
+"b10902085" declared "call:10"
+name: b09502074, hole_card: ['HQ', 'D5']
+name: b10902085, hole_card: ['HA', 'S6']
+"b09502074" declared "call:10"
+Street "flop" started. (community card = ['C9', 'CK', 'H6'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 960}}] Hole_card: ['HA', 'S6'] State: {'street': 'flop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['C9', 'CK', 'H6'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1020, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 960, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': []}}
+['HA', 'S6'] 0.61685
+0 0
+965 10
+1115 920
+name: b09502074, hole_card: ['HQ', 'D5']
+name: b10902085, hole_card: ['HA', 'S6']
+"b10902085" declared "call:0"
+name: b09502074, hole_card: ['HQ', 'D5']
+name: b10902085, hole_card: ['HA', 'S6']
+"b09502074" declared "call:0"
+Street "turn" started. (community card = ['C9', 'CK', 'H6', 'H2'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 960}}] Hole_card: ['HA', 'S6'] State: {'street': 'turn', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['C9', 'CK', 'H6', 'H2'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1020, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 960, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'turn': []}}
+['HA', 'S6'] 0.6584
+0 0
+965 10
+1115 920
+name: b09502074, hole_card: ['HQ', 'D5']
+name: b10902085, hole_card: ['HA', 'S6']
+"b10902085" declared "call:0"
+name: b09502074, hole_card: ['HQ', 'D5']
+name: b10902085, hole_card: ['HA', 'S6']
+"b09502074" declared "fold:0"
+"['b10902085']" won the round 5 (stack = {'b09502074': 1020, 'b10902085': 980})
+-------------round result: 105.0 1020 ok -------------
+community cards of this round: ['S5', 'C4', 'DJ', 'C3', 'S2']
+name: b09502074, hole_card: ['C8', 'CT']
+name: b10902085, hole_card: ['D7', 'S6']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['C8', 'CT']
+name: b10902085, hole_card: ['D7', 'S6']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 980}}] Hole_card: ['D7', 'S6'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 975, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['D7', 'S6'] 0.41635
+35 35
+980 0
+1105 928
+name: b09502074, hole_card: ['C8', 'CT']
+name: b10902085, hole_card: ['D7', 'S6']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 6 (stack = {'b09502074': 1030, 'b10902085': 970})
+-------------round result: 95.0 1030 ok -------------
+community cards of this round: ['D9', 'SQ', 'H4', 'H5', 'C5']
+name: b09502074, hole_card: ['C3', 'DK']
+name: b10902085, hole_card: ['S7', 'S9']
+Started the round 7
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 970}}] Hole_card: ['S7', 'S9'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 7, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1020, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 965, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['S7', 'S9'] 0.4979
+5 5
+970 0
+1100 931
+name: b09502074, hole_card: ['C3', 'DK']
+name: b10902085, hole_card: ['S7', 'S9']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 7 (stack = {'b09502074': 1035, 'b10902085': 965})
+-------------round result: 90.0 1035 ok -------------
+community cards of this round: ['SQ', 'S6', 'S4', 'S2', 'S9']
+name: b09502074, hole_card: ['HJ', 'H8']
+name: b10902085, hole_card: ['C5', 'S5']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['HJ', 'H8']
+name: b10902085, hole_card: ['C5', 'S5']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 965}}] Hole_card: ['C5', 'S5'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 990, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 955, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C5', 'S5'] 0.6055
+35 35
+965 0
+1090 939
+name: b09502074, hole_card: ['HJ', 'H8']
+name: b10902085, hole_card: ['C5', 'S5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 8 (stack = {'b09502074': 1045, 'b10902085': 955})
+-------------round result: 80.0 1045 ok -------------
+community cards of this round: ['D6', 'DA', 'ST', 'C6', 'D5']
+name: b09502074, hole_card: ['D2', 'SK']
+name: b10902085, hole_card: ['SA', 'C5']
+Started the round 9
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 955}}] Hole_card: ['SA', 'C5'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1035, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 950, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['SA', 'C5'] 0.5796
+5 5
+955 0
+1085 942
+name: b09502074, hole_card: ['D2', 'SK']
+name: b10902085, hole_card: ['SA', 'C5']
+"b10902085" declared "call:10"
+name: b09502074, hole_card: ['D2', 'SK']
+name: b10902085, hole_card: ['SA', 'C5']
+"b09502074" declared "call:10"
+Street "flop" started. (community card = ['D6', 'DA', 'ST'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 945}}] Hole_card: ['SA', 'C5'] State: {'street': 'flop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['D6', 'DA', 'ST'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1035, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 945, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': []}}
+['SA', 'C5'] 0.8135
+0 0
+950 10
+1085 942
+name: b09502074, hole_card: ['D2', 'SK']
+name: b10902085, hole_card: ['SA', 'C5']
+"b10902085" declared "raise:27"
+name: b09502074, hole_card: ['D2', 'SK']
+name: b10902085, hole_card: ['SA', 'C5']
+"b09502074" declared "fold:0"
+"['b10902085']" won the round 9 (stack = {'b09502074': 1035, 'b10902085': 965})
+-------------round result: 75.0 1035 ok -------------
+community cards of this round: ['HJ', 'SA', 'D6', 'CA', 'D2']
+name: b09502074, hole_card: ['S2', 'HA']
+name: b10902085, hole_card: ['C5', 'C6']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['S2', 'HA']
+name: b10902085, hole_card: ['C5', 'C6']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 965}}] Hole_card: ['C5', 'C6'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 10, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 990, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 955, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C5', 'C6'] 0.42565
+35 35
+965 0
+1075 950
+name: b09502074, hole_card: ['S2', 'HA']
+name: b10902085, hole_card: ['C5', 'C6']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 10 (stack = {'b09502074': 1045, 'b10902085': 955})
+-------------round result: 65.0 1045 ok -------------
+community cards of this round: ['DT', 'DJ', 'HA', 'S8', 'D3']
+name: b09502074, hole_card: ['CA', 'C7']
+name: b10902085, hole_card: ['S6', 'D7']
+Started the round 11
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 955}}] Hole_card: ['S6', 'D7'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 11, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1035, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 950, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['S6', 'D7'] 0.42745
+5 5
+955 0
+1070 953
+name: b09502074, hole_card: ['CA', 'C7']
+name: b10902085, hole_card: ['S6', 'D7']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 11 (stack = {'b09502074': 1050, 'b10902085': 950})
+-------------round result: 60.0 1050 ok -------------
+community cards of this round: ['DQ', 'HA', 'D5', 'S7', 'S2']
+name: b09502074, hole_card: ['C8', 'C3']
+name: b10902085, hole_card: ['C5', 'H4']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['C8', 'C3']
+name: b10902085, hole_card: ['C5', 'H4']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 950}}] Hole_card: ['C5', 'H4'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1005, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 940, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C5', 'H4'] 0.39015
+35 35
+950 0
+1060 961
+name: b09502074, hole_card: ['C8', 'C3']
+name: b10902085, hole_card: ['C5', 'H4']
+"b10902085" declared "call:45"
+Street "flop" started. (community card = ['DQ', 'HA', 'D5'])
+name: b09502074, hole_card: ['C8', 'C3']
+name: b10902085, hole_card: ['C5', 'H4']
+"b09502074" declared "call:0"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 905}}] Hole_card: ['C5', 'H4'] State: {'street': 'flop', 'pot': {'main': {'amount': 90}, 'side': []}, 'community_card': ['DQ', 'HA', 'D5'], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1005, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 905, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 45, 'paid': 35, 'uuid': 'linbrqojrsayzmsaruafzw'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C5', 'H4'] 0.5689
+0 0
+915 45
+1060 961
+name: b09502074, hole_card: ['C8', 'C3']
+name: b10902085, hole_card: ['C5', 'H4']
+"b10902085" declared "call:0"
+Street "turn" started. (community card = ['DQ', 'HA', 'D5', 'S7'])
+name: b09502074, hole_card: ['C8', 'C3']
+name: b10902085, hole_card: ['C5', 'H4']
+"b09502074" declared "fold:0"
+"['b10902085']" won the round 12 (stack = {'b09502074': 1005, 'b10902085': 995})
+-------------round result: 50.0 1005 ok -------------
+community cards of this round: ['C2', 'DT', 'C4', 'S8', 'CT']
+name: b09502074, hole_card: ['D6', 'DK']
+name: b10902085, hole_card: ['H9', 'SQ']
+Started the round 13
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 995}}] Hole_card: ['H9', 'SQ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 995, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 990, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['H9', 'SQ'] 0.5554
+5 5
+995 0
+1055 964
+name: b09502074, hole_card: ['D6', 'DK']
+name: b10902085, hole_card: ['H9', 'SQ']
+"b10902085" declared "call:10"
+name: b09502074, hole_card: ['D6', 'DK']
+name: b10902085, hole_card: ['H9', 'SQ']
+"b09502074" declared "call:10"
+Street "flop" started. (community card = ['C2', 'DT', 'C4'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 985}}] Hole_card: ['H9', 'SQ'] State: {'street': 'flop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['C2', 'DT', 'C4'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 995, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': []}}
+['H9', 'SQ'] 0.36875
+0 0
+990 10
+1055 964
+name: b09502074, hole_card: ['D6', 'DK']
+name: b10902085, hole_card: ['H9', 'SQ']
+"b10902085" declared "call:0"
+name: b09502074, hole_card: ['D6', 'DK']
+name: b10902085, hole_card: ['H9', 'SQ']
+"b09502074" declared "raise:10"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 20, 'max': 985}}] Hole_card: ['H9', 'SQ'] State: {'street': 'flop', 'pot': {'main': {'amount': 30}, 'side': []}, 'community_card': ['C2', 'DT', 'C4'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 985, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 985, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['H9', 'SQ'] 0.36875
+10 10
+990 10
+1055 964
+name: b09502074, hole_card: ['D6', 'DK']
+name: b10902085, hole_card: ['H9', 'SQ']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 13 (stack = {'b09502074': 1015, 'b10902085': 985})
+-------------round result: 45.0 1015 ok -------------
+community cards of this round: ['C7', 'D8', 'S5', 'HJ', 'S3']
+name: b09502074, hole_card: ['S7', 'H2']
+name: b10902085, hole_card: ['C6', 'S8']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b09502074, hole_card: ['S7', 'H2']
+name: b10902085, hole_card: ['C6', 'S8']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 985}}] Hole_card: ['C6', 'S8'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 1, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 14, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 970, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 975, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C6', 'S8'] 0.43385
+35 35
+985 0
+1045 972
+name: b09502074, hole_card: ['S7', 'H2']
+name: b10902085, hole_card: ['C6', 'S8']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 14 (stack = {'b09502074': 1025, 'b10902085': 975})
+-------------round result: 35.0 1025 ok -------------
+community cards of this round: ['C8', 'S5', 'CT', 'H8', 'ST']
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+Started the round 15
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 975}}] Hole_card: ['C4', 'H6'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1015, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 970, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C4', 'H6'] 0.38545
+5 5
+975 0
+1040 975
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b10902085" declared "call:10"
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b09502074" declared "call:10"
+Street "flop" started. (community card = ['C8', 'S5', 'CT'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 965}}] Hole_card: ['C4', 'H6'] State: {'street': 'flop', 'pot': {'main': {'amount': 20}, 'side': []}, 'community_card': ['C8', 'S5', 'CT'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1015, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 965, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': []}}
+['C4', 'H6'] 0.32535
+0 0
+970 10
+1040 975
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b10902085" declared "call:0"
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b09502074" declared "raise:10"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 20, 'max': 965}}] Hole_card: ['C4', 'H6'] State: {'street': 'flop', 'pot': {'main': {'amount': 30}, 'side': []}, 'community_card': ['C8', 'S5', 'CT'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1005, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 965, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C4', 'H6'] 0.32535
+10 10
+970 10
+1040 975
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b10902085" declared "call:10"
+Street "turn" started. (community card = ['C8', 'S5', 'CT', 'H8'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 955}}] Hole_card: ['C4', 'H6'] State: {'street': 'turn', 'pot': {'main': {'amount': 40}, 'side': []}, 'community_card': ['C8', 'S5', 'CT', 'H8'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 1005, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 955, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 10, 'uuid': 'linbrqojrsayzmsaruafzw'}], 'turn': []}}
+['C4', 'H6'] 0.2186
+0 0
+960 20
+1040 975
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b10902085" declared "call:0"
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b09502074" declared "raise:507"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 507}, {'action': 'raise', 'amount': {'min': -1, 'max': -1}}] Hole_card: ['C4', 'H6'] State: {'street': 'turn', 'pot': {'main': {'amount': 547}, 'side': []}, 'community_card': ['C8', 'S5', 'CT', 'H8'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 498, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 955, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 10, 'uuid': 'linbrqojrsayzmsaruafzw'}], 'turn': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 507, 'paid': 507, 'add_amount': 507, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C4', 'H6'] 0.2186
+507 507
+960 20
+1040 975
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b10902085" declared "call:507"
+Street "river" started. (community card = ['C8', 'S5', 'CT', 'H8', 'ST'])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 0}, {'action': 'raise', 'amount': {'min': 10, 'max': 448}}] Hole_card: ['C4', 'H6'] State: {'street': 'river', 'pot': {'main': {'amount': 1054}, 'side': []}, 'community_card': ['C8', 'S5', 'CT', 'H8', 'ST'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 498, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 448, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 10, 'uuid': 'linbrqojrsayzmsaruafzw'}], 'turn': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 507, 'paid': 507, 'add_amount': 507, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 507, 'paid': 507, 'uuid': 'linbrqojrsayzmsaruafzw'}], 'river': []}}
+['C4', 'H6'] 0.1844
+0 0
+453 527
+1040 975
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b10902085" declared "call:0"
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b09502074" declared "raise:498"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 498}, {'action': 'raise', 'amount': {'min': -1, 'max': -1}}] Hole_card: ['C4', 'H6'] State: {'street': 'river', 'pot': {'main': {'amount': 1552}, 'side': [{'amount': 0, 'eligibles': ['vezgqlbjkriklisddygqcg']}]}, 'community_card': ['C8', 'S5', 'CT', 'H8', 'ST'], 'dealer_btn': 0, 'next_player': 1, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 0, 'state': 'allin'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 448, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 5, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'CALL', 'amount': 10, 'paid': 0, 'uuid': 'vezgqlbjkriklisddygqcg'}], 'flop': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 10, 'paid': 10, 'add_amount': 10, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 10, 'paid': 10, 'uuid': 'linbrqojrsayzmsaruafzw'}], 'turn': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 507, 'paid': 507, 'add_amount': 507, 'uuid': 'vezgqlbjkriklisddygqcg'}, {'action': 'CALL', 'amount': 507, 'paid': 507, 'uuid': 'linbrqojrsayzmsaruafzw'}], 'river': [{'action': 'CALL', 'amount': 0, 'paid': 0, 'uuid': 'linbrqojrsayzmsaruafzw'}, {'action': 'RAISE', 'amount': 498, 'paid': 498, 'add_amount': 498, 'uuid': 'vezgqlbjkriklisddygqcg'}]}}
+['C4', 'H6'] 0.1844
+498 498
+453 527
+1040 975
+name: b09502074, hole_card: ['S2', 'HT']
+name: b10902085, hole_card: ['C4', 'H6']
+"b10902085" declared "call:498"
+"['b09502074']" won the round 15 (stack = {'b09502074': 2000, 'b10902085': 0})
+-------------round result: 35.0 2000 stop -------------
+b09502074 vs b10902085 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b09502074', 'uuid': 'vezgqlbjkriklisddygqcg', 'stack': 2000, 'state': 'participating'}, {'name': 'b10902085', 'uuid': 'linbrqojrsayzmsaruafzw', 'stack': 0, 'state': 'folded'}]}
+{'player_num': 2, 'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1000, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 1000, 'state': 'participating'}]}
+----------------receive_game_start_message-----------
+community cards of this round: ['S9', 'DT', 'C4', 'SA', 'C8']
+name: b10902085, hole_card: ['H7', 'SJ']
+name: b09502074, hole_card: ['DQ', 'D8']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['H7', 'SJ']
+name: b09502074, hole_card: ['DQ', 'D8']
+"b09502074" declared "raise:45"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 45}, {'action': 'raise', 'amount': {'min': 80, 'max': 1000}}] Hole_card: ['H7', 'SJ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 55}, 'side': []}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 990, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 955, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 45, 'paid': 40, 'add_amount': 35, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['H7', 'SJ'] 0.4916
+35 35
+1000 0
+1145 898
+name: b10902085, hole_card: ['H7', 'SJ']
+name: b09502074, hole_card: ['DQ', 'D8']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 1 (stack = {'b10902085': 990, 'b09502074': 1010})
+-------------round result: 135.0 1010 ok -------------
+community cards of this round: ['C4', 'HT', 'C2', 'H3', 'S9']
+name: b10902085, hole_card: ['HQ', 'CQ']
+name: b09502074, hole_card: ['ST', 'DA']
+Started the round 2
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 990}}] Hole_card: ['HQ', 'CQ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 985, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 1000, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['HQ', 'CQ'] 0.79735
+5 5
+990 0
+1135 906
+name: b10902085, hole_card: ['HQ', 'CQ']
+name: b09502074, hole_card: ['ST', 'DA']
+"b10902085" declared "raise:22"
+name: b10902085, hole_card: ['HQ', 'CQ']
+name: b09502074, hole_card: ['ST', 'DA']
+"b09502074" declared "raise:68"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 68}, {'action': 'raise', 'amount': {'min': 114, 'max': 990}}] Hole_card: ['HQ', 'CQ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 90}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 968, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 942, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'RAISE', 'amount': 22, 'paid': 17, 'add_amount': 12, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 68, 'paid': 58, 'add_amount': 46, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['HQ', 'CQ'] 0.79735
+46 46
+973 0
+1135 906
+name: b10902085, hole_card: ['HQ', 'CQ']
+name: b09502074, hole_card: ['ST', 'DA']
+"b10902085" declared "raise:139"
+name: b10902085, hole_card: ['HQ', 'CQ']
+name: b09502074, hole_card: ['ST', 'DA']
+"b09502074" declared "raise:1010"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 1010}, {'action': 'raise', 'amount': {'min': -1, 'max': -1}}] Hole_card: ['HQ', 'CQ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 1149}, 'side': [{'amount': 0, 'eligibles': ['lwqhfxlxbhwzhdsykacrhf']}]}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 2, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 851, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'RAISE', 'amount': 22, 'paid': 17, 'add_amount': 12, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 68, 'paid': 58, 'add_amount': 46, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'RAISE', 'amount': 139, 'paid': 117, 'add_amount': 71, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 1010, 'paid': 942, 'add_amount': 871, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['HQ', 'CQ'] 0.79735
+871 871
+856 0
+1135 906
+name: b10902085, hole_card: ['HQ', 'CQ']
+name: b09502074, hole_card: ['ST', 'DA']
+"b10902085" declared "call:1010"
+Street "flop" started. (community card = ['C4', 'HT', 'C2'])
+Street "turn" started. (community card = ['C4', 'HT', 'C2', 'H3'])
+Street "river" started. (community card = ['C4', 'HT', 'C2', 'H3', 'S9'])
+"['b10902085']" won the round 2 (stack = {'b10902085': 1980, 'b09502074': 20})
+-------------round result: 130.0 20 ok -------------
+community cards of this round: ['SA', 'S5', 'C8', 'HK', 'S8']
+name: b10902085, hole_card: ['S4', 'DA']
+name: b09502074, hole_card: ['ST', 'D7']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['S4', 'DA']
+name: b09502074, hole_card: ['ST', 'D7']
+"b09502074" declared "raise:20"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 20}, {'action': 'raise', 'amount': {'min': 30, 'max': 1980}}] Hole_card: ['S4', 'DA'] State: {'street': 'preflop', 'pot': {'main': {'amount': 30}, 'side': [{'amount': 0, 'eligibles': ['lwqhfxlxbhwzhdsykacrhf']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 3, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1970, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 20, 'paid': 15, 'add_amount': 10, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['S4', 'DA'] 0.5699
+10 10
+1980 0
+1130 909
+name: b10902085, hole_card: ['S4', 'DA']
+name: b09502074, hole_card: ['ST', 'D7']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 3 (stack = {'b10902085': 1970, 'b09502074': 30})
+-------------round result: 120.0 30 ok -------------
+community cards of this round: ['HQ', 'HK', 'C6', 'HA', 'H3']
+name: b10902085, hole_card: ['H2', 'H6']
+name: b09502074, hole_card: ['S2', 'SA']
+Started the round 4
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1970}}] Hole_card: ['H2', 'H6'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 4, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1965, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 20, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['H2', 'H6'] 0.3728
+5 5
+1970 0
+1120 917
+name: b10902085, hole_card: ['H2', 'H6']
+name: b09502074, hole_card: ['S2', 'SA']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 4 (stack = {'b10902085': 1965, 'b09502074': 35})
+-------------round result: 115.0 35 ok -------------
+community cards of this round: ['CK', 'C2', 'S5', 'HA', 'H5']
+name: b10902085, hole_card: ['H3', 'CQ']
+name: b09502074, hole_card: ['C8', 'SA']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['H3', 'CQ']
+name: b09502074, hole_card: ['C8', 'SA']
+"b09502074" declared "raise:35"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 35}, {'action': 'raise', 'amount': {'min': 60, 'max': 1965}}] Hole_card: ['H3', 'CQ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 45}, 'side': [{'amount': 0, 'eligibles': ['lwqhfxlxbhwzhdsykacrhf']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 5, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1955, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 35, 'paid': 30, 'add_amount': 25, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['H3', 'CQ'] 0.47795
+25 25
+1965 0
+1115 920
+name: b10902085, hole_card: ['H3', 'CQ']
+name: b09502074, hole_card: ['C8', 'SA']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 5 (stack = {'b10902085': 1955, 'b09502074': 45})
+-------------round result: 105.0 45 ok -------------
+community cards of this round: ['DK', 'H9', 'SA', 'S2', 'C2']
+name: b10902085, hole_card: ['C7', 'S5']
+name: b09502074, hole_card: ['H8', 'S6']
+Started the round 6
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1955}}] Hole_card: ['C7', 'S5'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 6, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1950, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 35, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['C7', 'S5'] 0.4022
+5 5
+1955 0
+1105 928
+name: b10902085, hole_card: ['C7', 'S5']
+name: b09502074, hole_card: ['H8', 'S6']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 6 (stack = {'b10902085': 1950, 'b09502074': 50})
+-------------round result: 100.0 50 ok -------------
+community cards of this round: ['H6', 'DK', 'SJ', 'S3', 'C9']
+name: b10902085, hole_card: ['C7', 'D9']
+name: b09502074, hole_card: ['H9', 'D2']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['C7', 'D9']
+name: b09502074, hole_card: ['H9', 'D2']
+"b09502074" declared "raise:50"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 50}, {'action': 'raise', 'amount': {'min': 90, 'max': 1950}}] Hole_card: ['C7', 'D9'] State: {'street': 'preflop', 'pot': {'main': {'amount': 60}, 'side': [{'amount': 0, 'eligibles': ['lwqhfxlxbhwzhdsykacrhf']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 7, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1940, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 50, 'paid': 45, 'add_amount': 40, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['C7', 'D9'] 0.45845
+40 40
+1950 0
+1100 931
+name: b10902085, hole_card: ['C7', 'D9']
+name: b09502074, hole_card: ['H9', 'D2']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 7 (stack = {'b10902085': 1940, 'b09502074': 60})
+-------------round result: 90.0 60 ok -------------
+community cards of this round: ['S2', 'C9', 'CT', 'H5', 'D3']
+name: b10902085, hole_card: ['DK', 'H8']
+name: b09502074, hole_card: ['SJ', 'D8']
+Started the round 8
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1940}}] Hole_card: ['DK', 'H8'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 8, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1935, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 50, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['DK', 'H8'] 0.561
+5 5
+1940 0
+1090 939
+name: b10902085, hole_card: ['DK', 'H8']
+name: b09502074, hole_card: ['SJ', 'D8']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 8 (stack = {'b10902085': 1935, 'b09502074': 65})
+-------------round result: 85.0 65 ok -------------
+community cards of this round: ['C6', 'D7', 'H6', 'DA', 'DJ']
+name: b10902085, hole_card: ['HQ', 'CQ']
+name: b09502074, hole_card: ['D3', 'H5']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['HQ', 'CQ']
+name: b09502074, hole_card: ['D3', 'H5']
+"b09502074" declared "raise:65"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 65}, {'action': 'raise', 'amount': {'min': 120, 'max': 1935}}] Hole_card: ['HQ', 'CQ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 75}, 'side': [{'amount': 0, 'eligibles': ['lwqhfxlxbhwzhdsykacrhf']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 9, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1925, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 65, 'paid': 60, 'add_amount': 55, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['HQ', 'CQ'] 0.8022
+55 55
+1935 0
+1085 942
+name: b10902085, hole_card: ['HQ', 'CQ']
+name: b09502074, hole_card: ['D3', 'H5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 9 (stack = {'b10902085': 1925, 'b09502074': 75})
+-------------round result: 75.0 75 ok -------------
+community cards of this round: ['D7', 'HK', 'H8', 'DQ', 'CQ']
+name: b10902085, hole_card: ['H7', 'C9']
+name: b09502074, hole_card: ['H4', 'D5']
+Started the round 10
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1925}}] Hole_card: ['H7', 'C9'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 10, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1920, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 65, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['H7', 'C9'] 0.4711
+5 5
+1925 0
+1075 950
+name: b10902085, hole_card: ['H7', 'C9']
+name: b09502074, hole_card: ['H4', 'D5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 10 (stack = {'b10902085': 1920, 'b09502074': 80})
+-------------round result: 70.0 80 ok -------------
+community cards of this round: ['H4', 'H9', 'DA', 'SA', 'ST']
+name: b10902085, hole_card: ['D8', 'HJ']
+name: b09502074, hole_card: ['H3', 'SK']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['D8', 'HJ']
+name: b09502074, hole_card: ['H3', 'SK']
+"b09502074" declared "raise:80"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 80}, {'action': 'raise', 'amount': {'min': 150, 'max': 1920}}] Hole_card: ['D8', 'HJ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 90}, 'side': [{'amount': 0, 'eligibles': ['lwqhfxlxbhwzhdsykacrhf']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 11, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1910, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 80, 'paid': 75, 'add_amount': 70, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['D8', 'HJ'] 0.51135
+70 70
+1920 0
+1070 953
+name: b10902085, hole_card: ['D8', 'HJ']
+name: b09502074, hole_card: ['H3', 'SK']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 11 (stack = {'b10902085': 1910, 'b09502074': 90})
+-------------round result: 60.0 90 ok -------------
+community cards of this round: ['HJ', 'S7', 'S8', 'CJ', 'C3']
+name: b10902085, hole_card: ['C5', 'D7']
+name: b09502074, hole_card: ['C2', 'D5']
+Started the round 12
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1910}}] Hole_card: ['C5', 'D7'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 12, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1905, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 80, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['C5', 'D7'] 0.40225
+5 5
+1910 0
+1060 961
+name: b10902085, hole_card: ['C5', 'D7']
+name: b09502074, hole_card: ['C2', 'D5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 12 (stack = {'b10902085': 1905, 'b09502074': 95})
+-------------round result: 55.0 95 ok -------------
+community cards of this round: ['S4', 'D2', 'S9', 'C7', 'S3']
+name: b10902085, hole_card: ['H4', 'D7']
+name: b09502074, hole_card: ['D3', 'C8']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['H4', 'D7']
+name: b09502074, hole_card: ['D3', 'C8']
+"b09502074" declared "raise:95"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 95}, {'action': 'raise', 'amount': {'min': 180, 'max': 1905}}] Hole_card: ['H4', 'D7'] State: {'street': 'preflop', 'pot': {'main': {'amount': 105}, 'side': [{'amount': 0, 'eligibles': ['lwqhfxlxbhwzhdsykacrhf']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 13, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1895, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 95, 'paid': 90, 'add_amount': 85, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['H4', 'D7'] 0.3922
+85 85
+1905 0
+1055 964
+name: b10902085, hole_card: ['H4', 'D7']
+name: b09502074, hole_card: ['D3', 'C8']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 13 (stack = {'b10902085': 1895, 'b09502074': 105})
+-------------round result: 45.0 105 ok -------------
+community cards of this round: ['SJ', 'D9', 'C3', 'S2', 'H7']
+name: b10902085, hole_card: ['DA', 'C2']
+name: b09502074, hole_card: ['H8', 'CK']
+Started the round 14
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1895}}] Hole_card: ['DA', 'C2'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 14, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1890, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 95, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['DA', 'C2'] 0.5466
+5 5
+1895 0
+1045 972
+name: b10902085, hole_card: ['DA', 'C2']
+name: b09502074, hole_card: ['H8', 'CK']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 14 (stack = {'b10902085': 1890, 'b09502074': 110})
+-------------round result: 40.0 110 ok -------------
+community cards of this round: ['DJ', 'H8', 'D8', 'C6', 'CJ']
+name: b10902085, hole_card: ['DQ', 'D6']
+name: b09502074, hole_card: ['H4', 'CA']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['DQ', 'D6']
+name: b09502074, hole_card: ['H4', 'CA']
+"b09502074" declared "raise:110"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 110}, {'action': 'raise', 'amount': {'min': 210, 'max': 1890}}] Hole_card: ['DQ', 'D6'] State: {'street': 'preflop', 'pot': {'main': {'amount': 120}, 'side': [{'amount': 0, 'eligibles': ['lwqhfxlxbhwzhdsykacrhf']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 15, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1880, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 110, 'paid': 105, 'add_amount': 100, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['DQ', 'D6'] 0.5349
+100 100
+1890 0
+1040 975
+name: b10902085, hole_card: ['DQ', 'D6']
+name: b09502074, hole_card: ['H4', 'CA']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 15 (stack = {'b10902085': 1880, 'b09502074': 120})
+-------------round result: 30.0 120 ok -------------
+community cards of this round: ['S7', 'C4', 'H5', 'H8', 'H9']
+name: b10902085, hole_card: ['CQ', 'CT']
+name: b09502074, hole_card: ['DK', 'HJ']
+Started the round 16
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1880}}] Hole_card: ['CQ', 'CT'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 16, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1875, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 110, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['CQ', 'CT'] 0.60015
+5 5
+1880 0
+1030 983
+name: b10902085, hole_card: ['CQ', 'CT']
+name: b09502074, hole_card: ['DK', 'HJ']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 16 (stack = {'b10902085': 1875, 'b09502074': 125})
+-------------round result: 25.0 125 ok -------------
+community cards of this round: ['CK', 'H5', 'SQ', 'C5', 'S9']
+name: b10902085, hole_card: ['H7', 'D4']
+name: b09502074, hole_card: ['H6', 'DA']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['H7', 'D4']
+name: b09502074, hole_card: ['H6', 'DA']
+"b09502074" declared "raise:125"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 125}, {'action': 'raise', 'amount': {'min': 240, 'max': 1875}}] Hole_card: ['H7', 'D4'] State: {'street': 'preflop', 'pot': {'main': {'amount': 135}, 'side': [{'amount': 0, 'eligibles': ['lwqhfxlxbhwzhdsykacrhf']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 17, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1865, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 125, 'paid': 120, 'add_amount': 115, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['H7', 'D4'] 0.38145
+115 115
+1875 0
+1025 986
+name: b10902085, hole_card: ['H7', 'D4']
+name: b09502074, hole_card: ['H6', 'DA']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 17 (stack = {'b10902085': 1865, 'b09502074': 135})
+-------------round result: 15.0 135 ok -------------
+community cards of this round: ['D2', 'D5', 'H8', 'SQ', 'S8']
+name: b10902085, hole_card: ['C8', 'H7']
+name: b09502074, hole_card: ['S7', 'HQ']
+Started the round 18
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1865}}] Hole_card: ['C8', 'H7'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 18, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1860, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 125, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['C8', 'H7'] 0.44165
+5 5
+1865 0
+1015 994
+name: b10902085, hole_card: ['C8', 'H7']
+name: b09502074, hole_card: ['S7', 'HQ']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 18 (stack = {'b10902085': 1860, 'b09502074': 140})
+-------------round result: 10.0 140 ok -------------
+community cards of this round: ['CA', 'DK', 'H6', 'DJ', 'C6']
+name: b10902085, hole_card: ['CT', 'CJ']
+name: b09502074, hole_card: ['C2', 'S5']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b10902085, hole_card: ['CT', 'CJ']
+name: b09502074, hole_card: ['C2', 'S5']
+"b09502074" declared "raise:140"
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 140}, {'action': 'raise', 'amount': {'min': 270, 'max': 1860}}] Hole_card: ['CT', 'CJ'] State: {'street': 'preflop', 'pot': {'main': {'amount': 150}, 'side': [{'amount': 0, 'eligibles': ['lwqhfxlxbhwzhdsykacrhf']}]}, 'community_card': [], 'dealer_btn': 0, 'next_player': 0, 'small_blind_pos': 1, 'big_blind_pos': 0, 'round_count': 19, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1850, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 0, 'state': 'allin'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'RAISE', 'amount': 140, 'paid': 135, 'add_amount': 130, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['CT', 'CJ'] 0.57645
+130 130
+1860 0
+1010 997
+name: b10902085, hole_card: ['CT', 'CJ']
+name: b09502074, hole_card: ['C2', 'S5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 19 (stack = {'b10902085': 1850, 'b09502074': 150})
+-------------round result: 0.0 150 ok -------------
+community cards of this round: ['HQ', 'ST', 'SK', 'SA', 'C9']
+name: b10902085, hole_card: ['SJ', 'S6']
+name: b09502074, hole_card: ['S7', 'S5']
+Started the round 20
+Street "preflop" started. (community card = [])
+Actions: [{'action': 'fold', 'amount': 0}, {'action': 'call', 'amount': 10}, {'action': 'raise', 'amount': {'min': 15, 'max': 1850}}] Hole_card: ['SJ', 'S6'] State: {'street': 'preflop', 'pot': {'main': {'amount': 15}, 'side': []}, 'community_card': [], 'dealer_btn': 1, 'next_player': 0, 'small_blind_pos': 0, 'big_blind_pos': 1, 'round_count': 20, 'small_blind_amount': 5, 'seats': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1845, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 140, 'state': 'participating'}], 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 'uuid': 'xjwzaqtekyukmjcgaespdq'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 'uuid': 'lwqhfxlxbhwzhdsykacrhf'}]}}
+['SJ', 'S6'] 0.49875
+5 5
+1850 0
+1000 1005
+name: b10902085, hole_card: ['SJ', 'S6']
+name: b09502074, hole_card: ['S7', 'S5']
+"b10902085" declared "fold:0"
+"['b09502074']" won the round 20 (stack = {'b10902085': 1845, 'b09502074': 155})
+-------------round result: -5.0 155 ok -------------
+b09502074 vs b10902085 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902085', 'uuid': 'xjwzaqtekyukmjcgaespdq', 'stack': 1845, 'state': 'participating'}, {'name': 'b09502074', 'uuid': 'lwqhfxlxbhwzhdsykacrhf', 'stack': 155, 'state': 'participating'}]}
+Final Result: b09502074 won 2 games (stack: 9779), b10902085 won 3 games (stack: 221)
