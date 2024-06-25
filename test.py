@@ -95,7 +95,7 @@ def play_games(student_id: str, student_ai, opponent_name: str, opponent_ai, num
         else:
             opponent_points += 1
         
-        if student_points == 3 or opponent_points == 3:
+        if student_points == 3:
             break
 
     return {'games_won': student_points, 'opponent_games_won': opponent_points}

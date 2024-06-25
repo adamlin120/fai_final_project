@@ -44,7 +44,7 @@ def count_students_in_logs():
     log_files = os.listdir('logs')
     student_ids = set()
     for file in log_files:
-        if file.endswith('.out'):
+        if file.endswith('.log'):
             student_ids.add(file.split('.')[0])
     return len(student_ids)
 
