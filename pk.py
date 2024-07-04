@@ -1,6 +1,7 @@
 import os
 import csv
 import sys
+import math
 import argparse
 from typing import Dict, Any
 
@@ -44,6 +45,7 @@ def play_games(student1_id: str, student1_ai, student2_id: str, student2_ai, num
     """Play a series of games between two student AIs."""
     student1_points = 0
     student2_points = 0
+    tie_count = 0
     student1_stack = 0
     student2_stack = 0
     decks = build_decks()
@@ -60,18 +62,27 @@ def play_games(student1_id: str, student1_ai, student2_id: str, student2_ai, num
         game_result = start_poker(config, verbose=1, decks=decks[j])
         print(f'{student1_id} vs {student2_id} - Game {j+1}: {game_result}')
 
-        if game_result['players'][0]['stack'] > game_result['players'][1]['stack']:
+        if j % 2:
+            student1_curr_stack = game_result['players'][0]['stack']
+            student2_curr_stack = game_result['players'][1]['stack']
+        else:
+            student1_curr_stack = game_result['players'][1]['stack']
+            student2_curr_stack = game_result['players'][0]['stack']
+        
+        student1_stack += student1_curr_stack
+        student2_stack += student2_curr_stack
+
+        if math.isclose(student1_curr_stack, student2_curr_stack):
+            tie_count += 1
+        elif student1_curr_stack > student2_curr_stack:
             student1_points += 1
-            student1_stack += game_result['players'][0]['stack']
-            student2_stack += game_result['players'][1]['stack']
         else:
             student2_points += 1
-            student1_stack += game_result['players'][1]['stack']
-            student2_stack += game_result['players'][0]['stack']
 
     return {
         'student1_wins': student1_points,
         'student2_wins': student2_points,
+        'num_ties': tie_count,
         'student1_stack': student1_stack,
         'student2_stack': student2_stack
     }
@@ -90,11 +101,11 @@ def main(student1_id: str, student2_id: str):
 
     game_results = play_games(student1_id, student1_ai, student2_id, student2_ai)
     
-    print(f'Final Result: {student1_id} won {game_results["student1_wins"]} games (stack: {game_results["student1_stack"]}), {student2_id} won {game_results["student2_wins"]} games (stack: {game_results["student2_stack"]})')
+    print(f'Final Result: {student1_id} won {game_results["student1_wins"]} games (stack: {game_results["student1_stack"]}), {student2_id} won {game_results["student2_wins"]} games (stack: {game_results["student2_stack"]}), num ties: {game_results["num_ties"]}')
 
     # Write results to CSV file
     with open(RESULTS_FILE, 'a', newline='') as f:
-        fieldnames = ['student1_id', 'student2_id', 'student1_wins', 'student2_wins', 'student1_stack', 'student2_stack']
+        fieldnames = ['student1_id', 'student2_id', 'student1_wins', 'student2_wins', 'num_ties', 'student1_stack', 'student2_stack']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         if f.tell() == 0:
             writer.writeheader()
@@ -103,6 +114,7 @@ def main(student1_id: str, student2_id: str):
             'student2_id': student2_id,
             'student1_wins': game_results['student1_wins'],
             'student2_wins': game_results['student2_wins'],
+            'num_ties': game_results['num_ties'],
             'student1_stack': game_results['student1_stack'],
             'student2_stack': game_results['student2_stack']
         })

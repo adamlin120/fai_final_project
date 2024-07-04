@@ -1,6 +1,8 @@
 import os
 import csv
 import sys
+import math
+import random
 import argparse
 from typing import Dict, Any
 
@@ -76,35 +78,74 @@ def play_games(student_id: str, student_ai, opponent_name: str, opponent_ai, num
     """Play a series of games between the student AI and an opponent AI."""
     student_points = 0
     opponent_points = 0
+    tie_count = 0
+    student_stacks, opponent_stacks = 0, 0
+
     decks = build_decks()
+    # random select which player goes first
+    student_first = (random.uniform(0, 1) <= 0.5)
+    if student_first:
+        players = [
+            {"name": student_id, "algorithm": student_ai()},
+            {"name": opponent_name, "algorithm": opponent_ai()}
+        ]
+    else:
+        players = [
+            {"name": opponent_name, "algorithm": opponent_ai()},
+            {"name": student_id, "algorithm": student_ai()}
+        ]
 
     for j in range(num_games):
         config = setup_config(max_round=MAX_ROUNDS, initial_stack=INITIAL_STACK, small_blind_amount=SMALL_BLIND_AMOUNT)
-        if j % 2:
-            config.register_player(name=student_id, algorithm=student_ai())
-            config.register_player(name=opponent_name, algorithm=opponent_ai())
-        else:
-            config.register_player(name=opponent_name, algorithm=opponent_ai())
-            config.register_player(name=student_id, algorithm=student_ai())
+        config.register_player(**players[0])
+        config.register_player(**players[1])
         
         game_result = start_poker(config, verbose=1, decks=decks[j])
         print(f'{student_id} vs {opponent_name} - Game {j+1}: {game_result}')
 
-        if game_result['players'][0]['stack'] > game_result['players'][1]['stack']:
+        student_stack = game_result['players'][0]['stack'] if players[0]['name'] == student_id else game_result['players'][1]['stack']
+        opponent_stack = game_result['players'][0]['stack'] if players[0]['name'] == opponent_name else game_result['players'][1]['stack']
+
+        student_stacks += student_stack
+        opponent_stacks += opponent_stack
+
+        if math.isclose(student_stack, opponent_stack):
+            tie_count += 1
+        elif student_stack > opponent_stack:
             student_points += 1
         else:
             opponent_points += 1
         
         if student_points == 3:
             break
+        
+        # swap the order
+        players[0], players[1] = players[1], players[0]
 
-    return {'games_won': student_points, 'opponent_games_won': opponent_points}
+    return {
+        'games_won': student_points, 
+        'opponent_games_won': opponent_points, 
+        'num_ties': tie_count,
+        'student_stacks': student_stacks,
+        'opponent_stacks': opponent_stacks
+    }
 
-def calculate_points(games_won: int, is_baseline: bool) -> float:
+def calculate_points(game_results: dict, is_baseline: bool) -> float:
     """Calculate points based on games won and opponent type."""
-    if games_won >= 3:
+    student_games_won = game_results['games_won']
+    student_stacks = game_results['student_stacks']
+    opponent_games_won = game_results['opponent_games_won']
+    opponent_stacks = game_results['opponent_stacks']
+
+    if student_games_won >= 3:
         return 5 if is_baseline else 2
-    return games_won * 1.5 if is_baseline else 0
+    elif student_games_won == opponent_games_won:
+        if student_stacks > opponent_stacks:
+            return 5 if is_baseline else 2
+        else:
+            return student_games_won * 1.5 if is_baseline else 0
+    else:
+        return student_games_won * 1.5 if is_baseline else 0
 
 def main(student_id: str):
     student_src_info = read_student_src_info()
@@ -127,27 +168,33 @@ def main(student_id: str):
     for i in range(1, 8):
         baseline_ai = globals()[f'baseline{i}_ai']
         game_results = play_games(student_id, student_ai, f'baseline{i}', baseline_ai)
-        points_earned = calculate_points(game_results['games_won'], is_baseline=True)
+        points_earned = calculate_points(game_results, is_baseline=True)
         results[f'baseline{i}'] = {
             'games_won': game_results['games_won'],
+            'num_ties': game_results['num_ties'],
+            'student_stacks': game_results['student_stacks'],
+            'opponent_stacks': game_results['opponent_stacks'],
             'points_earned': points_earned
         }
-        print(f'{student_id} vs baseline{i} - Match Result: {game_results["games_won"]} games won, {points_earned} points earned')
+        print(f'{student_id} vs baseline{i} - Match Result: {game_results["games_won"]} games won, {game_results["num_ties"]} ties, student gets {game_results["student_stacks"]} stacks, opponent gets {game_results["opponent_stacks"]} stacks, {points_earned} points earned')
 
     # Play against each unseen strong AI
     for i in range(1, 6):
         strong_ai = globals()[f'strong{i}_ai']
         game_results = play_games(student_id, student_ai, f'strong{i}', strong_ai)
-        points_earned = calculate_points(game_results['games_won'], is_baseline=False)
+        points_earned = calculate_points(game_results, is_baseline=False)
         results[f'strong{i}'] = {
             'games_won': game_results['games_won'],
+            'num_ties': game_results['num_ties'],
+            'student_stacks': game_results['student_stacks'],
+            'opponent_stacks': game_results['opponent_stacks'],
             'points_earned': points_earned
         }
-        print(f'{student_id} vs strong{i} - Match Result: {game_results["games_won"]} games won, {points_earned} points earned')
+        print(f'{student_id} vs strong{i} - Match Result: {game_results["games_won"]} games won, {game_results["num_ties"]} ties, student gets {game_results["student_stacks"]} stacks, opponent gets {game_results["opponent_stacks"]} stacks, {points_earned} points earned')
 
     # Write results to CSV file
     with open(RESULTS_FILE, 'a', newline='') as f:
-        fieldnames = ['student_dir', 'opponent', 'games_won', 'points_earned']
+        fieldnames = ['student_dir', 'opponent', 'games_won', 'num_ties', 'student_stack', 'opponent_stack', 'points_earned']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         if f.tell() == 0:
             writer.writeheader()
@@ -156,6 +203,9 @@ def main(student_id: str):
                 'student_dir': student_id,
                 'opponent': opponent,
                 'games_won': result['games_won'],
+                'num_ties': result['num_ties'],
+                'student_stacks': result['student_stacks'],
+                'opponent_stacks': result['opponent_stacks'],
                 'points_earned': result['points_earned']
             })
 
