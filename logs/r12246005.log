@@ -1,5 +1,5 @@
 Traceback (most recent call last):
-  File "test.py", line 42, in load_student_ai
+  File "test.py", line 44, in load_student_ai
     student_module = __import__(f'{student_id}.agent', fromlist=['setup_ai'])
   File "/home/ubitus03/fai_final_project/./r12246005/agent.py", line 4, in <module>
     from trees import DecisionTree, RandomForest
@@ -8,11 +8,11 @@ ModuleNotFoundError: No module named 'trees'
 During handling of the above exception, another exception occurred:
 
 Traceback (most recent call last):
-  File "test.py", line 166, in <module>
+  File "test.py", line 216, in <module>
     main(args.student_id)
-  File "test.py", line 117, in main
+  File "test.py", line 158, in main
     student_ai = load_student_ai(student_id)
-  File "test.py", line 47, in load_student_ai
+  File "test.py", line 49, in load_student_ai
     student_module = __import__('agent', fromlist=['setup_ai'])
   File "/home/ubitus03/fai_final_project/./r12246005/agent.py", line 40, in <module>
     with open("flop_model", "rb") as file:

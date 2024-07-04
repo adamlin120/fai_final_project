@@ -1,26 +1,33 @@
-2024-06-26 10:55:05.485638: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
-2024-06-26 10:55:05.487587: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
-2024-06-26 10:55:05.525790: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
-2024-06-26 10:55:05.526161: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+2024-07-05 07:25:36.981165: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-07-05 07:25:36.983022: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-07-05 07:25:37.021174: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-07-05 07:25:37.021567: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
 To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 AVX_VNNI AMX_TILE AMX_INT8 AMX_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
-2024-06-26 10:55:06.093468: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
-2024-06-26 10:55:09.027954: W tensorflow/core/common_runtime/gpu/gpu_device.cc:1956] Cannot dlopen some GPU libraries. Please make sure the missing libraries mentioned above are installed properly if you would like to use GPU. Follow the guide at https://www.tensorflow.org/install/gpu for how to download and setup the required libraries for your platform.
-Skipping registering GPU devices...
-community cards of this round: ['H6', 'H2', 'SJ', 'S3', 'C7']
-name: baseline1, hole_card: ['C9', 'HT']
-name: b11705057, hole_card: ['DK', 'D6']
+2024-07-05 07:25:37.577540: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-07-05 07:25:39.090804: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:266] failed call to cuInit: CUDA_ERROR_NOT_INITIALIZED: initialization error
+2024-07-05 07:25:39.090947: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:168] retrieving CUDA diagnostic information for host: df-5-1-gpu04
+2024-07-05 07:25:39.090964: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:175] hostname: df-5-1-gpu04
+2024-07-05 07:25:39.092732: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:199] libcuda reported version is: 535.161.8
+2024-07-05 07:25:39.092791: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:203] kernel reported version is: 535.161.8
+2024-07-05 07:25:39.092798: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:309] kernel version seems to match DSO: 535.161.8
+community cards of this round: ['SA', 'C6', 'S5', 'H6', 'H4']
+name: b11705057, hole_card: ['C7', 'S6']
+name: baseline1, hole_card: ['D6', 'SK']
 Started the round 1
 Street "preflop" started. (community card = [])
-name: baseline1, hole_card: ['C9', 'HT']
-name: b11705057, hole_card: ['DK', 'D6']
+name: b11705057, hole_card: ['C7', 'S6']
+name: baseline1, hole_card: ['D6', 'SK']
+"baseline1" declared "call:10"
+name: b11705057, hole_card: ['C7', 'S6']
+name: baseline1, hole_card: ['D6', 'SK']
 "b11705057" declared "fold:0"
-"['baseline1']" won the round 1 (stack = {'baseline1': 1005, 'b11705057': 995})
+"['baseline1']" won the round 1 (stack = {'b11705057': 990, 'baseline1': 1010})
 Traceback (most recent call last):
-  File "test.py", line 166, in <module>
+  File "test.py", line 216, in <module>
     main(args.student_id)
-  File "test.py", line 129, in main
+  File "test.py", line 170, in main
     game_results = play_games(student_id, student_ai, f'baseline{i}', baseline_ai)
-  File "test.py", line 90, in play_games
+  File "test.py", line 103, in play_games
     game_result = start_poker(config, verbose=1, decks=decks[j])
   File "/home/ubitus03/fai_final_project/game/game.py", line 16, in start_poker
     result_message = dealer.start_game(config.max_round, decks)
