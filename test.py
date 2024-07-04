@@ -194,7 +194,7 @@ def main(student_id: str):
 
     # Write results to CSV file
     with open(RESULTS_FILE, 'a', newline='') as f:
-        fieldnames = ['student_dir', 'opponent', 'games_won', 'num_ties', 'student_stack', 'opponent_stack', 'points_earned']
+        fieldnames = ['student_dir', 'opponent', 'games_won', 'num_ties', 'student_stacks', 'opponent_stacks', 'points_earned']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         if f.tell() == 0:
             writer.writeheader()
