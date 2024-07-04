@@ -63,7 +63,7 @@ def read_existing_results() -> Dict[str, Dict[str, Dict[str, Any]]]:
         with open(RESULTS_FILE, 'r') as f:
             reader = csv.reader(f)
             for row in reader:
-                student_dir, opponent, games_won, points_earned = row
+                student_dir, opponent, games_won, _, _, _, points_earned = row
                 if student_dir == "student_dir":
                     continue
                 if student_dir not in existing_results:

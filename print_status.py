@@ -17,7 +17,9 @@ def read_scores(file_path):
         for row in reader:
             if row[0] == 'student_dir':  # Ensure the header row is skipped
                 continue
-            student_id, _, _, points_earned = row
+            # student_id, _, _, points_earned = row
+            student_id = row[0]
+            points_earned = row[-1]
             scores[student_id].append(float(points_earned))
     return scores
 
