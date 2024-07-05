@@ -3,8 +3,7 @@ import pandas as pd
 from tqdm import tqdm
 
 # 列出 submissions 目錄中的所有學生目錄
-# submissions_dir = 'submissions'
-submissions_dir = 're-submissions'
+submissions_dir = 'submissions'
 student_dirs = [d for d in os.listdir(submissions_dir) if os.path.isdir(os.path.join(submissions_dir, d))]
 
 # 查找每個學生的 src 目錄
@@ -25,3 +24,4 @@ df.to_csv('student_src_info.csv', index=False)
 # 打印結果
 for info in student_src_info:
     print(f"學號: {info[0]}, src目錄: {info[1]}")
+

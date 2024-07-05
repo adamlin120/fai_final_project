@@ -8,18 +8,25 @@ from typing import Dict, Any
 from deck_utils import build_decks
 from game.game import setup_config, start_poker
 
+import pandas as pd
+
 RESULTS_FILE = 'pk_results.csv'
 MAX_ROUNDS = 20
 INITIAL_STACK = 1000
 SMALL_BLIND_AMOUNT = 5
 
 def read_student_src_info() -> Dict[str, str]:
-    """Read student_src_info.csv and return a dictionary of student IDs and their source directories."""
-    src_info = {}
-    with open('student_src_info.csv', 'r') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            src_info[row['學號']] = row['src目錄']
+    """讀取 student_src_info.csv 並返回一個字典，包含學生學號和他們的源代碼目錄。"""
+    
+    # 使用 pandas 讀取 CSV 文件
+    df = pd.read_csv('student_src_info.csv')
+    
+    # 將重複的學號保留最後一次出現的記錄
+    df = df.drop_duplicates(subset=['學號'], keep='last')
+    
+    # 將 DataFrame 轉換為字典
+    src_info = dict(zip(df['學號'], df['src目錄']))
+    
     return src_info
 
 def load_student_ai(student_id: str):
@@ -88,6 +95,15 @@ def play_games(student1_id: str, student1_ai, student2_id: str, student2_ai, num
     }
 
 def main(student1_id: str, student2_id: str):
+    student1_id = student1_id.strip()
+    student2_id = student2_id.strip()
+    results_df = pd.read_csv(RESULTS_FILE)
+    for _, row in results_df.iterrows():
+        if (row['student1_id'] == student1_id and row['student2_id'] == student2_id) or \
+           (row['student1_id'] == student2_id and row['student2_id'] == student1_id):
+            print(f'{student1_id} 對 {student2_id} 已經進行過比賽。跳過...')
+            return
+
     student_src_info = read_student_src_info()
     
     for student_id in [student1_id, student2_id]:
