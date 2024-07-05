@@ -53,14 +53,23 @@ def main():
         # 增加總比賽次數
         total_matches += 1
 
-    # 打印結果
+    # 打印每個學生的分數並保存到 pandas DataFrame
     print("PK 比賽結果:")
+    student_scores = []
     for student_id in pk_resutls:
         score = pk_resutls[student_id]
         match_count = student_match_count[student_id]
         if match_count != 5:
             print(f"警告：{student_id} 只參加了 {match_count} 場比賽")
-        # print(f"{student_id}: {score} 分 ({match_count} 場比賽)")
+        print(f"{student_id}: {score} 分 ({match_count} 場比賽)")
+        student_scores.append({"學號": student_id, "分數": score, "比賽場次": match_count})
+    
+    # 創建 pandas DataFrame
+    scores_df = pd.DataFrame(student_scores)
+    print("\n學生分數 DataFrame:")
+    print(scores_df)
+    print(scores_df.describe())
+    
     print(f"Number of students in results.csv: {len(all_student_id_have_baseline_scores)}")
     print(f"參與 PK 比賽的學生數量: {len(pk_resutls)}")
     print(f"總共有 {total_matches} 場比賽")
@@ -111,6 +120,43 @@ def main():
         print(f"{match[0]} vs {match[1]}")
 
     print(f"總共缺少 {len(missing_matches)} 場比賽")
+
+    if not missing_matches:
+        print("所有比賽都已經進行")
+    # 讀取 cool 格式的成績單
+    cool_df = pd.read_csv('2024-07-05T0903_成績-人工智慧導論_(CSIE3005-01).csv')
+    all_students = cool_df['SIS Login ID'].str.split('@').str[0]
+    all_students = set(all_students)
+    print(f"cool_df 中的學生數：{len(all_students)}")
+
+    # 檢查所有 student_total_scores 是否都在 cool_df 中
+    missing_students = []
+    for student_id in scores_df['學號']:
+        if student_id not in all_students:
+            missing_students.append(student_id)
+
+    if missing_students:
+        print("以下學生不在 cool_df 中：")
+        for student in missing_students:
+            print(student)
+    else:
+        print("所有學生都在 cool_df 中。")
+
+        # 將學號轉換為小寫以確保匹配
+        cool_df['SIS Login ID'] = cool_df['SIS Login ID'].str.lower()
+        scores_df['學號'] = scores_df['學號'].str.lower()
+
+        # 創建一個字典，將學號映射到相應的分數
+        score_dict = scores_df.set_index('學號')['分數'].to_dict()
+
+        # 更新 cool_df 中的分數
+        cool_df['Round-Robin Tournament (239009)'] = cool_df['SIS Login ID'].str.split('@').str[0].map(score_dict)
+
+        # 將更新後的 cool_df 寫回 CSV 檔案
+        cool_df.to_csv('2024-07-05T0903_成績-人工智慧導論_(CSIE3005-01)_updated.csv', index=False)
+
+        print("分數已成功寫入 cool_df 並保存為新的 CSV 檔案。")
+        
 
 if __name__ == '__main__':
     main()
