@@ -1,0 +1,3261 @@
+2024-07-05 20:41:21.551735: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-07-05 20:41:21.555283: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-07-05 20:41:21.647280: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 AVX_VNNI AMX_TILE AMX_INT8 AMX_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-07-05 20:41:24.077945: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+community cards of this round: ['C2', 'D8', 'CQ', 'S4', 'DT']
+name: b11902029, hole_card: ['H4', 'H9']
+name: b08209028, hole_card: ['D7', 'HT']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['H4', 'H9']
+name: b08209028, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['H4', 'H9']
+name: b08209028, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:20"
+name: b11902029, hole_card: ['H4', 'H9']
+name: b08209028, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:25"
+name: b11902029, hole_card: ['H4', 'H9']
+name: b08209028, hole_card: ['D7', 'HT']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 1 (stack = {'b11902029': 980, 'b08209028': 1020})
+community cards of this round: ['C6', 'H3', 'D3', 'D6', 'DQ']
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:15"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:20"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:25"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:30"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:35"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:40"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:45"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:50"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:55"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:60"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:65"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:70"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:75"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:80"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:85"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:90"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:95"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:100"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:105"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:110"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:115"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:120"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:125"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:130"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:135"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:140"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:145"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:150"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:155"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:160"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:165"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:170"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:175"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:180"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:185"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:190"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:195"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:200"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:205"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:210"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:215"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:220"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:225"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:230"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:235"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:240"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:245"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:250"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:255"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:260"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:265"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:270"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:275"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:280"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:285"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:290"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:295"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:300"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:305"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:310"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:315"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:320"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:325"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:330"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:335"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:340"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:345"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:350"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:355"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:360"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:365"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:370"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:375"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:380"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:385"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:390"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:395"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:400"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:405"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:410"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:415"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:420"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:425"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:430"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:435"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:440"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:445"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:450"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:455"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:460"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:465"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:470"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:475"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:480"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:485"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:490"
+name: b11902029, hole_card: ['S3', 'H7']
+name: b08209028, hole_card: ['C7', 'HQ']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 2 (stack = {'b11902029': 495, 'b08209028': 1505})
+community cards of this round: ['C3', 'H6', 'S8', 'H3', 'C2']
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:20"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:25"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:30"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:35"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:40"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:45"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:50"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:55"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:60"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:65"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:70"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:75"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:80"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:85"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:90"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:95"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:100"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:105"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:110"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:115"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:120"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:125"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:130"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:135"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:140"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:145"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:150"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:155"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:160"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:165"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:170"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:175"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:180"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:185"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:190"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:195"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:200"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:205"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:210"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:215"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:220"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:225"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:230"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:235"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:240"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:245"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:250"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:255"
+name: b11902029, hole_card: ['S9', 'D7']
+name: b08209028, hole_card: ['CT', 'S7']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 3 (stack = {'b11902029': 245, 'b08209028': 1755})
+community cards of this round: ['DQ', 'C9', 'D3', 'SA', 'CJ']
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:15"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:20"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:25"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:30"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:35"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:40"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:45"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:50"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:55"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:60"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:65"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:70"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:75"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:80"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:85"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:90"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:95"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:100"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:105"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:110"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:115"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:120"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:125"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:130"
+name: b11902029, hole_card: ['DT', 'H3']
+name: b08209028, hole_card: ['ST', 'D9']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 4 (stack = {'b11902029': 120, 'b08209028': 1880})
+community cards of this round: ['DQ', 'H2', 'SJ', 'S3', 'H6']
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b11902029" declared "raise:20"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b08209028" declared "raise:25"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b11902029" declared "raise:30"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b08209028" declared "raise:35"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b11902029" declared "raise:40"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b08209028" declared "raise:45"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b11902029" declared "raise:50"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b08209028" declared "raise:55"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b11902029" declared "raise:60"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b08209028" declared "raise:65"
+name: b11902029, hole_card: ['C8', 'C6']
+name: b08209028, hole_card: ['ST', 'DT']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 5 (stack = {'b11902029': 60, 'b08209028': 1940})
+community cards of this round: ['DJ', 'H2', 'HT', 'H8', 'C3']
+name: b11902029, hole_card: ['SQ', 'D2']
+name: b08209028, hole_card: ['C4', 'SA']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['SQ', 'D2']
+name: b08209028, hole_card: ['C4', 'SA']
+"b11902029" declared "raise:15"
+name: b11902029, hole_card: ['SQ', 'D2']
+name: b08209028, hole_card: ['C4', 'SA']
+"b08209028" declared "raise:20"
+name: b11902029, hole_card: ['SQ', 'D2']
+name: b08209028, hole_card: ['C4', 'SA']
+"b11902029" declared "raise:25"
+name: b11902029, hole_card: ['SQ', 'D2']
+name: b08209028, hole_card: ['C4', 'SA']
+"b08209028" declared "raise:30"
+name: b11902029, hole_card: ['SQ', 'D2']
+name: b08209028, hole_card: ['C4', 'SA']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 6 (stack = {'b11902029': 35, 'b08209028': 1965})
+community cards of this round: ['D9', 'HA', 'H9', 'SA', 'D6']
+name: b11902029, hole_card: ['HK', 'HJ']
+name: b08209028, hole_card: ['H3', 'H8']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['HK', 'HJ']
+name: b08209028, hole_card: ['H3', 'H8']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['HK', 'HJ']
+name: b08209028, hole_card: ['H3', 'H8']
+"b11902029" declared "raise:20"
+name: b11902029, hole_card: ['HK', 'HJ']
+name: b08209028, hole_card: ['H3', 'H8']
+"b08209028" declared "raise:25"
+name: b11902029, hole_card: ['HK', 'HJ']
+name: b08209028, hole_card: ['H3', 'H8']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 7 (stack = {'b11902029': 15, 'b08209028': 1985})
+community cards of this round: ['C5', 'D9', 'CJ', 'ST', 'HQ']
+name: b11902029, hole_card: ['C8', 'H7']
+name: b08209028, hole_card: ['C7', 'CA']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['C8', 'H7']
+name: b08209028, hole_card: ['C7', 'CA']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 8 (stack = {'b11902029': 10, 'b08209028': 1990})
+community cards of this round: ['S3', 'H7', 'C3', 'H6', 'CJ']
+name: b11902029, hole_card: ['H9', 'C8']
+name: b08209028, hole_card: ['DK', 'H5']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['H9', 'C8']
+name: b08209028, hole_card: ['DK', 'H5']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['H9', 'C8']
+name: b08209028, hole_card: ['DK', 'H5']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 9 (stack = {'b11902029': 0, 'b08209028': 2000})
+b08209028 vs b11902029 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11902029', 'uuid': 'ftnlufujblymtmgqayimvp', 'stack': 0, 'state': 'folded'}, {'name': 'b08209028', 'uuid': 'xyrlhzfpqbmavgmcrvilfh', 'stack': 2000, 'state': 'participating'}]}
+community cards of this round: ['C2', 'D8', 'CQ', 'S4', 'DT']
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:15"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:20"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:25"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:30"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:35"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:40"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:45"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:50"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:55"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:60"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:65"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:70"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:75"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:80"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:85"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:90"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:95"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:100"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:105"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:110"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:115"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:120"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:125"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:130"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:135"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:140"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:145"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:150"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:155"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:160"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:165"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:170"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:175"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:180"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:185"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:190"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:195"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:200"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:205"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:210"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:215"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:220"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:225"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:230"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:235"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:240"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:245"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:250"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:255"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:260"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:265"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:270"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:275"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:280"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:285"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:290"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:295"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:300"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:305"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:310"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:315"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:320"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:325"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:330"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:335"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:340"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:345"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:350"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:355"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:360"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:365"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:370"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:375"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:380"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:385"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:390"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:395"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:400"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:405"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:410"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:415"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:420"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:425"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:430"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:435"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:440"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:445"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:450"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:455"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:460"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:465"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:470"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:475"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:480"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:485"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:490"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "raise:495"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b08209028" declared "raise:500"
+name: b08209028, hole_card: ['H4', 'H9']
+name: b11902029, hole_card: ['D7', 'HT']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 1 (stack = {'b08209028': 1495, 'b11902029': 505})
+community cards of this round: ['C6', 'H3', 'D3', 'D6', 'DQ']
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:15"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:20"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:25"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:30"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:35"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:40"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:45"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:50"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:55"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:60"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:65"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:70"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:75"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:80"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:85"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:90"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:95"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:100"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:105"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:110"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:115"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:120"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:125"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:130"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:135"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:140"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:145"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:150"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:155"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:160"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:165"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:170"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:175"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:180"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:185"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:190"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:195"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:200"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:205"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:210"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:215"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:220"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:225"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:230"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:235"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:240"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:245"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "raise:250"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b08209028" declared "raise:255"
+name: b08209028, hole_card: ['S3', 'H7']
+name: b11902029, hole_card: ['C7', 'HQ']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 2 (stack = {'b08209028': 1745, 'b11902029': 255})
+community cards of this round: ['C3', 'H6', 'S8', 'H3', 'C2']
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:15"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:20"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:25"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:30"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:35"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:40"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:45"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:50"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:55"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:60"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:65"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:70"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:75"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:80"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:85"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:90"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:95"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:100"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:105"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:110"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:115"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:120"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "raise:125"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b08209028" declared "raise:130"
+name: b08209028, hole_card: ['S9', 'D7']
+name: b11902029, hole_card: ['CT', 'S7']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 3 (stack = {'b08209028': 1870, 'b11902029': 130})
+community cards of this round: ['DQ', 'C9', 'D3', 'SA', 'CJ']
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:15"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:20"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:25"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:30"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:35"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:40"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:45"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:50"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:55"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b11902029" declared "raise:60"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b08209028" declared "raise:65"
+name: b08209028, hole_card: ['DT', 'H3']
+name: b11902029, hole_card: ['ST', 'D9']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 4 (stack = {'b08209028': 1930, 'b11902029': 70})
+community cards of this round: ['DQ', 'H2', 'SJ', 'S3', 'H6']
+name: b08209028, hole_card: ['C8', 'C6']
+name: b11902029, hole_card: ['ST', 'DT']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['C8', 'C6']
+name: b11902029, hole_card: ['ST', 'DT']
+"b11902029" declared "raise:15"
+name: b08209028, hole_card: ['C8', 'C6']
+name: b11902029, hole_card: ['ST', 'DT']
+"b08209028" declared "raise:20"
+name: b08209028, hole_card: ['C8', 'C6']
+name: b11902029, hole_card: ['ST', 'DT']
+"b11902029" declared "raise:25"
+name: b08209028, hole_card: ['C8', 'C6']
+name: b11902029, hole_card: ['ST', 'DT']
+"b08209028" declared "raise:30"
+name: b08209028, hole_card: ['C8', 'C6']
+name: b11902029, hole_card: ['ST', 'DT']
+"b11902029" declared "raise:35"
+name: b08209028, hole_card: ['C8', 'C6']
+name: b11902029, hole_card: ['ST', 'DT']
+"b08209028" declared "raise:40"
+name: b08209028, hole_card: ['C8', 'C6']
+name: b11902029, hole_card: ['ST', 'DT']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 5 (stack = {'b08209028': 1965, 'b11902029': 35})
+community cards of this round: ['DJ', 'H2', 'HT', 'H8', 'C3']
+name: b08209028, hole_card: ['SQ', 'D2']
+name: b11902029, hole_card: ['C4', 'SA']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['SQ', 'D2']
+name: b11902029, hole_card: ['C4', 'SA']
+"b08209028" declared "raise:15"
+name: b08209028, hole_card: ['SQ', 'D2']
+name: b11902029, hole_card: ['C4', 'SA']
+"b11902029" declared "raise:20"
+name: b08209028, hole_card: ['SQ', 'D2']
+name: b11902029, hole_card: ['C4', 'SA']
+"b08209028" declared "raise:25"
+name: b08209028, hole_card: ['SQ', 'D2']
+name: b11902029, hole_card: ['C4', 'SA']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 6 (stack = {'b08209028': 1985, 'b11902029': 15})
+community cards of this round: ['D9', 'HA', 'H9', 'SA', 'D6']
+name: b08209028, hole_card: ['HK', 'HJ']
+name: b11902029, hole_card: ['H3', 'H8']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['HK', 'HJ']
+name: b11902029, hole_card: ['H3', 'H8']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 7 (stack = {'b08209028': 1990, 'b11902029': 10})
+community cards of this round: ['C5', 'D9', 'CJ', 'ST', 'HQ']
+name: b08209028, hole_card: ['C8', 'H7']
+name: b11902029, hole_card: ['C7', 'CA']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['C8', 'H7']
+name: b11902029, hole_card: ['C7', 'CA']
+"b08209028" declared "raise:15"
+name: b08209028, hole_card: ['C8', 'H7']
+name: b11902029, hole_card: ['C7', 'CA']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 8 (stack = {'b08209028': 2000, 'b11902029': 0})
+b08209028 vs b11902029 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b08209028', 'uuid': 'yptooicfcoempmtsqekdkw', 'stack': 2000, 'state': 'participating'}, {'name': 'b11902029', 'uuid': 'qkqzsljwcyvvnswumicbsw', 'stack': 0, 'state': 'folded'}]}
+community cards of this round: ['C4', 'DA', 'S9', 'DQ', 'H8']
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:20"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:25"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:30"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:35"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:40"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:45"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:50"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:55"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:60"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:65"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:70"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:75"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:80"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:85"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:90"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:95"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:100"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:105"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:110"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:115"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:120"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:125"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:130"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:135"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:140"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:145"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:150"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:155"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:160"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:165"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:170"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:175"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:180"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:185"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:190"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:195"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:200"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:205"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:210"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:215"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:220"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:225"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:230"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:235"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:240"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:245"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:250"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:255"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:260"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:265"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:270"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:275"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:280"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:285"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:290"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:295"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:300"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:305"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:310"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:315"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:320"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:325"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:330"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:335"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:340"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:345"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:350"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:355"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:360"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:365"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:370"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:375"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:380"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:385"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:390"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:395"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:400"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:405"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:410"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:415"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:420"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:425"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:430"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:435"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:440"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:445"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:450"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:455"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:460"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:465"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:470"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:475"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:480"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:485"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:490"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:495"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:500"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:505"
+name: b11902029, hole_card: ['HQ', 'D4']
+name: b08209028, hole_card: ['C6', 'CQ']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 1 (stack = {'b11902029': 500, 'b08209028': 1500})
+community cards of this round: ['H7', 'ST', 'D4', 'CT', 'C9']
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:15"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:20"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:25"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:30"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:35"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:40"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:45"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:50"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:55"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:60"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:65"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:70"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:75"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:80"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:85"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:90"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:95"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:100"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:105"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:110"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:115"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:120"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:125"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:130"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:135"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:140"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:145"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:150"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:155"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:160"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:165"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:170"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:175"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:180"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:185"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:190"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:195"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:200"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:205"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:210"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:215"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:220"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:225"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:230"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:235"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:240"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:245"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:250"
+name: b11902029, hole_card: ['S9', 'S6']
+name: b08209028, hole_card: ['HQ', 'C3']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 2 (stack = {'b11902029': 255, 'b08209028': 1745})
+community cards of this round: ['SJ', 'HT', 'C7', 'CQ', 'ST']
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:20"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:25"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:30"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:35"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:40"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:45"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:50"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:55"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:60"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:65"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:70"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:75"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:80"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:85"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:90"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:95"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:100"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:105"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:110"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:115"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:120"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:125"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:130"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:135"
+name: b11902029, hole_card: ['S7', 'S8']
+name: b08209028, hole_card: ['CK', 'H2']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 3 (stack = {'b11902029': 125, 'b08209028': 1875})
+community cards of this round: ['C3', 'H4', 'C6', 'HJ', 'D7']
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:15"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:20"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:25"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:30"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:35"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:40"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:45"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:50"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:55"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:60"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:65"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:70"
+name: b11902029, hole_card: ['S3', 'H9']
+name: b08209028, hole_card: ['H5', 'S6']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 4 (stack = {'b11902029': 60, 'b08209028': 1940})
+community cards of this round: ['H2', 'C9', 'C3', 'CK', 'S6']
+name: b11902029, hole_card: ['DJ', 'S9']
+name: b08209028, hole_card: ['C7', 'C8']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['DJ', 'S9']
+name: b08209028, hole_card: ['C7', 'C8']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['DJ', 'S9']
+name: b08209028, hole_card: ['C7', 'C8']
+"b11902029" declared "raise:20"
+name: b11902029, hole_card: ['DJ', 'S9']
+name: b08209028, hole_card: ['C7', 'C8']
+"b08209028" declared "raise:25"
+name: b11902029, hole_card: ['DJ', 'S9']
+name: b08209028, hole_card: ['C7', 'C8']
+"b11902029" declared "raise:30"
+name: b11902029, hole_card: ['DJ', 'S9']
+name: b08209028, hole_card: ['C7', 'C8']
+"b08209028" declared "raise:35"
+name: b11902029, hole_card: ['DJ', 'S9']
+name: b08209028, hole_card: ['C7', 'C8']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 5 (stack = {'b11902029': 30, 'b08209028': 1970})
+community cards of this round: ['D8', 'H9', 'DJ', 'DA', 'SK']
+name: b11902029, hole_card: ['C5', 'DT']
+name: b08209028, hole_card: ['S9', 'C3']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['C5', 'DT']
+name: b08209028, hole_card: ['S9', 'C3']
+"b11902029" declared "raise:15"
+name: b11902029, hole_card: ['C5', 'DT']
+name: b08209028, hole_card: ['S9', 'C3']
+"b08209028" declared "raise:20"
+name: b11902029, hole_card: ['C5', 'DT']
+name: b08209028, hole_card: ['S9', 'C3']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 6 (stack = {'b11902029': 15, 'b08209028': 1985})
+community cards of this round: ['SK', 'CJ', 'H3', 'HT', 'C7']
+name: b11902029, hole_card: ['D7', 'D5']
+name: b08209028, hole_card: ['SA', 'S8']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['D7', 'D5']
+name: b08209028, hole_card: ['SA', 'S8']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['D7', 'D5']
+name: b08209028, hole_card: ['SA', 'S8']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 7 (stack = {'b11902029': 5, 'b08209028': 1995})
+community cards of this round: ['H3', 'DK', 'C7', 'D9', 'S9']
+name: b11902029, hole_card: ['HK', 'CA']
+name: b08209028, hole_card: ['CQ', 'CJ']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['HK', 'CA']
+name: b08209028, hole_card: ['CQ', 'CJ']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 8 (stack = {'b11902029': 0, 'b08209028': 2000})
+b08209028 vs b11902029 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11902029', 'uuid': 'srlltnesudadngkkcrbqoh', 'stack': 0, 'state': 'folded'}, {'name': 'b08209028', 'uuid': 'fidbtterxdsfcpweajihcf', 'stack': 2000, 'state': 'participating'}]}
+community cards of this round: ['C4', 'DA', 'S9', 'DQ', 'H8']
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:15"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:20"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:25"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:30"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:35"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:40"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:45"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:50"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:55"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:60"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:65"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:70"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:75"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:80"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:85"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:90"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:95"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:100"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:105"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:110"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:115"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:120"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:125"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:130"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:135"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:140"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:145"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:150"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:155"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:160"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:165"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:170"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:175"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:180"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:185"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:190"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:195"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:200"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:205"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:210"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:215"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:220"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:225"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:230"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:235"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:240"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:245"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:250"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:255"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:260"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:265"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:270"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:275"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:280"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:285"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:290"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:295"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:300"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:305"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:310"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:315"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:320"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:325"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:330"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:335"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:340"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:345"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:350"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:355"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:360"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:365"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:370"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:375"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:380"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:385"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:390"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:395"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:400"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:405"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:410"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:415"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:420"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:425"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:430"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:435"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:440"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:445"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:450"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:455"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:460"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:465"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:470"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:475"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:480"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:485"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:490"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "raise:495"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b08209028" declared "raise:500"
+name: b08209028, hole_card: ['HQ', 'D4']
+name: b11902029, hole_card: ['C6', 'CQ']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 1 (stack = {'b08209028': 1495, 'b11902029': 505})
+community cards of this round: ['H7', 'ST', 'D4', 'CT', 'C9']
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:15"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:20"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:25"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:30"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:35"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:40"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:45"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:50"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:55"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:60"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:65"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:70"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:75"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:80"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:85"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:90"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:95"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:100"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:105"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:110"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:115"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:120"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:125"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:130"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:135"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:140"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:145"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:150"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:155"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:160"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:165"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:170"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:175"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:180"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:185"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:190"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:195"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:200"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:205"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:210"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:215"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:220"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:225"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:230"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:235"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:240"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:245"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "raise:250"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b08209028" declared "raise:255"
+name: b08209028, hole_card: ['S9', 'S6']
+name: b11902029, hole_card: ['HQ', 'C3']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 2 (stack = {'b08209028': 1745, 'b11902029': 255})
+community cards of this round: ['SJ', 'HT', 'C7', 'CQ', 'ST']
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:15"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:20"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:25"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:30"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:35"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:40"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:45"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:50"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:55"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:60"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:65"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:70"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:75"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:80"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:85"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:90"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:95"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:100"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:105"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:110"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:115"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:120"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "raise:125"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b08209028" declared "raise:130"
+name: b08209028, hole_card: ['S7', 'S8']
+name: b11902029, hole_card: ['CK', 'H2']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 3 (stack = {'b08209028': 1870, 'b11902029': 130})
+community cards of this round: ['C3', 'H4', 'C6', 'HJ', 'D7']
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:15"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:20"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:25"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:30"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:35"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:40"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:45"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:50"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:55"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b11902029" declared "raise:60"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b08209028" declared "raise:65"
+name: b08209028, hole_card: ['S3', 'H9']
+name: b11902029, hole_card: ['H5', 'S6']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 4 (stack = {'b08209028': 1930, 'b11902029': 70})
+community cards of this round: ['H2', 'C9', 'C3', 'CK', 'S6']
+name: b08209028, hole_card: ['DJ', 'S9']
+name: b11902029, hole_card: ['C7', 'C8']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['DJ', 'S9']
+name: b11902029, hole_card: ['C7', 'C8']
+"b11902029" declared "raise:15"
+name: b08209028, hole_card: ['DJ', 'S9']
+name: b11902029, hole_card: ['C7', 'C8']
+"b08209028" declared "raise:20"
+name: b08209028, hole_card: ['DJ', 'S9']
+name: b11902029, hole_card: ['C7', 'C8']
+"b11902029" declared "raise:25"
+name: b08209028, hole_card: ['DJ', 'S9']
+name: b11902029, hole_card: ['C7', 'C8']
+"b08209028" declared "raise:30"
+name: b08209028, hole_card: ['DJ', 'S9']
+name: b11902029, hole_card: ['C7', 'C8']
+"b11902029" declared "raise:35"
+name: b08209028, hole_card: ['DJ', 'S9']
+name: b11902029, hole_card: ['C7', 'C8']
+"b08209028" declared "raise:40"
+name: b08209028, hole_card: ['DJ', 'S9']
+name: b11902029, hole_card: ['C7', 'C8']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 5 (stack = {'b08209028': 1965, 'b11902029': 35})
+community cards of this round: ['D8', 'H9', 'DJ', 'DA', 'SK']
+name: b08209028, hole_card: ['C5', 'DT']
+name: b11902029, hole_card: ['S9', 'C3']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['C5', 'DT']
+name: b11902029, hole_card: ['S9', 'C3']
+"b08209028" declared "raise:15"
+name: b08209028, hole_card: ['C5', 'DT']
+name: b11902029, hole_card: ['S9', 'C3']
+"b11902029" declared "raise:20"
+name: b08209028, hole_card: ['C5', 'DT']
+name: b11902029, hole_card: ['S9', 'C3']
+"b08209028" declared "raise:25"
+name: b08209028, hole_card: ['C5', 'DT']
+name: b11902029, hole_card: ['S9', 'C3']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 6 (stack = {'b08209028': 1985, 'b11902029': 15})
+community cards of this round: ['SK', 'CJ', 'H3', 'HT', 'C7']
+name: b08209028, hole_card: ['D7', 'D5']
+name: b11902029, hole_card: ['SA', 'S8']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['D7', 'D5']
+name: b11902029, hole_card: ['SA', 'S8']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 7 (stack = {'b08209028': 1990, 'b11902029': 10})
+community cards of this round: ['H3', 'DK', 'C7', 'D9', 'S9']
+name: b08209028, hole_card: ['HK', 'CA']
+name: b11902029, hole_card: ['CQ', 'CJ']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b08209028, hole_card: ['HK', 'CA']
+name: b11902029, hole_card: ['CQ', 'CJ']
+"b08209028" declared "raise:15"
+name: b08209028, hole_card: ['HK', 'CA']
+name: b11902029, hole_card: ['CQ', 'CJ']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 8 (stack = {'b08209028': 2000, 'b11902029': 0})
+b08209028 vs b11902029 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b08209028', 'uuid': 'yuepffxqkepuvpleriyxyk', 'stack': 2000, 'state': 'participating'}, {'name': 'b11902029', 'uuid': 'atqbfvhzblutqdnjrbdpgx', 'stack': 0, 'state': 'folded'}]}
+community cards of this round: ['C8', 'S5', 'HT', 'DK', 'H3']
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:20"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:25"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:30"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:35"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:40"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:45"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:50"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:55"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:60"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:65"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:70"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:75"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:80"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:85"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:90"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:95"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:100"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:105"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:110"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:115"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:120"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:125"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:130"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:135"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:140"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:145"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:150"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:155"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:160"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:165"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:170"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:175"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:180"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:185"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:190"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:195"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:200"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:205"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:210"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:215"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:220"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:225"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:230"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:235"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:240"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:245"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:250"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:255"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:260"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:265"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:270"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:275"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:280"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:285"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:290"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:295"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:300"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:305"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:310"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:315"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:320"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:325"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:330"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:335"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:340"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:345"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:350"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:355"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:360"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:365"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:370"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:375"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:380"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:385"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:390"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:395"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:400"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:405"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:410"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:415"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:420"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:425"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:430"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:435"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:440"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:445"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:450"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:455"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:460"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:465"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:470"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:475"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:480"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:485"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:490"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:495"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "raise:500"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b08209028" declared "raise:505"
+name: b11902029, hole_card: ['D9', 'D5']
+name: b08209028, hole_card: ['C2', 'CJ']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 1 (stack = {'b11902029': 500, 'b08209028': 1500})
+community cards of this round: ['HA', 'H5', 'C4', 'C5', 'S8']
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:15"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:20"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:25"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:30"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:35"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:40"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:45"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:50"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:55"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:60"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:65"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:70"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:75"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:80"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:85"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:90"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:95"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:100"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:105"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:110"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:115"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:120"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:125"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:130"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:135"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:140"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:145"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:150"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:155"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:160"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:165"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:170"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:175"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:180"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:185"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:190"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:195"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:200"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:205"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:210"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:215"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:220"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:225"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:230"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:235"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:240"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "raise:245"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b08209028" declared "raise:250"
+name: b11902029, hole_card: ['H9', 'DQ']
+name: b08209028, hole_card: ['D5', 'HQ']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 2 (stack = {'b11902029': 255, 'b08209028': 1745})
+community cards of this round: ['H9', 'SQ', 'C6', 'H6', 'CQ']
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:20"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:25"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:30"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:35"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:40"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:45"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:50"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:55"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:60"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:65"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:70"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:75"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:80"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:85"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:90"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:95"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:100"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:105"
+/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/cuda/__init__.py:118: UserWarning: CUDA initialization: CUDA driver initialization failed, you might not have a CUDA gpu. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() > 0
+/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:110"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:115"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:120"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:125"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "raise:130"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b08209028" declared "raise:135"
+name: b11902029, hole_card: ['C9', 'HT']
+name: b08209028, hole_card: ['CJ', 'D9']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 3 (stack = {'b11902029': 125, 'b08209028': 1875})
+community cards of this round: ['S6', 'C9', 'DJ', 'C3', 'D2']
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b11902029" declared "raise:15"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b08209028" declared "raise:20"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b11902029" declared "raise:25"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b08209028" declared "raise:30"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b11902029" declared "raise:35"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b08209028" declared "raise:40"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b11902029" declared "raise:45"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b08209028" declared "raise:50"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b11902029" declared "raise:55"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b08209028" declared "raise:60"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b11902029" declared "raise:65"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b08209028" declared "raise:70"
+name: b11902029, hole_card: ['DA', 'C5']
+name: b08209028, hole_card: ['H5', 'HT']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 4 (stack = {'b11902029': 60, 'b08209028': 1940})
+community cards of this round: ['H5', 'HK', 'H2', 'C9', 'S6']
+name: b11902029, hole_card: ['H9', 'CJ']
+name: b08209028, hole_card: ['C8', 'D5']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['H9', 'CJ']
+name: b08209028, hole_card: ['C8', 'D5']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['H9', 'CJ']
+name: b08209028, hole_card: ['C8', 'D5']
+"b11902029" declared "raise:20"
+name: b11902029, hole_card: ['H9', 'CJ']
+name: b08209028, hole_card: ['C8', 'D5']
+"b08209028" declared "raise:25"
+name: b11902029, hole_card: ['H9', 'CJ']
+name: b08209028, hole_card: ['C8', 'D5']
+"b11902029" declared "raise:30"
+name: b11902029, hole_card: ['H9', 'CJ']
+name: b08209028, hole_card: ['C8', 'D5']
+"b08209028" declared "raise:35"
+name: b11902029, hole_card: ['H9', 'CJ']
+name: b08209028, hole_card: ['C8', 'D5']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 5 (stack = {'b11902029': 30, 'b08209028': 1970})
+community cards of this round: ['S2', 'C3', 'SA', 'S3', 'CJ']
+name: b11902029, hole_card: ['S8', 'H3']
+name: b08209028, hole_card: ['D4', 'DJ']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['S8', 'H3']
+name: b08209028, hole_card: ['D4', 'DJ']
+"b11902029" declared "raise:15"
+name: b11902029, hole_card: ['S8', 'H3']
+name: b08209028, hole_card: ['D4', 'DJ']
+"b08209028" declared "raise:20"
+name: b11902029, hole_card: ['S8', 'H3']
+name: b08209028, hole_card: ['D4', 'DJ']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 6 (stack = {'b11902029': 15, 'b08209028': 1985})
+community cards of this round: ['C8', 'CQ', 'D5', 'CK', 'CT']
+name: b11902029, hole_card: ['DJ', 'H4']
+name: b08209028, hole_card: ['S2', 'HT']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['DJ', 'H4']
+name: b08209028, hole_card: ['S2', 'HT']
+"b08209028" declared "raise:15"
+name: b11902029, hole_card: ['DJ', 'H4']
+name: b08209028, hole_card: ['S2', 'HT']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 7 (stack = {'b11902029': 5, 'b08209028': 1995})
+community cards of this round: ['HQ', 'CJ', 'SA', 'HT', 'H4']
+name: b11902029, hole_card: ['C4', 'DA']
+name: b08209028, hole_card: ['CK', 'H5']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b11902029, hole_card: ['C4', 'DA']
+name: b08209028, hole_card: ['CK', 'H5']
+"b11902029" declared "fold:0"
+"['b08209028']" won the round 8 (stack = {'b11902029': 0, 'b08209028': 2000})
+b08209028 vs b11902029 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11902029', 'uuid': 'qvunqqpmclkgiojghwblkr', 'stack': 0, 'state': 'folded'}, {'name': 'b08209028', 'uuid': 'cnenqzdaitrnhxdluuwieu', 'stack': 2000, 'state': 'participating'}]}
+Final Result: b08209028 won 5 games (stack: 10000), b11902029 won 0 games (stack: 0), num ties: 0

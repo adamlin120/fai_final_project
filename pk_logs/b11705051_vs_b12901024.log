@@ -1,0 +1,861 @@
+community cards of this round: ['SK', 'S7', 'C7', 'SQ', 'D6']
+name: b12901024, hole_card: ['C2', 'SA']
+name: b11705051, hole_card: ['D8', 'H5']
+Started the round 1
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['D8', 'H5'], [])
+First round win rate: 50.0
+Exploring: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['C2', 'SA']
+name: b11705051, hole_card: ['D8', 'H5']
+"b11705051" declared "call:10"
+name: b12901024, hole_card: ['C2', 'SA']
+name: b11705051, hole_card: ['D8', 'H5']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 1 (stack = {'b12901024': 990, 'b11705051': 1010})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.5
+community cards of this round: ['DK', 'SA', 'H3', 'C2', 'S4']
+name: b12901024, hole_card: ['S3', 'SK']
+name: b11705051, hole_card: ['D5', 'C8']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['S3', 'SK']
+name: b11705051, hole_card: ['D5', 'C8']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 2 (stack = {'b12901024': 985, 'b11705051': 1015})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.25
+community cards of this round: ['CQ', 'C6', 'DQ', 'SQ', 'SK']
+name: b12901024, hole_card: ['C3', 'H3']
+name: b11705051, hole_card: ['CA', 'C5']
+Started the round 3
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['CA', 'C5'], [])
+First round win rate: 52.0
+Exploiting: Win rate = 52.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 52.0
+name: b12901024, hole_card: ['C3', 'H3']
+name: b11705051, hole_card: ['CA', 'C5']
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b12901024']" won the round 3 (stack = {'b12901024': 990, 'b11705051': 1010})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.125
+community cards of this round: ['S3', 'HT', 'HA', 'CQ', 'S9']
+name: b12901024, hole_card: ['C7', 'S5']
+name: b11705051, hole_card: ['H7', 'H3']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['C7', 'S5']
+name: b11705051, hole_card: ['H7', 'H3']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 4 (stack = {'b12901024': 985, 'b11705051': 1015})
+Learning: Reward = 1, TD error = 0.5, Q-value updated: {'fold': 0, 'call': 0.75, 'raise': 0}
+Exploration rate updated: 0.0625
+community cards of this round: ['HT', 'DQ', 'DJ', 'CK', 'ST']
+name: b12901024, hole_card: ['H2', 'SK']
+name: b11705051, hole_card: ['DK', 'CJ']
+Started the round 5
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['DK', 'CJ'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['H2', 'SK']
+name: b11705051, hole_card: ['DK', 'CJ']
+"b11705051" declared "call:10"
+name: b12901024, hole_card: ['H2', 'SK']
+name: b11705051, hole_card: ['DK', 'CJ']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 5 (stack = {'b12901024': 975, 'b11705051': 1025})
+Learning: Reward = 1, TD error = 0.5, Q-value updated: {'fold': 0, 'call': 0.75, 'raise': 0}
+Exploration rate updated: 0.03125
+community cards of this round: ['ST', 'HQ', 'H4', 'HJ', 'H5']
+name: b12901024, hole_card: ['C8', 'S2']
+name: b11705051, hole_card: ['D9', 'C6']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['C8', 'S2']
+name: b11705051, hole_card: ['D9', 'C6']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 6 (stack = {'b12901024': 970, 'b11705051': 1030})
+Learning: Reward = 1, TD error = 0.25, Q-value updated: {'fold': 0, 'call': 0.875, 'raise': 0}
+Exploration rate updated: 0.015625
+community cards of this round: ['H9', 'C4', 'C5', 'HQ', 'H5']
+name: b12901024, hole_card: ['HT', 'CK']
+name: b11705051, hole_card: ['D3', 'S4']
+Started the round 7
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['D3', 'S4'], [])
+First round win rate: 39.0
+Exploiting: Win rate = 39.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 39.0
+name: b12901024, hole_card: ['HT', 'CK']
+name: b11705051, hole_card: ['D3', 'S4']
+"b11705051" declared "fold:0"
+"['b12901024']" won the round 7 (stack = {'b12901024': 975, 'b11705051': 1025})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.0078125
+community cards of this round: ['SA', 'C7', 'DK', 'DJ', 'HQ']
+name: b12901024, hole_card: ['CA', 'D8']
+name: b11705051, hole_card: ['DT', 'H2']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['CA', 'D8']
+name: b11705051, hole_card: ['DT', 'H2']
+"b12901024" declared "call:10"
+Declared Started:
+Computing win rate for state: (['DT', 'H2'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['CA', 'D8']
+name: b11705051, hole_card: ['DT', 'H2']
+"b11705051" declared "call:10"
+Street "flop" started. (community card = ['SA', 'C7', 'DK'])
+name: b12901024, hole_card: ['CA', 'D8']
+name: b11705051, hole_card: ['DT', 'H2']
+"b12901024" declared "raise:60"
+Declared Started:
+Computing win rate for state: (['DT', 'H2'], ['SA', 'C7', 'DK'])
+Kinds: {'D': 2, 'H': 1, 'S': 1, 'C': 1}
+Numbers: {'T': 1, '2': 1, 'A': 1, '7': 1, 'K': 1}
+Max kind key: D Max kind value: 2 iHave: 1
+Done
+Community situation: 0.0
+Two pair count: 0
+Exploiting: Win rate = 0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 0
+name: b12901024, hole_card: ['CA', 'D8']
+name: b11705051, hole_card: ['DT', 'H2']
+"b11705051" declared "fold:0"
+"['b12901024']" won the round 8 (stack = {'b12901024': 985, 'b11705051': 1015})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.00390625
+community cards of this round: ['SQ', 'CA', 'HQ', 'CK', 'C8']
+name: b12901024, hole_card: ['H4', 'D8']
+name: b11705051, hole_card: ['C4', 'DQ']
+Started the round 9
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['C4', 'DQ'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['H4', 'D8']
+name: b11705051, hole_card: ['C4', 'DQ']
+"b11705051" declared "call:10"
+name: b12901024, hole_card: ['H4', 'D8']
+name: b11705051, hole_card: ['C4', 'DQ']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 9 (stack = {'b12901024': 975, 'b11705051': 1025})
+Learning: Reward = 1, TD error = 0.25, Q-value updated: {'fold': 0, 'call': 0.875, 'raise': 0}
+Exploration rate updated: 0.001953125
+community cards of this round: ['H8', 'S8', 'SK', 'DT', 'H9']
+name: b12901024, hole_card: ['CQ', 'H5']
+name: b11705051, hole_card: ['S2', 'D4']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['CQ', 'H5']
+name: b11705051, hole_card: ['S2', 'D4']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 10 (stack = {'b12901024': 970, 'b11705051': 1030})
+Learning: Reward = 1, TD error = 0.125, Q-value updated: {'fold': 0, 'call': 0.9375, 'raise': 0}
+Exploration rate updated: 0.0009765625
+community cards of this round: ['D2', 'C9', 'S8', 'DJ', 'HJ']
+name: b12901024, hole_card: ['S4', 'H4']
+name: b11705051, hole_card: ['CQ', 'C4']
+Started the round 11
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['CQ', 'C4'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['S4', 'H4']
+name: b11705051, hole_card: ['CQ', 'C4']
+"b11705051" declared "call:10"
+name: b12901024, hole_card: ['S4', 'H4']
+name: b11705051, hole_card: ['CQ', 'C4']
+"b12901024" declared "raise:970"
+Declared Started:
+Computing win rate for state: (['CQ', 'C4'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 50.0
+name: b12901024, hole_card: ['S4', 'H4']
+name: b11705051, hole_card: ['CQ', 'C4']
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b12901024']" won the round 11 (stack = {'b12901024': 980, 'b11705051': 1020})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.00048828125
+community cards of this round: ['SK', 'C3', 'HT', 'C6', 'CQ']
+name: b12901024, hole_card: ['H3', 'D7']
+name: b11705051, hole_card: ['C8', 'HA']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['H3', 'D7']
+name: b11705051, hole_card: ['C8', 'HA']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 12 (stack = {'b12901024': 975, 'b11705051': 1025})
+Learning: Reward = 1, TD error = 0.0625, Q-value updated: {'fold': 0, 'call': 0.96875, 'raise': 0}
+Exploration rate updated: 0.000244140625
+community cards of this round: ['DJ', 'SQ', 'D7', 'H6', 'CJ']
+name: b12901024, hole_card: ['H8', 'S8']
+name: b11705051, hole_card: ['HK', 'S6']
+Started the round 13
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['HK', 'S6'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['H8', 'S8']
+name: b11705051, hole_card: ['HK', 'S6']
+"b11705051" declared "call:10"
+name: b12901024, hole_card: ['H8', 'S8']
+name: b11705051, hole_card: ['HK', 'S6']
+"b12901024" declared "raise:975"
+Declared Started:
+Computing win rate for state: (['HK', 'S6'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 975, Win rate = 50.0
+name: b12901024, hole_card: ['H8', 'S8']
+name: b11705051, hole_card: ['HK', 'S6']
+"b11705051" declared "call:975"
+Street "flop" started. (community card = ['DJ', 'SQ', 'D7'])
+Street "turn" started. (community card = ['DJ', 'SQ', 'D7', 'H6'])
+Street "river" started. (community card = ['DJ', 'SQ', 'D7', 'H6', 'CJ'])
+"['b12901024']" won the round 13 (stack = {'b12901024': 1950, 'b11705051': 50})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': -0.5, 'raise': 0}
+Exploration rate updated: 0.0001220703125
+community cards of this round: ['D9', 'D8', 'CA', 'H6', 'CQ']
+name: b12901024, hole_card: ['DA', 'D5']
+name: b11705051, hole_card: ['CJ', 'SQ']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['DA', 'D5']
+name: b11705051, hole_card: ['CJ', 'SQ']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 14 (stack = {'b12901024': 1945, 'b11705051': 55})
+Learning: Reward = 1, TD error = 0.03125, Q-value updated: {'fold': 0, 'call': 0.984375, 'raise': 0}
+Exploration rate updated: 6.103515625e-05
+community cards of this round: ['SJ', 'H9', 'H7', 'ST', 'S4']
+name: b12901024, hole_card: ['D3', 'DJ']
+name: b11705051, hole_card: ['C2', 'D7']
+Started the round 15
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['C2', 'D7'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['D3', 'DJ']
+name: b11705051, hole_card: ['C2', 'D7']
+"b11705051" declared "call:10"
+name: b12901024, hole_card: ['D3', 'DJ']
+name: b11705051, hole_card: ['C2', 'D7']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 15 (stack = {'b12901024': 1935, 'b11705051': 65})
+Learning: Reward = 1, TD error = 0.125, Q-value updated: {'fold': 0, 'call': 0.9375, 'raise': 0}
+Exploration rate updated: 3.0517578125e-05
+community cards of this round: ['SK', 'S6', 'S7', 'D8', 'S3']
+name: b12901024, hole_card: ['CA', 'ST']
+name: b11705051, hole_card: ['S4', 'SJ']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['CA', 'ST']
+name: b11705051, hole_card: ['S4', 'SJ']
+"b12901024" declared "raise:1935"
+Declared Started:
+Computing win rate for state: (['S4', 'SJ'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 1935, Win rate = 50.0
+name: b12901024, hole_card: ['CA', 'ST']
+name: b11705051, hole_card: ['S4', 'SJ']
+"b11705051" declared "call:1935"
+Street "flop" started. (community card = ['SK', 'S6', 'S7'])
+Street "turn" started. (community card = ['SK', 'S6', 'S7', 'D8'])
+Street "river" started. (community card = ['SK', 'S6', 'S7', 'D8', 'S3'])
+"['b12901024']" won the round 16 (stack = {'b12901024': 2000, 'b11705051': 0})
+Learning: Reward = -1, TD error = -1.9375, Q-value updated: {'fold': 0, 'call': -0.03125, 'raise': 0}
+Exploration rate updated: 1.52587890625e-05
+b11705051 vs b12901024 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b12901024', 'uuid': 'obojjbytsqjqfmjldyjkgh', 'stack': 2000, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'yekpbrscntlifqqgbcegrk', 'stack': 0, 'state': 'folded'}]}
+community cards of this round: ['SK', 'S7', 'C7', 'SQ', 'D6']
+name: b11705051, hole_card: ['C2', 'SA']
+name: b12901024, hole_card: ['D8', 'H5']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['C2', 'SA']
+name: b12901024, hole_card: ['D8', 'H5']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 1 (stack = {'b11705051': 1005, 'b12901024': 995})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.5
+community cards of this round: ['DK', 'SA', 'H3', 'C2', 'S4']
+name: b11705051, hole_card: ['S3', 'SK']
+name: b12901024, hole_card: ['D5', 'C8']
+Started the round 2
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['S3', 'SK'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 50.0
+name: b11705051, hole_card: ['S3', 'SK']
+name: b12901024, hole_card: ['D5', 'C8']
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b12901024']" won the round 2 (stack = {'b11705051': 1000, 'b12901024': 1000})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.25
+community cards of this round: ['CQ', 'C6', 'DQ', 'SQ', 'SK']
+name: b11705051, hole_card: ['C3', 'H3']
+name: b12901024, hole_card: ['CA', 'C5']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['C3', 'H3']
+name: b12901024, hole_card: ['CA', 'C5']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 3 (stack = {'b11705051': 1005, 'b12901024': 995})
+Learning: Reward = 1, TD error = 0.5, Q-value updated: {'fold': 0, 'call': 0.75, 'raise': 0}
+Exploration rate updated: 0.125
+community cards of this round: ['S3', 'HT', 'HA', 'CQ', 'S9']
+name: b11705051, hole_card: ['C7', 'S5']
+name: b12901024, hole_card: ['H7', 'H3']
+Started the round 4
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['C7', 'S5'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b11705051, hole_card: ['C7', 'S5']
+name: b12901024, hole_card: ['H7', 'H3']
+"b11705051" declared "call:10"
+name: b11705051, hole_card: ['C7', 'S5']
+name: b12901024, hole_card: ['H7', 'H3']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 4 (stack = {'b11705051': 1015, 'b12901024': 985})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': -0.5, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.0625
+community cards of this round: ['HT', 'DQ', 'DJ', 'CK', 'ST']
+name: b11705051, hole_card: ['H2', 'SK']
+name: b12901024, hole_card: ['DK', 'CJ']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['H2', 'SK']
+name: b12901024, hole_card: ['DK', 'CJ']
+"b12901024" declared "raise:985"
+Declared Started:
+Computing win rate for state: (['H2', 'SK'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 985, Win rate = 50.0
+name: b11705051, hole_card: ['H2', 'SK']
+name: b12901024, hole_card: ['DK', 'CJ']
+"b11705051" declared "call:985"
+Street "flop" started. (community card = ['HT', 'DQ', 'DJ'])
+Street "turn" started. (community card = ['HT', 'DQ', 'DJ', 'CK'])
+Street "river" started. (community card = ['HT', 'DQ', 'DJ', 'CK', 'ST'])
+"['b12901024']" won the round 5 (stack = {'b11705051': 30, 'b12901024': 1970})
+Learning: Reward = -1, TD error = -1.5, Q-value updated: {'fold': -0.5, 'call': -0.25, 'raise': 0}
+Exploration rate updated: 0.03125
+community cards of this round: ['ST', 'HQ', 'H4', 'HJ', 'H5']
+name: b11705051, hole_card: ['C8', 'S2']
+name: b12901024, hole_card: ['D9', 'C6']
+Started the round 6
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['C8', 'S2'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: raise
+Action declared: Action = raise, Amount = 250.0, Win rate = 50.0
+name: b11705051, hole_card: ['C8', 'S2']
+name: b12901024, hole_card: ['D9', 'C6']
+"b11705051" declared "raise:250.0", Invalid action. Treat as fold...
+"['b12901024']" won the round 6 (stack = {'b11705051': 25, 'b12901024': 1975})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': -0.25, 'raise': -0.5}
+Exploration rate updated: 0.015625
+community cards of this round: ['H9', 'C4', 'C5', 'HQ', 'H5']
+name: b11705051, hole_card: ['HT', 'CK']
+name: b12901024, hole_card: ['D3', 'S4']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['HT', 'CK']
+name: b12901024, hole_card: ['D3', 'S4']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 7 (stack = {'b11705051': 30, 'b12901024': 1970})
+Learning: Reward = 1, TD error = 0.25, Q-value updated: {'fold': 0, 'call': 0.875, 'raise': 0}
+Exploration rate updated: 0.0078125
+community cards of this round: ['SA', 'C7', 'DK', 'DJ', 'HQ']
+name: b11705051, hole_card: ['CA', 'D8']
+name: b12901024, hole_card: ['DT', 'H2']
+Started the round 8
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['CA', 'D8'], [])
+First round win rate: 54.0
+Exploiting: Win rate = 54.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 54.0
+name: b11705051, hole_card: ['CA', 'D8']
+name: b12901024, hole_card: ['DT', 'H2']
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b12901024']" won the round 8 (stack = {'b11705051': 25, 'b12901024': 1975})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.00390625
+community cards of this round: ['SQ', 'CA', 'HQ', 'CK', 'C8']
+name: b11705051, hole_card: ['H4', 'D8']
+name: b12901024, hole_card: ['C4', 'DQ']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['H4', 'D8']
+name: b12901024, hole_card: ['C4', 'DQ']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 9 (stack = {'b11705051': 30, 'b12901024': 1970})
+Learning: Reward = 1, TD error = 0.125, Q-value updated: {'fold': 0, 'call': 0.9375, 'raise': 0}
+Exploration rate updated: 0.001953125
+community cards of this round: ['H8', 'S8', 'SK', 'DT', 'H9']
+name: b11705051, hole_card: ['CQ', 'H5']
+name: b12901024, hole_card: ['S2', 'D4']
+Started the round 10
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['CQ', 'H5'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b11705051, hole_card: ['CQ', 'H5']
+name: b12901024, hole_card: ['S2', 'D4']
+"b11705051" declared "call:10"
+name: b11705051, hole_card: ['CQ', 'H5']
+name: b12901024, hole_card: ['S2', 'D4']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 10 (stack = {'b11705051': 40, 'b12901024': 1960})
+Learning: Reward = 1, TD error = 1.25, Q-value updated: {'fold': -0.5, 'call': 0.375, 'raise': -0.5}
+Exploration rate updated: 0.0009765625
+community cards of this round: ['D2', 'C9', 'S8', 'DJ', 'HJ']
+name: b11705051, hole_card: ['S4', 'H4']
+name: b12901024, hole_card: ['CQ', 'C4']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['S4', 'H4']
+name: b12901024, hole_card: ['CQ', 'C4']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 11 (stack = {'b11705051': 45, 'b12901024': 1955})
+Learning: Reward = 1, TD error = 0.0625, Q-value updated: {'fold': 0, 'call': 0.96875, 'raise': 0}
+Exploration rate updated: 0.00048828125
+community cards of this round: ['SK', 'C3', 'HT', 'C6', 'CQ']
+name: b11705051, hole_card: ['H3', 'D7']
+name: b12901024, hole_card: ['C8', 'HA']
+Started the round 12
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['H3', 'D7'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b11705051, hole_card: ['H3', 'D7']
+name: b12901024, hole_card: ['C8', 'HA']
+"b11705051" declared "call:10"
+name: b11705051, hole_card: ['H3', 'D7']
+name: b12901024, hole_card: ['C8', 'HA']
+"b12901024" declared "call:10"
+Street "flop" started. (community card = ['SK', 'C3', 'HT'])
+Declared Started:
+Computing win rate for state: (['H3', 'D7'], ['SK', 'C3', 'HT'])
+Kinds: {'H': 2, 'D': 1, 'S': 1, 'C': 1}
+Numbers: {'3': 2, '7': 1, 'K': 1, 'T': 1}
+Max kind key: H Max kind value: 2 iHave: 1
+Done
+Community situation: 0.0
+Two pair count: 1
+Exploiting: Win rate = 0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 0
+name: b11705051, hole_card: ['H3', 'D7']
+name: b12901024, hole_card: ['C8', 'HA']
+"b11705051" declared "fold:0"
+"['b12901024']" won the round 12 (stack = {'b11705051': 35, 'b12901024': 1965})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.000244140625
+community cards of this round: ['DJ', 'SQ', 'D7', 'H6', 'CJ']
+name: b11705051, hole_card: ['H8', 'S8']
+name: b12901024, hole_card: ['HK', 'S6']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['H8', 'S8']
+name: b12901024, hole_card: ['HK', 'S6']
+"b12901024" declared "call:10"
+Declared Started:
+Computing win rate for state: (['H8', 'S8'], [])
+First round win rate: 70.0
+Exploiting: Win rate = 70.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 70.0
+name: b11705051, hole_card: ['H8', 'S8']
+name: b12901024, hole_card: ['HK', 'S6']
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b12901024']" won the round 13 (stack = {'b11705051': 25, 'b12901024': 1975})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.0001220703125
+community cards of this round: ['D9', 'D8', 'CA', 'H6', 'CQ']
+name: b11705051, hole_card: ['DA', 'D5']
+name: b12901024, hole_card: ['CJ', 'SQ']
+Started the round 14
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['DA', 'D5'], [])
+First round win rate: 52.0
+Exploiting: Win rate = 52.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 52.0
+name: b11705051, hole_card: ['DA', 'D5']
+name: b12901024, hole_card: ['CJ', 'SQ']
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b12901024']" won the round 14 (stack = {'b11705051': 20, 'b12901024': 1980})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 6.103515625e-05
+community cards of this round: ['SJ', 'H9', 'H7', 'ST', 'S4']
+name: b11705051, hole_card: ['D3', 'DJ']
+name: b12901024, hole_card: ['C2', 'D7']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['D3', 'DJ']
+name: b12901024, hole_card: ['C2', 'D7']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 15 (stack = {'b11705051': 25, 'b12901024': 1975})
+Learning: Reward = 1, TD error = 0.03125, Q-value updated: {'fold': 0, 'call': 0.984375, 'raise': 0}
+Exploration rate updated: 3.0517578125e-05
+community cards of this round: ['SK', 'S6', 'S7', 'D8', 'S3']
+name: b11705051, hole_card: ['CA', 'ST']
+name: b12901024, hole_card: ['S4', 'SJ']
+Started the round 16
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['CA', 'ST'], [])
+First round win rate: 57.99999999999999
+Exploiting: Win rate = 57.99999999999999, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 57.99999999999999
+name: b11705051, hole_card: ['CA', 'ST']
+name: b12901024, hole_card: ['S4', 'SJ']
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b12901024']" won the round 16 (stack = {'b11705051': 20, 'b12901024': 1980})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 1.52587890625e-05
+community cards of this round: ['S5', 'D6', 'SJ', 'S9', 'C3']
+name: b11705051, hole_card: ['H5', 'S3']
+name: b12901024, hole_card: ['D7', 'H4']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['H5', 'S3']
+name: b12901024, hole_card: ['D7', 'H4']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 17 (stack = {'b11705051': 25, 'b12901024': 1975})
+Learning: Reward = 1, TD error = 0.015625, Q-value updated: {'fold': 0, 'call': 0.9921875, 'raise': 0}
+Exploration rate updated: 7.62939453125e-06
+community cards of this round: ['DJ', 'H8', 'H7', 'D9', 'CK']
+name: b11705051, hole_card: ['S8', 'SK']
+name: b12901024, hole_card: ['SJ', 'H5']
+Started the round 18
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['S8', 'SK'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b11705051, hole_card: ['S8', 'SK']
+name: b12901024, hole_card: ['SJ', 'H5']
+"b11705051" declared "call:10"
+name: b11705051, hole_card: ['S8', 'SK']
+name: b12901024, hole_card: ['SJ', 'H5']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 18 (stack = {'b11705051': 35, 'b12901024': 1965})
+Learning: Reward = 1, TD error = 0.625, Q-value updated: {'fold': -0.5, 'call': 0.6875, 'raise': -0.5}
+Exploration rate updated: 3.814697265625e-06
+community cards of this round: ['D9', 'C9', 'HT', 'D2', 'H3']
+name: b11705051, hole_card: ['SA', 'HJ']
+name: b12901024, hole_card: ['D4', 'HA']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['SA', 'HJ']
+name: b12901024, hole_card: ['D4', 'HA']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 19 (stack = {'b11705051': 40, 'b12901024': 1960})
+Learning: Reward = 1, TD error = 0.0078125, Q-value updated: {'fold': 0, 'call': 0.99609375, 'raise': 0}
+Exploration rate updated: 1.9073486328125e-06
+community cards of this round: ['D8', 'S9', 'H7', 'DA', 'H6']
+name: b11705051, hole_card: ['C9', 'D9']
+name: b12901024, hole_card: ['HK', 'CJ']
+Started the round 20
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['C9', 'D9'], [])
+First round win rate: 73.0
+Exploiting: Win rate = 73.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 73.0
+name: b11705051, hole_card: ['C9', 'D9']
+name: b12901024, hole_card: ['HK', 'CJ']
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b12901024']" won the round 20 (stack = {'b11705051': 35, 'b12901024': 1965})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 9.5367431640625e-07
+b11705051 vs b12901024 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705051', 'uuid': 'kfsyejxfifemetgfdrazic', 'stack': 35, 'state': 'participating'}, {'name': 'b12901024', 'uuid': 'nwzubmzsuzsdwopdcdujhn', 'stack': 1965, 'state': 'participating'}]}
+community cards of this round: ['H5', 'D5', 'HQ', 'HT', 'DT']
+name: b12901024, hole_card: ['C8', 'D8']
+name: b11705051, hole_card: ['S6', 'H3']
+Started the round 1
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['S6', 'H3'], [])
+First round win rate: 50.0
+Exploring: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['C8', 'D8']
+name: b11705051, hole_card: ['S6', 'H3']
+"b11705051" declared "call:10"
+name: b12901024, hole_card: ['C8', 'D8']
+name: b11705051, hole_card: ['S6', 'H3']
+"b12901024" declared "raise:1000"
+Declared Started:
+Computing win rate for state: (['S6', 'H3'], [])
+First round win rate: 50.0
+Exploring: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 1000, Win rate = 50.0
+name: b12901024, hole_card: ['C8', 'D8']
+name: b11705051, hole_card: ['S6', 'H3']
+"b11705051" declared "call:1000"
+Street "flop" started. (community card = ['H5', 'D5', 'HQ'])
+Street "turn" started. (community card = ['H5', 'D5', 'HQ', 'HT'])
+Street "river" started. (community card = ['H5', 'D5', 'HQ', 'HT', 'DT'])
+"['b12901024']" won the round 1 (stack = {'b12901024': 2000, 'b11705051': 0})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': 0, 'call': -0.5, 'raise': 0}
+Exploration rate updated: 0.5
+b11705051 vs b12901024 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b12901024', 'uuid': 'cqeduytknqggbwelaxqzfw', 'stack': 2000, 'state': 'participating'}, {'name': 'b11705051', 'uuid': 'kisvjwjzpfqcawhnhzipjv', 'stack': 0, 'state': 'folded'}]}
+community cards of this round: ['H5', 'D5', 'HQ', 'HT', 'DT']
+name: b11705051, hole_card: ['C8', 'D8']
+name: b12901024, hole_card: ['S6', 'H3']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b11705051, hole_card: ['C8', 'D8']
+name: b12901024, hole_card: ['S6', 'H3']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 1 (stack = {'b11705051': 1005, 'b12901024': 995})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.5
+community cards of this round: ['D9', 'CQ', 'S6', 'D4', 'HA']
+name: b11705051, hole_card: ['HK', 'DA']
+name: b12901024, hole_card: ['H5', 'S5']
+Started the round 2
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['HK', 'DA'], [])
+First round win rate: 64.0
+Exploring: Win rate = 64.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 64.0
+name: b11705051, hole_card: ['HK', 'DA']
+name: b12901024, hole_card: ['H5', 'S5']
+"b11705051" declared "call:10"
+name: b11705051, hole_card: ['HK', 'DA']
+name: b12901024, hole_card: ['H5', 'S5']
+"b12901024" declared "raise:995"
+Declared Started:
+Computing win rate for state: (['HK', 'DA'], [])
+First round win rate: 64.0
+Exploring: Win rate = 64.0, Choosing action: call
+Action declared: Action = call, Amount = 995, Win rate = 64.0
+name: b11705051, hole_card: ['HK', 'DA']
+name: b12901024, hole_card: ['H5', 'S5']
+"b11705051" declared "call:995"
+Street "flop" started. (community card = ['D9', 'CQ', 'S6'])
+Street "turn" started. (community card = ['D9', 'CQ', 'S6', 'D4'])
+Street "river" started. (community card = ['D9', 'CQ', 'S6', 'D4', 'HA'])
+"['b11705051']" won the round 2 (stack = {'b11705051': 2000, 'b12901024': 0})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.25
+b11705051 vs b12901024 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b11705051', 'uuid': 'htkeywcregdidlkdpcmueq', 'stack': 2000, 'state': 'participating'}, {'name': 'b12901024', 'uuid': 'aporoclfwxzvhqezxssfri', 'stack': 0, 'state': 'folded'}]}
+community cards of this round: ['SA', 'HQ', 'C7', 'SJ', 'S4']
+name: b12901024, hole_card: ['S3', 'ST']
+name: b11705051, hole_card: ['S2', 'CK']
+Started the round 1
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['S2', 'CK'], [])
+First round win rate: 50.0
+Exploring: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['S3', 'ST']
+name: b11705051, hole_card: ['S2', 'CK']
+"b11705051" declared "call:10"
+name: b12901024, hole_card: ['S3', 'ST']
+name: b11705051, hole_card: ['S2', 'CK']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 1 (stack = {'b12901024': 990, 'b11705051': 1010})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.5
+community cards of this round: ['H8', 'H3', 'HQ', 'H2', 'CT']
+name: b12901024, hole_card: ['H9', 'H5']
+name: b11705051, hole_card: ['H4', 'H7']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['H9', 'H5']
+name: b11705051, hole_card: ['H4', 'H7']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 2 (stack = {'b12901024': 985, 'b11705051': 1015})
+Learning: Reward = 1, TD error = 1, Q-value updated: {'fold': 0, 'call': 0.5, 'raise': 0}
+Exploration rate updated: 0.25
+community cards of this round: ['H3', 'H7', 'S5', 'DT', 'S7']
+name: b12901024, hole_card: ['D7', 'S2']
+name: b11705051, hole_card: ['CQ', 'HT']
+Started the round 3
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['CQ', 'HT'], [])
+First round win rate: 47.0
+Exploiting: Win rate = 47.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 47.0
+name: b12901024, hole_card: ['D7', 'S2']
+name: b11705051, hole_card: ['CQ', 'HT']
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b12901024']" won the round 3 (stack = {'b12901024': 990, 'b11705051': 1010})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.125
+community cards of this round: ['DQ', 'S8', 'CJ', 'C4', 'SJ']
+name: b12901024, hole_card: ['D3', 'H6']
+name: b11705051, hole_card: ['HA', 'H5']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['D3', 'H6']
+name: b11705051, hole_card: ['HA', 'H5']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 4 (stack = {'b12901024': 985, 'b11705051': 1015})
+Learning: Reward = 1, TD error = 0.5, Q-value updated: {'fold': 0, 'call': 0.75, 'raise': 0}
+Exploration rate updated: 0.0625
+community cards of this round: ['H7', 'HT', 'D4', 'H4', 'C6']
+name: b12901024, hole_card: ['DQ', 'D9']
+name: b11705051, hole_card: ['DK', 'CQ']
+Started the round 5
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['DK', 'CQ'], [])
+First round win rate: 51.0
+Exploiting: Win rate = 51.0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 51.0
+name: b12901024, hole_card: ['DQ', 'D9']
+name: b11705051, hole_card: ['DK', 'CQ']
+"b11705051" declared "call:0", Invalid action. Treat as fold...
+"['b12901024']" won the round 5 (stack = {'b12901024': 990, 'b11705051': 1010})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.03125
+community cards of this round: ['C3', 'DT', 'HA', 'S8', 'ST']
+name: b12901024, hole_card: ['H7', 'HQ']
+name: b11705051, hole_card: ['C5', 'D2']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['H7', 'HQ']
+name: b11705051, hole_card: ['C5', 'D2']
+"b12901024" declared "call:10"
+Declared Started:
+Computing win rate for state: (['C5', 'D2'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['H7', 'HQ']
+name: b11705051, hole_card: ['C5', 'D2']
+"b11705051" declared "call:10"
+Street "flop" started. (community card = ['C3', 'DT', 'HA'])
+name: b12901024, hole_card: ['H7', 'HQ']
+name: b11705051, hole_card: ['C5', 'D2']
+"b12901024" declared "call:0"
+Declared Started:
+Computing win rate for state: (['C5', 'D2'], ['C3', 'DT', 'HA'])
+Kinds: {'C': 2, 'D': 2, 'H': 1}
+Numbers: {'5': 1, '2': 1, '3': 1, 'T': 1, 'A': 1}
+Max kind key: C Max kind value: 2 iHave: 1
+Done
+Community situation: 0.0
+Two pair count: 0
+Exploiting: Win rate = 0, Choosing action: fold
+Action declared: Action = fold, Amount = 0, Win rate = 0
+name: b12901024, hole_card: ['H7', 'HQ']
+name: b11705051, hole_card: ['C5', 'D2']
+"b11705051" declared "fold:0"
+"['b12901024']" won the round 6 (stack = {'b12901024': 1000, 'b11705051': 1000})
+Learning: Reward = -1, TD error = -1, Q-value updated: {'fold': -0.5, 'call': 0, 'raise': 0}
+Exploration rate updated: 0.015625
+community cards of this round: ['CJ', 'H3', 'SJ', 'DT', 'H6']
+name: b12901024, hole_card: ['D3', 'S2']
+name: b11705051, hole_card: ['H2', 'C8']
+Started the round 7
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['H2', 'C8'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['D3', 'S2']
+name: b11705051, hole_card: ['H2', 'C8']
+"b11705051" declared "call:10"
+name: b12901024, hole_card: ['D3', 'S2']
+name: b11705051, hole_card: ['H2', 'C8']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 7 (stack = {'b12901024': 990, 'b11705051': 1010})
+Learning: Reward = 1, TD error = 0.5, Q-value updated: {'fold': 0, 'call': 0.75, 'raise': 0}
+Exploration rate updated: 0.0078125
+community cards of this round: ['C3', 'H9', 'CA', 'H7', 'D8']
+name: b12901024, hole_card: ['C8', 'D3']
+name: b11705051, hole_card: ['HQ', 'H6']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['C8', 'D3']
+name: b11705051, hole_card: ['HQ', 'H6']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 8 (stack = {'b12901024': 985, 'b11705051': 1015})
+Learning: Reward = 1, TD error = 0.25, Q-value updated: {'fold': 0, 'call': 0.875, 'raise': 0}
+Exploration rate updated: 0.00390625
+community cards of this round: ['H7', 'H8', 'D3', 'S7', 'ST']
+name: b12901024, hole_card: ['C3', 'H2']
+name: b11705051, hole_card: ['CA', 'C4']
+Started the round 9
+Street "preflop" started. (community card = [])
+Declared Started:
+Computing win rate for state: (['CA', 'C4'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 10, Win rate = 50.0
+name: b12901024, hole_card: ['C3', 'H2']
+name: b11705051, hole_card: ['CA', 'C4']
+"b11705051" declared "call:10"
+name: b12901024, hole_card: ['C3', 'H2']
+name: b11705051, hole_card: ['CA', 'C4']
+"b12901024" declared "fold:0"
+"['b11705051']" won the round 9 (stack = {'b12901024': 975, 'b11705051': 1025})
+Learning: Reward = 1, TD error = 0.25, Q-value updated: {'fold': 0, 'call': 0.875, 'raise': 0}
+Exploration rate updated: 0.001953125
+community cards of this round: ['D8', 'S9', 'D3', 'S7', 'DQ']
+name: b12901024, hole_card: ['HK', 'DT']
+name: b11705051, hole_card: ['DK', 'H7']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b12901024, hole_card: ['HK', 'DT']
+name: b11705051, hole_card: ['DK', 'H7']
+"b12901024" declared "raise:975"
+Declared Started:
+Computing win rate for state: (['DK', 'H7'], [])
+First round win rate: 50.0
+Exploiting: Win rate = 50.0, Choosing action: call
+Action declared: Action = call, Amount = 975, Win rate = 50.0
+name: b12901024, hole_card: ['HK', 'DT']
+name: b11705051, hole_card: ['DK', 'H7']
+"b11705051" declared "call:975"
+Street "flop" started. (community card = ['D8', 'S9', 'D3'])
+Street "turn" started. (community card = ['D8', 'S9', 'D3', 'S7'])
+Street "river" started. (community card = ['D8', 'S9', 'D3', 'S7', 'DQ'])
+"['b11705051']" won the round 10 (stack = {'b12901024': 0, 'b11705051': 2000})
+Learning: Reward = 1, TD error = 0.125, Q-value updated: {'fold': 0, 'call': 0.9375, 'raise': 0}
+Exploration rate updated: 0.0009765625
+b11705051 vs b12901024 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b12901024', 'uuid': 'nslgarhbjxftfviawvfopb', 'stack': 0, 'state': 'folded'}, {'name': 'b11705051', 'uuid': 'nphvpxbpkabnvvntpbgeoh', 'stack': 2000, 'state': 'participating'}]}
+Final Result: b11705051 won 2 games (stack: 4035), b12901024 won 3 games (stack: 5965), num ties: 0

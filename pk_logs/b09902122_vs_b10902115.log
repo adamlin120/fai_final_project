@@ -1,0 +1,98 @@
+community cards of this round: ['CK', 'H7', 'D6', 'H6', 'SQ']
+name: b10902115, hole_card: ['DA', 'CJ']
+name: b09902122, hole_card: ['DJ', 'H8']
+Started the round 1
+Street "preflop" started. (community card = [])
+{'fold': 0, 'call': 10, 'raise': {'min': 15, 'max': 1000}}
+name: b10902115, hole_card: ['DA', 'CJ']
+name: b09902122, hole_card: ['DJ', 'H8']
+"b09902122" declared "raise:1000"
+name: b10902115, hole_card: ['DA', 'CJ']
+name: b09902122, hole_card: ['DJ', 'H8']
+"b10902115" declared "call:1000"
+Street "flop" started. (community card = ['CK', 'H7', 'D6'])
+Street "turn" started. (community card = ['CK', 'H7', 'D6', 'H6'])
+Street "river" started. (community card = ['CK', 'H7', 'D6', 'H6', 'SQ'])
+"['b10902115']" won the round 1 (stack = {'b10902115': 2000, 'b09902122': 0})
+b09902122 vs b10902115 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902115', 'uuid': 'czxvjtkgypafmprxmttedx', 'stack': 2000, 'state': 'participating'}, {'name': 'b09902122', 'uuid': 'sxopyqeouqjzbwdwlcfurv', 'stack': 0, 'state': 'folded'}]}
+community cards of this round: ['CK', 'H7', 'D6', 'H6', 'SQ']
+name: b09902122, hole_card: ['DA', 'CJ']
+name: b10902115, hole_card: ['DJ', 'H8']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b09902122, hole_card: ['DA', 'CJ']
+name: b10902115, hole_card: ['DJ', 'H8']
+"b10902115" declared "call:10"
+{'fold': 0, 'call': 10, 'raise': {'min': 15, 'max': 1000}}
+name: b09902122, hole_card: ['DA', 'CJ']
+name: b10902115, hole_card: ['DJ', 'H8']
+"b09902122" declared "raise:1000"
+name: b09902122, hole_card: ['DA', 'CJ']
+name: b10902115, hole_card: ['DJ', 'H8']
+"b10902115" declared "call:1000"
+Street "flop" started. (community card = ['CK', 'H7', 'D6'])
+Street "turn" started. (community card = ['CK', 'H7', 'D6', 'H6'])
+Street "river" started. (community card = ['CK', 'H7', 'D6', 'H6', 'SQ'])
+"['b09902122']" won the round 1 (stack = {'b09902122': 2000, 'b10902115': 0})
+b09902122 vs b10902115 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b09902122', 'uuid': 'zpvapowzrvbaneqlsahbwh', 'stack': 2000, 'state': 'participating'}, {'name': 'b10902115', 'uuid': 'tpaubaoxoufkpwhwrkuujh', 'stack': 0, 'state': 'folded'}]}
+community cards of this round: ['D7', 'S7', 'D3', 'SQ', 'HT']
+name: b10902115, hole_card: ['DJ', 'H2']
+name: b09902122, hole_card: ['H7', 'C5']
+Started the round 1
+Street "preflop" started. (community card = [])
+{'fold': 0, 'call': 10, 'raise': {'min': 15, 'max': 1000}}
+name: b10902115, hole_card: ['DJ', 'H2']
+name: b09902122, hole_card: ['H7', 'C5']
+"b09902122" declared "raise:1000"
+name: b10902115, hole_card: ['DJ', 'H2']
+name: b09902122, hole_card: ['H7', 'C5']
+"b10902115" declared "call:1000"
+Street "flop" started. (community card = ['D7', 'S7', 'D3'])
+Street "turn" started. (community card = ['D7', 'S7', 'D3', 'SQ'])
+Street "river" started. (community card = ['D7', 'S7', 'D3', 'SQ', 'HT'])
+"['b09902122']" won the round 1 (stack = {'b10902115': 0, 'b09902122': 2000})
+b09902122 vs b10902115 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902115', 'uuid': 'dcgpoutlgcmtbydywzkjza', 'stack': 0, 'state': 'folded'}, {'name': 'b09902122', 'uuid': 'zqbuqvinjaeimitaevnqfc', 'stack': 2000, 'state': 'participating'}]}
+community cards of this round: ['D7', 'S7', 'D3', 'SQ', 'HT']
+name: b09902122, hole_card: ['DJ', 'H2']
+name: b10902115, hole_card: ['H7', 'C5']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b09902122, hole_card: ['DJ', 'H2']
+name: b10902115, hole_card: ['H7', 'C5']
+"b10902115" declared "fold:0"
+"['b09902122']" won the round 1 (stack = {'b09902122': 1005, 'b10902115': 995})
+community cards of this round: ['HJ', 'D5', 'DK', 'S9', 'CQ']
+name: b09902122, hole_card: ['HK', 'S6']
+name: b10902115, hole_card: ['SQ', 'H7']
+Started the round 2
+Street "preflop" started. (community card = [])
+{'fold': 0, 'call': 10, 'raise': {'min': 15, 'max': 1005}}
+name: b09902122, hole_card: ['HK', 'S6']
+name: b10902115, hole_card: ['SQ', 'H7']
+"b09902122" declared "raise:1005"
+name: b09902122, hole_card: ['HK', 'S6']
+name: b10902115, hole_card: ['SQ', 'H7']
+"b10902115" declared "call:1005"
+Street "flop" started. (community card = ['HJ', 'D5', 'DK'])
+Street "turn" started. (community card = ['HJ', 'D5', 'DK', 'S9'])
+Street "river" started. (community card = ['HJ', 'D5', 'DK', 'S9', 'CQ'])
+"['b09902122']" won the round 2 (stack = {'b09902122': 2000, 'b10902115': 0})
+b09902122 vs b10902115 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b09902122', 'uuid': 'lmlefvfuolxuvlpsrlukmm', 'stack': 2000, 'state': 'participating'}, {'name': 'b10902115', 'uuid': 'dxarlpktmazthiwoxhipud', 'stack': 0, 'state': 'folded'}]}
+community cards of this round: ['HT', 'C2', 'H8', 'H9', 'HQ']
+name: b10902115, hole_card: ['CQ', 'DT']
+name: b09902122, hole_card: ['ST', 'S2']
+Started the round 1
+Street "preflop" started. (community card = [])
+{'fold': 0, 'call': 10, 'raise': {'min': 15, 'max': 1000}}
+name: b10902115, hole_card: ['CQ', 'DT']
+name: b09902122, hole_card: ['ST', 'S2']
+"b09902122" declared "raise:1000"
+name: b10902115, hole_card: ['CQ', 'DT']
+name: b09902122, hole_card: ['ST', 'S2']
+"b10902115" declared "call:1000"
+Street "flop" started. (community card = ['HT', 'C2', 'H8'])
+Street "turn" started. (community card = ['HT', 'C2', 'H8', 'H9'])
+Street "river" started. (community card = ['HT', 'C2', 'H8', 'H9', 'HQ'])
+"['b10902115']" won the round 1 (stack = {'b10902115': 2000, 'b09902122': 0})
+b09902122 vs b10902115 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902115', 'uuid': 'dxkbebpmsjovlftqtsfkjq', 'stack': 2000, 'state': 'participating'}, {'name': 'b09902122', 'uuid': 'gmxmzjzdahiamnwngtzyem', 'stack': 0, 'state': 'folded'}]}
+Final Result: b09902122 won 3 games (stack: 6000), b10902115 won 2 games (stack: 4000), num ties: 0

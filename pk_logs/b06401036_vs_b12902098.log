@@ -1,0 +1,661 @@
+community cards of this round: ['ST', 'D7', 'H7', 'H3', 'SQ']
+name: b12902098, hole_card: ['C6', 'S6']
+name: b06401036, hole_card: ['CJ', 'DK']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b12902098, hole_card: ['C6', 'S6']
+name: b06401036, hole_card: ['CJ', 'DK']
+"b06401036" declared "raise:386"
+name: b12902098, hole_card: ['C6', 'S6']
+name: b06401036, hole_card: ['CJ', 'DK']
+"b12902098" declared "raise:1000"
+name: b12902098, hole_card: ['C6', 'S6']
+name: b06401036, hole_card: ['CJ', 'DK']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 1 (stack = {'b12902098': 1386, 'b06401036': 614})
+community cards of this round: ['S2', 'C5', 'CJ', 'CT', 'DT']
+name: b12902098, hole_card: ['H4', 'H2']
+name: b06401036, hole_card: ['D8', 'ST']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b12902098, hole_card: ['H4', 'H2']
+name: b06401036, hole_card: ['D8', 'ST']
+"b12902098" declared "call:10"
+name: b12902098, hole_card: ['H4', 'H2']
+name: b06401036, hole_card: ['D8', 'ST']
+"b06401036" declared "raise:286"
+name: b12902098, hole_card: ['H4', 'H2']
+name: b06401036, hole_card: ['D8', 'ST']
+"b12902098" declared "raise:1386"
+name: b12902098, hole_card: ['H4', 'H2']
+name: b06401036, hole_card: ['D8', 'ST']
+"b06401036" declared "call:1386"
+Street "flop" started. (community card = ['S2', 'C5', 'CJ'])
+Street "turn" started. (community card = ['S2', 'C5', 'CJ', 'CT'])
+Street "river" started. (community card = ['S2', 'C5', 'CJ', 'CT', 'DT'])
+"['b06401036']" won the round 2 (stack = {'b12902098': 772, 'b06401036': 1228})
+community cards of this round: ['C3', 'C4', 'SK', 'SJ', 'HQ']
+name: b12902098, hole_card: ['C9', 'H3']
+name: b06401036, hole_card: ['DQ', 'CJ']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b12902098, hole_card: ['C9', 'H3']
+name: b06401036, hole_card: ['DQ', 'CJ']
+"b06401036" declared "raise:368"
+name: b12902098, hole_card: ['C9', 'H3']
+name: b06401036, hole_card: ['DQ', 'CJ']
+"b12902098" declared "raise:772"
+name: b12902098, hole_card: ['C9', 'H3']
+name: b06401036, hole_card: ['DQ', 'CJ']
+"b06401036" declared "raise:1198"
+Street "flop" started. (community card = ['C3', 'C4', 'SK'])
+Street "turn" started. (community card = ['C3', 'C4', 'SK', 'SJ'])
+Street "river" started. (community card = ['C3', 'C4', 'SK', 'SJ', 'HQ'])
+"['b06401036']" won the round 3 (stack = {'b12902098': 0, 'b06401036': 2000})
+b06401036 vs b12902098 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b12902098', 'uuid': 'iptmfetrlxstvzpywgwxaw', 'stack': 0, 'state': 'folded'}, {'name': 'b06401036', 'uuid': 'cutxnmcvabeljqkwyrpvgk', 'stack': 2000, 'state': 'participating'}]}
+community cards of this round: ['ST', 'D7', 'H7', 'H3', 'SQ']
+name: b06401036, hole_card: ['C6', 'S6']
+name: b12902098, hole_card: ['CJ', 'DK']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['C6', 'S6']
+name: b12902098, hole_card: ['CJ', 'DK']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['C6', 'S6']
+name: b12902098, hole_card: ['CJ', 'DK']
+"b06401036" declared "raise:409"
+name: b06401036, hole_card: ['C6', 'S6']
+name: b12902098, hole_card: ['CJ', 'DK']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 1 (stack = {'b06401036': 1030, 'b12902098': 970})
+community cards of this round: ['S2', 'C5', 'CJ', 'CT', 'DT']
+name: b06401036, hole_card: ['H4', 'H2']
+name: b12902098, hole_card: ['D8', 'ST']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['H4', 'H2']
+name: b12902098, hole_card: ['D8', 'ST']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 2 (stack = {'b06401036': 1025, 'b12902098': 975})
+community cards of this round: ['C3', 'C4', 'SK', 'SJ', 'HQ']
+name: b06401036, hole_card: ['C9', 'H3']
+name: b12902098, hole_card: ['DQ', 'CJ']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['C9', 'H3']
+name: b12902098, hole_card: ['DQ', 'CJ']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['C9', 'H3']
+name: b12902098, hole_card: ['DQ', 'CJ']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 3 (stack = {'b06401036': 1015, 'b12902098': 985})
+community cards of this round: ['D3', 'DA', 'S6', 'H8', 'H3']
+name: b06401036, hole_card: ['C8', 'DJ']
+name: b12902098, hole_card: ['S3', 'DQ']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['C8', 'DJ']
+name: b12902098, hole_card: ['S3', 'DQ']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 4 (stack = {'b06401036': 1010, 'b12902098': 990})
+community cards of this round: ['ST', 'DA', 'C6', 'C2', 'C9']
+name: b06401036, hole_card: ['CJ', 'H2']
+name: b12902098, hole_card: ['DK', 'SQ']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['CJ', 'H2']
+name: b12902098, hole_card: ['DK', 'SQ']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['CJ', 'H2']
+name: b12902098, hole_card: ['DK', 'SQ']
+"b06401036" declared "raise:410"
+name: b06401036, hole_card: ['CJ', 'H2']
+name: b12902098, hole_card: ['DK', 'SQ']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 5 (stack = {'b06401036': 1040, 'b12902098': 960})
+community cards of this round: ['CJ', 'DQ', 'DK', 'S2', 'D9']
+name: b06401036, hole_card: ['S5', 'D3']
+name: b12902098, hole_card: ['H4', 'H3']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['S5', 'D3']
+name: b12902098, hole_card: ['H4', 'H3']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 6 (stack = {'b06401036': 1035, 'b12902098': 965})
+community cards of this round: ['DT', 'CK', 'S2', 'S3', 'C7']
+name: b06401036, hole_card: ['SA', 'DA']
+name: b12902098, hole_card: ['SK', 'H6']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['SA', 'DA']
+name: b12902098, hole_card: ['SK', 'H6']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['SA', 'DA']
+name: b12902098, hole_card: ['SK', 'H6']
+"b06401036" declared "raise:362"
+name: b06401036, hole_card: ['SA', 'DA']
+name: b12902098, hole_card: ['SK', 'H6']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 7 (stack = {'b06401036': 1065, 'b12902098': 935})
+community cards of this round: ['C7', 'DQ', 'D9', 'C6', 'HK']
+name: b06401036, hole_card: ['CJ', 'HJ']
+name: b12902098, hole_card: ['S5', 'SJ']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['CJ', 'HJ']
+name: b12902098, hole_card: ['S5', 'SJ']
+"b06401036" declared "raise:335"
+name: b06401036, hole_card: ['CJ', 'HJ']
+name: b12902098, hole_card: ['S5', 'SJ']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 8 (stack = {'b06401036': 1075, 'b12902098': 925})
+community cards of this round: ['HJ', 'C3', 'SJ', 'S4', 'D3']
+name: b06401036, hole_card: ['C2', 'S6']
+name: b12902098, hole_card: ['SA', 'DJ']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['C2', 'S6']
+name: b12902098, hole_card: ['SA', 'DJ']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['C2', 'S6']
+name: b12902098, hole_card: ['SA', 'DJ']
+"b06401036" declared "call:30"
+Street "flop" started. (community card = ['HJ', 'C3', 'SJ'])
+name: b06401036, hole_card: ['C2', 'S6']
+name: b12902098, hole_card: ['SA', 'DJ']
+"b12902098" declared "raise:20"
+name: b06401036, hole_card: ['C2', 'S6']
+name: b12902098, hole_card: ['SA', 'DJ']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 9 (stack = {'b06401036': 1045, 'b12902098': 955})
+community cards of this round: ['DJ', 'H5', 'HQ', 'H2', 'ST']
+name: b06401036, hole_card: ['S5', 'SQ']
+name: b12902098, hole_card: ['C2', 'CT']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['S5', 'SQ']
+name: b12902098, hole_card: ['C2', 'CT']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 10 (stack = {'b06401036': 1040, 'b12902098': 960})
+community cards of this round: ['D6', 'H5', 'SK', 'D8', 'H3']
+name: b06401036, hole_card: ['H4', 'C2']
+name: b12902098, hole_card: ['S9', 'SQ']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['H4', 'C2']
+name: b12902098, hole_card: ['S9', 'SQ']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['H4', 'C2']
+name: b12902098, hole_card: ['S9', 'SQ']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 11 (stack = {'b06401036': 1030, 'b12902098': 970})
+community cards of this round: ['HK', 'S8', 'CJ', 'CQ', 'D8']
+name: b06401036, hole_card: ['HT', 'H4']
+name: b12902098, hole_card: ['H3', 'D2']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['HT', 'H4']
+name: b12902098, hole_card: ['H3', 'D2']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 12 (stack = {'b06401036': 1025, 'b12902098': 975})
+community cards of this round: ['DK', 'HQ', 'DT', 'S2', 'C4']
+name: b06401036, hole_card: ['HA', 'C5']
+name: b12902098, hole_card: ['D5', 'HJ']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['HA', 'C5']
+name: b12902098, hole_card: ['D5', 'HJ']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['HA', 'C5']
+name: b12902098, hole_card: ['D5', 'HJ']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 13 (stack = {'b06401036': 1015, 'b12902098': 985})
+community cards of this round: ['H8', 'DK', 'H4', 'DJ', 'DA']
+name: b06401036, hole_card: ['SJ', 'C7']
+name: b12902098, hole_card: ['HT', 'HQ']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['SJ', 'C7']
+name: b12902098, hole_card: ['HT', 'HQ']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 14 (stack = {'b06401036': 1010, 'b12902098': 990})
+community cards of this round: ['D6', 'C2', 'D4', 'DK', 'SQ']
+name: b06401036, hole_card: ['C7', 'H4']
+name: b12902098, hole_card: ['D7', 'H2']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['C7', 'H4']
+name: b12902098, hole_card: ['D7', 'H2']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 15 (stack = {'b06401036': 1015, 'b12902098': 985})
+community cards of this round: ['S3', 'CA', 'H5', 'SA', 'H7']
+name: b06401036, hole_card: ['C8', 'CK']
+name: b12902098, hole_card: ['S6', 'S4']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['C8', 'CK']
+name: b12902098, hole_card: ['S6', 'S4']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 16 (stack = {'b06401036': 1010, 'b12902098': 990})
+community cards of this round: ['D4', 'CJ', 'C6', 'S7', 'D9']
+name: b06401036, hole_card: ['D7', 'H8']
+name: b12902098, hole_card: ['H6', 'C3']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['D7', 'H8']
+name: b12902098, hole_card: ['H6', 'C3']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 17 (stack = {'b06401036': 1015, 'b12902098': 985})
+community cards of this round: ['DJ', 'H4', 'D4', 'C3', 'D2']
+name: b06401036, hole_card: ['SA', 'D3']
+name: b12902098, hole_card: ['D7', 'HA']
+Started the round 18
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['SA', 'D3']
+name: b12902098, hole_card: ['D7', 'HA']
+"b06401036" declared "call:10"
+name: b06401036, hole_card: ['SA', 'D3']
+name: b12902098, hole_card: ['D7', 'HA']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['SA', 'D3']
+name: b12902098, hole_card: ['D7', 'HA']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 18 (stack = {'b06401036': 1005, 'b12902098': 995})
+community cards of this round: ['C4', 'H2', 'HK', 'C7', 'CA']
+name: b06401036, hole_card: ['HT', 'HQ']
+name: b12902098, hole_card: ['S2', 'C9']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['HT', 'HQ']
+name: b12902098, hole_card: ['S2', 'C9']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 19 (stack = {'b06401036': 1010, 'b12902098': 990})
+community cards of this round: ['C5', 'H8', 'C7', 'HJ', 'DJ']
+name: b06401036, hole_card: ['CA', 'H6']
+name: b12902098, hole_card: ['H4', 'H3']
+Started the round 20
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['CA', 'H6']
+name: b12902098, hole_card: ['H4', 'H3']
+"b06401036" declared "call:10"
+name: b06401036, hole_card: ['CA', 'H6']
+name: b12902098, hole_card: ['H4', 'H3']
+"b12902098" declared "raise:990"
+name: b06401036, hole_card: ['CA', 'H6']
+name: b12902098, hole_card: ['H4', 'H3']
+"b06401036" declared "call:990"
+Street "flop" started. (community card = ['C5', 'H8', 'C7'])
+Street "turn" started. (community card = ['C5', 'H8', 'C7', 'HJ'])
+Street "river" started. (community card = ['C5', 'H8', 'C7', 'HJ', 'DJ'])
+"['b06401036']" won the round 20 (stack = {'b06401036': 2000, 'b12902098': 0})
+b06401036 vs b12902098 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b06401036', 'uuid': 'cpsfpgduohilhhfthztfig', 'stack': 2000, 'state': 'participating'}, {'name': 'b12902098', 'uuid': 'iweuaazallaolcoucqrmhi', 'stack': 0, 'state': 'participating'}]}
+community cards of this round: ['SQ', 'D3', 'D4', 'H6', 'DJ']
+name: b12902098, hole_card: ['S2', 'C5']
+name: b06401036, hole_card: ['D9', 'D6']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b12902098, hole_card: ['S2', 'C5']
+name: b06401036, hole_card: ['D9', 'D6']
+"b06401036" declared "raise:386"
+name: b12902098, hole_card: ['S2', 'C5']
+name: b06401036, hole_card: ['D9', 'D6']
+"b12902098" declared "raise:1000"
+name: b12902098, hole_card: ['S2', 'C5']
+name: b06401036, hole_card: ['D9', 'D6']
+"b06401036" declared "call:1000"
+Street "flop" started. (community card = ['SQ', 'D3', 'D4'])
+Street "turn" started. (community card = ['SQ', 'D3', 'D4', 'H6'])
+Street "river" started. (community card = ['SQ', 'D3', 'D4', 'H6', 'DJ'])
+"['b06401036']" won the round 1 (stack = {'b12902098': 0, 'b06401036': 2000})
+b06401036 vs b12902098 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b12902098', 'uuid': 'jajihwzdcvgkcamgmgiykm', 'stack': 0, 'state': 'folded'}, {'name': 'b06401036', 'uuid': 'umzddvmkdyjjmflbkbmihv', 'stack': 2000, 'state': 'participating'}]}
+community cards of this round: ['SQ', 'D3', 'D4', 'H6', 'DJ']
+name: b06401036, hole_card: ['S2', 'C5']
+name: b12902098, hole_card: ['D9', 'D6']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['S2', 'C5']
+name: b12902098, hole_card: ['D9', 'D6']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['S2', 'C5']
+name: b12902098, hole_card: ['D9', 'D6']
+"b06401036" declared "raise:361"
+name: b06401036, hole_card: ['S2', 'C5']
+name: b12902098, hole_card: ['D9', 'D6']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 1 (stack = {'b06401036': 1030, 'b12902098': 970})
+community cards of this round: ['C7', 'CK', 'D6', 'DJ', 'S7']
+name: b06401036, hole_card: ['H5', 'DQ']
+name: b12902098, hole_card: ['D7', 'DK']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['H5', 'DQ']
+name: b12902098, hole_card: ['D7', 'DK']
+"b06401036" declared "call:10"
+name: b06401036, hole_card: ['H5', 'DQ']
+name: b12902098, hole_card: ['D7', 'DK']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['H5', 'DQ']
+name: b12902098, hole_card: ['D7', 'DK']
+"b06401036" declared "raise:50"
+name: b06401036, hole_card: ['H5', 'DQ']
+name: b12902098, hole_card: ['D7', 'DK']
+"b12902098" declared "raise:970"
+name: b06401036, hole_card: ['H5', 'DQ']
+name: b12902098, hole_card: ['D7', 'DK']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 2 (stack = {'b06401036': 980, 'b12902098': 1020})
+community cards of this round: ['S9', 'S8', 'D4', 'H7', 'C8']
+name: b06401036, hole_card: ['S7', 'C3']
+name: b12902098, hole_card: ['HQ', 'H9']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['S7', 'C3']
+name: b12902098, hole_card: ['HQ', 'H9']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['S7', 'C3']
+name: b12902098, hole_card: ['HQ', 'H9']
+"b06401036" declared "raise:409"
+name: b06401036, hole_card: ['S7', 'C3']
+name: b12902098, hole_card: ['HQ', 'H9']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 3 (stack = {'b06401036': 1010, 'b12902098': 990})
+community cards of this round: ['H6', 'D4', 'HT', 'S6', 'S8']
+name: b06401036, hole_card: ['C4', 'H2']
+name: b12902098, hole_card: ['D5', 'DT']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['C4', 'H2']
+name: b12902098, hole_card: ['D5', 'DT']
+"b06401036" declared "call:10"
+name: b06401036, hole_card: ['C4', 'H2']
+name: b12902098, hole_card: ['D5', 'DT']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['C4', 'H2']
+name: b12902098, hole_card: ['D5', 'DT']
+"b06401036" declared "raise:362"
+name: b06401036, hole_card: ['C4', 'H2']
+name: b12902098, hole_card: ['D5', 'DT']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 4 (stack = {'b06401036': 1040, 'b12902098': 960})
+community cards of this round: ['HK', 'SQ', 'ST', 'S2', 'H5']
+name: b06401036, hole_card: ['DK', 'CJ']
+name: b12902098, hole_card: ['H6', 'D9']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['DK', 'CJ']
+name: b12902098, hole_card: ['H6', 'D9']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['DK', 'CJ']
+name: b12902098, hole_card: ['H6', 'D9']
+"b06401036" declared "raise:410"
+name: b06401036, hole_card: ['DK', 'CJ']
+name: b12902098, hole_card: ['H6', 'D9']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 5 (stack = {'b06401036': 1070, 'b12902098': 930})
+community cards of this round: ['C5', 'S2', 'C8', 'H3', 'HJ']
+name: b06401036, hole_card: ['C4', 'CK']
+name: b12902098, hole_card: ['D9', 'CJ']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['C4', 'CK']
+name: b12902098, hole_card: ['D9', 'CJ']
+"b06401036" declared "raise:335"
+name: b06401036, hole_card: ['C4', 'CK']
+name: b12902098, hole_card: ['D9', 'CJ']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 6 (stack = {'b06401036': 1080, 'b12902098': 920})
+community cards of this round: ['S6', 'H3', 'DQ', 'D6', 'H6']
+name: b06401036, hole_card: ['H2', 'C8']
+name: b12902098, hole_card: ['D9', 'S4']
+Started the round 7
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['H2', 'C8']
+name: b12902098, hole_card: ['D9', 'S4']
+"b12902098" declared "raise:30"
+name: b06401036, hole_card: ['H2', 'C8']
+name: b12902098, hole_card: ['D9', 'S4']
+"b06401036" declared "raise:409"
+name: b06401036, hole_card: ['H2', 'C8']
+name: b12902098, hole_card: ['D9', 'S4']
+"b12902098" declared "raise:920"
+name: b06401036, hole_card: ['H2', 'C8']
+name: b12902098, hole_card: ['D9', 'S4']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 7 (stack = {'b06401036': 671, 'b12902098': 1329})
+community cards of this round: ['H9', 'C8', 'H4', 'H8', 'CA']
+name: b06401036, hole_card: ['S3', 'S5']
+name: b12902098, hole_card: ['D4', 'CQ']
+Started the round 8
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['S3', 'S5']
+name: b12902098, hole_card: ['D4', 'CQ']
+"b06401036" declared "raise:343"
+name: b06401036, hole_card: ['S3', 'S5']
+name: b12902098, hole_card: ['D4', 'CQ']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 8 (stack = {'b06401036': 681, 'b12902098': 1319})
+community cards of this round: ['SA', 'D3', 'HK', 'H4', 'C2']
+name: b06401036, hole_card: ['SJ', 'H5']
+name: b12902098, hole_card: ['S4', 'D2']
+Started the round 9
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['SJ', 'H5']
+name: b12902098, hole_card: ['S4', 'D2']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 9 (stack = {'b06401036': 686, 'b12902098': 1314})
+community cards of this round: ['D3', 'H4', 'H3', 'DQ', 'DK']
+name: b06401036, hole_card: ['SA', 'S4']
+name: b12902098, hole_card: ['D9', 'H9']
+Started the round 10
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['SA', 'S4']
+name: b12902098, hole_card: ['D9', 'H9']
+"b06401036" declared "call:10"
+name: b06401036, hole_card: ['SA', 'S4']
+name: b12902098, hole_card: ['D9', 'H9']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 10 (stack = {'b06401036': 696, 'b12902098': 1304})
+community cards of this round: ['C3', 'SJ', 'ST', 'CA', 'HJ']
+name: b06401036, hole_card: ['SQ', 'HT']
+name: b12902098, hole_card: ['S9', 'D9']
+Started the round 11
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['SQ', 'HT']
+name: b12902098, hole_card: ['S9', 'D9']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 11 (stack = {'b06401036': 701, 'b12902098': 1299})
+community cards of this round: ['DQ', 'C8', 'S2', 'H4', 'S9']
+name: b06401036, hole_card: ['S5', 'D3']
+name: b12902098, hole_card: ['HJ', 'D7']
+Started the round 12
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['S5', 'D3']
+name: b12902098, hole_card: ['HJ', 'D7']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 12 (stack = {'b06401036': 696, 'b12902098': 1304})
+community cards of this round: ['HT', 'D2', 'C5', 'D9', 'H4']
+name: b06401036, hole_card: ['DA', 'CJ']
+name: b12902098, hole_card: ['D8', 'C9']
+Started the round 13
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['DA', 'CJ']
+name: b12902098, hole_card: ['D8', 'C9']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 13 (stack = {'b06401036': 701, 'b12902098': 1299})
+community cards of this round: ['C4', 'C7', 'H7', 'HK', 'CQ']
+name: b06401036, hole_card: ['S8', 'S6']
+name: b12902098, hole_card: ['H8', 'DT']
+Started the round 14
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['S8', 'S6']
+name: b12902098, hole_card: ['H8', 'DT']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 14 (stack = {'b06401036': 696, 'b12902098': 1304})
+community cards of this round: ['D3', 'SQ', 'C9', 'DA', 'H2']
+name: b06401036, hole_card: ['CT', 'S9']
+name: b12902098, hole_card: ['C3', 'SK']
+Started the round 15
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['CT', 'S9']
+name: b12902098, hole_card: ['C3', 'SK']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 15 (stack = {'b06401036': 701, 'b12902098': 1299})
+community cards of this round: ['SQ', 'D5', 'H6', 'D8', 'HT']
+name: b06401036, hole_card: ['HQ', 'HK']
+name: b12902098, hole_card: ['ST', 'S6']
+Started the round 16
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['HQ', 'HK']
+name: b12902098, hole_card: ['ST', 'S6']
+"b06401036" declared "raise:350"
+name: b06401036, hole_card: ['HQ', 'HK']
+name: b12902098, hole_card: ['ST', 'S6']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 16 (stack = {'b06401036': 711, 'b12902098': 1289})
+community cards of this round: ['C5', 'CJ', 'SA', 'HT', 'SQ']
+name: b06401036, hole_card: ['HQ', 'D5']
+name: b12902098, hole_card: ['S3', 'H4']
+Started the round 17
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['HQ', 'D5']
+name: b12902098, hole_card: ['S3', 'H4']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 17 (stack = {'b06401036': 716, 'b12902098': 1284})
+community cards of this round: ['DK', 'H8', 'SJ', 'DQ', 'H7']
+name: b06401036, hole_card: ['CJ', 'S2']
+name: b12902098, hole_card: ['D7', 'C5']
+Started the round 18
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['CJ', 'S2']
+name: b12902098, hole_card: ['D7', 'C5']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 18 (stack = {'b06401036': 711, 'b12902098': 1289})
+community cards of this round: ['S3', 'HK', 'H9', 'CK', 'HJ']
+name: b06401036, hole_card: ['H7', 'D2']
+name: b12902098, hole_card: ['C6', 'C4']
+Started the round 19
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['H7', 'D2']
+name: b12902098, hole_card: ['C6', 'C4']
+"b12902098" declared "call:0", Invalid action. Treat as fold...
+"['b06401036']" won the round 19 (stack = {'b06401036': 716, 'b12902098': 1284})
+community cards of this round: ['S2', 'HK', 'C9', 'C3', 'CK']
+name: b06401036, hole_card: ['S3', 'HT']
+name: b12902098, hole_card: ['HA', 'H7']
+Started the round 20
+Street "preflop" started. (community card = [])
+name: b06401036, hole_card: ['S3', 'HT']
+name: b12902098, hole_card: ['HA', 'H7']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 20 (stack = {'b06401036': 711, 'b12902098': 1289})
+b06401036 vs b12902098 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b06401036', 'uuid': 'tgjjipsyvoaozugkguvtri', 'stack': 711, 'state': 'participating'}, {'name': 'b12902098', 'uuid': 'tnohjhsgpjgqujdaeybxfw', 'stack': 1289, 'state': 'participating'}]}
+community cards of this round: ['DJ', 'CQ', 'DK', 'D2', 'SQ']
+name: b12902098, hole_card: ['SA', 'D8']
+name: b06401036, hole_card: ['H6', 'H2']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b12902098, hole_card: ['SA', 'D8']
+name: b06401036, hole_card: ['H6', 'H2']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 1 (stack = {'b12902098': 1005, 'b06401036': 995})
+community cards of this round: ['C5', 'S7', 'H5', 'S2', 'S5']
+name: b12902098, hole_card: ['D9', 'C3']
+name: b06401036, hole_card: ['SQ', 'C8']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b12902098, hole_card: ['D9', 'C3']
+name: b06401036, hole_card: ['SQ', 'C8']
+"b12902098" declared "raise:30"
+name: b12902098, hole_card: ['D9', 'C3']
+name: b06401036, hole_card: ['SQ', 'C8']
+"b06401036" declared "raise:409"
+name: b12902098, hole_card: ['D9', 'C3']
+name: b06401036, hole_card: ['SQ', 'C8']
+"b12902098" declared "raise:1005"
+name: b12902098, hole_card: ['D9', 'C3']
+name: b06401036, hole_card: ['SQ', 'C8']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 2 (stack = {'b12902098': 1414, 'b06401036': 586})
+community cards of this round: ['CT', 'C5', 'D2', 'ST', 'HJ']
+name: b12902098, hole_card: ['C6', 'DK']
+name: b06401036, hole_card: ['CQ', 'S4']
+Started the round 3
+Street "preflop" started. (community card = [])
+name: b12902098, hole_card: ['C6', 'DK']
+name: b06401036, hole_card: ['CQ', 'S4']
+"b06401036" declared "raise:15"
+name: b12902098, hole_card: ['C6', 'DK']
+name: b06401036, hole_card: ['CQ', 'S4']
+"b12902098" declared "call:15"
+Street "flop" started. (community card = ['CT', 'C5', 'D2'])
+name: b12902098, hole_card: ['C6', 'DK']
+name: b06401036, hole_card: ['CQ', 'S4']
+"b06401036" declared "call:0"
+name: b12902098, hole_card: ['C6', 'DK']
+name: b06401036, hole_card: ['CQ', 'S4']
+"b12902098" declared "call:0"
+Street "turn" started. (community card = ['CT', 'C5', 'D2', 'ST'])
+name: b12902098, hole_card: ['C6', 'DK']
+name: b06401036, hole_card: ['CQ', 'S4']
+"b06401036" declared "call:0"
+name: b12902098, hole_card: ['C6', 'DK']
+name: b06401036, hole_card: ['CQ', 'S4']
+"b12902098" declared "call:0"
+Street "river" started. (community card = ['CT', 'C5', 'D2', 'ST', 'HJ'])
+name: b12902098, hole_card: ['C6', 'DK']
+name: b06401036, hole_card: ['CQ', 'S4']
+"b06401036" declared "call:0"
+name: b12902098, hole_card: ['C6', 'DK']
+name: b06401036, hole_card: ['CQ', 'S4']
+"b12902098" declared "call:0"
+"['b12902098']" won the round 3 (stack = {'b12902098': 1429, 'b06401036': 571})
+community cards of this round: ['S3', 'H2', 'H5', 'SK', 'C6']
+name: b12902098, hole_card: ['CA', 'CJ']
+name: b06401036, hole_card: ['SQ', 'S7']
+Started the round 4
+Street "preflop" started. (community card = [])
+name: b12902098, hole_card: ['CA', 'CJ']
+name: b06401036, hole_card: ['SQ', 'S7']
+"b12902098" declared "raise:30"
+name: b12902098, hole_card: ['CA', 'CJ']
+name: b06401036, hole_card: ['SQ', 'S7']
+"b06401036" declared "raise:293"
+name: b12902098, hole_card: ['CA', 'CJ']
+name: b06401036, hole_card: ['SQ', 'S7']
+"b12902098" declared "raise:1429"
+name: b12902098, hole_card: ['CA', 'CJ']
+name: b06401036, hole_card: ['SQ', 'S7']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 4 (stack = {'b12902098': 1722, 'b06401036': 278})
+community cards of this round: ['SK', 'HA', 'D4', 'C5', 'C8']
+name: b12902098, hole_card: ['CT', 'D6']
+name: b06401036, hole_card: ['H2', 'DT']
+Started the round 5
+Street "preflop" started. (community card = [])
+name: b12902098, hole_card: ['CT', 'D6']
+name: b06401036, hole_card: ['H2', 'DT']
+"b06401036" declared "fold:0"
+"['b12902098']" won the round 5 (stack = {'b12902098': 1727, 'b06401036': 273})
+community cards of this round: ['H5', 'C8', 'D6', 'HT', 'H3']
+name: b12902098, hole_card: ['C2', 'DA']
+name: b06401036, hole_card: ['HQ', 'S9']
+Started the round 6
+Street "preflop" started. (community card = [])
+name: b12902098, hole_card: ['C2', 'DA']
+name: b06401036, hole_card: ['HQ', 'S9']
+"b12902098" declared "raise:30"
+name: b12902098, hole_card: ['C2', 'DA']
+name: b06401036, hole_card: ['HQ', 'S9']
+"b06401036" declared "raise:50"
+name: b12902098, hole_card: ['C2', 'DA']
+name: b06401036, hole_card: ['HQ', 'S9']
+"b12902098" declared "raise:1727"
+name: b12902098, hole_card: ['C2', 'DA']
+name: b06401036, hole_card: ['HQ', 'S9']
+"b06401036" declared "call:1727"
+Street "flop" started. (community card = ['H5', 'C8', 'D6'])
+Street "turn" started. (community card = ['H5', 'C8', 'D6', 'HT'])
+Street "river" started. (community card = ['H5', 'C8', 'D6', 'HT', 'H3'])
+"['b12902098']" won the round 6 (stack = {'b12902098': 2000, 'b06401036': 0})
+b06401036 vs b12902098 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b12902098', 'uuid': 'ncclagwwfqpbwparysyaje', 'stack': 2000, 'state': 'participating'}, {'name': 'b06401036', 'uuid': 'iaqxzoujxeggnhqpasjdrd', 'stack': 0, 'state': 'folded'}]}
+Final Result: b06401036 won 3 games (stack: 6711), b12902098 won 2 games (stack: 3289), num ties: 0

@@ -1,0 +1,149 @@
+/home/ubitus03/fai_final_project/./b10507008/my_dqn_model.pth
+Loading model from /home/ubitus03/fai_final_project/./b10507008/my_dqn_model.pth
+community cards of this round: ['S7', 'SA', 'D5', 'DJ', 'H9']
+name: b10507008, hole_card: ['S3', 'C4']
+name: b10902041, hole_card: ['DA', 'CA']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b10507008, hole_card: ['S3', 'C4']
+name: b10902041, hole_card: ['DA', 'CA']
+"b10902041" declared "raise:100"
+name: b10507008, hole_card: ['S3', 'C4']
+name: b10902041, hole_card: ['DA', 'CA']
+"b10507008" declared "raise:352"
+name: b10507008, hole_card: ['S3', 'C4']
+name: b10902041, hole_card: ['DA', 'CA']
+"b10902041" declared "raise:1000"
+name: b10507008, hole_card: ['S3', 'C4']
+name: b10902041, hole_card: ['DA', 'CA']
+"b10507008" declared "call:1000"
+Street "flop" started. (community card = ['S7', 'SA', 'D5'])
+Street "turn" started. (community card = ['S7', 'SA', 'D5', 'DJ'])
+Street "river" started. (community card = ['S7', 'SA', 'D5', 'DJ', 'H9'])
+"['b10902041']" won the round 1 (stack = {'b10507008': 0, 'b10902041': 2000})
+b10902041 vs b10507008 - Game 1: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10507008', 'uuid': 'xbaddmlxtppjhlxqpadpes', 'stack': 0, 'state': 'folded'}, {'name': 'b10902041', 'uuid': 'bgqiztatzbtbiysgizxwys', 'stack': 2000, 'state': 'participating'}]}
+/home/ubitus03/fai_final_project/./b10507008/my_dqn_model.pth
+Loading model from /home/ubitus03/fai_final_project/./b10507008/my_dqn_model.pth
+community cards of this round: ['S7', 'SA', 'D5', 'DJ', 'H9']
+name: b10902041, hole_card: ['S3', 'C4']
+name: b10507008, hole_card: ['DA', 'CA']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b10902041, hole_card: ['S3', 'C4']
+name: b10507008, hole_card: ['DA', 'CA']
+"b10507008" declared "raise:212"
+name: b10902041, hole_card: ['S3', 'C4']
+name: b10507008, hole_card: ['DA', 'CA']
+"b10902041" declared "fold:0"
+"['b10507008']" won the round 1 (stack = {'b10902041': 990, 'b10507008': 1010})
+community cards of this round: ['S3', 'SQ', 'S8', 'DJ', 'CA']
+name: b10902041, hole_card: ['D6', 'C9']
+name: b10507008, hole_card: ['HT', 'S9']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b10902041, hole_card: ['D6', 'C9']
+name: b10507008, hole_card: ['HT', 'S9']
+"b10902041" declared "raise:20"
+name: b10902041, hole_card: ['D6', 'C9']
+name: b10507008, hole_card: ['HT', 'S9']
+"b10507008" declared "raise:226"
+name: b10902041, hole_card: ['D6', 'C9']
+name: b10507008, hole_card: ['HT', 'S9']
+"b10902041" declared "raise:990"
+name: b10902041, hole_card: ['D6', 'C9']
+name: b10507008, hole_card: ['HT', 'S9']
+"b10507008" declared "call:990"
+Street "flop" started. (community card = ['S3', 'SQ', 'S8'])
+Street "turn" started. (community card = ['S3', 'SQ', 'S8', 'DJ'])
+Street "river" started. (community card = ['S3', 'SQ', 'S8', 'DJ', 'CA'])
+"['b10507008']" won the round 2 (stack = {'b10902041': 0, 'b10507008': 2000})
+b10902041 vs b10507008 - Game 2: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902041', 'uuid': 'ezzpgmadohbofwqauxqavb', 'stack': 0, 'state': 'folded'}, {'name': 'b10507008', 'uuid': 'vfjneyfxxlkhpwopqccwla', 'stack': 2000, 'state': 'participating'}]}
+/home/ubitus03/fai_final_project/./b10507008/my_dqn_model.pth
+Loading model from /home/ubitus03/fai_final_project/./b10507008/my_dqn_model.pth
+community cards of this round: ['H2', 'SJ', 'CK', 'HK', 'D4']
+name: b10507008, hole_card: ['D6', 'DA']
+name: b10902041, hole_card: ['C3', 'HQ']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b10507008, hole_card: ['D6', 'DA']
+name: b10902041, hole_card: ['C3', 'HQ']
+"b10902041" declared "raise:30"
+name: b10507008, hole_card: ['D6', 'DA']
+name: b10902041, hole_card: ['C3', 'HQ']
+"b10507008" declared "raise:240"
+name: b10507008, hole_card: ['D6', 'DA']
+name: b10902041, hole_card: ['C3', 'HQ']
+"b10902041" declared "raise:1000"
+name: b10507008, hole_card: ['D6', 'DA']
+name: b10902041, hole_card: ['C3', 'HQ']
+"b10507008" declared "call:1000"
+Street "flop" started. (community card = ['H2', 'SJ', 'CK'])
+Street "turn" started. (community card = ['H2', 'SJ', 'CK', 'HK'])
+Street "river" started. (community card = ['H2', 'SJ', 'CK', 'HK', 'D4'])
+"['b10507008']" won the round 1 (stack = {'b10507008': 2000, 'b10902041': 0})
+b10902041 vs b10507008 - Game 3: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10507008', 'uuid': 'tdgiglehfojvxafiietnka', 'stack': 2000, 'state': 'participating'}, {'name': 'b10902041', 'uuid': 'cqtezuuozaqbxtkmboubqf', 'stack': 0, 'state': 'folded'}]}
+/home/ubitus03/fai_final_project/./b10507008/my_dqn_model.pth
+Loading model from /home/ubitus03/fai_final_project/./b10507008/my_dqn_model.pth
+community cards of this round: ['H2', 'SJ', 'CK', 'HK', 'D4']
+name: b10902041, hole_card: ['D6', 'DA']
+name: b10507008, hole_card: ['C3', 'HQ']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b10902041, hole_card: ['D6', 'DA']
+name: b10507008, hole_card: ['C3', 'HQ']
+"b10507008" declared "raise:212"
+name: b10902041, hole_card: ['D6', 'DA']
+name: b10507008, hole_card: ['C3', 'HQ']
+"b10902041" declared "fold:0"
+"['b10507008']" won the round 1 (stack = {'b10902041': 990, 'b10507008': 1010})
+community cards of this round: ['H7', 'D4', 'SQ', 'S2', 'S4']
+name: b10902041, hole_card: ['S7', 'C8']
+name: b10507008, hole_card: ['C4', 'C2']
+Started the round 2
+Street "preflop" started. (community card = [])
+name: b10902041, hole_card: ['S7', 'C8']
+name: b10507008, hole_card: ['C4', 'C2']
+"b10902041" declared "raise:20"
+name: b10902041, hole_card: ['S7', 'C8']
+name: b10507008, hole_card: ['C4', 'C2']
+"b10507008" declared "raise:226"
+name: b10902041, hole_card: ['S7', 'C8']
+name: b10507008, hole_card: ['C4', 'C2']
+"b10902041" declared "raise:990"
+name: b10902041, hole_card: ['S7', 'C8']
+name: b10507008, hole_card: ['C4', 'C2']
+"b10507008" declared "call:990"
+Street "flop" started. (community card = ['H7', 'D4', 'SQ'])
+Street "turn" started. (community card = ['H7', 'D4', 'SQ', 'S2'])
+Street "river" started. (community card = ['H7', 'D4', 'SQ', 'S2', 'S4'])
+"['b10507008']" won the round 2 (stack = {'b10902041': 0, 'b10507008': 2000})
+b10902041 vs b10507008 - Game 4: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10902041', 'uuid': 'yxazzzolseqxknwdiarrtb', 'stack': 0, 'state': 'folded'}, {'name': 'b10507008', 'uuid': 'jxmoyovbznzavzgeqjpiic', 'stack': 2000, 'state': 'participating'}]}
+/home/ubitus03/fai_final_project/./b10507008/my_dqn_model.pth
+Loading model from /home/ubitus03/fai_final_project/./b10507008/my_dqn_model.pth
+community cards of this round: ['S6', 'D3', 'S5', 'SQ', 'SA']
+name: b10507008, hole_card: ['CJ', 'D8']
+name: b10902041, hole_card: ['H2', 'D2']
+Started the round 1
+Street "preflop" started. (community card = [])
+name: b10507008, hole_card: ['CJ', 'D8']
+name: b10902041, hole_card: ['H2', 'D2']
+"b10902041" declared "raise:30"
+name: b10507008, hole_card: ['CJ', 'D8']
+name: b10902041, hole_card: ['H2', 'D2']
+"b10507008" declared "raise:240"
+name: b10507008, hole_card: ['CJ', 'D8']
+name: b10902041, hole_card: ['H2', 'D2']
+"b10902041" declared "raise:1000"
+name: b10507008, hole_card: ['CJ', 'D8']
+name: b10902041, hole_card: ['H2', 'D2']
+"b10507008" declared "call:1000"
+Street "flop" started. (community card = ['S6', 'D3', 'S5'])
+Street "turn" started. (community card = ['S6', 'D3', 'S5', 'SQ'])
+Street "river" started. (community card = ['S6', 'D3', 'S5', 'SQ', 'SA'])
+"['b10902041']" won the round 1 (stack = {'b10507008': 0, 'b10902041': 2000})
+/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/cuda/__init__.py:118: UserWarning: CUDA initialization: CUDA driver initialization failed, you might not have a CUDA gpu. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() > 0
+/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/cuda/__init__.py:619: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+b10902041 vs b10507008 - Game 5: {'rule': {'initial_stack': 1000, 'max_round': 20, 'small_blind_amount': 5, 'ante': 0, 'blind_structure': {}}, 'players': [{'name': 'b10507008', 'uuid': 'hdwllxuworxvqtomlrzrpk', 'stack': 0, 'state': 'folded'}, {'name': 'b10902041', 'uuid': 'hfxxsmrlxmtqydgotuoyga', 'stack': 2000, 'state': 'participating'}]}
+Final Result: b10902041 won 2 games (stack: 4000), b10507008 won 3 games (stack: 6000), num ties: 0
