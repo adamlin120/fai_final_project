@@ -1,1 +1,36 @@
-Error importing setup_ai for b11705032: No module named 'agents.DQNAgent'
+2024-07-05 14:24:04.540765: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-07-05 14:24:04.542634: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-07-05 14:24:04.581218: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-07-05 14:24:04.581627: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 AVX_VNNI AMX_TILE AMX_INT8 AMX_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-07-05 14:24:05.121391: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-07-05 14:24:06.318808: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:266] failed call to cuInit: CUDA_ERROR_NOT_INITIALIZED: initialization error
+2024-07-05 14:24:06.318845: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:168] retrieving CUDA diagnostic information for host: df-5-1-gpu04
+2024-07-05 14:24:06.318850: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:175] hostname: df-5-1-gpu04
+2024-07-05 14:24:06.318947: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:199] libcuda reported version is: 535.161.8
+2024-07-05 14:24:06.318968: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:203] kernel reported version is: 535.161.8
+2024-07-05 14:24:06.318971: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:309] kernel version seems to match DSO: 535.161.8
+Traceback (most recent call last):
+  File "test.py", line 216, in <module>
+    main(args.student_id)
+  File "test.py", line 170, in main
+    game_results = play_games(student_id, student_ai, f'baseline{i}', baseline_ai)
+  File "test.py", line 95, in play_games
+    {"name": student_id, "algorithm": student_ai()}
+  File "/home/ubitus03/fai_final_project/./b11705032/agent.py", line 278, in setup_ai
+    return PokerDQNPlayer(state_size, action_size, training, Model_file)
+  File "/home/ubitus03/fai_final_project/./b11705032/agent.py", line 126, in __init__
+    self.load_model(model_file)
+  File "/home/ubitus03/fai_final_project/./b11705032/agent.py", line 273, in load_model
+    self.agent.load(name)
+  File "/home/ubitus03/fai_final_project/./b11705032/agent.py", line 113, in load
+    self.model.load(name)
+  File "/home/ubitus03/fai_final_project/./b11705032/agent.py", line 42, in load
+    self.model = models.load_model(name)
+  File "/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/keras/saving/saving_api.py", line 212, in load_model
+    return legacy_sm_saving_lib.load_model(
+  File "/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/keras/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/keras/saving/legacy/save.py", line 230, in load_model
+    raise IOError(
+OSError: No file or directory found at ./Model_summer_BananaMilk_v2

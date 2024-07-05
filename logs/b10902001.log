@@ -1,1 +1,18 @@
-Error importing setup_ai for b10902001: No module named 'agents.utils'
+/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/cuda/__init__.py:118: UserWarning: CUDA initialization: CUDA driver initialization failed, you might not have a CUDA gpu. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() > 0
+Traceback (most recent call last):
+  File "test.py", line 216, in <module>
+    main(args.student_id)
+  File "test.py", line 158, in main
+    student_ai = load_student_ai(student_id)
+  File "test.py", line 44, in load_student_ai
+    student_module = __import__(f'{student_id}.agent', fromlist=['setup_ai'])
+  File "/home/ubitus03/fai_final_project/./b10902001/agent.py", line 94, in <module>
+    target_net.load_state_dict(torch.load('./tar_model.pth'))
+  File "/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/serialization.py", line 997, in load
+    with _open_file_like(f, 'rb') as opened_file:
+  File "/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/serialization.py", line 444, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/serialization.py", line 425, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: './tar_model.pth'

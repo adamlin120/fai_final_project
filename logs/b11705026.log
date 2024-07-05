@@ -1,15 +1,15 @@
-2024-07-05 07:25:37.112798: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
-2024-07-05 07:25:37.114698: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
-2024-07-05 07:25:37.152474: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
-2024-07-05 07:25:37.153014: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+2024-07-05 14:24:04.562241: I tensorflow/core/util/port.cc:110] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-07-05 14:24:04.564100: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-07-05 14:24:04.601940: I tensorflow/tsl/cuda/cudart_stub.cc:28] Could not find cuda drivers on your machine, GPU will not be used.
+2024-07-05 14:24:04.602341: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
 To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 AVX_VNNI AMX_TILE AMX_INT8 AMX_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
-2024-07-05 07:25:37.733809: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
-2024-07-05 07:25:39.108197: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:266] failed call to cuInit: CUDA_ERROR_NOT_INITIALIZED: initialization error
-2024-07-05 07:25:39.108253: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:168] retrieving CUDA diagnostic information for host: df-5-1-gpu04
-2024-07-05 07:25:39.108258: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:175] hostname: df-5-1-gpu04
-2024-07-05 07:25:39.108736: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:199] libcuda reported version is: 535.161.8
-2024-07-05 07:25:39.108760: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:203] kernel reported version is: 535.161.8
-2024-07-05 07:25:39.108764: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:309] kernel version seems to match DSO: 535.161.8
+2024-07-05 14:24:05.152320: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-07-05 14:24:06.522191: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:266] failed call to cuInit: CUDA_ERROR_NOT_INITIALIZED: initialization error
+2024-07-05 14:24:06.522239: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:168] retrieving CUDA diagnostic information for host: df-5-1-gpu04
+2024-07-05 14:24:06.522244: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:175] hostname: df-5-1-gpu04
+2024-07-05 14:24:06.522731: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:199] libcuda reported version is: 535.161.8
+2024-07-05 14:24:06.522755: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:203] kernel reported version is: 535.161.8
+2024-07-05 14:24:06.522760: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:309] kernel version seems to match DSO: 535.161.8
 Traceback (most recent call last):
   File "test.py", line 216, in <module>
     main(args.student_id)
@@ -42,4 +42,4 @@ Traceback (most recent call last):
   File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
   File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
   File "h5py/h5f.pyx", line 102, in h5py.h5f.open
-FileNotFoundError: [Errno 2] Unable to synchronously open file (unable to open file: name = './train data/dqn_poker_model_3raise_200_all.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+FileNotFoundError: [Errno 2] Unable to synchronously open file (unable to open file: name = './dqn_poker_model_3raise_200_all.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)

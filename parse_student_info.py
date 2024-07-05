@@ -4,7 +4,8 @@ import zipfile
 from tqdm import tqdm
 
 # 列出目錄中的所有文件
-directory = "1718886918_131___CSIE3005-01-Final_Project_submissions"
+# directory = "1718886918_131___CSIE3005-01-Final_Project_submissions"
+directory = "1720107117_469___CSIE3005-01-Final_Project_-_Resubmit_submissions"
 files = os.listdir(directory)
 
 # 提取學號和名字
@@ -21,7 +22,8 @@ for file in tqdm(files, desc="Processing files"):
 
         # 解壓縮 .zip 文件到 ./submissions/{學號}/ 底下
         zip_path = os.path.join(directory, file)
-        extract_path = os.path.join('submissions', student_id)
+        # extract_path = os.path.join('submissions', student_id)
+        extract_path = os.path.join('re-submissions', student_id)
         os.makedirs(extract_path, exist_ok=True)
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
             zip_ref.extractall(extract_path)

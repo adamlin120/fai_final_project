@@ -1,1 +1,18 @@
-Error importing setup_ai for b10902046: No module named 'src'
+Traceback (most recent call last):
+  File "test.py", line 216, in <module>
+    main(args.student_id)
+  File "test.py", line 170, in main
+    game_results = play_games(student_id, student_ai, f'baseline{i}', baseline_ai)
+  File "test.py", line 95, in play_games
+    {"name": student_id, "algorithm": student_ai()}
+  File "/home/ubitus03/fai_final_project/./b10902046/agent.py", line 109, in setup_ai
+    return DQNPlayer()
+  File "/home/ubitus03/fai_final_project/./b10902046/agent.py", line 19, in __init__
+    self.DQN.load_state_dict(torch.load("src/model3.pth"))
+  File "/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/serialization.py", line 997, in load
+    with _open_file_like(f, 'rb') as opened_file:
+  File "/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/serialization.py", line 444, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/home/ubitus03/miniconda3/envs/poker/lib/python3.8/site-packages/torch/serialization.py", line 425, in __init__
+    super().__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'src/model3.pth'

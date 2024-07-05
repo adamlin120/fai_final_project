@@ -3,7 +3,8 @@ import pandas as pd
 from tqdm import tqdm
 
 # 列出 submissions 目錄中的所有學生目錄
-submissions_dir = 'submissions'
+# submissions_dir = 'submissions'
+submissions_dir = 're-submissions'
 student_dirs = [d for d in os.listdir(submissions_dir) if os.path.isdir(os.path.join(submissions_dir, d))]
 
 # 查找每個學生的 src 目錄
